@@ -1,0 +1,5 @@
+* text=auto !eol
+/apertium-ron.ron.acx -text
+/apertium-ron.ron.dix -text
+/apertium-ron.ron.tsx -text
+/ron.prob -text
