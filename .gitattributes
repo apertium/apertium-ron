@@ -4,3 +4,5 @@
 /apertium-ron.ron.dix -text
 /apertium-ron.ron.tsx -text
 /ron.prob -text
+texts/limba_daneza1.raw.txt -text
+texts/limba_daneza1.tagged.txt -text
