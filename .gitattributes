@@ -6,3 +6,5 @@
 /ron.prob -text
 texts/limba_daneza1.raw.txt -text
 texts/limba_daneza1.tagged.txt -text
+texts/stea1.raw.txt -text
+texts/stea1.tagged.txt -text
