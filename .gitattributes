@@ -1,8 +1,19 @@
 * text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-ron.pc.in -text
 /apertium-ron.post-ron.dix -text
 /apertium-ron.ron.acx -text
 /apertium-ron.ron.dix -text
+/apertium-ron.ron.rlx -text
 /apertium-ron.ron.tsx -text
+/autogen.sh -text
+/configure.ac -text
+/modes.xml -text svneol=unset#text/plain
 /ron.prob -text
 texts/limba_daneza1.handtagged.andreibarbu.txt -text
 texts/limba_daneza1.raw.txt -text

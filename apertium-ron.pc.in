@@ -1,0 +1,10 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+libdir=@libdir@
+dir=@libdir@/apertium/apertium-ron
+srcdir=@datarootdir@/apertium/apertium-ron
+
+Name: apertium-ron
+Description: Finite-state morphological transducer and constraint grammar for Romanian 
+Version: @VERSION@
+
