@@ -89352,12 +89352,55 @@
     <e lm="comunicație" r="LR"><i>comunicați</i><par n="coaliți/e__n"/></e>
     <e lm="caligrafie" a="delnou"><i>caligrafi</i><par n="coaliți/e__n"/></e>
     <e lm="comitologie" a="delnou"><i>comitologi</i><par n="coaliți/e__n"/></e>
+    <e lm="numerologie" a="delnou"><i>numerologi</i><par n="coaliți/e__n"/></e>
+<e lm="radiologie"><i>radiologi</i><par n="coaliți/e__n"/></e>
+<e lm="reumatologie"><i>reumatologi</i><par n="coaliți/e__n"/></e>
+<e lm="teologie"><i>teologi</i><par n="coaliți/e__n"/></e>
+<e lm="lobotomie"><i>lobotomi</i><par n="coaliți/e__n"/></e>
+<e lm="filologie"><i>filologi</i><par n="coaliți/e__n"/></e>
+<e lm="microscopie"><i>microscopi</i><par n="coaliți/e__n"/></e>
+<e lm="microbiologie"><i>microbiologi</i><par n="coaliți/e__n"/></e>
+<e lm="microsociologie"><i>microsociologi</i><par n="coaliți/e__n"/></e>
+<e lm="macrosociologie"><i>macrosociologi</i><par n="coaliți/e__n"/></e>
+<e lm="minerologie"><i>minerologi</i><par n="coaliți/e__n"/></e>
+<e lm="antropologie"><i>antropologi</i><par n="coaliți/e__n"/></e>
+<e lm="speologie"><i>speologi</i><par n="coaliți/e__n"/></e>
+<e lm="parapsihologie"><i>parapsihologi</i><par n="coaliți/e__n"/></e>
+<e lm="etimologie"><i>etimologi</i><par n="coaliți/e__n"/></e>
+<e lm="geologie"><i>geologi</i><par n="coaliți/e__n"/></e>
+<e lm="epistemiologie"><i>epistemiologi</i><par n="coaliți/e__n"/></e>
+<e lm="septicemie"><i>septicemi</i><par n="coaliți/e__n"/></e>
+<e lm="leucemie"><i>leucemi</i><par n="coaliți/e__n"/></e>
+<e lm="astrologie"><i>astrologi</i><par n="coaliți/e__n"/></e>
+<e lm="neonatologie"><i>neonatologi</i><par n="coaliți/e__n"/></e>
+<e lm="microchirurgie"><i>microchirurgi</i><par n="coaliți/e__n"/></e>
+<e lm="chirurgie"><i>chirurgi</i><par n="coaliți/e__n"/></e>
+<e lm="patologie"><i>patologi</i><par n="coaliți/e__n"/></e>
+<e lm="anatomopatologie"><i>anatomopatologi</i><par n="coaliți/e__n"/></e>
+<e lm="paleontologie"><i>paleontologi</i><par n="coaliți/e__n"/></e>
+<e lm="parazitologie"><i>parazitologi</i><par n="coaliți/e__n"/></e>
+<e lm="ergonomie"><i>ergonomi</i><par n="coaliți/e__n"/></e>
+<e lm="metronomie"><i>metronomi</i><par n="coaliți/e__n"/></e>
+<e lm="cartografie"><i>cartografi</i><par n="coaliți/e__n"/></e>
+<e lm="ginecologie"><i>ginecologi</i><par n="coaliți/e__n"/></e>
+<e lm="farmacologie"><i>farmacologi</i><par n="coaliți/e__n"/></e>
+<e lm="antologie"><i>antologi</i><par n="coaliți/e__n"/></e>
+<e lm="axiologie"><i>axiologi</i><par n="coaliți/e__n"/></e>
+<e lm="elegie"><i>elegi</i><par n="coaliți/e__n"/></e>
+<e lm="fenomenologie"><i>fenomenologi</i><par n="coaliți/e__n"/></e>
+<e lm="futurologie"><i>futurologi</i><par n="coaliți/e__n"/></e>
+<e lm="letargie"><i>letargi</i><par n="coaliți/e__n"/></e>
+<e lm="scatologie"><i>scatologi</i><par n="coaliți/e__n"/></e>
+<e lm="tautologie"><i>tautologi</i><par n="coaliți/e__n"/></e>
+<e lm="traumatologie"><i>traumatologi</i><par n="coaliți/e__n"/></e>
     <e lm="cronologie" a="delnou"><i>cronologi</i><par n="coaliți/e__n"/></e>
     <e lm="oftalmologie" a="delnou"><i>oftalmologi</i><par n="coaliți/e__n"/></e>
     <e lm="dermatologie" a="delnou"><i>dermatologi</i><par n="coaliți/e__n"/></e>
     <e lm="litografie" a="delnou"><i>litografi</i><par n="coaliți/e__n"/></e>
     <e lm="seriografie" a="delnou"><i>seriografi</i><par n="coaliți/e__n"/></e>
     <e lm="monografie" a="delnou"><i>monografi</i><par n="coaliți/e__n"/></e>
+    <e lm="masonerie" a="delnou"><i>masoneri</i><par n="coaliți/e__n"/></e>
+
     <e lm="micromonografie" a="delnou"><i>micromonografi</i><par n="coaliți/e__n"/></e>
     <e lm="cumințenie" a="delnou"><i>cumințeni</i><par n="coaliți/e__n"/></e>
     <e lm="hamsie" a="delnou"><i>hamsi</i><par n="coaliți/e__n"/></e>
@@ -100234,6 +100277,7 @@
     <e lm="conivență" a="delia"><i>conivenț</i><par n="fiic/ă__n"/></e>
     <e lm="conifer" a="delia"><i>conifer</i><par n="caiet__n"/></e>
     <e lm="coniac" a="delia"><i>coniac</i><par n="gât__n"/></e>
+    <e lm="burlac" a="delia"><i>burlac</i><par n="gât__n"/></e>
     <e lm="congregație" a="delia"><i>congregați</i><par n="coaliți/e__n"/></e>
     <e lm="congestiune" r="LR"><i>congestiun</i><par n="fericir/e__n"/></e>
     <e lm="congelator" a="delia"><i>congelato</i><par n="popo/r__n"/></e>
