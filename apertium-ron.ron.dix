@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-<alphabet>ÀÁÂÄÇȘÈÉÊËÌÍÎÏȚÒÓÔÖÙÚÛÜàáâăşșèéêëìíîïţțòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz</alphabet>
+<alphabet>ÀÁÂÄÇȘÈÉÊËÌÍÎÏȚÒÓÔÖÙÚÛÜàáâăşșèéêëìíîïţțòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÅå</alphabet>
   <sdefs>
     <sdef n="n"/>
     <sdef n="np"/>
@@ -10,6 +10,7 @@
     <sdef n="pr"/>
     <sdef n="prn"/>
     <sdef n="rel"/>
+    <sdef n="guio"/>
     <sdef n="detnt"/>
     <sdef n="predet"/>
     <sdef n="atn"/>
@@ -111,6 +112,16 @@
         <p>
           <l/>
          <r><s n="num"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="guio">
+    
+      <e>
+        <p>
+          <l>-</l>
+         <r><s n="guio"/></r>
         </p>
       </e>
     </pardef>
@@ -106101,6 +106112,7 @@
     <e><par n="numeros"/></e>
     <e><par n="coma"/></e>
     <e><par n="paresq"/></e>
+    <e><par n="guio"/></e>
     <e><par n="pardret"/></e>
     <e><par n="separ"/></e>
     <e><par n="emails"/></e>
