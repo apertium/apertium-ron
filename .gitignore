@@ -1,0 +1,6 @@
+*.bin
+Makefile
+Makefile.in
+.deps
+modes/
+*.mode
