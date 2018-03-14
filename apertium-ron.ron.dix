@@ -8840,6 +8840,11 @@
 <pardef n="sute_de__num">
   <e>       <p><l></l>          <r><s n="num"/><s n="mf"/><s n="pl"/></r></p></e>
 </pardef>
+
+<pardef n="tuturor__predet"> 
+  <e>       <p><l></l>          <r><s n="predet"/><s n="def"/><s n="mf"/><s n="sp"/><s n="nom"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="predet"/><s n="def"/><s n="mf"/><s n="sp"/><s n="dg"/></r></p></e>
+</pardef>
   
 <!--PARADIGMA ADJECTIUS QUALIFICATIUS-->
 
@@ -8870,15 +8875,15 @@
   <e>       <p><l>ată</l>       <r>t<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ata</l>       <r>t<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ete</l>       <r>t<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>etei</l>      <r>t<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>eți</l>       <r>t<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eții</l>      <r>t<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>eți</l>       <r>t<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eților</l>    <r>t<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ete</l>       <r>t<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>etele</l>     <r>t<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ete</l>       <r>t<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>etelor</l>    <r>t<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>tei</l>       <r>t<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ți</l>        <r>t<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ții</l>       <r>t<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ți</l>        <r>t<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ților</l>     <r>t<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>te</l>        <r>t<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>tele</l>      <r>t<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>te</l>        <r>t<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>telor</l>     <r>t<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
      
 <pardef n="be/at__adj">
@@ -8888,16 +8893,16 @@
   <e>       <p><l>atului</l>    <r>at<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ată</l>       <r>at<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ata</l>       <r>at<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ete</l>       <r>at<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>etei</l>      <r>at<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>eți</l>       <r>at<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eții</l>      <r>at<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>eți</l>       <r>at<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eților</l>    <r>at<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ete</l>       <r>at<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>etele</l>     <r>at<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ete</l>       <r>at<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>etelor</l>    <r>at<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>te</l>        <r>at<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>tei</l>       <r>at<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ți</l>        <r>at<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ții</l>       <r>at<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ți</l>        <r>at<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ților</l>     <r>at<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>te</l>        <r>at<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>tele</l>      <r>at<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>te</l>        <r>at<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>telor</l>     <r>at<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
      
 <pardef n="al/t__adj">
@@ -8925,14 +8930,15 @@
   <e>       <p><l>ătului</l>    <r>ăt<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ătă</l>       <r>ăt<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ăta</l>       <r>ăt<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ete</l>       <r>ăt<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>etei</l>      <r>ăt<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ete</l>       <r>ăt<s n="adj"/><s n="fn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>etei</l>      <r>ăt<s n="adj"/><s n="fn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>eți</l>       <r>ăt<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>eții</l>      <r>ăt<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>eți</l>       <r>ăt<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>eților</l>    <r>ăt<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ete</l>       <r>ăt<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>etele</l>     <r>ăt<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ete</l>       <r>ăt<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>etelor</l>    <r>ăt<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 <pardef n="sf/ânt__adj">
@@ -8991,21 +8997,20 @@
 </pardef>
 <pardef n="ver/de__adj">
   <e>       <p><l>de</l>        <r>de<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>de</l>        <r>de<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>dele</l>      <r>de<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>de</l>        <r>de<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>delui</l>     <r>de<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>de</l>        <r>de<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>dea</l>       <r>de<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>de</l>        <r>de<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>zii</l>       <r>de<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>zii</l>       <r>de<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-
-<!--gema: atenció: dues formes de m.pl.nom.ind-->
   <e>       <p><l>zi</l>        <r>de<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>zi</l>        <r>de<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>zii</l>       <r>de<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>zile</l>      <r>de<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>zii</l>       <r>de<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>zi</l>        <r>de<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>zi</l>        <r>de<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>zilor</l>     <r>de<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>zi</l>        <r>de<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>zile</l>      <r>de<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>zi</l>        <r>de<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>zilor</l>     <r>de<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 <pardef n="tre/az__adj">
@@ -9045,8 +9050,8 @@
   <e>       <p><l>ape</l>       <r>p<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>apelor</l>    <r>p<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
-<pardef n="multimedia__adj">
-      
+
+<pardef n="multimedia__adj">     
   <e>       <p><l></l>          <r><s n="adj"/><s n="mfn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l></l>          <r><s n="adj"/><s n="mfn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l></l>          <r><s n="adj"/><s n="mfn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
@@ -9055,12 +9060,6 @@
   <e>       <p><l></l>          <r><s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l></l>          <r><s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l></l>          <r><s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-
-<pardef n="tuturor__predet">
-      
-  <e>       <p><l></l>          <r><s n="predet"/><s n="def"/><s n="mf"/><s n="sp"/><s n="nom"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="predet"/><s n="def"/><s n="mf"/><s n="sp"/><s n="dg"/></r></p></e>
 </pardef>
 
 <pardef n="bun__adj">
@@ -9216,18 +9215,24 @@
 </pardef>
 
 <pardef n="mo/ale__adj">
-  <e>       <p><l>ale</l>       <r>ale<s n="adj"/><s n="mfn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ale</l>       <r>ale<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>alele</l>     <r>ale<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>alea</l>      <r>ale<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ale</l>       <r>ale<s n="adj"/><s n="mfn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ale</l>       <r>ale<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>alelui</l>    <r>ale<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ale</l>       <r>ale<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>alea</l>      <r>ale<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>ale<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ii</l>        <r>ale<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>ale<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>i</l>         <r>ale<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ii</l>        <r>ale<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>ale<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilor</l>      <r>ale<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>ale<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ile</l>       <r>ale<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>ale<s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ilor</l>      <r>ale<s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>ale<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilor</l>      <r>ale<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
+
 <pardef n="între/g__adj">
   <e>       <p><l>g</l>         <r>g<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>gul</l>       <r>g<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -9237,11 +9242,14 @@
   <e>       <p><l>aga</l>       <r>g<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>gi</l>        <r>g<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>gii</l>       <r>g<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>gi</l>        <r>g<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>gi</l>        <r>g<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>gii</l>       <r>g<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>gi</l>        <r>g<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>gilor</l>     <r>g<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>gi</l>        <r>g<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>gile</l>      <r>g<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>gi</l>        <r>g<s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>gilor</l>     <r>g<s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>gi</l>        <r>g<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>gilor</l>     <r>g<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
      
 <pardef n="analo/g__adj">
@@ -9259,8 +9267,7 @@
   <e>       <p><l>gilor</l>     <r>g<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>age</l>       <r>g<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>agele</l>     <r>g<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>age</l>       <r>g<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-      
+  <e>       <p><l>age</l>       <r>g<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>  
   <e>       <p><l>agelor</l>    <r>g<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
@@ -9269,14 +9276,14 @@
   <e>       <p><l>mul</l>       <r>m<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>m</l>         <r>m<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>mului</l>     <r>m<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>mi</l>        <r>m<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>mii</l>       <r>m<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>mi</l>        <r>m<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>milor</l>     <r>m<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>amă</l>       <r>m<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ama</l>       <r>m<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ame</l>       <r>m<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>amei</l>      <r>m<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>mi</l>        <r>m<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>mii</l>       <r>m<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>mi</l>        <r>m<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>milor</l>     <r>m<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ame</l>       <r>m<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>amele</l>     <r>m<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ame</l>       <r>m<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
@@ -9301,8 +9308,7 @@
   <e>       <p><l>ge</l>        <r>ag<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>gelor</l>     <r>ag<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
-     
-     
+  
 <pardef n="ne/gru__adj">
   <e>       <p><l>gru</l>       <r>gru<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>grul</l>      <r>gru<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -9321,6 +9327,7 @@
   <e>       <p><l>gre</l>       <r>gru<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>grelor</l>    <r>gru<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
+
 <pardef n="ușo/r__adj">
   <e>       <p><l>r</l>         <r>r<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>rul</l>       <r>r<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -9349,7 +9356,7 @@
   <e>       <p><l>stre</l>      <r>stru<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>strei</l>     <r>stru<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ștri</l>      <r>stru<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ștrii</l>     <r>stru<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ștrii</l>     <r>stru<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ștri</l>      <r>stru<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ștrilor</l>   <r>stru<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>stre</l>      <r>stru<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -9406,11 +9413,11 @@
   <e>       <p><l>cși</l>       <r>x<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>cșii</l>      <r>x<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>cși</l>       <r>x<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>cșilor</l>    <r>x<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>cșilor</l>    <r>x<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>xe</l>        <r>x<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>xele</l>      <r>x<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>xe</l>        <r>x<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>xelor</l>     <r>x<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>xelor</l>     <r>x<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
      
 <pardef n="mi/xt__adj">
@@ -9425,11 +9432,11 @@
   <e>       <p><l>cști</l>      <r>xt<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>cștii</l>     <r>xt<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>cști</l>      <r>xt<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>cștilor</l>   <r>xt<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>cștilor</l>   <r>xt<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>xte</l>       <r>xt<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>xtele</l>     <r>xt<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>xte</l>       <r>xt<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>xtelor</l>    <r>xt<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>xtelor</l>    <r>xt<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
      
 <pardef n="absur/d__adj">
@@ -9470,8 +9477,7 @@
   <e>       <p><l>adelor</l>    <r>d<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
-<pardef n="auri/u__adj">
-      
+<pardef n="auri/u__adj">  
   <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ul</l>        <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
@@ -9480,11 +9486,16 @@
   <e>       <p><l>a</l>         <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ei</l>        <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ii</l>        <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>iile</l>      <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ilor</l>      <r>u<s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilor</l>      <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ile</l>       <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilor</l>      <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
+
 <pardef n="no/u__adj">
   <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ul</l>        <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -9494,17 +9505,16 @@
   <e>       <p><l>ua</l>        <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ii</l>        <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-      <!-- fran: esto es horible pero no quiero tocar la mod-gen :( -->
-  <e r="RL"><p><l>i</l>         <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e r="RL"><p><l>i</l>         <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ii</l>        <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilor</l>      <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ile</l>       <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ilor</l>      <r>u<s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-      <!-- fran: esto es horible pero no quiero tocar la mod-gen :( -->
-  <e r="RL"><p><l>ilor</l>      <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e r="RL"><p><l>ilor</l>      <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilor</l>      <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
+
 <pardef n="vech/i__adj">
   <e>       <p><l>i</l>         <r>i<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>iul</l>       <r>i<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -9514,45 +9524,35 @@
   <e>       <p><l>ea</l>        <r>i<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>i</l>         <r>i<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ii</l>        <r>i<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>i<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>i</l>         <r>i<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ii</l>        <r>i<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>i<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilor</l>      <r>i<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>i<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ile</l>       <r>i<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>i<s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ilor</l>      <r>i<s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>i<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilor</l>      <r>i<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
+
 <pardef n="mar/e__adj">
   <e>       <p><l>e</l>         <r>e<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>e</l>         <r>e<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ele</l>       <r>e<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ea</l>        <r>e<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>e</l>         <r>e<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>elui</l>      <r>e<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>e</l>         <r>e<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>  
+  <e>       <p><l>ea</l>        <r>e<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>i</l>         <r>e<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ii</l>        <r>e<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>i</l>         <r>e<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>i</l>         <r>e<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ii</l>        <r>e<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ile</l>       <r>e<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>i</l>         <r>e<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>i</l>         <r>e<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ilor</l>      <r>e<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>e<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e> 
+  <e>       <p><l>ile</l>       <r>e<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e> 
+  <e>       <p><l>i</l>         <r>e<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ilor</l>      <r>e<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
-    
-<pardef n="tar/e__adj">
-  <e>       <p><l>e</l>         <r>e<s n="adj"/><s n="mfn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ele</l>       <r>e<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ea</l>        <r>e<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>e</l>         <r>e<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>elui</l>      <r>e<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>e<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ii</l>        <r>e<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>e<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ii</l>        <r>e<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ile</l>       <r>e<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>e<s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ilor</l>      <r>e<s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
+
 <pardef n="mic__adj">
   <e>       <p><l></l>          <r><s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ul</l>        <r><s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -9562,12 +9562,16 @@
   <e>       <p><l>a</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>i</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ii</l>        <r><s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r><s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>i</l>         <r><s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ii</l>        <r><s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r><s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilor</l>      <r><s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ile</l>       <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r><s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ilor</l>      <r><s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilor</l>      <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
+
 <pardef n="gre/u__adj">
   <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ul</l>        <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -9578,7 +9582,7 @@
   <e>       <p><l>le</l>        <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>lei</l>       <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ii</l>        <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="det"/></r></p></e>
+  <e>       <p><l>ii</l>        <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ilor</l>      <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>le</l>        <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -9586,19 +9590,20 @@
   <e>       <p><l>le</l>        <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>lelor</l>     <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
+
 <pardef n="austri/ac__adj">
   <e>       <p><l>ac</l>        <r>ac<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>acul</l>      <r>ac<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ac</l>        <r>ac<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>acului</l>    <r>ac<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>eci</l>       <r>ac<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ecii</l>      <r>ac<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>eci</l>       <r>ac<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ecilor</l>    <r>ac<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>acă</l>       <r>ac<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>aca</l>       <r>ac<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ece</l>       <r>ac<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ecei</l>      <r>ac<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>eci</l>       <r>ac<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ecii</l>      <r>ac<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>eci</l>       <r>ac<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ecilor</l>    <r>ac<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ece</l>       <r>ac<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ecele</l>     <r>ac<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ece</l>       <r>ac<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
@@ -9610,32 +9615,33 @@
   <e>       <p><l>cul</l>       <r>c<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>c</l>         <r>c<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>cului</l>     <r>c<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ci</l>        <r>c<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>cii</l>       <r>c<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ci</l>        <r>c<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>cilor</l>     <r>c<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>acă</l>       <r>c<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>aca</l>       <r>c<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ce</l>        <r>c<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>cei</l>       <r>c<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ci</l>        <r>c<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>cii</l>       <r>c<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ci</l>        <r>c<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>cilor</l>     <r>c<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ce</l>        <r>c<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>cele</l>      <r>c<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ce</l>        <r>c<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>celor</l>     <r>c<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
+
 <pardef n="europe/an__adj">
   <e>       <p><l>an</l>        <r>an<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>anul</l>      <r>an<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>an</l>        <r>an<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>anului</l>    <r>an<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ni</l>        <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>nii</l>       <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ni</l>        <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>nilor</l>     <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ană</l>       <r>an<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ana</l>       <r>an<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ne</l>        <r>an<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>nei</l>       <r>an<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ni</l>        <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>nii</l>       <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ni</l>        <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>nilor</l>     <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ne</l>        <r>an<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>nele</l>      <r>an<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ne</l>        <r>an<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
@@ -9647,14 +9653,14 @@
   <e>       <p><l>anul</l>      <r>an<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>an</l>        <r>an<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>anului</l>    <r>an<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ni</l>        <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>nii</l>       <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ni</l>        <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>nilor</l>     <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ancă</l>      <r>an<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>anca</l>      <r>an<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>nce</l>       <r>an<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ncei</l>      <r>an<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ni</l>        <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>nii</l>       <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ni</l>        <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>nilor</l>     <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>nce</l>       <r>an<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ncele</l>     <r>an<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>nce</l>       <r>an<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
@@ -9666,14 +9672,14 @@
   <e>       <p><l>anul</l>      <r>an<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>an</l>        <r>an<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>anului</l>    <r>an<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>eni</l>       <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>enii</l>      <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>eni</l>       <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>enilor</l>    <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ană</l>       <r>an<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ana</l>       <r>an<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ene</l>       <r>an<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>enei</l>      <r>an<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>eni</l>       <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>enii</l>      <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>eni</l>       <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>enilor</l>    <r>an<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ene</l>       <r>an<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>enele</l>     <r>an<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ene</l>       <r>an<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
@@ -9685,14 +9691,14 @@
   <e>       <p><l>sul</l>       <r>s<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>s</l>         <r>s<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>sului</l>     <r>s<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>și</l>        <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>șii</l>       <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>și</l>        <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>șilor</l>     <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>asă</l>       <r>s<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>asa</l>       <r>s<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ase</l>       <r>s<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>asei</l>      <r>s<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>și</l>        <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>șii</l>       <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>și</l>        <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>șilor</l>     <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ase</l>       <r>s<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>asele</l>     <r>s<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ase</l>       <r>s<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
@@ -9704,34 +9710,33 @@
   <e>       <p><l>amănul</l>    <r>amăn<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>amăn</l>      <r>amăn<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>amănului</l>  <r>amăn<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>meni</l>      <r>amăn<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>menii</l>     <r>amăn<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>meni</l>      <r>amăn<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>menilor</l>   <r>amăn<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>amănă</l>     <r>amăn<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>amăna</l>     <r>amăn<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>mene</l>      <r>amăn<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>menei</l>     <r>amăn<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>meni</l>      <r>amăn<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>menii</l>     <r>amăn<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>meni</l>      <r>amăn<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>menilor</l>   <r>amăn<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>mene</l>      <r>amăn<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>menele</l>    <r>amăn<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>mene</l>      <r>amăn<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>menelor</l>   <r>amăn<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
-
 <pardef n="idio/t__adj">
   <e>       <p><l>t</l>         <r>t<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>tul</l>       <r>t<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>t</l>         <r>t<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>tului</l>     <r>t<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ți</l>        <r>t<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ții</l>       <r>t<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ți</l>        <r>t<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ților</l>     <r>t<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ată</l>       <r>t<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ata</l>       <r>t<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ate</l>       <r>t<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>atei</l>      <r>t<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ți</l>        <r>t<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ții</l>       <r>t<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ți</l>        <r>t<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ților</l>     <r>t<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ate</l>       <r>t<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>atele</l>     <r>t<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ate</l>       <r>t<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
@@ -9743,14 +9748,14 @@
   <e>       <p><l>ețul</l>      <r>eț<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>eț</l>        <r>eț<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ețului</l>    <r>eț<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>eți</l>       <r>eț<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eții</l>      <r>eț<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>eți</l>       <r>eț<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eților</l>    <r>eț<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ață</l>       <r>eț<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ața</l>       <r>eț<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ețe</l>       <r>eț<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>eței</l>      <r>eț<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>eți</l>       <r>eț<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>eții</l>      <r>eț<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>eți</l>       <r>eț<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>eților</l>    <r>eț<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ețe</l>       <r>eț<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ețele</l>     <r>eț<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ețe</l>       <r>eț<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
@@ -9762,18 +9767,436 @@
   <e>       <p><l>cul</l>       <r>c<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>c</l>         <r>c<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>cului</l>     <r>c<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ci</l>        <r>c<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>cii</l>       <r>c<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ci</l>        <r>c<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>cilor</l>     <r>c<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>acă</l>       <r>c<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>aca</l>       <r>c<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ace</l>       <r>c<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>acei</l>      <r>c<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ci</l>        <r>c<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>cii</l>       <r>c<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ci</l>        <r>c<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>cilor</l>     <r>c<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ace</l>       <r>c<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>acele</l>     <r>c<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ace</l>       <r>c<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>acelor</l>    <r>c<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
+<pardef n="diver/s__adj">
+  <e>       <p><l>s</l>         <r>s<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>sul</l>       <r>s<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>s</l>         <r>s<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>sului</l>     <r>s<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>să</l>        <r>s<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>sa</l>        <r>s<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>se</l>        <r>s<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>sei</l>       <r>s<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>și</l>        <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>șii</l>       <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>și</l>        <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>șilor</l>     <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>se</l>        <r>s<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>sele</l>      <r>s<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>se</l>        <r>s<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>selor</l>     <r>s<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
+<pardef n="arzăto/r__adj">
+  <e>       <p><l>r</l>         <r>r<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>rul</l>       <r>r<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>r</l>         <r>r<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>rului</l>     <r>r<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ri</l>        <r>r<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>rii</l>       <r>r<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ri</l>        <r>r<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>rilor</l>     <r>r<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>are</l>       <r>r<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>area</l>      <r>r<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>are</l>       <r>r<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>arei</l>      <r>r<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>are</l>       <r>r<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>arele</l>     <r>r<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>are</l>       <r>r<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>arelor</l>    <r>r<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+    
+<pardef n="mo/rt__adj">
+  <e>       <p><l>rt</l>        <r>rt<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>rtul</l>      <r>rt<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>rt</l>        <r>rt<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>rtului</l>    <r>rt<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>artă</l>      <r>rt<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>arta</l>      <r>rt<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>arte</l>      <r>rt<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>artei</l>     <r>rt<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>rți</l>       <r>rt<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>rții</l>      <r>rt<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>rți</l>       <r>rt<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>rților</l>    <r>rt<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>arte</l>      <r>rt<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>artele</l>    <r>rt<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>arte</l>      <r>rt<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>artelor</l>   <r>rt<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+    
+<pardef n="cre/ț__adj">
+  <e>       <p><l>ț</l>         <r>ț<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>țul</l>       <r>ț<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ț</l>         <r>ț<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>țului</l>     <r>ț<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ață</l>       <r>ț<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ața</l>       <r>ț<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ață</l>       <r>ț<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ței</l>       <r>ț<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ți</l>        <r>ț<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ții</l>       <r>ț<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ți</l>        <r>ț<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ților</l>     <r>ț<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>țe</l>        <r>ț<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>țele</l>      <r>ț<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>țe</l>        <r>ț<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>țelor</l>     <r>ț<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+   
+<pardef n="șugub/ăț__adj">
+  <e>       <p><l>ăț</l>        <r>ăț<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ățul</l>      <r>ăț<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ăț</l>        <r>ăț<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ățului</l>    <r>ăț<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>eață</l>      <r>ăț<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>eața</l>      <r>ăț<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>eață</l>      <r>ăț<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>eței</l>      <r>ăț<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>eți</l>       <r>ăț<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>eții</l>      <r>ăț<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>eți</l>       <r>ăț<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>eților</l>    <r>ăț<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ețe</l>       <r>ăț<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ețele</l>     <r>ăț<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ețe</l>       <r>ăț<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ețelor</l>    <r>ăț<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+   
+<pardef n="de/s__adj">
+  <e>       <p><l>s</l>         <r>s<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>sul</l>       <r>s<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>s</l>         <r>s<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>sului</l>     <r>s<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>asă</l>       <r>s<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>asa</l>       <r>s<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>se</l>        <r>s<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>sei</l>       <r>s<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>și</l>        <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>șii</l>       <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>și</l>        <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>șilor</l>     <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>se</l>        <r>s<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>sele</l>      <r>s<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>se</l>        <r>s<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>selor</l>     <r>s<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
+<pardef n="che/l__adj">
+  <e>       <p><l>l</l>         <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lul</l>       <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>l</l>         <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lului</l>     <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ală</l>       <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ala</l>       <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>le</l>        <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lei</l>       <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ii</l>        <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilor</l>      <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>le</l>        <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lele</l>      <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>le</l>        <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lelor</l>     <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+   
+<pardef n="tiner/el__adj">
+  <e>       <p><l>el</l>        <r>el<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>elul</l>      <r>el<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>el</l>        <r>el<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>elului</l>    <r>el<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ică</l>       <r>el<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ica</l>       <r>el<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ele</l>       <r>el<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>elei</l>      <r>el<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ei</l>        <r>el<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>eii</l>       <r>el<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ei</l>        <r>el<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>eilor</l>     <r>el<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ele</l>       <r>el<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>elele</l>     <r>el<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ele</l>       <r>el<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>elelor</l>    <r>el<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+   
+<pardef n="go/l__adj">
+  <e>       <p><l>l</l>         <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lul</l>       <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>l</l>         <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lului</l>     <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ală</l>       <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ala</l>       <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ale</l>       <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>alei</l>      <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ii</l>        <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilor</l>      <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ale</l>       <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>alele</l>     <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ale</l>       <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>alelor</l>    <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+   
+<pardef n="domo/l__adj">
+  <e>       <p><l>l</l>         <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lul</l>       <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>l</l>         <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lului</l>     <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ală</l>       <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ala</l>       <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ale</l>       <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>alei</l>      <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>li</l>        <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lii</l>       <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>li</l>        <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lilor</l>     <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ale</l>       <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>alele</l>     <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ale</l>       <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>alelor</l>    <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
+<pardef n="bru/sc__adj">
+  <e>       <p><l>sc</l>        <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>scul</l>      <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>sc</l>        <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>scului</l>    <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>scă</l>       <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>sca</l>       <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ște</l>       <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ștei</l>      <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>știi</l>      <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>știlor</l>    <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ște</l>       <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ștele</l>     <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ște</l>       <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ștelor</l>    <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
+<pardef n="ca/st__adj">
+  <e>       <p><l>st</l>        <r>st<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>stul</l>      <r>st<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>st</l>        <r>st<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>stului</l>    <r>st<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>stă</l>       <r>st<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>sta</l>       <r>st<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ste</l>       <r>st<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>stei</l>      <r>st<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ști</l>       <r>st<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>știi</l>      <r>st<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ști</l>       <r>st<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>știlor</l>    <r>st<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ste</l>       <r>st<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>stele</l>     <r>st<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ste</l>       <r>st<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>stelor</l>    <r>st<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+    
+<pardef n="pro/st__adj">
+  <e>       <p><l>st</l>        <r>st<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>stul</l>      <r>st<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>st</l>        <r>st<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>stului</l>    <r>st<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>astă</l>      <r>st<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>asta</l>      <r>st<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>aste</l>      <r>st<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>astei</l>     <r>st<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ști</l>       <r>st<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>știi</l>      <r>st<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ști</l>       <r>st<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>știlor</l>    <r>st<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>aste</l>      <r>st<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>astele</l>    <r>st<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>aste</l>      <r>st<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>astelor</l>   <r>st<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
+<pardef n="acr/u__adj">
+  <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ul</l>        <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ului</l>      <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ă</l>         <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>a</l>         <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>e</l>         <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ei</l>        <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ii</l>        <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilor</l>      <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>e</l>         <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ele</l>       <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>e</l>         <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>elor</l>      <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+   
+<pardef n="instantane/u__adj">
+  <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ul</l>        <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ului</l>      <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>e</l>         <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ea</l>        <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>e</l>         <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ei</l>        <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ii</l>        <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilor</l>      <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>e</l>         <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ele</l>       <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>e</l>         <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>elor</l>      <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+   
+<pardef n="roș/u__adj">
+  <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ul</l>        <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ului</l>      <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ie</l>        <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ia</l>        <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ii</l>        <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>iei</l>       <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ii</l>        <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>iii</l>       <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ii</l>        <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>iilor</l>     <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>  
+  <e>       <p><l>ii</l>        <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>iile</l>      <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ii</l>        <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>iilor</l>     <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>  
+</pardef>
+
+<pardef n="japonez__adj">
+  <e>       <p><l></l>          <r><s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ul</l>        <r><s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ului</l>      <r><s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ă</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>a</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>e</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ei</l>        <r><s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r><s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ii</l>        <r><s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r><s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilor</l>      <r><s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>e</l>         <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ele</l>       <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>e</l>         <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>elor</l>      <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
+<pardef n="prim__adj">
+  <e>       <p><l></l>          <r><s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ul</l>        <r><s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ului</l>      <r><s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ă</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>a</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>e</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ei</l>        <r><s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r><s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ii</l>        <r><s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r><s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilor</l>      <r><s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>e</l>         <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ele</l>       <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>e</l>         <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>elor</l>      <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
+<pardef n="române/sc__adj">
+  <e>       <p><l>sc</l>        <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>scul</l>      <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>sc</l>        <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>scului</l>    <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ască</l>      <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>asca</l>      <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>știi</l>      <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>știi</l>      <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>știlor</l>    <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>știle</l>     <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>știlor</l>    <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+     
+<pardef n="evrei/esc__adj">
+  <e>       <p><l>esc</l>        <r>esc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>escul</l>      <r>esc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>esc</l>        <r>esc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>escului</l>    <r>esc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ască</l>       <r>esc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>asca</l>       <r>esc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ești</l>       <r>esc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>eștii</l>      <r>esc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ești</l>       <r>esc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>eștii</l>      <r>esc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ești</l>       <r>esc<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>eștilor</l>    <r>esc<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ești</l>       <r>esc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>eștile</l>     <r>esc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ești</l>       <r>esc<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>eștilor</l>    <r>esc<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
+<pardef n="arăbe/sc__adj">
+  <e>       <p><l>sc</l>        <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>scul</l>      <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>sc</l>        <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>scului</l>    <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ască</l>      <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>asca</l>      <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>știi</l>      <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>știi</l>      <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>știlor</l>    <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>știle</l>     <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>știlor</l>    <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
+<pardef n="grote/sc__adj">
+  <e>       <p><l>sc</l>        <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>scul</l>      <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>sc</l>        <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>scului</l>    <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>scă</l>       <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>sca</l>       <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>știi</l>      <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>știi</l>      <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>știlor</l>    <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>știle</l>     <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>știlor</l>    <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
 
@@ -9891,7 +10314,6 @@
   <e>       <p><l>telor<b/>în<b/>umeri</l><r>t<b/>în<b/>umeri<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
-
 <pardef n="adu/s_de_spate__adj">
   <e>       <p><l>s<b/>de<b/>spate</l><r>s<b/>de<b/>spate<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>sul<b/>de<b/>spate</l><r>s<b/>de<b/>spate<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -9910,8 +10332,6 @@
   <e>       <p><l>se<b/>de<b/>spate</l><r>s<b/>de<b/>spate<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>selor<b/>de<b/>spate</l><r>s<b/>de<b/>spate<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
-
-
 
 <pardef n="lipsi/t_de_scrupule__adj">
   <e>       <p><l>t<b/>de<b/>scrupule</l><r>t<b/>de<b/>scrupule<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -9989,7 +10409,6 @@
   <e>       <p><l>telor<b/>turtă</l><r>at<b/>turtă<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
-
 <pardef n="be/at_criță__adj">
   <e>       <p><l>at<b/>criță</l><r>at<b/>criță<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>atul<b/>criță</l><r>at<b/>criță<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -10007,423 +10426,6 @@
   <e>       <p><l>tele<b/>criță</l><r>at<b/>criță<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>te<b/>criță</l><r>at<b/>criță<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>telor<b/>criță</l><r>at<b/>criță<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-
-
-<pardef n="diver/s__adj">
-  <e>       <p><l>s</l>         <r>s<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>sul</l>       <r>s<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>s</l>         <r>s<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>sului</l>     <r>s<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>și</l>        <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>șii</l>       <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>și</l>        <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>șilor</l>     <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>să</l>        <r>s<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>sa</l>        <r>s<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>se</l>        <r>s<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>sei</l>       <r>s<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>se</l>        <r>s<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>sele</l>      <r>s<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>se</l>        <r>s<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>selor</l>     <r>s<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-<pardef n="arzăto/r__adj">
-  <e>       <p><l>r</l>         <r>r<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>rul</l>       <r>r<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>r</l>         <r>r<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>rului</l>     <r>r<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ri</l>        <r>r<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>rii</l>       <r>r<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ri</l>        <r>r<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>rilor</l>     <r>r<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>are</l>       <r>r<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>area</l>      <r>r<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>are</l>       <r>r<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>arei</l>      <r>r<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>are</l>       <r>r<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>arele</l>     <r>r<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>are</l>       <r>r<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>arelor</l>    <r>r<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-    
-<pardef n="mo/rt__adj">
-  <e>       <p><l>rt</l>        <r>rt<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>rtul</l>      <r>rt<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>rt</l>        <r>rt<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>rtului</l>    <r>rt<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>rți</l>       <r>rt<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>rții</l>      <r>rt<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>rți</l>       <r>rt<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>rților</l>    <r>rt<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>artă</l>      <r>rt<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>arta</l>      <r>rt<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>arte</l>      <r>rt<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>artei</l>     <r>rt<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>arte</l>      <r>rt<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>artele</l>    <r>rt<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>arte</l>      <r>rt<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>artelor</l>   <r>rt<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-    
-<pardef n="cre/ț__adj">
-  <e>       <p><l>ț</l>         <r>ț<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>țul</l>       <r>ț<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ț</l>         <r>ț<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>țului</l>     <r>ț<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ți</l>        <r>ț<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ții</l>       <r>ț<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ți</l>        <r>ț<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ților</l>     <r>ț<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ață</l>       <r>ț<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ața</l>       <r>ț<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ață</l>       <r>ț<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ței</l>       <r>ț<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>țe</l>        <r>ț<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>țele</l>      <r>ț<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>țe</l>        <r>ț<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>țelor</l>     <r>ț<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-   
-<pardef n="șugub/ăț__adj">
-  <e>       <p><l>ăț</l>        <r>ăț<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ățul</l>      <r>ăț<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ăț</l>        <r>ăț<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ățului</l>    <r>ăț<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>eți</l>       <r>ăț<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eții</l>      <r>ăț<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>eți</l>       <r>ăț<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eților</l>    <r>ăț<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eață</l>      <r>ăț<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eața</l>      <r>ăț<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>eață</l>      <r>ăț<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eței</l>      <r>ăț<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ețe</l>       <r>ăț<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ețele</l>     <r>ăț<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ețe</l>       <r>ăț<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ețelor</l>    <r>ăț<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-   
-<pardef n="de/s__adj">
-  <e>       <p><l>s</l>         <r>s<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>sul</l>       <r>s<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>s</l>         <r>s<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>sului</l>     <r>s<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>și</l>        <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>șii</l>       <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>și</l>        <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>șilor</l>     <r>s<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>asă</l>       <r>s<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>asa</l>       <r>s<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ese</l>       <r>s<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>esei</l>      <r>s<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>se</l>        <r>s<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>sele</l>      <r>s<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>se</l>        <r>s<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>selor</l>     <r>s<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-<pardef n="che/l__adj">
-  <e>       <p><l>l</l>         <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>lul</l>       <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>l</l>         <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>lului</l>     <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ii</l>        <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ilor</l>      <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ală</l>       <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ala</l>       <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>le</l>        <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>lei</l>       <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>le</l>        <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>lele</l>      <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>le</l>        <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>lelor</l>     <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-   
-<pardef n="tiner/el__adj">
-  <e>       <p><l>el</l>        <r>el<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>elul</l>      <r>el<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>el</l>        <r>el<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>elului</l>    <r>el<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ei</l>        <r>el<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eii</l>       <r>el<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ei</l>        <r>el<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eilor</l>     <r>el<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ică</l>       <r>el<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ica</l>       <r>el<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ele</l>       <r>el<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>elei</l>      <r>el<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ele</l>       <r>el<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>elele</l>     <r>el<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ele</l>       <r>el<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>elelor</l>    <r>el<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-   
-<pardef n="go/l__adj">
-  <e>       <p><l>l</l>         <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>lul</l>       <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>l</l>         <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>lului</l>     <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ii</l>        <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ilor</l>      <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ală</l>       <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ala</l>       <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ale</l>       <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>alei</l>      <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ale</l>       <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>alele</l>     <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ale</l>       <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>alelor</l>    <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-   
-<pardef n="domo/l__adj">
-  <e>       <p><l>l</l>         <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>lul</l>       <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>l</l>         <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>lului</l>     <r>l<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>li</l>        <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>lii</l>       <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>li</l>        <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>lilor</l>     <r>l<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ală</l>       <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ala</l>       <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ale</l>       <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>alei</l>      <r>l<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ale</l>       <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>alele</l>     <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ale</l>       <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>alelor</l>    <r>l<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-<pardef n="bru/sc__adj">
-  <e>       <p><l>sc</l>        <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>scul</l>      <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>sc</l>        <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>scului</l>    <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>știi</l>      <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>știlor</l>    <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>scă</l>       <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>sca</l>       <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ște</l>       <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ștei</l>      <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ște</l>       <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ștele</l>     <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ște</l>       <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ștelor</l>    <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-<pardef n="ca/st__adj">
-  <e>       <p><l>st</l>        <r>st<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>stul</l>      <r>st<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>st</l>        <r>st<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>stului</l>    <r>st<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ști</l>       <r>st<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>știi</l>      <r>st<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ști</l>       <r>st<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>știlor</l>    <r>st<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>stă</l>       <r>st<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>sta</l>       <r>st<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ste</l>       <r>st<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>stei</l>      <r>st<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ste</l>       <r>st<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>stele</l>     <r>st<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ste</l>       <r>st<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>stelor</l>    <r>st<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-    
-<pardef n="pro/st__adj">
-  <e>       <p><l>st</l>        <r>st<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>stul</l>      <r>st<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>st</l>        <r>st<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>stului</l>    <r>st<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ști</l>       <r>st<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>știi</l>      <r>st<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ști</l>       <r>st<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>știlor</l>    <r>st<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>astă</l>      <r>st<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>asta</l>      <r>st<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>aste</l>      <r>st<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>astei</l>     <r>st<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>aste</l>      <r>st<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>astele</l>    <r>st<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>aste</l>      <r>st<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>astelor</l>   <r>st<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-<pardef n="acr/u__adj">
-  <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ul</l>        <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ului</l>      <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ii</l>        <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ilor</l>      <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ă</l>         <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>a</l>         <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>e</l>         <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ei</l>        <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>e</l>         <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ele</l>       <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>e</l>         <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>elor</l>      <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-   
-<pardef n="instantane/u__adj">
-  <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ul</l>        <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ului</l>      <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ii</l>        <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ilor</l>      <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>e</l>         <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ea</l>        <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>e</l>         <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ei</l>        <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>e</l>         <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ele</l>       <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>e</l>         <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>elor</l>      <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-   
-<pardef n="roș/u__adj">
-  <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ul</l>        <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ului</l>      <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ie</l>        <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ia</l>        <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ii</l>        <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>iei</l>       <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ii</l>        <r>u<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>iii</l>       <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>iile</l>      <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ii</l>        <r>u<s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>iilor</l>     <r>u<s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-      
-</pardef>
-<pardef n="japonez__adj">
-  <e>       <p><l></l>          <r><s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ul</l>        <r><s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ului</l>      <r><s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r><s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ii</l>        <r><s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r><s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ilor</l>      <r><s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ă</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>a</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>e</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ei</l>        <r><s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>e</l>         <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ele</l>       <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>e</l>         <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>elor</l>      <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-<pardef n="prim/ul__adj">
-  <e>       <p><l>ul</l>        <r>ul<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ul</l>        <r>ul<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l></l>          <r>ul<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ului</l>      <r>ul<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>ul<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ii</l>        <r>ul<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>ul<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ilor</l>      <r>ul<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ă</l>         <r>ul<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>a</l>         <r>ul<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>e</l>         <r>ul<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ei</l>        <r>ul<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>e</l>         <r>ul<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ele</l>       <r>ul<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>e</l>         <r>ul<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>elor</l>      <r>ul<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-
-<pardef n="române/sc__adj">
-  <e>       <p><l>sc</l>        <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>scul</l>      <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>sc</l>        <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>scului</l>    <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ască</l>      <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>asca</l>      <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>știi</l>      <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>știi</l>      <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>știle</l>     <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>știlor</l>    <r>sc<s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-     
-<pardef n="evrei/esc__adj">
-  <e>       <p><l>esc</l>       <r>esc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>escul</l>     <r>esc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>eesc</l>      <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>escului</l>   <r>esc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ască</l>      <r>esc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>asca</l>      <r>esc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ești</l>      <r>esc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eștii</l>     <r>esc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ești</l>      <r>esc<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eștii</l>     <r>esc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>eștile</l>    <r>esc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ești</l>      <r>esc<s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eștilor</l>   <r>esc<s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-     
-<pardef n="femei/esc__adj">
-  <e>       <p><l>esc</l>       <r>esc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>escul</l>     <r>esc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>esc</l>       <r>esc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>escului</l>   <r>esc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ască</l>      <r>esc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>asca</l>      <r>esc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ești</l>      <r>esc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eștii</l>     <r>esc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ești</l>      <r>esc<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eștii</l>     <r>esc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>eștile</l>    <r>esc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ești</l>      <r>esc<s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eștilor</l>   <r>esc<s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-
-<pardef n="arăbe/sc__adj">
-  <e>       <p><l>sc</l>        <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>scul</l>      <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>sc</l>        <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>scului</l>    <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ască</l>      <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>asca</l>      <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>știi</l>      <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>știi</l>      <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>știle</l>     <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>știlor</l>    <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>știlor</l>    <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-<pardef n="grote/sc__adj">
-  <e>       <p><l>sc</l>        <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>scul</l>      <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>sc</l>        <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>scului</l>    <r>sc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>scă</l>       <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>sca</l>       <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>știi</l>      <r>sc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="mfn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>știi</l>      <r>sc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ști</l>       <r>sc<s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>știlor</l>    <r>sc<s n="adj"/><s n="mfn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>știle</l>     <r>sc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-       
 </pardef>
 
  
@@ -24567,8 +24569,8 @@
 <e r="LR" lm="lung">     <i>lung</i><par n="mic__adj"/></e>
 <e lm="mare">            <i>mar</i><par n="mar/e__adj"/></e>
 <e lm="dulce">           <i>dulc</i><par n="mar/e__adj"/></e>
-<e lm="tare">            <i>tar</i><par n="tar/e__adj"/></e>
-<e lm="rece">            <i>rec</i><par n="tar/e__adj"/></e>
+<e lm="tare">            <i>tar</i><par n="mar/e__adj"/></e>
+<e lm="rece">            <i>rec</i><par n="mar/e__adj"/></e>
 <e lm="auriu">           <i>auri</i><par n="auri/u__adj"/></e>
 <e lm="argintiu">        <i>arginti</i><par n="auri/u__adj"/></e>
 <e lm="chefliu" a="delnou"><i>chefli</i><par n="auri/u__adj"/></e>
@@ -25094,10 +25096,10 @@
 <e r="LR" lm="posterior"><i>posterio</i><par n="ușo/r__adj"/></e>
 <e r="LR" lm="superior"> <i>superio</i><par n="ușo/r__adj"/></e>
 <e r="LR" lm="ulterior"> <i>ulterio</i><par n="ușo/r__adj"/></e>
-<e lm="primul">          <i>prim</i><par n="prim/ul__adj"/></e>
-<e r="LR" lm="întâiul">  <i>întâi</i><par n="prim/ul__adj"/></e>
-<e lm="penultimul">      <i>penultim</i><par n="prim/ul__adj"/></e>
-<e lm="ultimul">         <i>ultim</i><par n="prim/ul__adj"/></e>
+<e lm="prim">            <i>prim</i><par n="prim__adj"/></e>
+<e r="LR" lm="întâi">    <i>întâi</i><par n="prim__adj"/></e>
+<e lm="penultim">        <i>penultim</i><par n="prim__adj"/></e>
+<e lm="ultim">           <i>ultim</i><par n="prim__adj"/></e>
 <e lm="întreg">          <i>între</i><par n="între/g__adj"/></e>
 <e lm="analog">          <i>analo</i><par n="analo/g__adj"/></e>
 <e lm="omolog">          <i>omolo</i><par n="analo/g__adj"/></e>
@@ -33520,7 +33522,7 @@
 <e lm="liliachiu" a="mioara"><i>liliachi</i><par n="auri/u__adj"/></e>
 <e r="LR" lm="târziu" a="mioara"><i>târzi</i><par n="auri/u__adj"/></e>
 <e r="LR" lm="vinețiu" a="mioara"><i>vineți</i><par n="auri/u__adj"/></e>
-<e r="LR" lm="subțire" a="mioara"><i>subțir</i><par n="tar/e__adj"/></e>
+<e r="LR" lm="subțire" a="mioara"><i>subțir</i><par n="mar/e__adj"/></e>
 <e lm="respiratoriu" a="mioara"><i>respiratori</i><par n="auri/u__adj"/></e>
 <e lm="discriminatoriu" a="mioara"><i>discriminatori</i><par n="auri/u__adj"/></e>
 <e lm="nediscriminatoriu" a="mioara"><i>nediscriminatori</i><par n="auri/u__adj"/></e>
@@ -36112,7 +36114,7 @@
 <e lm="geamăn" a="mioara"><i>ge</i><par n="ge/amăn__adj"/></e>
 <e r="LR" lm="mândru" a="mioara"><i>mândr</i><par n="acr/u__adj"/></e>
 <e lm="ipohondru" a="mioara"><i>ipohondr</i><par n="acr/u__adj"/></e>
-<e r="LR" lm="femeiesc" a="mioara"><i>femei</i><par n="femei/esc__adj"/></e>
+<e r="LR" lm="femeiesc" a="mioara"><i>femei</i><par n="evrei/esc__adj"/></e>
 <e lm="morbid" a="mioara"><i>morbi</i><par n="absur/d__adj"/></e>
 <e lm="haploid" a="mioara"><i>haploi</i><par n="absur/d__adj"/></e>
 <e lm="seleucid" a="mioara"><i>seleuci</i><par n="absur/d__adj"/></e>
