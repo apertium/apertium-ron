@@ -3,8 +3,8 @@
 	Dictionary:
 	Sections: 4
 	Entries: 18790
-	Sdefs: 78
-	Paradigms: 976
+	Sdefs: 75
+	Paradigms: 974
 	Last processed by: apertium-dixtools fix apertium-ron.ron.dix apertium-ron.ron.dix
 
 -->
@@ -75,13 +75,10 @@
     <sdef n="fti" /> 
     <sdef n="cni" /> 
     <sdef n="prs" /> 
-    <sdef n="pis" /> 
-    <sdef n="fts" /> 
     <sdef n="imp" /> 
     <sdef n="pos" /> 
     <sdef n="gen" /> 
     <sdef n="ref" /> 
-    <sdef n="sup" /> 
     <sdef n="num" /> 
     <sdef n="ij" /> 
     <sdef n="sent" /> 
@@ -8597,11 +8594,11 @@
   <e>       <p><l></l>          <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 </pardef>
 <pardef n="Ion__np">
-  <e>       <p><l></l>          <r><s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 </pardef>
 
 <pardef n="Maria__np">
-  <e>       <p><l></l>          <r><s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
 </pardef>
 
 
@@ -8841,7 +8838,7 @@
   <e>       <p><l></l>          <r><s n="num"/><s n="mf"/><s n="pl"/></r></p></e>
 </pardef>
 
-<pardef n="tuturor__predet"> 
+<pardef n="tuturor__predet">
   <e>       <p><l></l>          <r><s n="predet"/><s n="def"/><s n="mf"/><s n="sp"/><s n="nom"/></r></p></e>
   <e>       <p><l></l>          <r><s n="predet"/><s n="def"/><s n="mf"/><s n="sp"/><s n="dg"/></r></p></e>
 </pardef>
@@ -9051,7 +9048,7 @@
   <e>       <p><l>apelor</l>    <r>p<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
-<pardef n="multimedia__adj">     
+<pardef n="multimedia__adj">
   <e>       <p><l></l>          <r><s n="adj"/><s n="mfn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l></l>          <r><s n="adj"/><s n="mfn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l></l>          <r><s n="adj"/><s n="mfn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
@@ -9267,7 +9264,7 @@
   <e>       <p><l>gilor</l>     <r>g<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>age</l>       <r>g<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>agele</l>     <r>g<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>age</l>       <r>g<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>  
+  <e>       <p><l>age</l>       <r>g<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>agelor</l>    <r>g<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
@@ -9477,7 +9474,7 @@
   <e>       <p><l>adelor</l>    <r>d<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
-<pardef n="auri/u__adj">  
+<pardef n="auri/u__adj">
   <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ul</l>        <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
@@ -9539,7 +9536,7 @@
   <e>       <p><l>ele</l>       <r>e<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>e</l>         <r>e<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>elui</l>      <r>e<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>e</l>         <r>e<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>  
+  <e>       <p><l>e</l>         <r>e<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ea</l>        <r>e<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>i</l>         <r>e<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ii</l>        <r>e<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
@@ -9547,8 +9544,8 @@
   <e>       <p><l>ii</l>        <r>e<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>i</l>         <r>e<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ilor</l>      <r>e<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>e<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e> 
-  <e>       <p><l>ile</l>       <r>e<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e> 
+  <e>       <p><l>i</l>         <r>e<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ile</l>       <r>e<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>i</l>         <r>e<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ilor</l>      <r>e<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
@@ -10078,11 +10075,11 @@
   <e>       <p><l>ii</l>        <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>iii</l>       <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ii</l>        <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>iilor</l>     <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>  
+  <e>       <p><l>iilor</l>     <r>u<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ii</l>        <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>iile</l>      <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ii</l>        <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>iilor</l>     <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>  
+  <e>       <p><l>iilor</l>     <r>u<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
 <pardef n="japonez__adj">
@@ -10143,22 +10140,22 @@
 </pardef>
      
 <pardef n="evrei/esc__adj">
-  <e>       <p><l>esc</l>        <r>esc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>escul</l>      <r>esc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>esc</l>        <r>esc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>escului</l>    <r>esc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ască</l>       <r>esc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>asca</l>       <r>esc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ești</l>       <r>esc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eștii</l>      <r>esc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ești</l>       <r>esc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eștii</l>      <r>esc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ești</l>       <r>esc<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eștilor</l>    <r>esc<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ești</l>       <r>esc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eștile</l>     <r>esc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>ești</l>       <r>esc<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eștilor</l>    <r>esc<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>esc</l>       <r>esc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>escul</l>     <r>esc<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>esc</l>       <r>esc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>escului</l>   <r>esc<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ască</l>      <r>esc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>asca</l>      <r>esc<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ești</l>      <r>esc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>eștii</l>     <r>esc<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ești</l>      <r>esc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>eștii</l>     <r>esc<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ești</l>      <r>esc<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>eștilor</l>   <r>esc<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ești</l>      <r>esc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>eștile</l>    <r>esc<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ești</l>      <r>esc<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>eștilor</l>   <r>esc<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
 <pardef n="arăbe/sc__adj">
@@ -10951,6 +10948,7 @@
   <e>       <p><l>te</l>        <r>ta<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>tăm</l>       <r>ta<s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
   <e>       <p><l>ați</l>       <r>ta<s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
+  <e>       <p><l>te</l>        <r>ta<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
   <e>       <p><l>tat</l>       <r>ta<s n="vblex"/><s n="pp"/><s n="mn"/><s n="sg"/></r></p></e>
   <e>       <p><l>tat</l>       <r>ta<s n="vblex"/><s n="pp"/><s n="mn"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>tată</l>      <r>ta<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
@@ -10993,6 +10991,7 @@
   <e>       <p><l>ate</l>       <r>ta<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>tăm</l>       <r>ta<s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
   <e>       <p><l>ați</l>       <r>ta<s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ate</l>       <r>ta<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
   <e>       <p><l>tat</l>       <r>ta<s n="vblex"/><s n="pp"/><s n="mn"/><s n="sg"/></r></p></e>
   <e>       <p><l>tat</l>       <r>ta<s n="vblex"/><s n="pp"/><s n="mn"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>tată</l>      <r>ta<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
@@ -23670,20 +23669,20 @@
 <e lm="irlandez">        <i>irlandez</i><par n="bun__adj"/></e>
 <e lm="antiacademic" a="delnou"><i>antiacademic</i><par n="bun__adj"/></e>
 <e lm="adriatic">        <i>adriatic</i><par n="bun__adj"/></e>
-<e r="LR" lm="accidental"><i>accidental</i><par n="bun__adj"/></e>
+<e lm="accidental">      <i>accidental</i><par n="bun__adj"/></e>
 <e lm="activ">           <i>activ</i><par n="bun__adj"/></e>
-<e r="LR" lm="actual">   <i>actual</i><par n="bun__adj"/></e>
+<e lm="actual">          <i>actual</i><par n="bun__adj"/></e>
 <e lm="rezidual">        <i>rezidual</i><par n="bun__adj"/></e>
-<e r="LR" lm="adițional"><i>adițional</i><par n="bun__adj"/></e>
+<e lm="adițional">       <i>adițional</i><par n="bun__adj"/></e>
 <e lm="inițiatic" a="delnou"><i>inițiatic</i><par n="bun__adj"/></e>
 <e lm="călduț" a="delnou"><i>călduț</i><par n="bun__adj"/></e>
 <e lm="tipic" a="delnou"><i>tipic</i><par n="bun__adj"/></e>
 <e lm="instituțional">   <i>instituțional</i><par n="bun__adj"/></e>
-<e r="LR" lm="admirabil"><i>admirabil</i><par n="bun__adj"/></e>
+<e lm="admirabil">       <i>admirabil</i><par n="bun__adj"/></e>
 <e lm="afabil">          <i>afabil</i><par n="bun__adj"/></e>
 <e lm="african">         <i>african</i><par n="bun__adj"/></e>
-<e r="LR" lm="agil">     <i>agil</i><par n="bun__adj"/></e>
-<e r="LR" lm="abil">     <i>abil</i><par n="bun__adj"/></e>
+<e lm="agil">            <i>agil</i><par n="bun__adj"/></e>
+<e lm="abil">            <i>abil</i><par n="bun__adj"/></e>
 <e lm="abordabil">       <i>abordabil</i><par n="bun__adj"/></e>
 <e lm="inabordabil">     <i>inabordabil</i><par n="bun__adj"/></e>
 <e lm="agrar">           <i>agrar</i><par n="bun__adj"/></e>
@@ -23693,33 +23692,33 @@
 <e lm="alternativ">      <i>alternativ</i><par n="bun__adj"/></e>
 <e lm="acustic">         <i>acustic</i><par n="bun__adj"/></e>
 <e lm="acuzativ">        <i>acuzativ</i><par n="bun__adj"/></e>
-<e r="LR" lm="amabil">   <i>amabil</i><par n="bun__adj"/></e>
-<e r="LR" lm="coruptibil"><i>coruptibil</i><par n="bun__adj"/></e>
-<e r="LR" lm="incoruptibil"><i>incoruptibil</i><par n="bun__adj"/></e>
-<e r="LR" lm="confortabil"><i>confortabil</i><par n="bun__adj"/></e>
+<e lm="amabil">          <i>amabil</i><par n="bun__adj"/></e>
+<e lm="coruptibil">      <i>coruptibil</i><par n="bun__adj"/></e>
+<e lm="incoruptibil">    <i>incoruptibil</i><par n="bun__adj"/></e>
+<e lm="confortabil">     <i>confortabil</i><par n="bun__adj"/></e>
 <e lm="policrom" a="delnou"><i>policrom</i><par n="bun__adj"/></e>
-<e r="LR" lm="valabil">  <i>valabil</i><par n="bun__adj"/></e>
-<e r="LR" lm="respirabil"><i>respirabil</i><par n="bun__adj"/></e>
-<e r="LR" lm="irespirabil"><i>irespirabil</i><par n="bun__adj"/></e>
+<e lm="valabil">         <i>valabil</i><par n="bun__adj"/></e>
+<e lm="respirabil">      <i>respirabil</i><par n="bun__adj"/></e>
+<e lm="irespirabil">     <i>irespirabil</i><par n="bun__adj"/></e>
 <e lm="amar">            <i>amar</i><par n="bun__adj"/></e>
 <e lm="american">        <i>american</i><par n="bun__adj"/></e>
 <e lm="anonim">          <i>anonim</i><par n="bun__adj"/></e>
 <e lm="antic">           <i>antic</i><par n="bun__adj"/></e>
 <e lm="antipatic">       <i>antipatic</i><par n="bun__adj"/></e>
 <e lm="atomic">          <i>atomic</i><par n="bun__adj"/></e>
-<e r="LR" lm="anual">    <i>anual</i><par n="bun__adj"/></e>
+<e lm="anual">           <i>anual</i><par n="bun__adj"/></e>
 <e lm="argotic">         <i>argotic</i><par n="bun__adj"/></e>
 <e lm="gotic" a="delnou"><i>gotic</i><par n="bun__adj"/></e>
 <e lm="arheologic">      <i>arheologic</i><par n="bun__adj"/></e>
 <e lm="arhitectonic">    <i>arhitectonic</i><par n="bun__adj"/></e>
-<e r="LR" lm="artificial"><i>artificial</i><par n="bun__adj"/></e>
+<e lm="artificial">      <i>artificial</i><par n="bun__adj"/></e>
 <e lm="artistic">        <i>artistic</i><par n="bun__adj"/></e>
 <e lm="stilistic" a="delnou"><i>stilistic</i><par n="bun__adj"/></e>
 <e lm="terminologic" a="delnou"><i>terminologic</i><par n="bun__adj"/></e>
 <e lm="atractiv">        <i>atractiv</i><par n="bun__adj"/></e>
 <e lm="autentic">        <i>autentic</i><par n="bun__adj"/></e>
 <e lm="autohton">        <i>autohton</i><par n="bun__adj"/></e>
-<e r="LR" lm="automatic"><i>automatic</i><par n="bun__adj"/></e>
+<e lm="automatic">       <i>automatic</i><par n="bun__adj"/></e>
 <e lm="autonom">         <i>autonom</i><par n="bun__adj"/></e>
 <e lm="bancar">          <i>bancar</i><par n="bun__adj"/></e>
 <e lm="barbar">          <i>barbar</i><par n="bun__adj"/></e>
@@ -23730,24 +23729,24 @@
 <e lm="biologic">        <i>biologic</i><par n="bun__adj"/></e>
 <e lm="bolnav">          <i>bolnav</i><par n="bun__adj"/></e>
 <e lm="britanic">        <i>britanic</i><par n="bun__adj"/></e>
-<e r="LR" lm="brutal">   <i>brutal</i><par n="bun__adj"/></e>
+<e lm="brutal">          <i>brutal</i><par n="bun__adj"/></e>
 <e lm="bulgar">          <i>bulgar</i><par n="bun__adj"/></e>
-<e r="LR" lm="capabil">  <i>capabil</i><par n="bun__adj"/></e>
-<e r="LR" lm="capital">  <i>capital</i><par n="bun__adj"/></e>
+<e lm="capabil">         <i>capabil</i><par n="bun__adj"/></e>
+<e lm="capital">         <i>capital</i><par n="bun__adj"/></e>
 <e lm="caracteristic">   <i>caracteristic</i><par n="bun__adj"/></e>
 <e lm="cardiac">         <i>cardiac</i><par n="bun__adj"/></e>
 <e lm="catalan">         <i>catalan</i><par n="bun__adj"/></e>
 <e lm="catolic">         <i>catolic</i><par n="bun__adj"/></e>
-<e r="LR" lm="cazual">   <i>cazual</i><par n="bun__adj"/></e>
-<e r="LR" lm="celular">  <i>celular</i><par n="bun__adj"/></e>
-<e r="LR" lm="central">  <i>central</i><par n="bun__adj"/></e>
-<e r="LR" lm="cerebral"> <i>cerebral</i><par n="bun__adj"/></e>
+<e lm="cazual">          <i>cazual</i><par n="bun__adj"/></e>
+<e lm="celular">         <i>celular</i><par n="bun__adj"/></e>
+<e lm="central">         <i>central</i><par n="bun__adj"/></e>
+<e lm="cerebral">        <i>cerebral</i><par n="bun__adj"/></e>
 <e lm="grafic" a="delnou"><i>grafic</i><par n="bun__adj"/></e>
 <e lm="discografic" a="delnou"><i>discografic</i><par n="bun__adj"/></e>
 <e lm="monografic" a="delnou"><i>monografic</i><par n="bun__adj"/></e>
 <e lm="etnografic" a="delnou"><i>etnografic</i><par n="bun__adj"/></e>
 <e lm="cinematografic">  <i>cinematografic</i><par n="bun__adj"/></e>
-<e r="LR" lm="civil">    <i>civil</i><par n="bun__adj"/></e>
+<e lm="civil">           <i>civil</i><par n="bun__adj"/></e>
 <e lm="clar">            <i>clar</i><par n="bun__adj"/></e>
 <e lm="clasic">          <i>clasic</i><par n="bun__adj"/></e>
 <e lm="neoclasic">       <i>neoclasic</i><par n="bun__adj"/></e>
@@ -23771,14 +23770,14 @@
 <e lm="arterial" a="mioara"><i>arterial</i><par n="bun__adj"/></e>
 <e lm="ombilical" a="mioara"><i>ombilical</i><par n="bun__adj"/></e>
 <e lm="hormonal" a="mioara"><i>hormonal</i><par n="bun__adj"/></e>
-<e r="LR" lm="ancestral" a="mioara"><i>ancestral</i><par n="bun__adj"/></e>
+<e lm="ancestral" a="mioara"><i>ancestral</i><par n="bun__adj"/></e>
 <e lm="monumental" a="mioara"><i>monumental</i><par n="bun__adj"/></e>
 <e lm="astral" a="mioara"><i>astral</i><par n="bun__adj"/></e>
 <e lm="conațional" a="mioara"><i>conațional</i><par n="bun__adj"/></e>
 <e lm="interstatal" a="mioara"><i>interstatal</i><par n="bun__adj"/></e>
 <e lm="infracțional" a="mioara"><i>infracțional</i><par n="bun__adj"/></e>
 <e lm="naval" a="mioara"><i>naval</i><par n="bun__adj"/></e>
-<e r="LR" lm="trifazic" a="mioara"><i>trifazic</i><par n="bun__adj"/></e>
+<e lm="trifazic" a="mioara"><i>trifazic</i><par n="bun__adj"/></e>
 <e r="LR" lm="competițional" a="mioara"><i>competițional</i><par n="bun__adj"/></e>
 <e r="LR" lm="conflictual" a="mioara"><i>conflictual</i><par n="bun__adj"/></e>
 <e lm="vertebral" a="mioara"><i>vertebral</i><par n="bun__adj"/></e>
@@ -23869,18 +23868,18 @@
 <e lm="cognitiv">        <i>cognitiv</i><par n="bun__adj"/></e>
 <e lm="colectiv">        <i>colectiv</i><par n="bun__adj"/></e>
 <e lm="comercial">       <i>comercial</i><par n="bun__adj"/></e>
-<e r="LR" lm="colosal">  <i>colosal</i><par n="bun__adj"/></e>
+<e lm="colosal">         <i>colosal</i><par n="bun__adj"/></e>
 <e lm="comic">           <i>comic</i><par n="bun__adj"/></e>
 <e lm="comparabil">      <i>comparabil</i><par n="bun__adj"/></e>
 <e lm="reparabil" a="delnou"><i>reparabil</i><par n="bun__adj"/></e>
 <e lm="ireparabil" a="delnou"><i>ireparabil</i><par n="bun__adj"/></e>
-<e r="LR" lm="comun">    <i>comun</i><par n="bun__adj"/></e>
+<e lm="comun">           <i>comun</i><par n="bun__adj"/></e>
 <e lm="comunitar">       <i>comunitar</i><par n="bun__adj"/></e>
-<e r="LR" lm="conceptual"><i>conceptual</i><par n="bun__adj"/></e>
+<e lm="conceptual">      <i>conceptual</i><par n="bun__adj"/></e>
 <e lm="confuz">          <i>confuz</i><par n="bun__adj"/></e>
 <e lm="difuz">           <i>difuz</i><par n="bun__adj"/></e>
 <e r="LR" lm="considerabil"><i>considerabil</i><par n="bun__adj"/></e>
-<e r="LR" lm="constituțional"><i>constituțional</i><par n="bun__adj"/></e>
+<e lm="constituțional">  <i>constituțional</i><par n="bun__adj"/></e>
 <e lm="consular">        <i>consular</i><par n="bun__adj"/></e>
 <e lm="contemporan">     <i>contemporan</i><par n="bun__adj"/></e>
 <e lm="contrar">         <i>contrar</i><par n="bun__adj"/></e>
@@ -23891,13 +23890,13 @@
 <e lm="cotidian">        <i>cotidian</i><par n="vegetari/an__adj"/></e>
 <e lm="creativ">         <i>creativ</i><par n="bun__adj"/></e>
 <e lm="creștin">         <i>creștin</i><par n="bun__adj"/></e>
-<e r="LR" lm="criminal"> <i>criminal</i><par n="bun__adj"/></e>
-<e r="LR" lm="nominal">  <i>nominal</i><par n="bun__adj"/></e>
+<e lm="criminal">        <i>criminal</i><par n="bun__adj"/></e>
+<e lm="nominal">         <i>nominal</i><par n="bun__adj"/></e>
 <e r="LR" lm="uninominal"><i>uninominal</i><par n="bun__adj"/></e>
 <e lm="critic">          <i>critic</i><par n="bun__adj"/></e>
 <e lm="arhitectural">    <i>arhitectural</i><par n="bun__adj"/></e>
 <e lm="cultural">        <i>cultural</i><par n="bun__adj"/></e>
-<e r="LR" lm="debil">    <i>debil</i><par n="bun__adj"/></e>
+<e lm="debil">           <i>debil</i><par n="bun__adj"/></e>
 <e lm="decisiv">         <i>decisiv</i><par n="bun__adj"/></e>
 <e lm="defensiv">        <i>defensiv</i><par n="bun__adj"/></e>
 <e lm="definitiv">       <i>definitiv</i><par n="bun__adj"/></e>
@@ -23906,11 +23905,11 @@
 <e lm="antidemocratic">  <i>antidemocratic</i><par n="bun__adj"/></e>
 <e lm="nedemocratic">    <i>nedemocratic</i><par n="bun__adj"/></e>
 <e lm="nedemocrat">      <i>nedemocra</i><par n="adevăra/t__adj"/></e>
-<e r="LR" lm="dificil">  <i>dificil</i><par n="bun__adj"/></e>
-<e r="LR" lm="digital">  <i>digital</i><par n="bun__adj"/></e>
+<e lm="dificil">         <i>dificil</i><par n="bun__adj"/></e>
+<e lm="digital">         <i>digital</i><par n="bun__adj"/></e>
 <e lm="diplomatic">      <i>diplomatic</i><par n="bun__adj"/></e>
 <e lm="politico-diplomatic"><i>politico-diplomatic</i><par n="bun__adj"/></e>
-<e r="LR" lm="disponibil"><i>disponibil</i><par n="bun__adj"/></e>
+<e lm="disponibil">      <i>disponibil</i><par n="bun__adj"/></e>
 <e lm="diurn">           <i>diurn</i><par n="bun__adj"/></e>
 <e lm="divin">           <i>divin</i><par n="bun__adj"/></e>
 <e r="LR" lm="docil">    <i>docil</i><par n="bun__adj"/></e>
@@ -23922,20 +23921,20 @@
 <e lm="economic">        <i>economic</i><par n="bun__adj"/></e>
 <e lm="educativ">        <i>educativ</i><par n="bun__adj"/></e>
 <e lm="efectiv">         <i>efectiv</i><par n="bun__adj"/></e>
-<e r="LR" lm="egal">     <i>egal</i><par n="bun__adj"/></e>
-<e r="LR" lm="electoral"><i>electoral</i><par n="bun__adj"/></e>
+<e lm="egal">            <i>egal</i><par n="bun__adj"/></e>
+<e lm="electoral">       <i>electoral</i><par n="bun__adj"/></e>
 <e lm="electric">        <i>electric</i><par n="bun__adj"/></e>
 <e lm="termoelectric" a="delnou"><i>termoelectric</i><par n="bun__adj"/></e>
 <e lm="termo-electric" a="delnou"><i>termo-electric</i><par n="bun__adj"/></e>
 <e lm="electrocasnic">   <i>electrocasnic</i><par n="bun__adj"/></e>
 <e lm="electromagnetic"> <i>electromagnetic</i><par n="bun__adj"/></e>
 <e lm="electronic">      <i>electronic</i><par n="bun__adj"/></e>
-<e r="LR" lm="elementar"><i>elementar</i><par n="bun__adj"/></e>
-<e r="LR" lm="emoțional"><i>emoțional</i><par n="bun__adj"/></e>
+<e lm="elementar">       <i>elementar</i><par n="bun__adj"/></e>
+<e lm="emoțional">       <i>emoțional</i><par n="bun__adj"/></e>
 <e lm="empiric">         <i>empiric</i><par n="bun__adj"/></e>
 <e lm="englez">          <i>englez</i><par n="bun__adj"/></e>
 <e lm="energic">         <i>energic</i><par n="bun__adj"/></e>
-<e r="LR" lm="enorm">    <i>enorm</i><par n="bun__adj"/></e>
+<e lm="enorm">           <i>enorm</i><par n="bun__adj"/></e>
 <e lm="eroic">           <i>eroic</i><par n="bun__adj"/></e>
 <e lm="erotic">          <i>erotic</i><par n="bun__adj"/></e>
 <e lm="erogen">          <i>erogen</i><par n="bun__adj"/></e>
@@ -23946,25 +23945,25 @@
 <e lm="etic">            <i>etic</i><par n="bun__adj"/></e>
 <e lm="etnic">           <i>etnic</i><par n="bun__adj"/></e>
 <e lm="evolutiv">        <i>evolutiv</i><par n="bun__adj"/></e>
-<e r="LR" lm="excepțional"><i>excepțional</i><par n="bun__adj"/></e>
+<e lm="excepțional">     <i>excepțional</i><par n="bun__adj"/></e>
 <e lm="excesiv">         <i>excesiv</i><par n="bun__adj"/></e>
 <e lm="exclusiv">        <i>exclusiv</i><par n="bun__adj"/></e>
-<e r="LR" lm="exemplar"> <i>exemplar</i><par n="bun__adj"/></e>
+<e lm="exemplar">        <i>exemplar</i><par n="bun__adj"/></e>
 <e lm="exotic">          <i>exotic</i><par n="bun__adj"/></e>
-<e r="LR" lm="experimental"><i>experimental</i><par n="bun__adj"/></e>
+<e lm="experimental">    <i>experimental</i><par n="bun__adj"/></e>
 <e lm="exploziv">        <i>exploziv</i><par n="bun__adj"/></e>
 <e lm="extern">          <i>extern</i><par n="bun__adj"/></e>
 <e lm="extraordinar">    <i>extraordinar</i><par n="bun__adj"/></e>
 <e lm="extrem">          <i>extrem</i><par n="bun__adj"/></e>
 <e lm="familiar">        <i>familiar</i><par n="bun__adj"/></e>
-<e r="LR" lm="familial"> <i>familial</i><par n="bun__adj"/></e>
+<e lm="familial">        <i>familial</i><par n="bun__adj"/></e>
 <e lm="alimentar">       <i>alimentar</i><par n="bun__adj"/></e>
 <e lm="agroalimentar">   <i>agroalimentar</i><par n="bun__adj"/></e>
 <e r="LR" lm="fatal">    <i>fatal</i><par n="bun__adj"/></e>
 <e lm="fanatic">         <i>fanatic</i><par n="bun__adj"/></e>
 <e lm="fantastic">       <i>fantastic</i><par n="bun__adj"/></e>
 <e lm="ecleziastic">     <i>ecleziastic</i><par n="bun__adj"/></e>
-<e r="LR" lm="favorabil"><i>favorabil</i><par n="bun__adj"/></e>
+<e lm="favorabil">       <i>favorabil</i><par n="bun__adj"/></e>
 <e lm="feminin">         <i>feminin</i><par n="bun__adj"/></e>
 <e lm="acvilin">         <i>acvilin</i><par n="bun__adj"/></e>
 <e r="LR" lm="ferm">     <i>ferm</i><par n="bun__adj"/></e>
@@ -23979,8 +23978,8 @@
 <e lm="fizic">           <i>fizic</i><par n="bun__adj"/></e>
 <e lm="chimic">          <i>chimic</i><par n="bun__adj"/></e>
 <e lm="agrochimic">      <i>agrochimic</i><par n="bun__adj"/></e>
-<e r="LR" lm="flexibil"> <i>flexibil</i><par n="bun__adj"/></e>
-<e r="LR" lm="inflexibil"><i>inflexibil</i><par n="bun__adj"/></e>
+<e lm="flexibil">        <i>flexibil</i><par n="bun__adj"/></e>
+<e lm="inflexibil">      <i>inflexibil</i><par n="bun__adj"/></e>
 <e r="LR" lm="formal">   <i>formal</i><par n="bun__adj"/></e>
 <e lm="fotografic">      <i>fotografic</i><par n="bun__adj"/></e>
 <e r="LR" lm="fragil">   <i>fragil</i><par n="bun__adj"/></e>
@@ -23989,8 +23988,8 @@
 <e lm="albanez">         <i>albanez</i><par n="bun__adj"/></e>
 <e lm="pakistanez">      <i>pakistanez</i><par n="bun__adj"/></e>
 <e lm="frigorific">      <i>frigorific</i><par n="bun__adj"/></e>
-<e r="LR" lm="funcțional"><i>funcțional</i><par n="bun__adj"/></e>
-<e r="LR" lm="fundamental"><i>fundamental</i><par n="bun__adj"/></e>
+<e lm="funcțional">      <i>funcțional</i><par n="bun__adj"/></e>
+<e lm="fundamental">     <i>fundamental</i><par n="bun__adj"/></e>
 <e lm="funerar">         <i>funerar</i><par n="bun__adj"/></e>
 <e lm="galben">          <i>galben</i><par n="bun__adj"/></e>
 <e lm="general">         <i>general</i><par n="bun__adj"/></e>
@@ -23999,53 +23998,53 @@
 <e lm="geografic">       <i>geografic</i><par n="bun__adj"/></e>
 <e lm="aritmetic">       <i>aritmeti</i><par n="bun__adj"/></e>
 <e r="LR" lm="gigantic"> <i>gigantic</i><par n="bun__adj"/></e>
-<e r="LR" lm="global">   <i>global</i><par n="bun__adj"/></e>
+<e lm="global">          <i>global</i><par n="bun__adj"/></e>
 <e lm="glandular">       <i>glandular</i><par n="bun__adj"/></e>
-<e r="LR" lm="grav">     <i>grav</i><par n="bun__adj"/></e>
+<e lm="grav">            <i>grav</i><par n="bun__adj"/></e>
 <e lm="grozav">          <i>grozav</i><par n="bun__adj"/></e>
-<e r="LR" lm="guvernamental"><i>guvernamental</i><par n="bun__adj"/></e>
+<e lm="guvernamental">   <i>guvernamental</i><par n="bun__adj"/></e>
 <e lm="harnic">          <i>harnic</i><par n="bun__adj"/></e>
-<e r="LR" lm="homosexual"><i>homosexual</i><par n="bun__adj"/></e>
+<e lm="homosexual">      <i>homosexual</i><par n="bun__adj"/></e>
 <e lm="hotelier">        <i>hotelier</i><par n="bun__adj"/></e>
-<e r="LR" lm="ideal">    <i>ideal</i><par n="bun__adj"/></e>
+<e lm="ideal">           <i>ideal</i><par n="bun__adj"/></e>
 <e lm="identic">         <i>identic</i><par n="bun__adj"/></e>
 <e lm="ideologic">       <i>ideologic</i><par n="bun__adj"/></e>
 <e lm="ieftin">          <i>ieftin</i><par n="bun__adj"/></e>
 <e lm="igienic">         <i>igienic</i><par n="bun__adj"/></e>
-<e r="LR" lm="ilegal">   <i>ilegal</i><par n="bun__adj"/></e>
-<e r="LR" lm="legal">    <i>legal</i><par n="bun__adj"/></e>
+<e lm="ilegal">          <i>ilegal</i><par n="bun__adj"/></e>
+<e lm="legal">           <i>legal</i><par n="bun__adj"/></e>
 <e lm="ilegitim">        <i>ilegitim</i><par n="bun__adj"/></e>
 <e lm="imaginar">        <i>imaginar</i><par n="bun__adj"/></e>
 <e lm="imatur">          <i>imatur</i><par n="bun__adj"/></e>
 <e r="LR" lm="imbecil">  <i>imbecil</i><par n="bun__adj"/></e>
 <e r="LR" lm="imobil">   <i>imobil</i><par n="bun__adj"/></e>
-<e r="LR" lm="imparțial"><i>imparțial</i><par n="bun__adj"/></e>
+<e lm="imparțial">       <i>imparțial</i><par n="bun__adj"/></e>
 <e r="LR" lm="imperceptibil"><i>imperceptibil</i><par n="bun__adj"/></e>
-<e r="LR" lm="impersonal"><i>impersonal</i><par n="bun__adj"/></e>
+<e lm="impersonal">      <i>impersonal</i><par n="bun__adj"/></e>
 <e r="LR" lm="implacabil"><i>implacabil</i><par n="bun__adj"/></e>
-<e r="LR" lm="imposibil"><i>imposibil</i><par n="bun__adj"/></e>
+<e lm="imposibil">       <i>imposibil</i><par n="bun__adj"/></e>
 <e r="LR" lm="aproape imposibil"><i>aproape<b/>imposibil</i><par n="bun__adj"/></e>
 <e r="LR" lm="puțin probabil"><i>puțin<b/>probabil</i><par n="bun__adj"/></e>
-<e r="LR" lm="improbabil"><i>improbabil</i><par n="bun__adj"/></e>
-<e r="LR" lm="imprevizibil"><i>imprevizibil</i><par n="bun__adj"/></e>
+<e lm="improbabil">      <i>improbabil</i><par n="bun__adj"/></e>
+<e lm="imprevizibil">    <i>imprevizibil</i><par n="bun__adj"/></e>
 <e lm="inactiv">         <i>inactiv</i><par n="bun__adj"/></e>
 <e r="LR" lm="incapabil"><i>incapabil</i><par n="bun__adj"/></e>
 <e r="LR" lm="incomparabil"><i>incomparabil</i><par n="bun__adj"/></e>
-<e r="LR" lm="incredibil"><i>incredibil</i><par n="bun__adj"/></e>
+<e lm="incredibil">      <i>incredibil</i><par n="bun__adj"/></e>
 <e lm="indicativ">       <i>indicativ</i><par n="bun__adj"/></e>
-<e r="LR" lm="indispensabil"><i>indispensabil</i><par n="bun__adj"/></e>
-<e r="LR" lm="individual"><i>individual</i><par n="bun__adj"/></e>
-<e r="LR" lm="inefabil"> <i>inefabil</i><par n="bun__adj"/></e>
-<e r="LR" lm="inegal">   <i>inegal</i><par n="bun__adj"/></e>
+<e lm="indispensabil">   <i>indispensabil</i><par n="bun__adj"/></e>
+<e lm="individual">      <i>individual</i><par n="bun__adj"/></e>
+<e lm="inefabil">        <i>inefabil</i><par n="bun__adj"/></e>
+<e lm="inegal">          <i>inegal</i><par n="bun__adj"/></e>
 <e lm="inestetic">       <i>inestetic</i><par n="bun__adj"/></e>
-<e r="LR" lm="inevitabil"><i>inevitabil</i><par n="bun__adj"/></e>
-<e r="LR" lm="infantil"> <i>infantil</i><par n="bun__adj"/></e>
+<e lm="inevitabil">      <i>inevitabil</i><par n="bun__adj"/></e>
+<e lm="infantil">        <i>infantil</i><par n="bun__adj"/></e>
 <e lm="infim">           <i>infim</i><par n="bun__adj"/></e>
 <e lm="informatic">      <i>informatic</i><par n="bun__adj"/></e>
 <e lm="informativ">      <i>informativ</i><par n="bun__adj"/></e>
-<e r="LR" lm="inițial">  <i>inițial</i><par n="bun__adj"/></e>
-<e r="LR" lm="instabil"> <i>instabil</i><par n="bun__adj"/></e>
-<e r="LR" lm="insuportabil"><i>insuportabil</i><par n="bun__adj"/></e>
+<e lm="inițial">         <i>inițial</i><par n="bun__adj"/></e>
+<e lm="instabil">        <i>instabil</i><par n="bun__adj"/></e>
+<e lm="insuportabil">    <i>insuportabil</i><par n="bun__adj"/></e>
 <e lm="intensiv">        <i>intensiv</i><par n="bun__adj"/></e>
 <e lm="aflictiv">        <i>aflictiv</i><par n="bun__adj"/></e>
 <e lm="integral">        <i>integral</i><par n="bun__adj"/></e>
@@ -24053,22 +24052,22 @@
 <e lm="internațional">   <i>internațional</i><par n="bun__adj"/></e>
 <e lm="intim">           <i>intim</i><par n="bun__adj"/></e>
 <e lm="modic">           <i>modic</i><par n="bun__adj"/></e>
-<e r="LR" lm="intolerabil"><i>intolerabil</i><par n="bun__adj"/></e>
-<e r="LR" lm="inutil">   <i>inutil</i><par n="bun__adj"/></e>
-<e r="LR" lm="invizibil"><i>invizibil</i><par n="bun__adj"/></e>
+<e lm="intolerabil">     <i>intolerabil</i><par n="bun__adj"/></e>
+<e lm="inutil">          <i>inutil</i><par n="bun__adj"/></e>
+<e lm="invizibil">       <i>invizibil</i><par n="bun__adj"/></e>
 <e lm="ipotetic">        <i>ipotetic</i><par n="bun__adj"/></e>
-<e r="LR" lm="irațional"><i>irațional</i><par n="bun__adj"/></e>
-<e r="LR" lm="iregular"> <i>iregular</i><par n="bun__adj"/></e>
+<e lm="irațional">       <i>irațional</i><par n="bun__adj"/></e>
+<e lm="iregular">        <i>iregular</i><par n="bun__adj"/></e>
 <e lm="rectangular" a="delnou"><i>rectangular</i><par n="bun__adj"/></e>
 <e lm="dreptunghiular" a="delnou"><i>dreptunghiular</i><par n="bun__adj"/></e>
-<e r="LR" lm="irezistibil"><i>irezistibil</i><par n="bun__adj"/></e>
+<e lm="irezistibil">     <i>irezistibil</i><par n="bun__adj"/></e>
 <e lm="islamic">         <i>islamic</i><par n="bun__adj"/></e>
 <e lm="istoric">         <i>istoric</i><par n="bun__adj"/></e>
 <e lm="preistoric" a="delnou"><i>preistoric</i><par n="bun__adj"/></e>
-<e r="LR" lm="îndoielnic"><i>îndoielnic</i><par n="bun__adj"/></e>
+<e lm="îndoielnic">      <i>îndoielnic</i><par n="bun__adj"/></e>
 <e r="LR" lm="judiciar" a="mioara"><i>judiciar</i><par n="bun__adj"/></e>
 <e lm="contractual" a="mioara"><i>contractual</i><par n="bun__adj"/></e>
-<e r="LR" lm="gradual" a="mioara"><i>gradual</i><par n="bun__adj"/></e>
+<e lm="gradual" a="mioara"><i>gradual</i><par n="bun__adj"/></e>
 <e lm="afgan" a="mioara"><i>afgan</i><par n="bun__adj"/></e>
 <e lm="ecuatorial" a="delnou"><i>ecuatorial</i><par n="bun__adj"/></e>
 <e lm="juridic">         <i>juridic</i><par n="bun__adj"/></e>
@@ -24080,12 +24079,11 @@
 
     <!-- fran: he llevat la restricció -->
 <e lm="liber">           <i>liber</i><par n="bun__adj"/></e>
-
-<e r="LR" lm="liberal">  <i>liberal</i><par n="bun__adj"/></e>
-<e r="LR" lm="neoliberal"><i>neoliberal</i><par n="bun__adj"/></e>
+<e lm="liberal">         <i>liberal</i><par n="bun__adj"/></e>
+<e lm="neoliberal">      <i>neoliberal</i><par n="bun__adj"/></e>
 <e lm="literal">         <i>literal</i><par n="bun__adj"/></e>
-<e r="LR" lm="literar">  <i>literar</i><par n="bun__adj"/></e>
-<e r="LR" lm="local">    <i>local</i><par n="bun__adj"/></e>
+<e lm="literar">         <i>literar</i><par n="bun__adj"/></e>
+<e lm="local">           <i>local</i><par n="bun__adj"/></e>
 <e lm="teritorial">      <i>teritorial</i><par n="bun__adj"/></e>
 <e lm="logic">           <i>logic</i><par n="bun__adj"/></e>
 <e lm="masculin">        <i>masculin</i><par n="bun__adj"/></e>
@@ -24101,7 +24099,7 @@
 <e lm="agorafob" a="mioara"><i>agorafob</i><par n="bun__adj"/></e>
 <e lm="scolastic">       <i>scolastic</i><par n="bun__adj"/></e>
 <e lm="alfanumeric">     <i>alfanumeric</i><par n="bun__adj"/></e>
-<e r="LR" lm="material"> <i>material</i><par n="bun__adj"/></e>
+<e lm="material">        <i>material</i><par n="bun__adj"/></e>
 <e lm="matur">           <i>matur</i><par n="bun__adj"/></e>
 <e lm="maxim">           <i>maxim</i><par n="bun__adj"/></e>
 <e lm="mecanic">         <i>mecanic</i><par n="bun__adj"/></e>
@@ -24116,12 +24114,12 @@
 <e lm="metalic">         <i>metalic</i><par n="bun__adj"/></e>
 <e lm="metafizic">       <i>metafizic</i><par n="bun__adj"/></e>
 <e lm="mexican">         <i>mexican</i><par n="bun__adj"/></e>
-<e r="LR" lm="militar">  <i>militar</i><par n="bun__adj"/></e>
+<e lm="militar">         <i>militar</i><par n="bun__adj"/></e>
 <e lm="minim">           <i>minim</i><par n="bun__adj"/></e>
 <e lm="minor">           <i>minor</i><par n="bun__adj"/></e>
 <e lm="minuscul">        <i>minuscul</i><par n="bun__adj"/></e>
 <e lm="mitic">           <i>mitic</i><par n="bun__adj"/></e>
-<e r="LR" lm="mizerabil"><i>mizerabil</i><par n="bun__adj"/></e>
+<e lm="mizerabil">       <i>mizerabil</i><par n="bun__adj"/></e>
 <e r="LR" lm="mobil">    <i>mobil</i><par n="bun__adj"/></e>
 <e lm="modern">          <i>modern</i><par n="bun__adj"/></e>
 <e lm="postmodern">      <i>postmodern</i><par n="bun__adj"/></e>
@@ -24132,8 +24130,8 @@
 <e lm="etimologic" a="mioara"><i>etimologic</i><par n="bun__adj"/></e>
 <e lm="ierarhic">        <i>ierarhic</i><par n="bun__adj"/></e>
 <e lm="mondial">         <i>mondial</i><par n="bun__adj"/></e>
-<e r="LR" lm="moral">    <i>moral</i><par n="bun__adj"/></e>
-<e r="LR" lm="mortal">   <i>mortal</i><par n="bun__adj"/></e>
+<e lm="moral">           <i>moral</i><par n="bun__adj"/></e>
+<e lm="mortal">          <i>mortal</i><par n="bun__adj"/></e>
 <e r="LR" lm="municipal"><i>municipal</i><par n="bun__adj"/></e>
 <e lm="murdar">          <i>murdar</i><par n="bun__adj"/></e>
 <e lm="musulman">        <i>musulman</i><par n="bun__adj"/></e>
@@ -24154,12 +24152,12 @@
 <e lm="necesar">         <i>necesar</i><par n="bun__adj"/></e>
 <e lm="negativ">         <i>negativ</i><par n="bun__adj"/></e>
 <e r="LR" lm="neîndemânatic"><i>neîndemânatic</i><par n="bun__adj"/></e>
-<e r="LR" lm="neîndoielnic"><i>neîndoielnic</i><par n="bun__adj"/></e>
+<e lm="neîndoielnic">    <i>neîndoielnic</i><par n="bun__adj"/></e>
 <e lm="neoficial">       <i>neoficial</i><par n="bun__adj"/></e>
 <e lm="nesemnificativ" a="delnou"><i>nesemnificativ</i><par n="bun__adj"/></e>
 <e r="LR" lm="nobil">    <i>nobil</i><par n="bun__adj"/></e>
 <e lm="nocturn">         <i>nocturn</i><par n="bun__adj"/></e>
-<e r="LR" lm="nuclear">  <i>nuclear</i><par n="bun__adj"/></e>
+<e lm="nuclear">         <i>nuclear</i><par n="bun__adj"/></e>
 <e lm="nutritiv">        <i>nutritiv</i><par n="bun__adj"/></e>
 <e lm="obiectiv">        <i>obiectiv</i><par n="bun__adj"/></e>
 <e lm="obscur">          <i>obscur</i><par n="bun__adj"/></e>
@@ -24228,19 +24226,19 @@
 <e lm="publicitar">      <i>publicitar</i><par n="bun__adj"/></e>
 <e lm="pur">             <i>pur</i><par n="bun__adj"/></e>
 <e lm="impur">           <i>impur</i><par n="bun__adj"/></e>
-<e r="LR" lm="puternic"> <i>puternic</i><par n="bun__adj"/></e>
+<e lm="puternic">        <i>puternic</i><par n="bun__adj"/></e>
 <e lm="puțin">           <i>puțin</i><par n="bun__adj"/></e>
 <e lm="radical">         <i>radical</i><par n="bun__adj"/></e>
 <e lm="radial">          <i>radial</i><par n="bun__adj"/></e>
 <e r="LR" lm="raționabil"><i>raționabil</i><par n="bun__adj"/></e>
-<e r="LR" lm="rațional"> <i>rațional</i><par n="bun__adj"/></e>
-<e r="LR" lm="real">     <i>real</i><par n="bun__adj"/></e>
+<e lm="rațional">        <i>rațional</i><par n="bun__adj"/></e>
+<e lm="real">            <i>real</i><par n="bun__adj"/></e>
 <e r="LR" lm="rebel">    <i>rebel</i><par n="bun__adj"/></e>
 <e r="LR" lm="biregional"><i>biregional</i><par n="bun__adj"/></e>
-<e r="LR" lm="regional"> <i>regional</i><par n="bun__adj"/></e>
+<e lm="regional">        <i>regional</i><par n="bun__adj"/></e>
 <e r="LR" lm="regular">  <i>regular</i><par n="bun__adj"/></e>
 <e lm="relativ">         <i>relativ</i><par n="bun__adj"/></e>
-<e r="LR" lm="rentabil"> <i>rentabil</i><par n="bun__adj"/></e>
+<e lm="rentabil">        <i>rentabil</i><par n="bun__adj"/></e>
 <e lm="reprezentativ">   <i>reprezentativ</i><par n="bun__adj"/></e>
 <e lm="republican">      <i>republican</i><par n="bun__adj"/></e>
 <e r="LR" lm="respectabil"><i>respectabil</i><par n="bun__adj"/></e>
@@ -24250,7 +24248,7 @@
 <e lm="ridicol">         <i>ridicol</i><par n="bun__adj"/></e>
 <e lm="ritual" a="delnou"><i>ritual</i><par n="bun__adj"/></e>
 <e lm="roman">           <i>roman</i><par n="bun__adj"/></e>
-<e r="LR" lm="român">    <i>român</i><par n="bun__adj"/></e>
+<e lm="român">           <i>român</i><par n="bun__adj"/></e>
 <e lm="romantic">        <i>romantic</i><par n="bun__adj"/></e>
 <e lm="roz">             <i>roz</i><par n="bun__adj"/></e>
 <e lm="rutinar">         <i>rutinar</i><par n="bun__adj"/></e>
@@ -24269,7 +24267,7 @@
 <e r="LR" lm="senzorial"><i>senzorial</i><par n="bun__adj"/></e>
 <e r="LR" lm="senzual">  <i>senzual</i><par n="bun__adj"/></e>
 <e lm="sever">           <i>sever</i><par n="bun__adj"/></e>
-<e r="LR" lm="sexual">   <i>sexual</i><par n="bun__adj"/></e>
+<e lm="sexual">          <i>sexual</i><par n="bun__adj"/></e>
 <e lm="simbolic">        <i>simbolic</i><par n="bun__adj"/></e>
 <e lm="similar">         <i>similar</i><par n="bun__adj"/></e>
 <e lm="simpatic">        <i>simpatic</i><par n="bun__adj"/></e>
@@ -24277,7 +24275,7 @@
 <e r="LR" lm="sindical"> <i>sindical</i><par n="bun__adj"/></e>
 <e r="LR" lm="sincron">  <i>sincron</i><par n="bun__adj"/></e>
 <e lm="sincronic">       <i>sincronic</i><par n="bun__adj"/></e>
-<e r="LR" lm="singular"> <i>singular</i><par n="bun__adj"/></e>
+<e lm="singular">        <i>singular</i><par n="bun__adj"/></e>
 <e lm="singur">          <i>singur</i><par n="bun__adj"/></e>
 <e lm="sintetic">        <i>sintetic</i><par n="bun__adj"/></e>
 <e lm="sistematic">      <i>sistematic</i><par n="bun__adj"/></e>
@@ -24289,13 +24287,13 @@
 <e lm="antisocial">      <i>antisocial</i><par n="bun__adj"/></e>
 <e lm="sociologic">      <i>sociologic</i><par n="bun__adj"/></e>
 <e r="LR" lm="solar">    <i>solar</i><par n="bun__adj"/></e>
-<e r="LR" lm="solemn">   <i>solemn</i><par n="bun__adj"/></e>
+<e lm="solemn">          <i>solemn</i><par n="bun__adj"/></e>
 <e lm="sovietic">        <i>sovietic</i><par n="bun__adj"/></e>
 <e lm="solidar">         <i>solidar</i><par n="bun__adj"/></e>
 <e lm="solitar">         <i>solitar</i><par n="bun__adj"/></e>
 <e lm="sonor">           <i>sonor</i><par n="bun__adj"/></e>
 <e lm="spaniol">         <i>spaniol</i><par n="bun__adj"/></e>
-<e r="LR" lm="maghiar">  <i>maghiar</i><par n="bun__adj"/></e>
+<e lm="maghiar">         <i>maghiar</i><par n="bun__adj"/></e>
 <e lm="ungar">           <i>ungar</i><par n="bun__adj"/></e>
 <e lm="spațial">         <i>spațial</i><par n="bun__adj"/></e>
 <e lm="special">         <i>special</i><par n="bun__adj"/></e>
@@ -24310,7 +24308,7 @@
 <e lm="strategic">       <i>strategic</i><par n="bun__adj"/></e>
 <e lm="străin">          <i>străin</i><par n="bun__adj"/></e>
 <e lm="strâmb">          <i>strâmb</i><par n="bun__adj"/></e>
-<e r="LR" lm="suav">     <i>suav</i><par n="bun__adj"/></e>
+<e lm="suav">            <i>suav</i><par n="bun__adj"/></e>
 <e lm="subiectiv">       <i>subiectiv</i><par n="bun__adj"/></e>
 <e r="LR" lm="substanțial"><i>substanțial</i><par n="bun__adj"/></e>
 <e lm="subteran">        <i>subteran</i><par n="bun__adj"/></e>
@@ -24322,7 +24320,7 @@
 <e lm="agreabil">        <i>agreabil</i><par n="bun__adj"/></e>
 <e lm="suprem">          <i>suprem</i><par n="bun__adj"/></e>
 <e lm="științific">      <i>științific</i><par n="bun__adj"/></e>
-<e r="LR" lm="teatral">  <i>teatral</i><par n="bun__adj"/></e>
+<e lm="teatral">         <i>teatral</i><par n="bun__adj"/></e>
 <e lm="hidrotehnic">     <i>hidrotehnic</i><par n="bun__adj"/></e>
 <e lm="hidrotermal" a="delnou"><i>hidrotermal</i><par n="bun__adj"/></e>
 <e lm="hieratic" a="delnou"><i>hieratic</i><par n="bun__adj"/></e>
@@ -24330,13 +24328,13 @@
 <e lm="tehnologic">      <i>tehnologic</i><par n="bun__adj"/></e>
 <e lm="telefonic">       <i>telefonic</i><par n="bun__adj"/></e>
 <e r="LR" lm="temporal"> <i>temporal</i><par n="bun__adj"/></e>
-<e r="LR" lm="teribil">  <i>teribil</i><par n="bun__adj"/></e>
+<e lm="teribil">         <i>teribil</i><par n="bun__adj"/></e>
 <e r="LR" lm="tolerabil"><i>tolerabil</i><par n="bun__adj"/></e>
 <e r="LR" lm="total">    <i>total</i><par n="bun__adj"/></e>
-<e r="LR" lm="tradițional"><i>tradițional</i><par n="bun__adj"/></e>
+<e lm="tradițional">     <i>tradițional</i><par n="bun__adj"/></e>
 <e lm="tragic">          <i>tragic</i><par n="bun__adj"/></e>
 <e r="LR" lm="trivial">  <i>trivial</i><par n="bun__adj"/></e>
-<e r="LR" lm="tropical"> <i>tropical</i><par n="bun__adj"/></e>
+<e lm="tropical">        <i>tropical</i><par n="bun__adj"/></e>
 <e lm="turc">            <i>turc</i><par n="bun__adj"/></e>
 <e lm="turistic">        <i>turistic</i><par n="bun__adj"/></e>
 <e lm="uman">            <i>uman</i><par n="bun__adj"/></e>
@@ -24346,8 +24344,8 @@
 <e lm="umoristic">       <i>umoristic</i><par n="bun__adj"/></e>
 <e lm="fotbalistic">     <i>fotbalistic</i><par n="bun__adj"/></e>
 <e lm="unic">            <i>unic</i><par n="bun__adj"/></e>
-<e r="LR" lm="util">     <i>util</i><par n="bun__adj"/></e>
-<e r="LR" lm="universal"><i>universal</i><par n="bun__adj"/></e>
+<e lm="util">            <i>util</i><par n="bun__adj"/></e>
+<e lm="universal">       <i>universal</i><par n="bun__adj"/></e>
 <e lm="universitar">     <i>universitar</i><par n="bun__adj"/></e>
 <e lm="uriaș">           <i>uriaș</i><par n="bun__adj"/></e>
 <e lm="vag">             <i>vag</i><par n="bun__adj"/></e>
@@ -24507,7 +24505,7 @@
 <e lm="acid">            <i>aci</i><par n="absur/d__adj"/></e>
 <e lm="biped" a="mioara"><i>bipe</i><par n="absur/d__adj"/></e>
 <e lm="blond">           <i>blon</i><par n="absur/d__adj"/></e>
-<e r="LR" lm="cald">     <i>cal</i><par n="absur/d__adj"/></e>
+<e lm="cald">            <i>cal</i><par n="absur/d__adj"/></e>
 <e lm="candid">          <i>candi</i><par n="absur/d__adj"/></e>
 <e lm="comod">           <i>como</i><par n="absur/d__adj"/></e>
 <e lm="crud">            <i>cru</i><par n="absur/d__adj"/></e>
@@ -24694,7 +24692,7 @@
 <e lm="franțuzesc" a="delnou"><i>franțuze</i><par n="române/sc__adj"/></e>
 <e lm="grecesc">         <i>grece</i><par n="române/sc__adj"/></e>
 <e lm="călugăresc">      <i>călugăre</i><par n="române/sc__adj"/></e>
-<e r="LR" lm="nemțesc">  <i>nemțe</i><par n="române/sc__adj"/></e>
+<e lm="nemțesc">         <i>nemțe</i><par n="române/sc__adj"/></e>
 <e lm="unguresc">        <i>ungure</i><par n="române/sc__adj"/></e>
 <e lm="pitoresc">        <i>pitore</i><par n="române/sc__adj"/></e>
 <e lm="judecătoresc">    <i>judecătore</i><par n="române/sc__adj"/></e>
@@ -24888,11 +24886,11 @@
 <e r="LR" lm="neștiut" a="mioara"><i>neștiu</i><par n="adevăra/t__adj"/></e>
 <e lm="nevăzut" a="delnou"><i>nevăzu</i><par n="adevăra/t__adj"/></e>
 <e lm="exorbitant">      <i>exorbitan</i><par n="adevăra/t__adj"/></e>
-<e r="LR" lm="absent">   <i>absen</i><par n="adevăra/t__adj"/></e>
+<e lm="absent">          <i>absen</i><par n="adevăra/t__adj"/></e>
 <e lm="iminent">         <i>iminen</i><par n="adevăra/t__adj"/></e>
-<e r="LR" lm="plăcut">   <i>plăcu</i><par n="adevăra/t__adj"/></e>
+<e lm="plăcut">          <i>plăcu</i><par n="adevăra/t__adj"/></e>
 <e lm="absolut">         <i>absolu</i><par n="adevăra/t__adj"/></e>
-<e r="LR" lm="abundent"> <i>abunden</i><par n="adevăra/t__adj"/></e>
+<e lm="abundent">        <i>abunden</i><par n="adevăra/t__adj"/></e>
 <e lm="acut">            <i>acu</i><par n="adevăra/t__adj"/></e>
 <e lm="adecvat">         <i>adecva</i><par n="adevăra/t__adj"/></e>
 <e lm="inadecvat">       <i>inadecva</i><par n="adevăra/t__adj"/></e>
@@ -25028,14 +25026,14 @@
 <e lm="subit">           <i>subi</i><par n="adevăra/t__adj"/></e>
 <e lm="autosuficient" a="delnou"><i>autosuficien</i><par n="adevăra/t__adj"/></e>
 <e r="LR" lm="suficient"><i>suficien</i><par n="adevăra/t__adj"/></e>
-<e r="LR" lm="șocant">   <i>șocan</i><par n="adevăra/t__adj"/></e>
+<e lm="șocant">          <i>șocan</i><par n="adevăra/t__adj"/></e>
 <e lm="tensionat">       <i>tensiona</i><par n="adevăra/t__adj"/></e>
-<e r="LR" lm="transparent"><i>transparen</i><par n="adevăra/t__adj"/></e>
+<e lm="transparent">     <i>transparen</i><par n="adevăra/t__adj"/></e>
 <e lm="uimit">           <i>uimi</i><par n="adevăra/t__adj"/></e>
 <e lm="urât">            <i>urâ</i><par n="adevăra/t__adj"/></e>
 <e r="LR" lm="urgent">   <i>urgen</i><par n="adevăra/t__adj"/></e>
 <e lm="variat">          <i>varia</i><par n="adevăra/t__adj"/></e>
-<e r="LR" lm="vinovat">  <i>vinova</i><par n="adevăra/t__adj"/></e>
+<e lm="vinovat">         <i>vinova</i><par n="adevăra/t__adj"/></e>
 <e lm="violent">         <i>violen</i><par n="adevăra/t__adj"/></e>
 <e lm="zvelt">           <i>zvel</i><par n="adevăra/t__adj"/></e>
 <e lm="alt">             <i>al</i><par n="al/t__adj"/></e>
@@ -25046,7 +25044,7 @@
 <e lm="adormitor">       <i>adormito</i><par n="arzăto/r__adj"/></e>
 <e lm="rugător">         <i>rugăto</i><par n="arzăto/r__adj"/></e>
 <e lm="ademenitor">      <i>ademenito</i><par n="arzăto/r__adj"/></e>
-<e r="LR" lm="asemănător"><i>asemănăto</i><par n="arzăto/r__adj"/></e>
+<e lm="asemănător">      <i>asemănăto</i><par n="arzăto/r__adj"/></e>
 <e lm="exportator" a="delnou"><i>exportato</i><par n="arzăto/r__adj"/></e>
 <e lm="importator" a="delnou"><i>importato</i><par n="arzăto/r__adj"/></e>
 <e lm="inspirator" a="delnou"><i>inspirato</i><par n="arzăto/r__adj"/></e>
@@ -33979,7 +33977,7 @@
 <e lm="în răspăr" a="delia"><i>în<b/>răspăr</i><par n="azi__adv"/></e>
 <e lm="răscunoscut" a="delia"><i>răscunoscu</i><par n="adevăra/t__adj"/></e>
 <e lm="dispersat" a="delia"><i>dispersa</i><par n="adevăra/t__adj"/></e>
-<e r="LR" lm="dispers" a="delia"><i>disper</i><par n="diver/s__adj"/></e>
+<e lm="dispers" a="delia"><i>disper</i><par n="diver/s__adj"/></e>
 <e lm="răbdător" a="delia"><i>răbdăto</i><par n="arzăto/r__adj"/></e>
 <e lm="nerăbdător" a="delia"><i>nerăbdăto</i><par n="arzăto/r__adj"/></e>
 <e lm="razant" a="delia"><i>razan</i><par n="adevăra/t__adj"/></e>
@@ -33992,7 +33990,7 @@
 <e lm="putrezit" a="delia"><i>putrezi</i><par n="adevăra/t__adj"/></e>
 <e lm="putred" a="delia"><i>putre</i><par n="absur/d__adj"/></e>
 <e lm="deșertic" a="delia"><i>deșertic</i><par n="bun__adj"/></e>
-<e r="LR" lm="pustiu" a="delia"><i>pusti</i><par n="auri/u__adj"/></e>
+<e lm="pustiu" a="delia"><i>pusti</i><par n="auri/u__adj"/></e>
 <e lm="pupăcios" a="delia"><i>pupăcio</i><par n="curajo/s__adj"/></e>
 <e lm="punctual" a="delia"><i>punctual</i><par n="bun__adj"/></e>
 <e lm="puhav" a="delia"> <i>puhav</i><par n="bun__adj"/></e>
@@ -34197,7 +34195,7 @@
 <e lm="carnivor" a="delia"><i>carnivo</i><par n="arzăto/r__adj"/></e>
 <e lm="diluvian" a="delnou"><i>diluvi</i><par n="vegetari/an__adj"/></e>
 <e lm="gregorian" a="delnou"><i>gregori</i><par n="vegetari/an__adj"/></e>
-<e lm="eolian" a="delnou"><i>eolia</i><par n="vegetari/an__adj"/></e>
+<e lm="eolian" a="delnou"><i>eoli</i><par n="vegetari/an__adj"/></e>
 <e lm="iulian" a="delnou"><i>iuli</i><par n="vegetari/an__adj"/></e>
 <e lm="indian" a="delnou"><i>indi</i><par n="vegetari/an__adj"/></e>
 <e lm="israelian" a="delia"><i>israeli</i><par n="vegetari/an__adj"/></e>
@@ -34240,7 +34238,7 @@
 <e lm="la întâmplare" a="delia"><i>la<b/>întâmplare</i><par n="azi__adv"/></e>
 <e lm="nicăieri" a="delia"><i>nicăieri</i><par n="azi__adv"/></e>
 <e lm="nevoiaș" a="delia"><i>nevoiaș</i><par n="bun__adj"/></e>
-<e r="LR" lm="nevinovat" a="delia"><i>nevinova</i><par n="adevăra/t__adj"/></e>
+<e lm="nevinovat" a="delia"><i>nevinova</i><par n="adevăra/t__adj"/></e>
 <e lm="nevătămător" a="delia"><i>nevătămăto</i><par n="arzăto/r__adj"/></e>
 <e r="LR" lm="neverosimil" a="delia"><i>neverosimil</i><par n="bun__adj"/></e>
 <e lm="inofensiv" a="delia"><i>inofensiv</i><par n="bun__adj"/></e>
@@ -35448,7 +35446,7 @@
 <e lm="cervical" a="delia"><i>cervical</i><par n="bun__adj"/></e>
 <e lm="certat" a="delia"><i>certa</i><par n="adevăra/t__adj"/></e>
 <e lm="climateric" a="delia"><i>climateric</i><par n="bun__adj"/></e>
-<e r="LR" lm="climatic" a="delia"><i>climatic</i><par n="bun__adj"/></e>
+<e lm="climatic" a="delia"><i>climatic</i><par n="bun__adj"/></e>
 <e lm="cleios" a="delia"><i>cleio</i><par n="curajo/s__adj"/></e>
 <e lm="clăpăug" a="delia"><i>clăpăug</i><par n="bun__adj"/></e>
 <e lm="neted" a="delia"> <i>nete</i><par n="absur/d__adj"/></e>
