@@ -1,6 +1,28 @@
+<<<<<<< HEAD
 *.bin
 Makefile
 Makefile.in
 .deps
 modes/
 *.mode
+=======
+/*.bin
+/*.gz
+/*.m4
+/*.pc
+/INSTALL
+/Makefile
+/Makefile.in
+/ap_include.am
+/autom4te.cache
+/config.log
+/config.status
+/configure
+/install-sh
+/missing
+/modes
+/*.mode
+/.deps
+/config.in
+/config
+>>>>>>> 79d130a126e8ce95b4ce25047e26fa399cf38682

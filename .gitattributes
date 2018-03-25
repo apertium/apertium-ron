@@ -21,3 +21,8 @@ texts/limba_daneza1.tagged.txt -text
 texts/stea1.handtagged.camelia_mm.txt -text
 texts/stea1.raw.txt -text
 texts/stea1.tagged.txt -text
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true
