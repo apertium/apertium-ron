@@ -3,9 +3,6 @@
 
   <mode name="ron-morph" install="yes">
     <pipeline>
-	  <program name="lt-proc -t">
-        <file name="ron.translit.bin"/>
-      </program>
       <program name="lt-proc -w">
         <file name="ron.automorf.bin"/>
       </program>
@@ -22,9 +19,6 @@
 
   <mode name="ron-tagger" install="yes">
     <pipeline>
-      <program name="lt-proc -t">
-        <file name="ron.translit.bin"/>
-      </program>
       <program name="lt-proc -w">
         <file name="ron.automorf.bin"/>
       </program>
@@ -36,9 +30,6 @@
 
   <mode name="ron-disam" install="yes">
     <pipeline>
-      <program name="lt-proc -t">
-        <file name="ron.translit.bin"/>
-      </program>
       <program name="lt-proc -w">
         <file name="ron.automorf.bin"/>
       </program>

@@ -7,22 +7,13 @@ VERSION=0.1.0
 LANG1=ron
 BASENAME=apertium-$(LANG1)
 
-TARGETS_COMMON = $(LANG1).translit.bin $(LANG1).automorf.bin \
+TARGETS_COMMON = $(LANG1).automorf.bin \
 	$(LANG1).autogen.bin $(LANG1).autopgen.bin $(LANG1).autogen.bin \
 	$(LANG1).automorf.att.gz $(LANG1).autogen.att.gz \
 	$(LANG1).rlx.bin
 
 # Use this goal for creating .deps, otherwise make -j2 will give problems:
 @ap_include@
-
-
-###############################################################################
-## Romanian transliteration
-###############################################################################
-
-$(LANG1).translit.bin: $(BASENAME).translit.dix
-	lt-comp lr $(BASENAME).translit.dix $@
-
 
 ###############################################################################
 ## Romanian transducer
