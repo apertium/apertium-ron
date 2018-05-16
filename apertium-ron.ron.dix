@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 4
-	Entries: 19289
+	Entries: 19302
 	Sdefs: 76
 	Paradigms: 884
 	Last processed by: apertium-dixtools fix apertium-ron.ron.dix apertium-ron.ron.dix
@@ -18964,6 +18964,7 @@
 <e lm="aparent">         <i>aparen</i><par n="adevăra/t__adj"/></e>
 <e lm="apartenent" a="mioara"><i>apartenen</i><par n="adevăra/t__adj"/></e>
 <e lm="apatic" a="delia"><i>apatic</i><par n="bun__adj"/></e>
+<e lm="apelabil">        <i>apelabil</i><par n="bun__adj"/></e>
 <e lm="apetisant" a="delia"><i>apetisan</i><par n="adevăra/t__adj"/></e>
 <e lm="apos" a="delia">  <i>apo</i><par n="curajo/s__adj"/></e>
 <e lm="apocaliptic" a="mioara"><i>apocaliptic</i><par n="bun__adj"/></e>
@@ -19135,7 +19136,7 @@
 <e lm="bestial" a="delia"><i>bestial</i><par n="bun__adj"/></e>
 <e lm="beteag">          <i>bete</i><par n="pribe/ag__adj"/></e>
 <e lm="bezmetic" a="delia"><i>bezmetic</i><par n="bun__adj"/></e>
-<e r="LR" lm="bianual" a="mioara"><i>bianual</i><par n="bun__adj"/></e>
+<e lm="bianual" a="mioara"><i>bianual</i><par n="bun__adj"/></e>
 <e lm="biblic">          <i>biblic</i><par n="bun__adj"/></e>
 <e lm="bibliografic" a="mioara"><i>bibliografic</i><par n="bun__adj"/></e>
 <e lm="bicameral" a="mioara"><i>bicameral</i><par n="bun__adj"/></e>
@@ -19276,6 +19277,7 @@
 <e lm="captiv" a="delia"><i>captiv</i><par n="bun__adj"/></e>
 <e lm="captivat" a="mioara"><i>captiva</i><par n="adevăra/t__adj"/></e>
 <e lm="captivant" a="delia"><i>captivan</i><par n="adevăra/t__adj"/></e>
+<e lm="căptușit">        <i>căptuși</i><par n="adevăra/t__adj"/></e>
 <e lm="caracteristic">   <i>caracteristic</i><par n="bun__adj"/></e>
 <e lm="caraghios" a="delia"><i>caraghio</i><par n="curajo/s__adj"/></e>
 <e lm="carbonic" a="delnou"><i>carbonic</i><par n="bun__adj"/></e>
@@ -19290,6 +19292,7 @@
 <e lm="carnivor" a="delia"><i>carnivo</i><par n="arzăto/r__adj"/></e>
 <e lm="carosabil" a="delia"><i>carosabil</i><par n="bun__adj"/></e>
 <e lm="carpatic" a="delnou"><i>carpatic</i><par n="bun__adj"/></e>
+<e lm="cârpit">          <i>cârpi</i><par n="adevăra/t__adj"/></e>
 <e lm="carstic" a="mioara"><i>carstic</i><par n="bun__adj"/></e>
 <e lm="cartaginez" a="mioara"><i>cartaginez</i><par n="bun__adj"/></e>
 <e r="LR" lm="casnic" a="mioara"><i>casnic</i><par n="bun__adj"/></e>
@@ -19576,6 +19579,8 @@
 <e lm="curios">          <i>curio</i><par n="curajo/s__adj"/></e>
 <e r="LR" lm="curtenitor" a="mioara"><i>curtenito</i><par n="arzăto/r__adj"/></e>
 <e lm="curățat" a="delia"><i>curăța</i><par n="adevăra/t__adj"/></e>
+<e lm="cursiv">          <i>cursiv</i><par n="bun__adj"/></e>
+<e lm="cusut">           <i>cusu</i><par n="adevăra/t__adj"/></e>
 <e lm="cutanat" a="mioara"><i>cutana</i><par n="adevăra/t__adj"/></e>
 <e lm="cutezător" a="delia"><i>cutezăto</i><par n="arzăto/r__adj"/></e>
 <e lm="cutremurător" a="delia"><i>cutremurăto</i><par n="arzăto/r__adj"/></e>
@@ -19595,6 +19600,7 @@
 <e lm="căscat" a="delia"><i>căsca</i><par n="adevăra/t__adj"/></e>
 <e lm="căsătorit" a="delia"><i>căsători</i><par n="adevăra/t__adj"/></e>
 <e lm="cățărător" a="delia"><i>cățărăto</i><par n="arzăto/r__adj"/></e>
+<e lm="dacic">           <i>dacic</i><par n="bun__adj"/></e>
 <e lm="dactilografiat" a="delia"><i>dactilografia</i><par n="adevăra/t__adj"/></e>
 <e lm="dadaist" a="delnou"><i>dadai</i><par n="ca/st__adj"/></e>
 <e lm="danez" a="delnou"><i>danez</i><par n="bun__adj"/></e>
@@ -19982,7 +19988,7 @@
 <e lm="euro-atlantic" a="mioara"><i>euro-atlantic</i><par n="bun__adj"/></e>
 <e r="LR" lm="euroatlantic" a="mioara"><i>euroatlantic</i><par n="bun__adj"/></e>
 <e lm="european">        <i>europe</i><par n="europe/an__adj"/></e>
-<e r="LR" lm="evanghelist" a="mioara"><i>evangheli</i><par n="ca/st__adj"/></e>
+<e lm="evanghelist" a="mioara"><i>evangheli</i><par n="ca/st__adj"/></e>
 <e lm="evanghelic" a="mioara"><i>evanghelic</i><par n="bun__adj"/></e>
 <e lm="eventual" a="delia"><i>eventual</i><par n="bun__adj"/></e>
 <e lm="evident">         <i>eviden</i><par n="adevăra/t__adj"/></e>
@@ -20536,7 +20542,8 @@
 <e lm="inexorabil" a="delia"><i>inexorabil</i><par n="bun__adj"/></e>
 <e lm="inexplicabil" a="delia"><i>inexplicabil</i><par n="bun__adj"/></e>
 <e lm="inexpugnabil" a="mioara"><i>inexpugnabil</i><par n="bun__adj"/></e>
-<e lm="infailibil" a="delia"><i>infailibil</i><par n="bun__adj"/></e>
+<e lm="inextricabil">    <i>inextricabil</i><par n="bun__adj"/></e>
+<e lm="infailibil">      <i>infailibil</i><par n="bun__adj"/></e>
 <e lm="infam" a="delia"> <i>infam</i><par n="bun__adj"/></e>
 <e lm="infamant" a="mioara"><i>infaman</i><par n="adevăra/t__adj"/></e>
 <e lm="infantil">        <i>infantil</i><par n="bun__adj"/></e>
@@ -20621,7 +20628,7 @@
 <e r="LR" lm="inter instituțional" a="mioara"><i>inter<b/>instituțional</i><par n="bun__adj"/></e>
 <e lm="interactiv" a="mioara"><i>interactiv</i><par n="bun__adj"/></e>
 <e lm="interbelic" a="delnou"><i>interbelic</i><par n="bun__adj"/></e>
-<e lm="interguvernamental" a="mioara"><i>intereguvernamental</i><par n="bun__adj"/></e>
+<e lm="interguvernamental" a="mioara"><i>interguvernamental</i><par n="bun__adj"/></e>
 <e lm="interesant">      <i>interesan</i><par n="adevăra/t__adj"/></e>
 <e lm="interetnic" a="mioara"><i>interetnic</i><par n="bun__adj"/></e>
 <e lm="interimar" a="delia"><i>interimar</i><par n="bun__adj"/></e>
@@ -20660,6 +20667,7 @@
 <e lm="intuitiv" a="mioara"><i>intuitiv</i><par n="bun__adj"/></e>
 <e lm="intușabil" a="mioara"><i>intușabil</i><par n="bun__adj"/></e>
 <e lm="inuman">          <i>inuman</i><par n="bun__adj"/></e>
+<e r="LR" lm="inumerabil"><i>inumerabil</i><par n="bun__adj"/></e>
 <e lm="inutil">          <i>inutil</i><par n="bun__adj"/></e>
 <e lm="inuzual" a="delia"><i>inuzual</i><par n="bun__adj"/></e>
 <e lm="invariabil" a="delia"><i>invariabil</i><par n="bun__adj"/></e>
@@ -20691,6 +20699,7 @@
 <e lm="iregular">        <i>iregular</i><par n="bun__adj"/></e>
 <e lm="iremediabil" a="delia"><i>iremediabil</i><par n="bun__adj"/></e>
 <e lm="ireparabil" a="delnou"><i>ireparabil</i><par n="bun__adj"/></e>
+<e lm="irepetabil">      <i>irepetabil</i><par n="bun__adj"/></e>
 <e lm="irepresibil" a="mioara"><i>irepresibil</i><par n="bun__adj"/></e>
 <e lm="ireproșabil" a="delia"><i>ireproșabil</i><par n="bun__adj"/></e>
 <e lm="irespirabil">     <i>irespirabil</i><par n="bun__adj"/></e>
@@ -21222,6 +21231,7 @@
 <e lm="neobservat" a="mioara"><i>neobserva</i><par n="adevăra/t__adj"/></e>
 <e lm="neoclasic">       <i>neoclasic</i><par n="bun__adj"/></e>
 <e lm="neocomunist">     <i>neocomuni</i><par n="ca/st__adj"/></e>
+<e lm="neodadaist">      <i>neodadai</i><par n="ca/st__adj"/></e>
 <e lm="neofascist">      <i>neofasci</i><par n="ca/st__adj"/></e>
 <e lm="neoficial">       <i>neoficial</i><par n="bun__adj"/></e>
 <e lm="neogotic" a="mioara"><i>neogotic</i><par n="bun__adj"/></e>
@@ -21276,6 +21286,7 @@
 <e lm="neutru">          <i>neutr</i><par n="acr/u__adj"/></e>
 <e lm="neverificat" a="mioara"><i>neverifica</i><par n="adevăra/t__adj"/></e>
 <e lm="neverosimil" a="delia"><i>neverosimil</i><par n="bun__adj"/></e>
+<e lm="neviabil">        <i>neviabil</i><par n="bun__adj"/></e>
 <e lm="nevinovat" a="delia"><i>nevinova</i><par n="adevăra/t__adj"/></e>
 <e lm="nevoit" a="mioara"><i>nevoi</i><par n="adevăra/t__adj"/></e>
 <e lm="nevoiaș" a="delia"><i>nevoiaș</i><par n="bun__adj"/></e>
@@ -22036,6 +22047,7 @@
 <e lm="setos" a="delia"> <i>seto</i><par n="curajo/s__adj"/></e>
 <e lm="sever">           <i>sever</i><par n="bun__adj"/></e>
 <e lm="sexagenar" a="mioara"><i>sexagenar</i><par n="bun__adj"/></e>
+<e lm="sexist">          <i>sexi</i><par n="ca/st__adj"/></e>
 <e lm="sexual">          <i>sexual</i><par n="bun__adj"/></e>
 <e r="LR" lm="sezonier"> <i>sezonier</i><par n="bun__adj"/></e>
 <e lm="sfânt">           <i>sf</i><par n="sf/ânt__adj"/></e>
@@ -22377,7 +22389,7 @@
 <e lm="turc">            <i>turc</i><par n="bun__adj"/></e>
 <e lm="turcesc">         <i>turce</i><par n="române/sc__adj"/></e>
 <e lm="turistic">        <i>turistic</i><par n="bun__adj"/></e>
-<e r="LR" lm="târziu" a="mioara"><i>târzi</i><par n="auri/u__adj"/></e>
+<e lm="târziu" a="mioara"><i>târzi</i><par n="auri/u__adj"/></e>
 <e lm="tăcut" a="delia"> <i>tăcu</i><par n="adevăra/t__adj"/></e>
 <e lm="tăios" a="delia"> <i>tăio</i><par n="curajo/s__adj"/></e>
 <e lm="ud" a="delia">    <i>u</i><par n="absur/d__adj"/></e>
@@ -22443,7 +22455,7 @@
 <e lm="valoros">         <i>valoro</i><par n="curajo/s__adj"/></e>
 <e lm="van">             <i>van</i><par n="bun__adj"/></e>
 <e lm="vanitos" a="delia"><i>vanito</i><par n="curajo/s__adj"/></e>
-<e r="LR" lm="variu" a="mioara"><i>vari</i><par n="auri/u__adj"/></e>
+<e lm="variu" a="mioara"><i>vari</i><par n="auri/u__adj"/></e>
 <e lm="variat">          <i>varia</i><par n="adevăra/t__adj"/></e>
 <e lm="variabil" a="delia"><i>variabil</i><par n="bun__adj"/></e>
 <e lm="vascular" a="mioara"><i>vascular</i><par n="bun__adj"/></e>
@@ -22490,7 +22502,7 @@
 <e lm="viguros" a="delia"><i>viguro</i><par n="curajo/s__adj"/></e>
 <e lm="viitor">          <i>viito</i><par n="arzăto/r__adj"/></e>
 <e lm="vindicativ" a="delnou"><i>vindicativ</i><par n="bun__adj"/></e>
-<e r="LR" lm="vinețiu" a="mioara"><i>vineți</i><par n="auri/u__adj"/></e>
+<e lm="vinețiu" a="mioara"><i>vineți</i><par n="auri/u__adj"/></e>
 <e lm="vinicol" a="delia"><i>vinicol</i><par n="bun__adj"/></e>
 <e lm="vinovat">         <i>vinova</i><par n="adevăra/t__adj"/></e>
 <e lm="violaceu">        <i>violace</i><par n="instantane/u__adj"/></e>
@@ -22520,6 +22532,7 @@
 <e lm="voluntar">        <i>voluntar</i><par n="bun__adj"/></e>
 <e r="LR" lm="voluptos" a="delia"><i>volupto</i><par n="curajo/s__adj"/></e>
 <e lm="voluptuos" a="delia"><i>voluptuo</i><par n="curajo/s__adj"/></e>
+<e lm="vopsit">          <i>vopsi</i><par n="adevăra/t__adj"/></e>
 <e lm="vorbăreț" a="delia"><i>vorbăre</i><par n="cre/ț__adj"/></e>
 <e lm="votiv" a="mioara"><i>votiv</i><par n="bun__adj"/></e>
 <e r="LR" lm="vremelnic" a="mioara"><i>vremelnic</i><par n="bun__adj"/></e>
@@ -22705,9 +22718,9 @@
 <e lm="țărănesc" a="delia"><i>țărăne</i><par n="române/sc__adj"/></e>
 <e lm="acrilic">         <i>acrilic</i><par n="bun__adj"/></e>
 
-<e lm="cealaltă" a="delnou"><p><l>cealaltă</l><r>cealaltă<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-<e lm="ceilalți" a="delnou"><p><l>ceilalți</l><r>ceilalți<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-<e lm="celelalte" a="delnou"><p><l>celelalte</l><r>celelalte<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="cealaltă" a="delnou"><p><l>cealaltă</l><r>celălalt<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="ceilalți" a="delnou"><p><l>ceilalți</l><r>celălalt<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="celelalte" a="delnou"><p><l>celelalte</l><r>celălalt<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="celălalt" a="delnou"><p><l>celălalt</l><r>celălalt<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 
     <!-- Adverbe -->
