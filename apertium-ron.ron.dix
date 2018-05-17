@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 4
-	Entries: 19302
+	Entries: 19310
 	Sdefs: 76
 	Paradigms: 884
 	Last processed by: apertium-dixtools fix apertium-ron.ron.dix apertium-ron.ron.dix
@@ -18782,6 +18782,7 @@
 <e lm="adulterin" a="mioara"><i>adulterin</i><par n="bun__adj"/></e>
 <e lm="advers" a="delia"><i>adver</i><par n="diver/s__adj"/></e>
 <e lm="adânc">           <i>adânc</i><par n="mic__adj"/></e>
+<e lm="aerat">           <i>aera</i><par n="adevăra/t__adj"/></e>
 <e lm="aerian" a="delia"><i>aeri</i><par n="vegetari/an__adj"/></e>
 <e lm="aerob" a="mioara"><i>aerob</i><par n="bun__adj"/></e>
 <e lm="aerodinamic" a="delia"><i>aerodinamic</i><par n="bun__adj"/></e>
@@ -18869,13 +18870,13 @@
 <e lm="amar">            <i>amar</i><par n="bun__adj"/></e>
 <e lm="amarnic" a="delia"><i>amarnic</i><par n="bun__adj"/></e>
 <e lm="amazonian" a="mioara"><i>amazoni</i><par n="vegetari/an__adj"/></e>
-<e r="LR" lm="ambiant" a="mioara"><i>ambian</i><par n="adevăra/t__adj"/></e>
-<e lm="ambient" a="delia"><i>ambien</i><par n="adevăra/t__adj"/></e>
+<e lm="ambiant" a="mioara"><i>ambian</i><par n="adevăra/t__adj"/></e>
+<e r="LR" lm="ambient" a="delia"><i>ambien</i><par n="adevăra/t__adj"/></e>
 <e lm="ambiental" a="delnou"><i>ambiental</i><par n="bun__adj"/></e>
 <e lm="ambiguu">         <i>ambigu</i><par n="acr/u__adj"/></e>
 <e lm="ambițios">        <i>ambițio</i><par n="curajo/s__adj"/></e>
 <e lm="ambulant" a="delia"><i>ambulan</i><par n="adevăra/t__adj"/></e>
-<e lm="ambulator" a="mioara"><i>ambulator</i><par n="arzăto/r__adj"/></e>
+<e lm="ambulator" a="mioara"><i>ambulato</i><par n="arzăto/r__adj"/></e>
 <e r="LR" lm="ambulatoriu" a="mioara"><i>ambulatori</i><par n="auri/u__adj"/></e>
 <e lm="american">        <i>american</i><par n="bun__adj"/></e>
 <e lm="amețitor" a="mioara"><i>amețito</i><par n="arzăto/r__adj"/></e>
@@ -18988,7 +18989,7 @@
 <e lm="arborescent" a="mioara"><i>arborescen</i><par n="adevăra/t__adj"/></e>
 <e lm="arctic" a="delnou"><i>arctic</i><par n="bun__adj"/></e>
 <e lm="ardelean">        <i>ardele</i><par n="ardele/an__adj"/></e>
-<e r="LR" lm="ardelenesc" a="mioara"><i>ardelene</i><par n="române/sc__adj"/></e>
+<e lm="ardelenesc" a="mioara"><i>ardelene</i><par n="române/sc__adj"/></e>
 <e lm="ardent" a="delia"><i>arden</i><par n="adevăra/t__adj"/></e>
 <e lm="argentinian">     <i>argentini</i><par n="vegetari/an__adj"/></e>
 <e lm="argintiu">        <i>arginti</i><par n="auri/u__adj"/></e>
@@ -19003,6 +19004,7 @@
 <e lm="arhitectonic">    <i>arhitectonic</i><par n="bun__adj"/></e>
 <e lm="arhitectural">    <i>arhitectural</i><par n="bun__adj"/></e>
 <e lm="arhivistic" a="mioara"><i>arhivistic</i><par n="bun__adj"/></e>
+<e lm="arian">           <i>ari</i><par n="vegetari/an__adj"/></e>
 <e lm="arid" a="delia">  <i>ari</i><par n="absur/d__adj"/></e>
 <e r="LR" lm="arierat" a="mioara"><i>ariera</i><par n="adevăra/t__adj"/></e>
 <e lm="aristocratic" a="mioara"><i>aristocratic</i><par n="bun__adj"/></e>
@@ -19010,7 +19012,7 @@
 <e lm="aritmetic">       <i>aritmeti</i><par n="bun__adj"/></e>
 <e r="LR" lm="armat" a="mioara"><i>arma</i><par n="adevăra/t__adj"/></e>
 <e lm="armean" a="mioara"><i>arme</i><par n="europe/an__adj"/></e>
-<e r="LR" lm="armenesc" a="mioara"><i>armene</i><par n="române/sc__adj"/></e>
+<e lm="armenesc" a="mioara"><i>armene</i><par n="române/sc__adj"/></e>
 <e lm="armonic" a="mioara"><i>armonic</i><par n="bun__adj"/></e>
 <e lm="armonios" a="mioara"><i>armonio</i><par n="curajo/s__adj"/></e>
 <e lm="arogant" a="delia"><i>arogan</i><par n="adevăra/t__adj"/></e>
@@ -19151,7 +19153,7 @@
 <e lm="bilabial" a="delia"><i>bilabial</i><par n="bun__adj"/></e>
 <e lm="bilateral" a="delia"><i>bilateral</i><par n="bun__adj"/></e>
 <e lm="bilingv" a="mioara"><i>bilingv</i><par n="bun__adj"/></e>
-<e r="LR" lm="bilunar" a="mioara"><i>bilunar</i><par n="bun__adj"/></e>
+<e lm="bilunar" a="mioara"><i>bilunar</i><par n="bun__adj"/></e>
 <e lm="bimensual" a="delia"><i>bimensual</i><par n="bun__adj"/></e>
 <e lm="binar" a="mioara"><i>binar</i><par n="bun__adj"/></e>
 <e lm="bine cunoscut" a="mioara"><i>bine<b/>cunoscu</i><par n="adevăra/t__adj"/></e>
@@ -19183,7 +19185,7 @@
 <e lm="boem" a="delia">  <i>boem</i><par n="bun__adj"/></e>
 <e lm="bogat">           <i>boga</i><par n="adevăra/t__adj"/></e>
 <e lm="bolnav">          <i>bolnav</i><par n="bun__adj"/></e>
-<e r="LR" lm="bolnăvicios" a="mioara"><i>bolnăvicio</i><par n="curajo/s__adj"/></e>
+<e lm="bolnăvicios" a="mioara"><i>bolnăvicio</i><par n="curajo/s__adj"/></e>
 <e lm="bolovănos" a="mioara"><i>bolovăno</i><par n="curajo/s__adj"/></e>
 <e lm="boltit" a="mioara"><i>bolti</i><par n="adevăra/t__adj"/></e>
 <e lm="bolșevic" a="mioara"><i>bolșevic</i><par n="bun__adj"/></e>
@@ -19295,7 +19297,7 @@
 <e lm="cârpit">          <i>cârpi</i><par n="adevăra/t__adj"/></e>
 <e lm="carstic" a="mioara"><i>carstic</i><par n="bun__adj"/></e>
 <e lm="cartaginez" a="mioara"><i>cartaginez</i><par n="bun__adj"/></e>
-<e r="LR" lm="casnic" a="mioara"><i>casnic</i><par n="bun__adj"/></e>
+<e lm="casnic" a="mioara"><i>casnic</i><par n="bun__adj"/></e>
 <e lm="catalan">         <i>catalan</i><par n="bun__adj"/></e>
 <e lm="cataleptic" a="mioara"><i>cataleptic</i><par n="bun__adj"/></e>
 <e lm="catastrofal" a="mioara"><i>catastrofal</i><par n="bun__adj"/></e>
@@ -19503,7 +19505,7 @@
 <e lm="cooperant" a="mioara"><i>cooperan</i><par n="adevăra/t__adj"/></e>
 <e lm="cooperativist" a="mioara"><i>cooperativi</i><par n="ca/st__adj"/></e>
 <e lm="coordonat" a="delia"><i>coordona</i><par n="adevăra/t__adj"/></e>
-<e r="LR" lm="copilăresc" a="mioara"><i>copilăre</i><par n="române/sc__adj"/></e>
+<e lm="copilăresc" a="mioara"><i>copilăre</i><par n="române/sc__adj"/></e>
 <e lm="copilăros" a="delia"><i>copilăro</i><par n="curajo/s__adj"/></e>
 <e lm="copios" a="delia"><i>copio</i><par n="curajo/s__adj"/></e>
 <e lm="copleșitor" a="delia"><i>copleșito</i><par n="arzăto/r__adj"/></e>
@@ -19539,6 +19541,7 @@
 <e lm="crescător">       <i>crescăto</i><par n="arzăto/r__adj"/></e>
 <e lm="cretin" a="delia"><i>cretin</i><par n="bun__adj"/></e>
 <e lm="creștin">         <i>creștin</i><par n="bun__adj"/></e>
+<e lm="crimeean">        <i>crimeean</i><par n="bun__adj"/></e>
 <e lm="criminal">        <i>criminal</i><par n="bun__adj"/></e>
 <e lm="crispat" a="delia"><i>crispa</i><par n="adevăra/t__adj"/></e>
 <e lm="cristalin" a="delia"><i>cristalin</i><par n="bun__adj"/></e>
@@ -19619,7 +19622,7 @@
 <e lm="decent">          <i>decen</i><par n="adevăra/t__adj"/></e>
 <e lm="decepționat" a="delia"><i>decepționa</i><par n="adevăra/t__adj"/></e>
 <e lm="decepționant" a="mioara"><i>decepționan</i><par n="adevăra/t__adj"/></e>
-<e r="LR" lm="decident" a="mioara"><i>deciden</i><par n="adevăra/t__adj"/></e>
+<e lm="decident" a="mioara"><i>deciden</i><par n="adevăra/t__adj"/></e>
 <e lm="decisiv">         <i>decisiv</i><par n="bun__adj"/></e>
 <e lm="decizional" a="mioara"><i>decizional</i><par n="bun__adj"/></e>
 <e lm="declanșator" a="mioara"><i>declanșato</i><par n="arzăto/r__adj"/></e>
@@ -19843,7 +19846,7 @@
 <e lm="dornic" a="mioara"><i>dornic</i><par n="bun__adj"/></e>
 <e lm="dotat" a="delia"> <i>dota</i><par n="adevăra/t__adj"/></e>
 <e lm="drag">            <i>drag</i><par n="bun__adj"/></e>
-<e lm="dragonic" a="mioara"><i>dragonic</i><par n="bun__adj"/></e>
+<e lm="draconic" a="mioara"><i>draconic</i><par n="bun__adj"/></e>
 <e lm="dramatic">        <i>dramatic</i><par n="bun__adj"/></e>
 <e lm="drastic" a="delia"><i>drastic</i><par n="bun__adj"/></e>
 <e lm="drept">           <i>dre</i><par n="dre/pt__adj"/></e>
@@ -19987,6 +19990,7 @@
 <e lm="euharistic" a="mioara"><i>euharistic</i><par n="bun__adj"/></e>
 <e lm="euro-atlantic" a="mioara"><i>euro-atlantic</i><par n="bun__adj"/></e>
 <e r="LR" lm="euroatlantic" a="mioara"><i>euroatlantic</i><par n="bun__adj"/></e>
+<e lm="europarlamentar"> <i>europarlamentar</i><par n="bun__adj"/></e>
 <e lm="european">        <i>europe</i><par n="europe/an__adj"/></e>
 <e lm="evanghelist" a="mioara"><i>evangheli</i><par n="ca/st__adj"/></e>
 <e lm="evanghelic" a="mioara"><i>evanghelic</i><par n="bun__adj"/></e>
@@ -20135,7 +20139,7 @@
 <e lm="finlandez" a="delnou"><i>finlandez</i><par n="bun__adj"/></e>
 <e lm="fioros" a="delia"><i>fioro</i><par n="curajo/s__adj"/></e>
 <e lm="firav" a="delia"> <i>firav</i><par n="bun__adj"/></e>
-<e r="LR" lm="firesc" a="mioara"><i>fire</i><par n="române/sc__adj"/></e>
+<e lm="firesc" a="mioara"><i>fire</i><par n="române/sc__adj"/></e>
 <e lm="fiscal">          <i>fiscal</i><par n="bun__adj"/></e>
 <e lm="fistichiu" a="delia"><i>fistichi</i><par n="auri/u__adj"/></e>
 <e lm="fizic">           <i>fizic</i><par n="bun__adj"/></e>
@@ -20434,7 +20438,7 @@
 <e lm="important">       <i>importan</i><par n="adevăra/t__adj"/></e>
 <e lm="importator" a="delnou"><i>importato</i><par n="arzăto/r__adj"/></e>
 <e lm="imposibil">       <i>imposibil</i><par n="bun__adj"/></e>
-<e r="LR" lm="impozant" a="mioara"><i>impozan</i><par n="adevăra/t__adj"/></e>
+<e lm="impozant" a="mioara"><i>impozan</i><par n="adevăra/t__adj"/></e>
 <e lm="imprecis">        <i>impreci</i><par n="diver/s__adj"/></e>
 <e lm="impresionat">     <i>impresiona</i><par n="adevăra/t__adj"/></e>
 <e lm="impresionant">    <i>impresionan</i><par n="adevăra/t__adj"/></e>
@@ -21155,7 +21159,7 @@
 <e lm="necondiționat" a="delia"><i>necondiționa</i><par n="adevăra/t__adj"/></e>
 <e lm="necondițional" a="delia"><i>necondițional</i><par n="bun__adj"/></e>
 <e lm="neconsumat">      <i>neconsuma</i><par n="adevăra/t__adj"/></e>
-<e r="LR" lm="necontenit" a="mioara"><i>neconteni</i><par n="adevăra/t__adj"/></e>
+<e lm="necontenit" a="mioara"><i>neconteni</i><par n="adevăra/t__adj"/></e>
 <e lm="necontestat" a="mioara"><i>necontesta</i><par n="adevăra/t__adj"/></e>
 <e lm="necontrolat" a="mioara"><i>necontrola</i><par n="adevăra/t__adj"/></e>
 <e lm="necorespunzător" a="mioara"><i>necorespunzăto</i><par n="arzăto/r__adj"/></e>
@@ -21283,9 +21287,11 @@
 <e lm="netăiat" a="mioara"><i>netăia</i><par n="adevăra/t__adj"/></e>
 <e lm="neurastenic" a="mioara"><i>neurastenic</i><par n="bun__adj"/></e>
 <e lm="neurologic" a="mioara"><i>neurologic</i><par n="bun__adj"/></e>
+<e lm="neurotic">        <i>neurotic</i><par n="bun__adj"/></e>
 <e lm="neutru">          <i>neutr</i><par n="acr/u__adj"/></e>
 <e lm="neverificat" a="mioara"><i>neverifica</i><par n="adevăra/t__adj"/></e>
 <e lm="neverosimil" a="delia"><i>neverosimil</i><par n="bun__adj"/></e>
+<e lm="nevertebrat">     <i>nevertebra</i><par n="adevăra/t__adj"/></e>
 <e lm="neviabil">        <i>neviabil</i><par n="bun__adj"/></e>
 <e lm="nevinovat" a="delia"><i>nevinova</i><par n="adevăra/t__adj"/></e>
 <e lm="nevoit" a="mioara"><i>nevoi</i><par n="adevăra/t__adj"/></e>
@@ -21342,7 +21348,7 @@
 <e lm="numeric" a="mioara"><i>numeric</i><par n="bun__adj"/></e>
 <e lm="numeros">         <i>numero</i><par n="curajo/s__adj"/></e>
 <e lm="numismatic" a="mioara"><i>numismatic</i><par n="bun__adj"/></e>
-<e r="LR" lm="numărabil" a="mioara"><i>numărabil</i><par n="bun__adj"/></e>
+<e lm="numărabil" a="mioara"><i>numărabil</i><par n="bun__adj"/></e>
 <e lm="nutritiv">        <i>nutritiv</i><par n="bun__adj"/></e>
 <e lm="năclăit" a="delia"><i>năclăi</i><par n="adevăra/t__adj"/></e>
 <e lm="nămolos" a="delia"><i>nămolo</i><par n="curajo/s__adj"/></e>
@@ -21586,12 +21592,12 @@
 <e r="LR" lm="plicitsitor" a="delnou"><i>plictisito</i><par n="arzăto/r__adj"/></e>
 <e lm="plin">            <i>plin</i><par n="bun__adj"/></e>
 <e lm="ploios" a="delia"><i>ploio</i><par n="curajo/s__adj"/></e>
-<e r="LR" lm="plutitor" a="mioara"><i>plutito</i><par n="arzăto/r__adj"/></e>
+<e lm="plutitor" a="mioara"><i>plutito</i><par n="arzăto/r__adj"/></e>
 <e lm="plângăcios" a="delia"><i>plângăcio</i><par n="curajo/s__adj"/></e>
 <e lm="plăcut">          <i>plăcu</i><par n="adevăra/t__adj"/></e>
 <e lm="pneumatic" a="mioara"><i>pneumatic</i><par n="bun__adj"/></e>
 <e lm="poantilist" a="delnou"><i>poantili</i><par n="ca/st__adj"/></e>
-<e r="LR" lm="pocit" a="mioara"><i>poci</i><par n="adevăra/t__adj"/></e>
+<e lm="pocit" a="mioara"><i>poci</i><par n="adevăra/t__adj"/></e>
 <e lm="poetic">          <i>poetic</i><par n="bun__adj"/></e>
 <e lm="pofticios" a="delia"><i>pofticio</i><par n="curajo/s__adj"/></e>
 <e r="LR" lm="pohetic" a="delnou"><i>pohetic</i><par n="bun__adj"/></e>
@@ -21610,7 +21616,7 @@
 <e lm="polițienesc">     <i>polițiene</i><!-- arăbe/sc__adj' was replaced --><par n="române/sc__adj"/></e>
 <e lm="polonez" a="delia"><i>polonez</i><par n="bun__adj"/></e>
 <e lm="poluant">         <i>poluan</i><par n="adevăra/t__adj"/></e>
-<e r="LR" lm="pomicol" a="mioara"><i>pomicol</i><par n="bun__adj"/></e>
+<e lm="pomicol" a="mioara"><i>pomicol</i><par n="bun__adj"/></e>
 <e lm="pompos" a="mioara"><i>pompo</i><par n="curajo/s__adj"/></e>
 <e lm="ponderat" a="delia"><i>pondera</i><par n="adevăra/t__adj"/></e>
 <e lm="popular">         <i>popular</i><par n="bun__adj"/></e>
@@ -21716,7 +21722,7 @@
 <e lm="progresiv">       <i>progresiv</i><par n="bun__adj"/></e>
 <e lm="proletar" a="delia"><i>proletar</i><par n="bun__adj"/></e>
 <e lm="prolific" a="delia"><i>prolific</i><par n="bun__adj"/></e>
-<e lm="prolix" a="delnou"><i>prolix</i><par n="comple/x__adj"/></e>
+<e lm="prolix" a="delnou"><i>proli</i><par n="comple/x__adj"/></e>
 <e lm="promițător" a="delia"><i>promițăto</i><par n="arzăto/r__adj"/></e>
 <e lm="promotor" a="delnou"><i>promoto</i><par n="arzăto/r__adj"/></e>
 <e lm="promoțional">     <i>promoțional</i><par n="bun__adj"/></e>
@@ -21779,7 +21785,7 @@
 <e lm="pântecos" a="delia"><i>pânteco</i><par n="curajo/s__adj"/></e>
 <e lm="păcătos" a="delia"><i>păcăto</i><par n="curajo/s__adj"/></e>
 <e lm="păduchios" a="delia"><i>păduchio</i><par n="curajo/s__adj"/></e>
-<e r="LR" lm="păduros" a="mioara"><i>păduro</i><par n="curajo/s__adj"/></e>
+<e lm="păduros" a="mioara"><i>păduro</i><par n="curajo/s__adj"/></e>
 <e lm="păgân" a="delia"> <i>păgân</i><par n="bun__adj"/></e>
 <e lm="pământesc" a="delia"><i>pământe</i><!-- arăbe/sc__adj' was replaced --><par n="române/sc__adj"/></e>
 <e lm="părintesc">       <i>părinte</i><par n="române/sc__adj"/></e>
@@ -21924,8 +21930,10 @@
 <e lm="risipitor" a="delia"><i>risipito</i><par n="arzăto/r__adj"/></e>
 <e lm="ritmic" a="delia"><i>ritmic</i><par n="bun__adj"/></e>
 <e lm="ritual" a="delnou"><i>ritual</i><par n="bun__adj"/></e>
+<e lm="riveran">         <i>riveran</i><par n="bun__adj"/></e>
 <e lm="robust" a="delia"><i>robu</i><par n="ca/st__adj"/></e>
 <e lm="rodnic" a="delia"><i>rodnic</i><par n="bun__adj"/></e>
+<e lm="rom">             <i>rom</i><par n="bun__adj"/></e>
 <e lm="roman">           <i>roman</i><par n="bun__adj"/></e>
 <e lm="romanic" a="delia"><i>romanic</i><par n="bun__adj"/></e>
 <e lm="romantic">        <i>romantic</i><par n="bun__adj"/></e>
@@ -21962,7 +21970,7 @@
 <e lm="răscunoscut" a="delia"><i>răscunoscu</i><par n="adevăra/t__adj"/></e>
 <e lm="răsfățat" a="delia"><i>răsfăța</i><par n="adevăra/t__adj"/></e>
 <e lm="răsunător" a="delia"><i>răsunăto</i><par n="arzăto/r__adj"/></e>
-<e r="LR" lm="rătăcitor" a="mioara"><i>rătăcito</i><par n="arzăto/r__adj"/></e>
+<e lm="rătăcitor" a="mioara"><i>rătăcito</i><par n="arzăto/r__adj"/></e>
 <e lm="răutăcios" a="delia"><i>răutăcio</i><par n="curajo/s__adj"/></e>
 <e lm="răzbunător" a="delia"><i>răzbunăto</i><par n="arzăto/r__adj"/></e>
 <e lm="rășinos" a="delia"><i>rășino</i><par n="curajo/s__adj"/></e>
