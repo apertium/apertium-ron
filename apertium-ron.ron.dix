@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 4
-	Entries: 19310
+	Entries: 19316
 	Sdefs: 76
 	Paradigms: 884
 	Last processed by: apertium-dixtools fix apertium-ron.ron.dix apertium-ron.ron.dix
@@ -8152,22 +8152,22 @@
 </pardef>
 
 <pardef n="prim__adj">
-  <e>       <p><l></l>          <r><s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ul</l>        <r><s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ului</l>      <r><s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>ă</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>a</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>e</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ei</l>        <r><s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r><s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ii</l>        <r><s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r><s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ilor</l>      <r><s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>e</l>         <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ele</l>       <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>e</l>         <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>elor</l>      <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="adj"/><s n="ord"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ul</l>        <r><s n="adj"/><s n="ord"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="adj"/><s n="ord"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ului</l>      <r><s n="adj"/><s n="ord"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ă</l>         <r><s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>a</l>         <r><s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>e</l>         <r><s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ei</l>        <r><s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r><s n="adj"/><s n="ord"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ii</l>        <r><s n="adj"/><s n="ord"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r><s n="adj"/><s n="ord"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilor</l>      <r><s n="adj"/><s n="ord"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>e</l>         <r><s n="adj"/><s n="ord"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ele</l>       <r><s n="adj"/><s n="ord"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>e</l>         <r><s n="adj"/><s n="ord"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>elor</l>      <r><s n="adj"/><s n="ord"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
 <pardef n="adevăra/t__adj">
@@ -20868,7 +20868,7 @@
 <e lm="local">           <i>local</i><par n="bun__adj"/></e>
 <e r="LR" lm="locomotor" a="delia"><i>locomoto</i><par n="arzăto/r__adj"/></e>
 <e lm="locuibil" a="mioara"><i>locuibil</i><par n="bun__adj"/></e>
-<e r="LR" lm="locvace" a="mioara"><i>locvace</i><par n="locvace__adj"/></e>
+<e lm="locvace" a="mioara"><i>locvace</i><par n="locvace__adj"/></e>
 <e lm="logaritmic" a="delia"><i>logaritmic</i><par n="bun__adj"/></e>
 <e lm="logic">           <i>logic</i><par n="bun__adj"/></e>
 <e lm="logistic" a="delia"><i>logistic</i><par n="bun__adj"/></e>
@@ -21974,7 +21974,7 @@
 <e lm="răutăcios" a="delia"><i>răutăcio</i><par n="curajo/s__adj"/></e>
 <e lm="răzbunător" a="delia"><i>răzbunăto</i><par n="arzăto/r__adj"/></e>
 <e lm="rășinos" a="delia"><i>rășino</i><par n="curajo/s__adj"/></e>
-<e r="LR" lm="sacerdotal" a="mioara"><i>sacerdotal</i><par n="bun__adj"/></e>
+<e lm="sacerdotal" a="mioara"><i>sacerdotal</i><par n="bun__adj"/></e>
 <e lm="sacru">           <i>sacr</i><par n="acr/u__adj"/></e>
 <e lm="sacral" a="mioara"><i>sacral</i><par n="bun__adj"/></e>
 <e lm="sadic" a="delia"> <i>sadic</i><par n="bun__adj"/></e>
@@ -22169,6 +22169,8 @@
 <e lm="stenic" a="mioara"><i>stenic</i><par n="bun__adj"/></e>
 <e lm="stereofonic" a="delia"><i>stereofonic</i><par n="bun__adj"/></e>
 <e lm="stereotip" a="delnou"><i>stereotip</i><par n="bun__adj"/></e>
+<e lm="stereotipat">     <i>stereotipa</i><par n="adevăra/t__adj"/></e>
+<e lm="stereotipic">     <i>stereotipic</i><par n="bun__adj"/></e>
 <e lm="steril" a="delia"><i>steril</i><par n="bun__adj"/></e>
 <e lm="sticlos" a="delia"><i>sticlo</i><par n="curajo/s__adj"/></e>
 <e lm="stilistic" a="delnou"><i>stilistic</i><par n="bun__adj"/></e>
@@ -22271,7 +22273,7 @@
 <e lm="săpunos" a="mioara"><i>săpuno</i><par n="curajo/s__adj"/></e>
 <e lm="sărat" a="delia"> <i>săra</i><par n="adevăra/t__adj"/></e>
 <e lm="sărac">           <i>sărac</i><par n="bun__adj"/></e>
-<e r="LR" lm="săsesc" a="mioara"><i>săse</i><par n="române/sc__adj"/></e>
+<e lm="săsesc" a="mioara"><i>săse</i><par n="române/sc__adj"/></e>
 <e lm="sătul">           <i>sătu</i><par n="destu/l__adj"/></e>
 <e lm="tânăr">           <i>t</i><par n="t/ânăr__adj"/></e>
 <e lm="tabloid" a="delia"><i>tabloi</i><par n="absur/d__adj"/></e>
@@ -22352,6 +22354,8 @@
 <e lm="totalitarist" a="mioara"><i>totalitari</i><par n="ca/st__adj"/></e>
 <e lm="totemic" a="mioara"><i>totemic</i><par n="bun__adj"/></e>
 <e lm="toxic" a="delia"> <i>toxic</i><par n="bun__adj"/></e>
+<e lm="trac">            <i>trac</i><par n="bun__adj"/></e>
+<e lm="tracic">          <i>tracic</i><par n="bun__adj"/></e>
 <e lm="tradițional">     <i>tradițional</i><par n="bun__adj"/></e>
 <e lm="tradiționalist" a="mioara"><i>tradiționali</i><par n="ca/st__adj"/></e>
 <e lm="traductibil" a="delia"><i>traductibil</i><par n="bun__adj"/></e>
@@ -22390,6 +22394,7 @@
 <e lm="troțkist" a="delnou"><i>troțki</i><par n="ca/st__adj"/></e>
 <e lm="trufaș" a="delia"><i>trufaș</i><par n="bun__adj"/></e>
 <e lm="trândav" a="delia"><i>trândav</i><par n="bun__adj"/></e>
+<e lm="trăit">           <i>trăi</i><par n="adevăra/t__adj"/></e>
 <e lm="trăznit" a="delia"><i>trăzni</i><par n="adevăra/t__adj"/></e>
 <e lm="tuberculos" a="mioara"><i>tuberculo</i><par n="curajo/s__adj"/></e>
 <e lm="tulburător" a="delia"><i>tulburăto</i><par n="arzăto/r__adj"/></e>
@@ -22543,7 +22548,7 @@
 <e lm="vopsit">          <i>vopsi</i><par n="adevăra/t__adj"/></e>
 <e lm="vorbăreț" a="delia"><i>vorbăre</i><par n="cre/ț__adj"/></e>
 <e lm="votiv" a="mioara"><i>votiv</i><par n="bun__adj"/></e>
-<e r="LR" lm="vremelnic" a="mioara"><i>vremelnic</i><par n="bun__adj"/></e>
+<e lm="vremelnic" a="mioara"><i>vremelnic</i><par n="bun__adj"/></e>
 <e lm="vulcanic" a="delia"><i>vulcanic</i><par n="bun__adj"/></e>
 <e lm="vulcanizat" a="delia"><i>vulcaniza</i><par n="adevăra/t__adj"/></e>
 <e lm="vulgar">          <i>vulgar</i><par n="bun__adj"/></e>
@@ -35859,6 +35864,7 @@
 <e lm="canaliza" a="delia"><i>canaliz</i><par n="lucr/a__vblex"/></e>
 <e lm="candida" a="delnou"><i>candid</i><par n="lucr/a__vblex"/></e>
 <e lm="canoniza" a="delnou"><i>canoniz</i><par n="lucr/a__vblex"/></e>
+<e lm="cantona">         <i>canton</i><par n="lucr/a__vblex"/></e>
 <e lm="capacita">        <i>capacit</i><par n="lucr/a__vblex"/></e>
 <e lm="capitula">        <i>capitul</i><par n="lucr/a__vblex"/></e>
 <e lm="capta">           <i>capt</i><par n="lucr/a__vblex"/></e>
