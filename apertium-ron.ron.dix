@@ -19197,7 +19197,7 @@
 <e lm="botanic" a="delia"><i>botanic</i><par n="bun__adj"/></e>
 <e lm="botos" a="mioara"><i>boto</i><par n="curajo/s__adj"/></e>
 <e lm="bovin" a="delia"> <i>bovin</i><par n="bun__adj"/></e>
-<e r="LR" lm="boțit" a="delia"><i>boți</i><par n="adevăra/t__adj"/></e>
+<e lm="boțit" a="delia"> <i>boți</i><par n="adevăra/t__adj"/></e>
 <e r="LR" lm="brav" a="mioara"><i>brav</i><par n="bun__adj"/></e>
 <e lm="brazilian">       <i>brazili</i><par n="vegetari/an__adj"/></e>
 <e lm="breaz">           <i>bre</i><par n="tre/az__adj"/></e>
