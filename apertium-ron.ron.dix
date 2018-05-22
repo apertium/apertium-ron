@@ -18923,7 +18923,7 @@
 <e lm="antagonic" a="mioara"><i>antagonic</i><par n="bun__adj"/></e>
 <e lm="antarctic" a="mioara"><i>antarctic</i><par n="bun__adj"/></e>
 <e lm="antebelic" a="mioara"><i>antebelic</i><par n="bun__adj"/></e>
-<e lm="antepenultim" a="delia"><i>antepenultim</i><par n="bun__adj"/></e>
+<e lm="antepenultim" a="delia"><i>antepenultim</i><par n="prim__adj"/></e>
 <e lm="anterior">        <i>anterio</i><par n="ușo/r__adj"/></e>
 <e lm="antiacademic" a="delnou"><i>antiacademic</i><par n="bun__adj"/></e>
 <e lm="antiaerian" a="delia"><i>antiaeri</i><par n="vegetari/an__adj"/></e>
@@ -19238,7 +19238,7 @@
 <e lm="băgăreț" a="delia"><i>băgăre</i><par n="cre/ț__adj"/></e>
 <e lm="bălos" a="mioara"><i>bălo</i><par n="curajo/s__adj"/></e>
 <e lm="bănesc" a="delia"><i>băne</i><par n="române/sc__adj"/></e>
-<e r="LR" lm="bănos" a="delia"><i>băno</i><par n="curajo/s__adj"/></e>
+<e lm="bănos" a="delia"> <i>băno</i><par n="curajo/s__adj"/></e>
 <e lm="bănuitor" a="delia"><i>bănuito</i><par n="arzăto/r__adj"/></e>
 <e lm="bărbierit" a="delia"><i>bărbieri</i><par n="adevăra/t__adj"/></e>
 <e lm="bărbos" a="delia"><i>bărbo</i><par n="curajo/s__adj"/></e>
@@ -19835,7 +19835,7 @@
 <e lm="documentar" a="delia"><i>documentar</i><par n="bun__adj"/></e>
 <e lm="dogmatic" a="delia"><i>dogmatic</i><par n="bun__adj"/></e>
 <e lm="dogorâtor" a="delia"><i>dogorâto</i><par n="arzăto/r__adj"/></e>
-<e r="LR" lm="dolofan" a="delia"><i>dolofan</i><par n="bun__adj"/></e>
+<e lm="dolofan" a="delia"><i>dolofan</i><par n="bun__adj"/></e>
 <e lm="domestic">        <i>domestic</i><par n="bun__adj"/></e>
 <e lm="domesticit" a="delia"><i>domestici</i><par n="adevăra/t__adj"/></e>
 <e lm="domiciliat" a="delia"><i>domicilia</i><par n="adevăra/t__adj"/></e>
@@ -21091,7 +21091,7 @@
 <e lm="mulțumitor" a="delia"><i>mulțumito</i><par n="arzăto/r__adj"/></e>
 <e lm="muncitor">        <i>muncito</i><par n="arzăto/r__adj"/></e>
 <e lm="municipal">       <i>municipal</i><par n="bun__adj"/></e>
-<e r="LR" lm="muntenesc" a="mioara"><i>muntene</i><par n="române/sc__adj"/></e>
+<e lm="muntenesc" a="mioara"><i>muntene</i><par n="române/sc__adj"/></e>
 <e lm="muntos" a="mioara"><i>munto</i><par n="curajo/s__adj"/></e>
 <e lm="mural" a="delnou"><i>mural</i><par n="bun__adj"/></e>
 <e lm="murdar">          <i>murdar</i><par n="bun__adj"/></e>
