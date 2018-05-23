@@ -19613,7 +19613,7 @@
 <e lm="des">             <i>de</i><par n="de/s__adj"/></e>
 <e r="LR" lm="de ajuns" a="mioara"><i>de<b/>ajuns</i><par n="multimedia__adj"/></e>
 <e r="LR" lm="de mâna a doua" a="mioara"><i>de<b/>mâna<b/>a<b/>doua</i><par n="multimedia__adj"/></e>
-<e r="LR" lm="de nuiele" a="mioara"><i>de<b/>nuiele</i><par n="multimedia__adj"/></e>
+<e lm="de nuiele" a="mioara"><i>de<b/>nuiele</i><par n="multimedia__adj"/></e>
 <e r="LR" lm="de sine stătător" a="mioara"><i>de<b/>sine<b/>stătăto</i><par n="arzăto/r__adj"/></e>
 <e lm="debil">           <i>debil</i><par n="bun__adj"/></e>
 <e lm="debordant" a="delia"><i>debordan</i><par n="adevăra/t__adj"/></e>
@@ -22307,7 +22307,7 @@
 <e lm="tenace" a="delia"><i>tenac</i><par n="vivac/e__adj"/></e>
 <e lm="tenebros" a="delia"><i>tenebro</i><par n="curajo/s__adj"/></e>
 <e lm="tensionat">       <i>tensiona</i><par n="adevăra/t__adj"/></e>
-<e r="LR" lm="tentant" a="mioara"><i>tentan</i><par n="adevăra/t__adj"/></e>
+<e lm="tentant" a="mioara"><i>tentan</i><par n="adevăra/t__adj"/></e>
 <e lm="teocratic" a="mioara"><i>teocratic</i><par n="bun__adj"/></e>
 <e lm="teologic" a="delnou"><i>teologic</i><par n="bun__adj"/></e>
 <e lm="teoretic" a="mangheluta"><i>teoretic</i><par n="bun__adj"/></e>
