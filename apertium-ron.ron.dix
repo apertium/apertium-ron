@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 4
-	Entries: 19463
+	Entries: 19496
 	Sdefs: 77
 	Paradigms: 885
 	Last processed by: apertium-dixtools fix apertium-ron.ron.dix apertium-ron.ron.dix
@@ -7209,14 +7209,14 @@
   <e>       <p><l>nul</l>       <r>n<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>n</l>         <r>n<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>nului</l>     <r>n<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e r="LR"><p><l>nuri</l>      <r>n<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ane</l>       <r>n<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e r="LR"><p><l>nurile</l>    <r>n<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>anele</l>     <r>n<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e r="LR"><p><l>nuri</l>      <r>n<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ane</l>       <r>n<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e r="LR"><p><l>nurilor</l>   <r>n<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>anelor</l>    <r>n<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>nuri</l>      <r>n<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e r="LR"><p><l>ane</l>       <r>n<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>nurile</l>    <r>n<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e r="LR"><p><l>anele</l>     <r>n<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>nuri</l>      <r>n<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e r="LR"><p><l>ane</l>       <r>n<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>nurilor</l>   <r>n<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e r="LR"><p><l>anelor</l>    <r>n<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
 <pardef n="sânge__n">
@@ -24632,7 +24632,7 @@
 <e lm="baschet" a="mioara"><i>baschet</i><par n="caiet__n"/></e>
 <e lm="basculare" a="mangheluta"><i>bascul</i><par n="întreb/are__n"/></e>
 <e lm="basculantă" a="mioara"><i>basculant</i><par n="cas/ă__n"/></e>
-<e r="LR" lm="basm" a="mioara"><i>basm</i><par n="caiet__n"/></e>
+<e lm="basm" a="mioara"> <i>basm</i><par n="caiet__n"/></e>
 <e r="LR" lm="basma" a="mioara"><i>basma</i><par n="zi__n"/></e>
 <e lm="basorelief" a="mioara"><i>basorelief</i><par n="gât__n"/></e>
 <e lm="bastard" a="delia"><i>bastar</i><par n="indivi/d__n"/></e>
@@ -25523,7 +25523,7 @@
 <e lm="clientelă">       <i>clientel</i><par n="cas/ă__n"/></e>
 <e lm="clientelism" a="mioara"><i>clientelism</i><par n="caiet__n"/></e>
 <e lm="climă">           <i>clim</i><par n="cas/ă__n"/></e>
-<e r="LR" lm="climat" a="delnou"><i>climat</i><par n="caiet__n"/></e>
+<e lm="climat" a="delnou"><i>climat</i><par n="caiet__n"/></e>
 <e lm="climatolog" a="mioara"><i>climatolog</i><par n="coleg__n"/></e>
 <e lm="climatologie" a="mioara"><i>climatologi</i><par n="coaliți/e__n"/></e>
 <e lm="clinică">         <i>clinic</i><par n="duminic/ă__n"/></e>
@@ -33341,6 +33341,39 @@
 <e lm="istoric">         <i>istoric</i><par n="român__n"/></e>
 <e lm="ginecolog">       <i>ginecolog</i><par n="român__n"/></e>
 <e lm="castilian">       <i>castilian</i><par n="român__n"/></e>
+<e lm="﻿cântar">         <i>﻿cântar</i><par n="caiet__n"/></e>
+<e lm="fir de păr">      <i>fir</i><par n="caiet__n"/><p><l><b/>de<b/>păr</l><r><g><b/>de<b/>păr</g></r></p></e>
+<e lm="garaj">           <i>garaj</i><par n="caiet__n"/></e>
+<e lm="ilic">            <i>ilic</i><par n="caiet__n"/></e>
+<e lm="pansament">       <i>pansament</i><par n="caiet__n"/></e>
+<e lm="tambur">          <i>tambur</i><par n="caiet__n"/></e>
+<e lm="topaz">           <i>topaz</i><par n="caiet__n"/></e>
+<e lm="tricotaj">        <i>tricotaj</i><par n="caiet__n"/></e>
+<e lm="comitat">         <i>comitat</i><par n="caiet__n"/></e>
+<e lm="livret">          <i>livret</i><par n="caiet__n"/></e>
+<e lm="canal de scurgere"><i>canal</i><par n="caiet__n"/><p><l><b/>de<b/>scurgere</l><r><g><b/>de<b/>scurgere</g></r></p></e>
+<e lm="﻿chioșc">         <i>﻿chioșc</i><par n="gât__n"/></e>
+<e lm="cler">            <i>cler</i><par n="gât__n"/></e>
+<e lm="coș de hârtii">   <i>coș</i><par n="gât__n"/><p><l><b/>de<b/>hârtii</l><r><g><b/>de<b/>hârtii</g></r></p></e>
+<e lm="cuarț">           <i>cuarț</i><par n="gât__n"/></e>
+<e lm="dulap">           <i>dulap</i><par n="gât__n"/></e>
+<e lm="final">           <i>final</i><par n="gât__n"/></e>
+<e lm="idiom">           <i>idiom</i><par n="gât__n"/></e>
+<e lm="mezel">           <i>mezel</i><par n="gât__n"/></e>
+<e lm="microcosm">       <i>microcosm</i><par n="gât__n"/></e>
+<e lm="microcosmos">     <i>microcosmos</i><par n="gât__n"/></e>
+<e lm="muștar">          <i>muștar</i><par n="gât__n"/></e>
+<e lm="parașoc">         <i>parașoc</i><par n="gât__n"/></e>
+<e lm="pojar">           <i>pojar</i><par n="gât__n"/></e>
+<e lm="rom">             <i>rom</i><par n="gât__n"/></e>
+<e lm="sfârșit de săptămână"><i>sfârșit</i><par n="gât__n"/><p><l><b/>de<b/>săptămână</l><r><g><b/>de<b/>săptămână</g></r></p></e>
+<e lm="scor">            <i>scor</i><par n="gât__n"/></e>
+<e lm="sit">             <i>sit</i><par n="gât__n"/></e>
+<e lm="bioritm">         <i>bioritm</i><par n="gât__n"/></e>
+<e lm="complex de vitamine"><i>complex</i><par n="gât__n"/><p><l><b/>de<b/>vitamine</l><r><g><b/>de<b/>vitamine</g></r></p></e>
+<e lm="ghid">            <i>ghid</i><par n="gât__n"/></e>
+<e lm="pop">             <i>pop</i><par n="gât__n"/></e>
+<e lm="pământ al făgăduinței"><i>pământ</i><par n="gât__n"/><p><l><b/>al<b/>făgăduinței</l><r><g><b/>al<b/>făgăduinței</g></r></p></e>
 
 <e lm="Bancă Mondială">  <p><l>Banca<b/>Mondială</l><r>Bancă<b/>Mondială<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="Bancă Mondială" a="delnou"><p><l>Bancă<b/>Mondială</l><r>Bancă<b/>Mondială<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
