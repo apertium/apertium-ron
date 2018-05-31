@@ -7924,8 +7924,8 @@
 </pardef>
 
 <pardef n="Mari/a__np">
-  <e>       <p><l></l>          <r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l></l>          <r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>a</l>         <r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ei</l>        <r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
 <pardef n="Carmen__np">
