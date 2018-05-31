@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 4
-	Entries: 19496
+	Entries: 19900
 	Sdefs: 76
-	Paradigms: 885
+	Paradigms: 886
 	Last processed by: apertium-dixtools fix apertium-ron.ron.dix apertium-ron.ron.dix
 
 -->
@@ -7913,10 +7913,6 @@
   <e>       <p><l></l>          <r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 </pardef>
 
-<pardef n="Maria__np">
-  <e>       <p><l></l>          <r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-</pardef>
-
 <pardef n="Marea_Britanie__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 </pardef>
@@ -7925,6 +7921,15 @@
 
 <pardef n="Mihai__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+</pardef>
+
+<pardef n="Mari/a__np">
+  <e>       <p><l></l>          <r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l></l>          <r>a<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
+<pardef n="Carmen__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 </pardef>
 
 <!-- PARADIGMA ACRÒNIMS-->
@@ -25281,7 +25286,7 @@
 <e lm="cavaler">         <i>cavaler</i><par n="an__n"/></e>
 <e lm="cavalerie">       <i>cavaleri</i><par n="coaliți/e__n"/></e>
 <e lm="cavernă" a="delia"><i>cavern</i><par n="cas/ă__n"/></e>
-<e lm="caviar" a="delnou"><i>cavir</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="caviar" a="delnou"><i>caviar</i><!-- aur__n' was replaced --><par n="est__n"/></e>
 <e lm="cavitate" a="delia"><i>cavit</i><par n="universit/ate__n"/></e>
 <e lm="cavou" a="delia"> <i>cavou</i><par n="metrou__n"/></e>
 <e lm="caz">             <i>caz</i><par n="gât__n"/></e>
@@ -26090,10 +26095,11 @@
 <e lm="cupru">           <i>cupru</i><!-- cupru__n' was replaced --><par n="sodiu__n"/></e>
 <e lm="cuptor" a="delia"><i>cupto</i><par n="popo/r__n"/></e>
 <e lm="curte">           <i>cur</i><!-- min/te__n' was replaced --><par n="virtu/te__n"/></e>
-<e lm="curte de apel" a="mioara"><i>cur</i><par n="cur/te_de_apel__n"/></e>
-<e lm="curte de casație" a="mioara"><i>cur</i><par n="cur/te_de_casație__n"/></e>
-<e lm="curte de conturi" a="mioara"><i>cur</i><par n="cur/te_de_conturi__n"/></e>
-<e lm="curte de justiție" a="mioara"><i>cur</i><par n="cur/te_de_justiție__n"/></e>
+<e lm="curte de apel" a="mioara"><i>cur</i><par n="virtu/te__n"/><p><l><b/>de<b/>apel</l><r><g><b/>de<b/>apel</g></r></p></e>
+<e lm="curte de casație" a="mioara"><i>cur</i><par n="virtu/te__n"/><p><l><b/>de<b/>casație</l><r><g><b/>de<b/>casație</g></r></p></e>
+<e lm="curte de conturi" a="mioara"><i>cur</i><par n="virtu/te__n"/><p><l><b/>de<b/>conturi</l><r><g><b/>de<b/>conturi</g></r></p></e>
+<e lm="curte de justiție" a="mioara"><i>cur</i><par n="virtu/te__n"/><p><l><b/>de<b/>justiție</l><r><g><b/>de<b/>justiție</g></r></p></e>
+<e lm="cursă de șoareci"><i>curs</i><par n="cas/ă__n"/><p><l><b/>de<b/>șoareci</l><r><g><b/>de<b/>șoareci</g></r></p></e>
 <e lm="cur" a="delia">   <i>cur</i><par n="gât__n"/></e>
 <e lm="curaj">           <i>curaj</i><!-- aur__n' was replaced --><par n="est__n"/></e>
 <e lm="curcă" a="mioara"><i>curc</i><par n="duminic/ă__n"/></e>
@@ -26106,8 +26112,8 @@
 <e lm="curiozitate" a="delnou"><i>curiozit</i><par n="universit/ate__n"/></e>
 <e lm="curmală" a="delia"><i>curmal</i><par n="cas/ă__n"/></e>
 <e r="LR" lm="curmal" a="delia"><i>curmal</i><par n="an__n"/></e>
-<e lm="cursă contra cronometru" a="mioara"><i>curs</i><par n="curs/ă_contra_cronometru__n"/></e>
-<e lm="cursă cu obstacole" a="mioara"><i>curs</i><par n="curs/ă_cu_obstacole__n"/></e>
+<e lm="cursă contra cronometru"><i>curs</i><par n="cas/ă__n"/><p><l><b/>contra<b/>cronometru</l><r><g><b/>contra<b/>cronometru</g></r></p></e>
+<e lm="cursă cu obstacole"><i>curs</i><par n="cas/ă__n"/><p><l><b/>cu<b/>obstacole</l><r><g><b/>cu<b/>obstacole</g></r></p></e>
 <e lm="curs">            <i>curs</i><par n="gât__n"/></e>
 <e r="LR" lm="cursă" a="mioara"><i>curs</i><par n="cas/ă__n"/></e>
 <e r="LR" lm="curtenie" a="mioara"><i>curteni</i><par n="coaliți/e__n"/></e>
@@ -32265,7 +32271,7 @@
 <e lm="testament" a="delia"><i>testament</i><par n="caiet__n"/></e>
 <e lm="teuton" a="mioara"><i>teuton</i><par n="coleg__n"/></e>
 <e lm="text">            <i>text</i><par n="caiet__n"/></e>
-<e lm="textier" a="mioara"><i>textier</i><par n="an__n"/></e>
+<e lm="textier" a="mioara"><i>textier</i><par n="român__n"/></e>
 <e lm="textură" a="delia"><i>textur</i><par n="duminic/ă__n"/></e>
 <e lm="teză" a="delia">  <i>tez</i><par n="cas/ă__n"/></e>
 <e lm="tezaur" a="delia"><i>tezaur</i><par n="caiet__n"/></e>
@@ -33373,6 +33379,17 @@
 <e lm="ghid">            <i>ghid</i><par n="gât__n"/></e>
 <e lm="pop">             <i>pop</i><par n="gât__n"/></e>
 <e lm="pământ al făgăduinței"><i>pământ</i><par n="gât__n"/><p><l><b/>al<b/>făgăduinței</l><r><g><b/>al<b/>făgăduinței</g></r></p></e>
+<e lm="licean">          <i>lice</i><par n="tehnici/an__n"/></e>
+<e lm="calvin">          <i>calvin</i><par n="român__n"/></e>
+<e lm="secesionist">     <i>secesioni</i><par n="comuni/st__n"/></e>
+<e lm="belgian">         <i>belgi</i><par n="indi/an__n"/></e>
+<e lm="ucrainean">       <i>ucraine</i><par n="europe/an__n"/></e>
+<e lm="sonometru">       <i>sonometr</i><par n="sicri/u__n"/></e>
+<e lm="diametru">        <i>diametr</i><par n="sicri/u__n"/></e>
+<e lm="semidiametru">    <i>semidiametr</i><par n="sicri/u__n"/></e>
+<e lm="ursoaică">        <i>ursoaic</i><par n="cas/ă__n"/></e>
+<e lm="salatieră">       <i>salatier</i><par n="cas/ă__n"/></e>
+<e lm="unicitate">       <i>unicit</i><par n="universit/ate__n"/></e>
 
 <e lm="Bancă Mondială">  <p><l>Banca<b/>Mondială</l><r>Bancă<b/>Mondială<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="Bancă Mondială" a="delnou"><p><l>Bancă<b/>Mondială</l><r>Bancă<b/>Mondială<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -34443,6 +34460,14 @@
 <e lm="urs brun">        <p><l>urși<b/>bruni</l><r>urs<b/>brun<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
 <e lm="urs brun">        <p><l>urșii<b/>bruni</l><r>urs<b/>brun<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="urs brun">        <p><l>urșilor<b/>bruni</l><r>urs<b/>brun<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="ursoaică brună">  <p><l>ursoaică<b/>brună</l><r>ursoaică<b/>brună<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="ursoaică brună">  <p><l>ursoaice<b/>brună</l><r>ursoaică<b/>brună<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="ursoaică brună">  <p><l>ursoaica<b/>brună</l><r>ursoaică<b/>brună<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="ursoaică brună">  <p><l>ursoaicei<b/>brună</l><r>ursoaică<b/>brună<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="ursoaică brună">  <p><l>ursoaice<b/>brune</l><r>ursoaică<b/>brună<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="ursoaică brună">  <p><l>ursoaice<b/>brune</l><r>ursoaică<b/>brună<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="ursoaică brună">  <p><l>ursoaicele<b/>brune</l><r>ursoaică<b/>brună<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="ursoaică brună">  <p><l>ursoaicelor<b/>brune</l><r>ursoaică<b/>brună<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="vas capilar">     <p><l>vas<b/>capilar</l><r>vas<b/>capilar<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="vas capilar">     <p><l>vas<b/>capilar</l><r>vas<b/>capilar<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
 <e lm="vas capilar">     <p><l>vase<b/>capilare</l><r>vas<b/>capilar<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -34537,7 +34562,7 @@
 <e lm="Aleșd">           <i>Aleșd</i><par n="București__np"/></e>
 <e lm="Alger" a="mioara"><i>Alger</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
 <e lm="Algeria" a="mioara"><i>Algeri</i><par n="Români/a__np"/></e>
-<e lm="Alina">           <i>Alina</i><par n="Maria__np"/></e>
+<e lm="Alina">           <i>Alin</i><par n="Mari/a__np"/></e>
 <e lm="Alpi">            <i>Alpi</i><par n="Balcani__np"/></e>
 <e lm="Alro" a="prompsit"><i>Alro</i><par n="Discovery__np"/></e>
 <e lm="Alsacia">         <i>Alsaci</i><par n="Români/a__np"/></e>
@@ -34547,9 +34572,9 @@
 <e lm="Americi" a="mioara"><i>Americi</i><par n="Antile/__np"/></e>
 <e lm="Amman" a="mioara"><i>Amman</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
 <e lm="Amsterdam" a="mioara"><i>Amsterdam</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Ana" a="prompsit"><i>Ana</i><par n="Maria__np"/></e>
+<e lm="Ana" a="prompsit"><i>An</i><par n="Mari/a__np"/></e>
 <e lm="Anatolia" a="mioara"><i>Anatoli</i><par n="Români/a__np"/></e>
-<e lm="Anca">            <i>Anca</i><par n="Maria__np"/></e>
+<e lm="Anca">            <i>Anc</i><par n="Mari/a__np"/></e>
 <e lm="Andaluzia" a="mioara"><i>Andaluzi</i><par n="Români/a__np"/></e>
 <e r="LR" lm="Andora" a="mioara"><i>Andor</i><par n="Români/a__np"/></e>
 <e lm="Andorra" a="mioara"><i>Andorr</i><par n="Români/a__np"/></e>
@@ -34656,7 +34681,7 @@
 <e lm="Carei">           <i>Carei</i><par n="București__np"/></e>
 <e lm="Carpați">         <i>Carpați</i><par n="Balcani__np"/></e>
 <e lm="Castilia">        <i>Castili</i><par n="Europ/a__np"/></e>
-<e lm="Catalina">        <i>Catalina</i><par n="Maria__np"/></e>
+<e lm="Catalina">        <i>Catalin</i><par n="Mari/a__np"/></e>
 <e lm="Catalonia" a="mioara"><i>Cataloni</i><par n="Români/a__np"/></e>
 <e lm="Caucaz" a="mioara"><i>Caucaz</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
 <e lm="Cavnic">          <i>Cavnic</i><par n="București__np"/></e>
@@ -34670,8 +34695,8 @@
 <e lm="Cicero">          <i>Cicero</i><par n="Ion__np"/></e>
 <e lm="Cipru" a="mioara"><i>Cipru</i><par n="Muntenegru__np"/></e>
 <e lm="Cluj">            <i>Cluj</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Coca-Cola" a="delnou"><i>Coca-Cola</i><par n="Maria__np"/></e>
-<e lm="Coca Cola" a="delnou"><i>Coca<b/>Cola</i><par n="Maria__np"/></e>
+<e lm="Coca-Cola" a="delnou"><i>Coca-Col</i><par n="Mari/a__np"/></e>
+<e lm="Coca Cola" a="delnou"><i>Coca<b/>Col</i><par n="Mari/a__np"/></e>
 <e lm="Columb">          <i>Columb</i><par n="Ion__np"/></e>
 <e lm="Comarnic">        <i>Comarnic</i><par n="București__np"/></e>
 <e lm="Comănești">       <i>Comănești</i><par n="București__np"/></e>
@@ -34727,7 +34752,7 @@
 <e lm="Florida" a="mioara"><i>Florid</i><par n="Români/a__np"/></e>
 <e lm="Ford">            <i>Ford</i><par n="Ford__np"/></e>
 <e lm="Franța">          <i>Franț</i><par n="Europ/a__np"/></e>
-<e lm="Gabi">            <i>Gabi</i><par n="Maria__np"/></e>
+<e lm="Gabi">            <i>Gabi</i><par n="Carmen__np"/></e>
 <e lm="Galicia" a="mioara"><i>Galici</i><par n="Români/a__np"/></e>
 <e lm="Georgia" a="mioara"><i>Georgi</i><par n="Români/a__np"/></e>
 <e lm="Germania">        <i>Germani</i><par n="Români/a__np"/></e>
@@ -34762,7 +34787,7 @@
 <e lm="Italia">          <i>Itali</i><par n="Români/a__np"/></e>
 <e lm="Jamaica" a="mioara"><i>Jamaica</i><par n="Români/a__np"/></e>
 <e lm="Japonia">         <i>Japoni</i><par n="Români/a__np"/></e>
-<e lm="Katrina">         <i>Katrina</i><par n="Maria__np"/></e>
+<e lm="Katrina">         <i>Katrin</i><par n="Mari/a__np"/></e>
 <e lm="Kosovo" a="mioara"><i>Kosovo</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
 <e lm="Kremlin" a="mioara"><i>Kremlin</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
 <e lm="Kyoto" a="delnou"><i>Kyoto</i><par n="Zimbabwe__np"/></e>
@@ -34781,7 +34806,7 @@
 <e lm="Madrid">          <i>Madrid</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
 <e lm="Marburg" a="mioara"><i>Marburg</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
 <e lm="Marea Britanie">  <i>Marea<b/>Britanie</i><par n="Marea_Britanie__np"/></e>
-<e lm="Maria">           <i>Maria</i><par n="Maria__np"/></e>
+<e lm="Maria">           <i>Mari</i><par n="Mari/a__np"/></e>
 <e lm="Maroc">           <i>Maroc</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
 <e lm="Marrakesh" a="delnou"><i>Marrakesh</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
 <e lm="Meca" a="mioara"> <i>Mec</i><par n="Mec/a__np"/></e>
@@ -34808,8 +34833,8 @@
 <e lm="Palermo" a="mioara"><i>Palermo</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
 <e lm="Palestina" a="mioara"><i>Palestin</i><par n="Români/a__np"/></e>
 <e lm="Paris">           <i>Paris</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Pepsi-Cola" a="delnou"><i>Pepsi-Cola</i><par n="Maria__np"/></e>
-<e lm="Pepsi Cola" a="delnou"><i>Pepsi<b/>Cola</i><par n="Maria__np"/></e>
+<e lm="Pepsi-Cola" a="delnou"><i>Pepsi-Col</i><par n="Mari/a__np"/></e>
+<e lm="Pepsi Cola" a="delnou"><i>Pepsi<b/>Col</i><par n="Mari/a__np"/></e>
 <e lm="Persia" a="mioara"><i>Persi</i><par n="Români/a__np"/></e>
 <e lm="Pirinei" a="mioara"><i>Pirinei</i><par n="Balcani__np"/></e>
 <e lm="Polinezia" a="mioara"><i>Polinezi</i><par n="Români/a__np"/></e>
@@ -34819,7 +34844,7 @@
 <e lm="Prusia" a="mioara"><i>Prusi</i><par n="Români/a__np"/></e>
 <e lm="Roma">            <i>Rom</i><par n="Europ/a__np"/></e>
 <e lm="România">         <i>Români</i><par n="Români/a__np"/></e>
-<e lm="Roxana">          <i>Roxana</i><par n="Maria__np"/></e>
+<e lm="Roxana">          <i>Roxan</i><par n="Mari/a__np"/></e>
 <e lm="Ruanda" a="mioara"><i>Ruand</i><par n="Români/a__np"/></e>
 <e lm="Rusia">           <i>Rusi</i><par n="Români/a__np"/></e>
 <e lm="Răzvan" a="prompsit"><i>Răzvan</i><par n="Ion__np"/></e>
@@ -35328,6 +35353,391 @@
 <e lm="Román">           <i>Román</i><par n="Mihai__np"/></e>
 <e lm="Romeo">           <i>Romeo</i><par n="Mihai__np"/></e>
 <e lm="Ryan">            <i>Ryan</i><par n="Mihai__np"/></e>
+
+<e lm="﻿Ada">            <i>﻿Ad</i><par n="Mari/a__np"/></e>
+<e lm="Adela">           <i>Adel</i><par n="Mari/a__np"/></e>
+<e lm="Adelaida">        <i>Adelaid</i><par n="Mari/a__np"/></e>
+<e lm="Adelina">         <i>Adelin</i><par n="Mari/a__np"/></e>
+<e lm="Adina">           <i>Adin</i><par n="Mari/a__np"/></e>
+<e lm="Adriana">         <i>Adrian</i><par n="Mari/a__np"/></e>
+<e lm="Agata">           <i>Agat</i><par n="Mari/a__np"/></e>
+<e lm="Aglaia">          <i>Aglai</i><par n="Mari/a__np"/></e>
+<e lm="Agripina">        <i>Agripin</i><par n="Mari/a__np"/></e>
+<e lm="Aida">            <i>Aid</i><par n="Mari/a__np"/></e>
+<e lm="Alberta">         <i>Albert</i><par n="Mari/a__np"/></e>
+<e lm="Albertina">       <i>Albertin</i><par n="Mari/a__np"/></e>
+<e lm="Alexandra">       <i>Alexandr</i><par n="Mari/a__np"/></e>
+<e lm="Alexandrina">     <i>Alexandrin</i><par n="Mari/a__np"/></e>
+<e lm="Alida">           <i>Alid</i><par n="Mari/a__np"/></e>
+<e lm="Alma">            <i>Alm</i><par n="Mari/a__np"/></e>
+<e lm="Amalia">          <i>Amali</i><par n="Mari/a__np"/></e>
+<e lm="Amanda">          <i>Amand</i><par n="Mari/a__np"/></e>
+<e lm="Amelia">          <i>Ameli</i><par n="Mari/a__np"/></e>
+<e lm="Anabela">         <i>Anabel</i><par n="Mari/a__np"/></e>
+<e lm="Anaida">          <i>Anaid</i><par n="Mari/a__np"/></e>
+<e lm="Anamaria">        <i>Anamari</i><par n="Mari/a__np"/></e>
+<e lm="Anastasia">       <i>Anastasi</i><par n="Mari/a__np"/></e>
+<e lm="Ancuța">          <i>Ancuț</i><par n="Mari/a__np"/></e>
+<e lm="Anda">            <i>And</i><par n="Mari/a__np"/></e>
+<e lm="Andra">           <i>Andr</i><par n="Mari/a__np"/></e>
+<e lm="Andrada">         <i>Andrad</i><par n="Mari/a__np"/></e>
+<e lm="Andreea">         <i>Andree</i><par n="Mari/a__np"/></e>
+<e lm="Anemona">         <i>Anemon</i><par n="Mari/a__np"/></e>
+<e lm="Aneta">           <i>Anet</i><par n="Mari/a__np"/></e>
+<e lm="Angela">          <i>Angel</i><par n="Mari/a__np"/></e>
+<e lm="Anghelina">       <i>Anghelin</i><par n="Mari/a__np"/></e>
+<e lm="Anica">           <i>Anic</i><par n="Mari/a__np"/></e>
+<e lm="Anișoara">        <i>Anișoar</i><par n="Mari/a__np"/></e>
+<e lm="Antoaneta">       <i>Antoanet</i><par n="Mari/a__np"/></e>
+<e lm="Antonela">        <i>Antonel</i><par n="Mari/a__np"/></e>
+<e lm="Antonia">         <i>Antoni</i><par n="Mari/a__np"/></e>
+<e lm="Anuța">           <i>Anuț</i><par n="Mari/a__np"/></e>
+<e lm="Ariadna">         <i>Ariadn</i><par n="Mari/a__np"/></e>
+<e lm="Ariana">          <i>Arian</i><par n="Mari/a__np"/></e>
+<e lm="Arina">           <i>Arin</i><par n="Mari/a__np"/></e>
+<e lm="Aristița">        <i>Aristiț</i><par n="Mari/a__np"/></e>
+<e lm="Artemisa">        <i>Artemis</i><par n="Mari/a__np"/></e>
+<e lm="Atena">           <i>Aten</i><par n="Mari/a__np"/></e>
+<e lm="Augustina">       <i>Augustin</i><par n="Mari/a__np"/></e>
+<e lm="Aura">            <i>Aur</i><par n="Mari/a__np"/></e>
+<e lm="Aurelia">         <i>Aureli</i><par n="Mari/a__np"/></e>
+<e lm="Aureliana">       <i>Aurelian</i><par n="Mari/a__np"/></e>
+<e lm="Aurica">          <i>Auric</i><par n="Mari/a__np"/></e>
+<e lm="Aurora">          <i>Auror</i><par n="Mari/a__np"/></e>
+<e lm="Axenia">          <i>Axeni</i><par n="Mari/a__np"/></e>
+<e lm="Betina">          <i>Betin</i><par n="Mari/a__np"/></e>
+<e lm="Bianca">          <i>Bianc</i><par n="Mari/a__np"/></e>
+<e lm="Blanduzia">       <i>Blanduzi</i><par n="Mari/a__np"/></e>
+<e lm="Bogdana">         <i>Bogdan</i><par n="Mari/a__np"/></e>
+<e lm="Brândușa">        <i>Brânduș</i><par n="Mari/a__np"/></e>
+<e lm="Camelia">         <i>Cameli</i><par n="Mari/a__np"/></e>
+<e lm="Carina">          <i>Carin</i><par n="Mari/a__np"/></e>
+<e lm="Carla">           <i>Carl</i><par n="Mari/a__np"/></e>
+<e lm="Carmina">         <i>Carmin</i><par n="Mari/a__np"/></e>
+<e lm="Carolina">        <i>Carolin</i><par n="Mari/a__np"/></e>
+<e lm="Casandra">        <i>Casandr</i><par n="Mari/a__np"/></e>
+<e lm="Casiana">         <i>Casian</i><par n="Mari/a__np"/></e>
+<e lm="Cătălina">        <i>Cătălin</i><par n="Mari/a__np"/></e>
+<e lm="Caterina">        <i>Caterin</i><par n="Mari/a__np"/></e>
+<e lm="Catinca">         <i>Catinc</i><par n="Mari/a__np"/></e>
+<e lm="Catrina">         <i>Catrin</i><par n="Mari/a__np"/></e>
+<e lm="Cecilia">         <i>Cecili</i><par n="Mari/a__np"/></e>
+<e lm="Celia">           <i>Celi</i><par n="Mari/a__np"/></e>
+<e lm="Cerasela">        <i>Cerasel</i><par n="Mari/a__np"/></e>
+<e lm="Cezara">          <i>Cezar</i><par n="Mari/a__np"/></e>
+<e lm="Cipriana">        <i>Ciprian</i><par n="Mari/a__np"/></e>
+<e lm="Clara">           <i>Clar</i><par n="Mari/a__np"/></e>
+<e lm="Clarisa">         <i>Claris</i><par n="Mari/a__np"/></e>
+<e lm="Claudia">         <i>Claudi</i><par n="Mari/a__np"/></e>
+<e lm="Clementina">      <i>Clementin</i><par n="Mari/a__np"/></e>
+<e lm="Cleopatra">       <i>Cleopatr</i><par n="Mari/a__np"/></e>
+<e lm="Codrina">         <i>Codrin</i><par n="Mari/a__np"/></e>
+<e lm="Codruța">         <i>Codruț</i><par n="Mari/a__np"/></e>
+<e lm="Constanța">       <i>Constanț</i><par n="Mari/a__np"/></e>
+<e lm="Constantina">     <i>Constantin</i><par n="Mari/a__np"/></e>
+<e lm="Consuela">        <i>Consuel</i><par n="Mari/a__np"/></e>
+<e lm="Coralia">         <i>Corali</i><par n="Mari/a__np"/></e>
+<e lm="Corina">          <i>Corin</i><par n="Mari/a__np"/></e>
+<e lm="Cornelia">        <i>Corneli</i><par n="Mari/a__np"/></e>
+<e lm="Cosmina">         <i>Cosmin</i><par n="Mari/a__np"/></e>
+<e lm="Crenguța">        <i>Crenguț</i><par n="Mari/a__np"/></e>
+<e lm="Crina">           <i>Crin</i><par n="Mari/a__np"/></e>
+<e lm="Cristina">        <i>Cristin</i><par n="Mari/a__np"/></e>
+<e lm="Daciana">         <i>Dacian</i><par n="Mari/a__np"/></e>
+<e lm="Dafina">          <i>Dafin</i><par n="Mari/a__np"/></e>
+<e lm="Daiana">          <i>Daian</i><par n="Mari/a__np"/></e>
+<e lm="Dalia">           <i>Dali</i><par n="Mari/a__np"/></e>
+<e lm="Dana">            <i>Dan</i><par n="Mari/a__np"/></e>
+<e lm="Daniela">         <i>Daniel</i><par n="Mari/a__np"/></e>
+<e lm="Daria">           <i>Dari</i><par n="Mari/a__np"/></e>
+<e lm="Dariana">         <i>Darian</i><par n="Mari/a__np"/></e>
+<e lm="Delia">           <i>Deli</i><par n="Mari/a__np"/></e>
+<e lm="Demetra">         <i>Demetr</i><par n="Mari/a__np"/></e>
+<e lm="Denisa">          <i>Denis</i><par n="Mari/a__np"/></e>
+<e lm="Despina">         <i>Despin</i><par n="Mari/a__np"/></e>
+<e lm="Diana">           <i>Dian</i><par n="Mari/a__np"/></e>
+<e lm="Dida">            <i>Did</i><par n="Mari/a__np"/></e>
+<e lm="Didina">          <i>Didin</i><par n="Mari/a__np"/></e>
+<e lm="Dimitrina">       <i>Dimitrin</i><par n="Mari/a__np"/></e>
+<e lm="Dina">            <i>Din</i><par n="Mari/a__np"/></e>
+<e lm="Dochia">          <i>Dochi</i><par n="Mari/a__np"/></e>
+<e lm="Doina">           <i>Doin</i><par n="Mari/a__np"/></e>
+<e lm="Domnica">         <i>Domnic</i><par n="Mari/a__np"/></e>
+<e lm="Dora">            <i>Dor</i><par n="Mari/a__np"/></e>
+<e lm="Doriana">         <i>Dorian</i><par n="Mari/a__np"/></e>
+<e lm="Dorina">          <i>Dorin</i><par n="Mari/a__np"/></e>
+<e lm="Draga">           <i>Drag</i><par n="Mari/a__np"/></e>
+<e lm="Dumitra">         <i>Dumitr</i><par n="Mari/a__np"/></e>
+<e lm="Dumitrana">       <i>Dumitran</i><par n="Mari/a__np"/></e>
+<e lm="Ecaterina">       <i>Ecaterin</i><par n="Mari/a__np"/></e>
+<e lm="Eftimia">         <i>Eftimi</i><par n="Mari/a__np"/></e>
+<e lm="Elena">           <i>Elen</i><par n="Mari/a__np"/></e>
+<e lm="Eleonora">        <i>Eleonor</i><par n="Mari/a__np"/></e>
+<e lm="Eliana">          <i>Elian</i><par n="Mari/a__np"/></e>
+<e lm="Elisabeta">       <i>Elisabet</i><par n="Mari/a__np"/></e>
+<e lm="Elisaveta">       <i>Elisavet</i><par n="Mari/a__np"/></e>
+<e lm="Eliza">           <i>Eliz</i><par n="Mari/a__np"/></e>
+<e lm="Elodia">          <i>Elodi</i><par n="Mari/a__np"/></e>
+<e lm="Elvira">          <i>Elvir</i><par n="Mari/a__np"/></e>
+<e lm="Emanuela">        <i>Emanuel</i><par n="Mari/a__np"/></e>
+<e lm="Emilia">          <i>Emili</i><par n="Mari/a__np"/></e>
+<e lm="Erica">           <i>Eric</i><par n="Mari/a__np"/></e>
+<e lm="Estera">          <i>Ester</i><par n="Mari/a__np"/></e>
+<e lm="Eufrosina">       <i>Eufrosin</i><par n="Mari/a__np"/></e>
+<e lm="Eugenia">         <i>Eugeni</i><par n="Mari/a__np"/></e>
+<e lm="Eusebia">         <i>Eusebi</i><par n="Mari/a__np"/></e>
+<e lm="Eva">             <i>Ev</i><par n="Mari/a__np"/></e>
+<e lm="Evanghelina">     <i>Evanghelin</i><par n="Mari/a__np"/></e>
+<e lm="Evelina">         <i>Evelin</i><par n="Mari/a__np"/></e>
+<e lm="Fabia">           <i>Fabi</i><par n="Mari/a__np"/></e>
+<e lm="Fabiana">         <i>Fabian</i><par n="Mari/a__np"/></e>
+<e lm="Felicia">         <i>Felici</i><par n="Mari/a__np"/></e>
+<e lm="Filofteia">       <i>Filoftei</i><par n="Mari/a__np"/></e>
+<e lm="Fiona">           <i>Fion</i><par n="Mari/a__np"/></e>
+<e lm="Flavia">          <i>Flavi</i><par n="Mari/a__np"/></e>
+<e lm="Floarea">         <i>Floare</i><par n="Mari/a__np"/></e>
+<e lm="Flora">           <i>Flor</i><par n="Mari/a__np"/></e>
+<e lm="Florența">        <i>Florenț</i><par n="Mari/a__np"/></e>
+<e lm="Florentina">      <i>Florentin</i><par n="Mari/a__np"/></e>
+<e lm="Floriana">        <i>Florian</i><par n="Mari/a__np"/></e>
+<e lm="Florica">         <i>Floric</i><par n="Mari/a__np"/></e>
+<e lm="Florina">         <i>Florin</i><par n="Mari/a__np"/></e>
+<e lm="Francesca">       <i>Francesc</i><par n="Mari/a__np"/></e>
+<e lm="Frusina">         <i>Frusin</i><par n="Mari/a__np"/></e>
+<e lm="Gabriela">        <i>Gabriel</i><par n="Mari/a__np"/></e>
+<e lm="Geanina">         <i>Geanin</i><par n="Mari/a__np"/></e>
+<e lm="Gențiana">        <i>Gențian</i><par n="Mari/a__np"/></e>
+<e lm="Georgeta">        <i>Georget</i><par n="Mari/a__np"/></e>
+<e lm="Georgia">         <i>Georgi</i><par n="Mari/a__np"/></e>
+<e lm="Georgiana">       <i>Georgian</i><par n="Mari/a__np"/></e>
+<e lm="Geta">            <i>Get</i><par n="Mari/a__np"/></e>
+<e lm="Gherghina">       <i>Gherghin</i><par n="Mari/a__np"/></e>
+<e lm="Gianina">         <i>Gianin</i><par n="Mari/a__np"/></e>
+<e lm="Gina">            <i>Gin</i><par n="Mari/a__np"/></e>
+<e lm="Giorgiana">       <i>Giorgian</i><par n="Mari/a__np"/></e>
+<e lm="Grațiana">        <i>Grațian</i><par n="Mari/a__np"/></e>
+<e lm="Grațiela">        <i>Grațiel</i><par n="Mari/a__np"/></e>
+<e lm="Henrieta">        <i>Henriet</i><par n="Mari/a__np"/></e>
+<e lm="Heracleea">       <i>Heraclee</i><par n="Mari/a__np"/></e>
+<e lm="Hortensia">       <i>Hortensi</i><par n="Mari/a__np"/></e>
+<e lm="Iasmina">         <i>Iasmin</i><par n="Mari/a__np"/></e>
+<e lm="Ica">             <i>Ic</i><par n="Mari/a__np"/></e>
+<e lm="Ileana">          <i>Ilean</i><par n="Mari/a__np"/></e>
+<e lm="Ilinca">          <i>Ilinc</i><par n="Mari/a__np"/></e>
+<e lm="Ilona">           <i>Ilon</i><par n="Mari/a__np"/></e>
+<e lm="Ina">             <i>In</i><par n="Mari/a__np"/></e>
+<e lm="Ioana">           <i>Ioan</i><par n="Mari/a__np"/></e>
+<e lm="Ioanina">         <i>Ioanin</i><par n="Mari/a__np"/></e>
+<e lm="Iolanda">         <i>Ioland</i><par n="Mari/a__np"/></e>
+<e lm="Ionela">          <i>Ionel</i><par n="Mari/a__np"/></e>
+<e lm="Ionelia">         <i>Ioneli</i><par n="Mari/a__np"/></e>
+<e lm="Iosefina">        <i>Iosefin</i><par n="Mari/a__np"/></e>
+<e lm="Iridenta">        <i>Irident</i><par n="Mari/a__np"/></e>
+<e lm="Irina">           <i>Irin</i><par n="Mari/a__np"/></e>
+<e lm="Isabela">         <i>Isabel</i><par n="Mari/a__np"/></e>
+<e lm="Iulia">           <i>Iuli</i><par n="Mari/a__np"/></e>
+<e lm="Iuliana">         <i>Iulian</i><par n="Mari/a__np"/></e>
+<e lm="Iustina">         <i>Iustin</i><par n="Mari/a__np"/></e>
+<e lm="Ivona">           <i>Ivon</i><par n="Mari/a__np"/></e>
+<e lm="Izabela">         <i>Izabel</i><par n="Mari/a__np"/></e>
+<e lm="Jana">            <i>Jan</i><par n="Mari/a__np"/></e>
+<e lm="Janeta">          <i>Janet</i><par n="Mari/a__np"/></e>
+<e lm="Janina">          <i>Janin</i><par n="Mari/a__np"/></e>
+<e lm="Jasmina">         <i>Jasmin</i><par n="Mari/a__np"/></e>
+<e lm="Jeana">           <i>Jean</i><par n="Mari/a__np"/></e>
+<e lm="Julia">           <i>Juli</i><par n="Mari/a__np"/></e>
+<e lm="Julieta">         <i>Juliet</i><par n="Mari/a__np"/></e>
+<e lm="Lăcrămioara">     <i>Lăcrămioar</i><par n="Mari/a__np"/></e>
+<e lm="Larisa">          <i>Laris</i><par n="Mari/a__np"/></e>
+<e lm="Laura">           <i>Laur</i><par n="Mari/a__np"/></e>
+<e lm="Laurenția">       <i>Laurenți</i><par n="Mari/a__np"/></e>
+<e lm="Lavinia">         <i>Lavini</i><par n="Mari/a__np"/></e>
+<e lm="Leana">           <i>Lean</i><par n="Mari/a__np"/></e>
+<e lm="Lelia">           <i>Leli</i><par n="Mari/a__np"/></e>
+<e lm="Leontina">        <i>Leontin</i><par n="Mari/a__np"/></e>
+<e lm="Leopoldina">      <i>Leopoldin</i><par n="Mari/a__np"/></e>
+<e lm="Letiția">         <i>Letiți</i><par n="Mari/a__np"/></e>
+<e lm="Lia">             <i>Li</i><par n="Mari/a__np"/></e>
+<e lm="Liana">           <i>Lian</i><par n="Mari/a__np"/></e>
+<e lm="Lidia">           <i>Lidi</i><par n="Mari/a__np"/></e>
+<e lm="Ligia">           <i>Ligi</i><par n="Mari/a__np"/></e>
+<e lm="Liliana">         <i>Lilian</i><par n="Mari/a__np"/></e>
+<e lm="Lioara">          <i>Lioar</i><par n="Mari/a__np"/></e>
+<e lm="Livia">           <i>Livi</i><par n="Mari/a__np"/></e>
+<e lm="Loredana">        <i>Loredan</i><par n="Mari/a__np"/></e>
+<e lm="Lorena">          <i>Loren</i><par n="Mari/a__np"/></e>
+<e lm="Luana">           <i>Luan</i><par n="Mari/a__np"/></e>
+<e lm="Lucia">           <i>Luci</i><par n="Mari/a__np"/></e>
+<e lm="Luciana">         <i>Lucian</i><par n="Mari/a__np"/></e>
+<e lm="Lucreția">        <i>Lucreți</i><par n="Mari/a__np"/></e>
+<e lm="Ludmila">         <i>Ludmil</i><par n="Mari/a__np"/></e>
+<e lm="Ludovica">        <i>Ludovic</i><par n="Mari/a__np"/></e>
+<e lm="Luiza">           <i>Luiz</i><par n="Mari/a__np"/></e>
+<e lm="Luminița">        <i>Luminiț</i><par n="Mari/a__np"/></e>
+<e lm="Mădălina">        <i>Mădălin</i><par n="Mari/a__np"/></e>
+<e lm="Magdalena">       <i>Magdalen</i><par n="Mari/a__np"/></e>
+<e lm="Maia">            <i>Mai</i><par n="Mari/a__np"/></e>
+<e lm="Mălina">          <i>Mălin</i><par n="Mari/a__np"/></e>
+<e lm="Malvina">         <i>Malvin</i><par n="Mari/a__np"/></e>
+<e lm="Manuela">         <i>Manuel</i><par n="Mari/a__np"/></e>
+<e lm="Mara">            <i>Mar</i><par n="Mari/a__np"/></e>
+<e lm="Marcela">         <i>Marcel</i><par n="Mari/a__np"/></e>
+<e lm="Marcheta">        <i>Marchet</i><par n="Mari/a__np"/></e>
+<e lm="Marga">           <i>Marg</i><par n="Mari/a__np"/></e>
+<e lm="Margareta">       <i>Margaret</i><par n="Mari/a__np"/></e>
+<e lm="Mariana">         <i>Marian</i><par n="Mari/a__np"/></e>
+<e lm="Maricica">        <i>Maricic</i><par n="Mari/a__np"/></e>
+<e lm="Marilena">        <i>Marilen</i><par n="Mari/a__np"/></e>
+<e lm="Marina">          <i>Marin</i><par n="Mari/a__np"/></e>
+<e lm="Marinela">        <i>Marinel</i><par n="Mari/a__np"/></e>
+<e lm="Marioara">        <i>Marioar</i><par n="Mari/a__np"/></e>
+<e lm="Mărioara">        <i>Mărioar</i><par n="Mari/a__np"/></e>
+<e lm="Măriuca">         <i>Măriuc</i><par n="Mari/a__np"/></e>
+<e lm="Marta">           <i>Mart</i><par n="Mari/a__np"/></e>
+<e lm="Matilda">         <i>Matild</i><par n="Mari/a__np"/></e>
+<e lm="Melania">         <i>Melani</i><par n="Mari/a__np"/></e>
+<e lm="Melina">          <i>Melin</i><par n="Mari/a__np"/></e>
+<e lm="Mihaela">         <i>Mihael</i><par n="Mari/a__np"/></e>
+<e lm="Milena">          <i>Milen</i><par n="Mari/a__np"/></e>
+<e lm="Mina">            <i>Min</i><par n="Mari/a__np"/></e>
+<e lm="Minodora">        <i>Minodor</i><par n="Mari/a__np"/></e>
+<e lm="Mioara">          <i>Mioar</i><par n="Mari/a__np"/></e>
+<e lm="Mirabela">        <i>Mirabel</i><par n="Mari/a__np"/></e>
+<e lm="Mirela">          <i>Mirel</i><par n="Mari/a__np"/></e>
+<e lm="Mirona">          <i>Miron</i><par n="Mari/a__np"/></e>
+<e lm="Miruna">          <i>Mirun</i><par n="Mari/a__np"/></e>
+<e lm="Mona">            <i>Mon</i><par n="Mari/a__np"/></e>
+<e lm="Monalisa">        <i>Monalis</i><par n="Mari/a__np"/></e>
+<e lm="Monica">          <i>Monic</i><par n="Mari/a__np"/></e>
+<e lm="Nadia">           <i>Nadi</i><par n="Mari/a__np"/></e>
+<e lm="Narcisa">         <i>Narcis</i><par n="Mari/a__np"/></e>
+<e lm="Natalia">         <i>Natali</i><par n="Mari/a__np"/></e>
+<e lm="Natașa">          <i>Nataș</i><par n="Mari/a__np"/></e>
+<e lm="Nicoleta">        <i>Nicolet</i><par n="Mari/a__np"/></e>
+<e lm="Niculina">        <i>Niculin</i><par n="Mari/a__np"/></e>
+<e lm="Nidia">           <i>Nidi</i><par n="Mari/a__np"/></e>
+<e lm="Nora">            <i>Nor</i><par n="Mari/a__np"/></e>
+<e lm="Norica">          <i>Noric</i><par n="Mari/a__np"/></e>
+<e lm="Oana">            <i>Oan</i><par n="Mari/a__np"/></e>
+<e lm="Octavia">         <i>Octavi</i><par n="Mari/a__np"/></e>
+<e lm="Octaviana">       <i>Octavian</i><par n="Mari/a__np"/></e>
+<e lm="Ofelia">          <i>Ofeli</i><par n="Mari/a__np"/></e>
+<e lm="Olga">            <i>Olg</i><par n="Mari/a__np"/></e>
+<e lm="Olimpia">         <i>Olimpi</i><par n="Mari/a__np"/></e>
+<e lm="Olivia">          <i>Olivi</i><par n="Mari/a__np"/></e>
+<e lm="Ortansa">         <i>Ortans</i><par n="Mari/a__np"/></e>
+<e lm="Otilia">          <i>Otili</i><par n="Mari/a__np"/></e>
+<e lm="Ozana">           <i>Ozan</i><par n="Mari/a__np"/></e>
+<e lm="Pamela">          <i>Pamel</i><par n="Mari/a__np"/></e>
+<e lm="Paraschiva">      <i>Paraschiv</i><par n="Mari/a__np"/></e>
+<e lm="Patricia">        <i>Patrici</i><par n="Mari/a__np"/></e>
+<e lm="Paula">           <i>Paul</i><par n="Mari/a__np"/></e>
+<e lm="Paulica">         <i>Paulic</i><par n="Mari/a__np"/></e>
+<e lm="Paulina">         <i>Paulin</i><par n="Mari/a__np"/></e>
+<e lm="Petronela">       <i>Petronel</i><par n="Mari/a__np"/></e>
+<e lm="Petruța">         <i>Petruț</i><par n="Mari/a__np"/></e>
+<e lm="Pompilia">        <i>Pompili</i><par n="Mari/a__np"/></e>
+<e lm="Profira">         <i>Profir</i><par n="Mari/a__np"/></e>
+<e lm="Rada">            <i>Rad</i><par n="Mari/a__np"/></e>
+<e lm="Rafila">          <i>Rafil</i><par n="Mari/a__np"/></e>
+<e lm="Raluca">          <i>Raluc</i><par n="Mari/a__np"/></e>
+<e lm="Ramona">          <i>Ramon</i><par n="Mari/a__np"/></e>
+<e lm="Rebeca">          <i>Rebec</i><par n="Mari/a__np"/></e>
+<e lm="Renata">          <i>Renat</i><par n="Mari/a__np"/></e>
+<e lm="Rica">            <i>Ric</i><par n="Mari/a__np"/></e>
+<e lm="Roberta">         <i>Robert</i><par n="Mari/a__np"/></e>
+<e lm="Robertina">       <i>Robertin</i><par n="Mari/a__np"/></e>
+<e lm="Rodica">          <i>Rodic</i><par n="Mari/a__np"/></e>
+<e lm="Romanița">        <i>Romaniț</i><par n="Mari/a__np"/></e>
+<e lm="Romina">          <i>Romin</i><par n="Mari/a__np"/></e>
+<e lm="Roxelana">        <i>Roxelan</i><par n="Mari/a__np"/></e>
+<e lm="Roza">            <i>Roz</i><par n="Mari/a__np"/></e>
+<e lm="Rozalia">         <i>Rozali</i><par n="Mari/a__np"/></e>
+<e lm="Ruxanda">         <i>Ruxand</i><par n="Mari/a__np"/></e>
+<e lm="Ruxandra">        <i>Ruxandr</i><par n="Mari/a__np"/></e>
+<e lm="Sabina">          <i>Sabin</i><par n="Mari/a__np"/></e>
+<e lm="Sabrina">         <i>Sabrin</i><par n="Mari/a__np"/></e>
+<e lm="Safta">           <i>Saft</i><par n="Mari/a__np"/></e>
+<e lm="Salomea">         <i>Salome</i><par n="Mari/a__np"/></e>
+<e lm="Sanda">           <i>Sand</i><par n="Mari/a__np"/></e>
+<e lm="Sânziana">        <i>Sânzian</i><par n="Mari/a__np"/></e>
+<e lm="Saveta">          <i>Savet</i><par n="Mari/a__np"/></e>
+<e lm="Savina">          <i>Savin</i><par n="Mari/a__np"/></e>
+<e lm="Semenica">        <i>Semenic</i><par n="Mari/a__np"/></e>
+<e lm="Severina">        <i>Severin</i><par n="Mari/a__np"/></e>
+<e lm="Sidonia">         <i>Sidoni</i><par n="Mari/a__np"/></e>
+<e lm="Silvana">         <i>Silvan</i><par n="Mari/a__np"/></e>
+<e lm="Silvia">          <i>Silvi</i><par n="Mari/a__np"/></e>
+<e lm="Silviana">        <i>Silvian</i><par n="Mari/a__np"/></e>
+<e lm="Simina">          <i>Simin</i><par n="Mari/a__np"/></e>
+<e lm="Simona">          <i>Simon</i><par n="Mari/a__np"/></e>
+<e lm="Smaranda">        <i>Smarand</i><par n="Mari/a__np"/></e>
+<e lm="Sofia">           <i>Sofi</i><par n="Mari/a__np"/></e>
+<e lm="Sonia">           <i>Soni</i><par n="Mari/a__np"/></e>
+<e lm="Sorana">          <i>Soran</i><par n="Mari/a__np"/></e>
+<e lm="Sorina">          <i>Sorin</i><par n="Mari/a__np"/></e>
+<e lm="Speranța">        <i>Speranț</i><par n="Mari/a__np"/></e>
+<e lm="Stana">           <i>Stan</i><par n="Mari/a__np"/></e>
+<e lm="Stanca">          <i>Stanc</i><par n="Mari/a__np"/></e>
+<e lm="Ștefana">         <i>Ștefan</i><par n="Mari/a__np"/></e>
+<e lm="Ștefania">        <i>Ștefani</i><par n="Mari/a__np"/></e>
+<e lm="Stela">           <i>Stel</i><par n="Mari/a__np"/></e>
+<e lm="Steliana">        <i>Stelian</i><par n="Mari/a__np"/></e>
+<e lm="Steluța">         <i>Steluț</i><par n="Mari/a__np"/></e>
+<e lm="Suzana">          <i>Suzan</i><par n="Mari/a__np"/></e>
+<e lm="Svetlana">        <i>Svetlan</i><par n="Mari/a__np"/></e>
+<e lm="Tamara">          <i>Tamar</i><par n="Mari/a__np"/></e>
+<e lm="Tania">           <i>Tani</i><par n="Mari/a__np"/></e>
+<e lm="Tatiana">         <i>Tatian</i><par n="Mari/a__np"/></e>
+<e lm="Teea">            <i>Tee</i><par n="Mari/a__np"/></e>
+<e lm="Teodora">         <i>Teodor</i><par n="Mari/a__np"/></e>
+<e lm="Teodosia">        <i>Teodosi</i><par n="Mari/a__np"/></e>
+<e lm="Teona">           <i>Teon</i><par n="Mari/a__np"/></e>
+<e lm="Tiberia">         <i>Tiberi</i><par n="Mari/a__np"/></e>
+<e lm="Timea">           <i>Time</i><par n="Mari/a__np"/></e>
+<e lm="Tinca">           <i>Tinc</i><par n="Mari/a__np"/></e>
+<e lm="Tincuța">         <i>Tincuț</i><par n="Mari/a__np"/></e>
+<e lm="Tudora">          <i>Tudor</i><par n="Mari/a__np"/></e>
+<e lm="Tudorița">        <i>Tudoriț</i><par n="Mari/a__np"/></e>
+<e lm="Tudosia">         <i>Tudosi</i><par n="Mari/a__np"/></e>
+<e lm="Valentina">       <i>Valentin</i><par n="Mari/a__np"/></e>
+<e lm="Valeria">         <i>Valeri</i><par n="Mari/a__np"/></e>
+<e lm="Vanesa">          <i>Vanes</i><par n="Mari/a__np"/></e>
+<e lm="Varvara">         <i>Varvar</i><par n="Mari/a__np"/></e>
+<e lm="Vasilica">        <i>Vasilic</i><par n="Mari/a__np"/></e>
+<e lm="Venera">          <i>Vener</i><par n="Mari/a__np"/></e>
+<e lm="Vera">            <i>Ver</i><par n="Mari/a__np"/></e>
+<e lm="Veronica">        <i>Veronic</i><par n="Mari/a__np"/></e>
+<e lm="Veta">            <i>Vet</i><par n="Mari/a__np"/></e>
+<e lm="Vicenția">        <i>Vicenți</i><par n="Mari/a__np"/></e>
+<e lm="Victoria">        <i>Victori</i><par n="Mari/a__np"/></e>
+<e lm="Violeta">         <i>Violet</i><par n="Mari/a__np"/></e>
+<e lm="Viorela">         <i>Viorel</i><par n="Mari/a__np"/></e>
+<e lm="Viorica">         <i>Vioric</i><par n="Mari/a__np"/></e>
+<e lm="Virginia">        <i>Virgini</i><par n="Mari/a__np"/></e>
+<e lm="Viviana">         <i>Vivian</i><par n="Mari/a__np"/></e>
+<e lm="Vlădelina">       <i>Vlădelin</i><par n="Mari/a__np"/></e>
+<e lm="Voichița">        <i>Voichiț</i><par n="Mari/a__np"/></e>
+<e lm="Xenia">           <i>Xeni</i><par n="Mari/a__np"/></e>
+<e lm="Zaharia">         <i>Zahari</i><par n="Mari/a__np"/></e>
+<e lm="Zamfira">         <i>Zamfir</i><par n="Mari/a__np"/></e>
+<e lm="Zaraza">          <i>Zaraz</i><par n="Mari/a__np"/></e>
+<e lm="Zenobia">         <i>Zenobi</i><par n="Mari/a__np"/></e>
+<e lm="Zenovia">         <i>Zenovi</i><par n="Mari/a__np"/></e>
+<e lm="Zina">            <i>Zin</i><par n="Mari/a__np"/></e>
+<e lm="Alice">           <i>Alice</i><par n="Carmen__np"/></e>
+<e lm="Alis">            <i>Alis</i><par n="Carmen__np"/></e>
+<e lm="Astrid">          <i>Astrid</i><par n="Carmen__np"/></e>
+<e lm="Beatrice">        <i>Beatrice</i><par n="Carmen__np"/></e>
+<e lm="Carmen">          <i>Carmen</i><par n="Carmen__np"/></e>
+<e lm="Catrinel">        <i>Catrinel</i><par n="Carmen__np"/></e>
+<e lm="Dorli">           <i>Dorli</i><par n="Carmen__np"/></e>
+<e lm="Floare">          <i>Floare</i><par n="Carmen__np"/></e>
+<e lm="Iris">            <i>Iris</i><par n="Carmen__np"/></e>
+<e lm="Lili">            <i>Lili</i><par n="Carmen__np"/></e>
+<e lm="Lorelei">         <i>Lorelei</i><par n="Carmen__np"/></e>
+<e lm="Noemi">           <i>Noemi</i><par n="Carmen__np"/></e>
+<e lm="Zoe">             <i>Zoe</i><par n="Carmen__np"/></e>
 
     <!-- Numerali cardinali -->
 
