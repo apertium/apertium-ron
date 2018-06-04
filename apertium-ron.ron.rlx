@@ -9,6 +9,10 @@ SETS
 
 LIST N = n ;
 LIST Adj = adj ;
+LIST Pr = pr ;
+LIST Det = det ;
+LIST Vbavea = vbavea ;
+SET Pp = (vblex pp) | (vbmod pp) | (vaux pp) | (vbser pp) | (vbhaver pp) | (vbdo pp) ;
 
 LIST Sg = sg ;
 LIST Pl = pl ;
@@ -29,6 +33,9 @@ SECTION
 #Mai (month or adverb)
 REMOVE N IF (0 ("mai")) (-1 N) (1 Adj) ;
 REMOVE N IF (0 ("mai")) (-1 ("cel")) (1 Adj) ;
+
+#A (prep or vbavea)
+SELECT Vbavea IF (0 ("a")) (1 Pp) ;
 
 #Remove dative/genitive by default
 REMOVE Dg IF (0 Nom) (0 Dg) ;
