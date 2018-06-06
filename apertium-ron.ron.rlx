@@ -11,7 +11,10 @@ LIST N = n ;
 LIST Adj = adj ;
 LIST Pr = pr ;
 LIST Det = det ;
+LIST Adv = adv ;
+LIST Prn = prn ;
 LIST Vbavea = vbavea ;
+LIST V = vblex ;
 SET Pp = (vblex pp) | (vbmod pp) | (vaux pp) | (vbser pp) | (vbhaver pp) | (vbdo pp) ;
 
 LIST Sg = sg ;
@@ -27,15 +30,27 @@ LIST Fn = fn ;
 
 LIST Nom = nom ;
 LIST Dg = dg ;
+LIST Pri = pri ;
+LIST Prs = prs ;
+
+LIST Să = ("să") ;
 
 SECTION
 
 #Mai (month or adverb)
 REMOVE N IF (0 ("mai")) (-1 N) (1 Adj) ;
+REMOVE N IF (0 ("mai")) (-1 V) (1 Adv) ;
 REMOVE N IF (0 ("mai")) (-1 ("cel")) (1 Adj) ;
 
 #A (prep or vbavea)
 SELECT Vbavea IF (0 ("a")) (1 Pp) ;
+
+#Conjunctiv
+SELECT Prs IF (0 Prs) (0 Pri) (-1 Să) ;
+SELECT Prs IF (0 Prs) (0 Pri) (-2 Să) (-1 Adv);
+SELECT Prs IF (0 Prs) (0 Pri) (-2 Să) (-1 Prn);
+SELECT Prs IF (0 Prs) (0 Pri) (-3 Să) (-2 Adv) (-1 Prn);
+REMOVE Prs IF (0 Prs) (0 Pri) ;
 
 #Remove dative/genitive by default
 REMOVE Dg IF (0 Nom) (0 Dg) ;
