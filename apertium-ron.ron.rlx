@@ -15,6 +15,7 @@ LIST Adv = adv ;
 LIST Prn = prn ;
 LIST Vbavea = vbavea ;
 LIST V = vblex ;
+LIST Vaux = vaux ;
 SET Pp = (vblex pp) | (vbmod pp) | (vaux pp) | (vbser pp) | (vbhaver pp) | (vbdo pp) ;
 
 LIST Sg = sg ;
@@ -32,6 +33,7 @@ LIST Nom = nom ;
 LIST Dg = dg ;
 LIST Pri = pri ;
 LIST Prs = prs ;
+LIST Inf = inf ;
 
 LIST Să = ("să") ;
 
@@ -51,6 +53,16 @@ SELECT Prs IF (0 Prs) (0 Pri) (-2 Să) (-1 Adv);
 SELECT Prs IF (0 Prs) (0 Pri) (-2 Să) (-1 Prn);
 SELECT Prs IF (0 Prs) (0 Pri) (-3 Să) (-2 Adv) (-1 Prn);
 REMOVE Prs IF (0 Prs) (0 Pri) ;
+
+#Vrea
+Remove V IF (0 V) (0 Vaux) (1 Inf) ;
+Remove V IF (0 V) (0 Vaux) (1 Să) (2 Prs) ;
+Remove Vaux IF (0 V) (0 Vaux) ;
+
+#Avea
+Remove V IF (0 V) (0 Vbavea) (1 Pp) ;
+Remove V IF (0 V) (0 Vbavea) (1 Să) (2 Prs) ;
+Remove Vbavea IF (0 V) (0 Vbavea) ;
 
 #Remove dative/genitive by default
 REMOVE Dg IF (0 Nom) (0 Dg) ;
