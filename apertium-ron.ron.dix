@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 4
-	Entries: 21695
+	Entries: 21702
 	Sdefs: 76
 	Paradigms: 888
 	Last processed by: apertium-dixtools fix apertium-ron.ron.dix apertium-ron.ron.dix
@@ -18295,29 +18295,10 @@
 <!--PARADIGMA PRONOMS POSSESSIUS-->
 
 <pardef n="a/l__det">
-<!--fran: tenemos que generarlo también
-      <e r="LR">  <p>
-	  <l>l</l>
-          <r>l<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
-      <e r="LR"><p>
-	  <l>i</l>
-          <r>l<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r></p></e>
-
-      <e r="LR"><p>
-	  <l></l>
-          <r>l<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p>
-	  <l>le</l>
-          <r>l<s n="det"/><s n="def"/><s n="f"/><s n="pl"/></r></p></e>
--->
   <e>       <p><l>l</l>         <r>l<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
   <e>       <p><l>i</l>         <r>l<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r></p></e>
-
   <e>       <p><l></l>          <r>l<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
-
   <e>       <p><l>le</l>        <r>l<s n="det"/><s n="def"/><s n="f"/><s n="pl"/></r></p></e>
-
 </pardef>
 
 <pardef n="a/l_meu__prn">
@@ -18354,10 +18335,10 @@
 </pardef>
 
 <pardef n="a/l_lui__prn">
-  <e r="LR"><p><l>l<b/>lui</l>  <r>l<b/>lui<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
-  <e r="LR"><p><l>i<b/>lui</l>  <r>l<b/>lui<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
-  <e r="LR"><p><l><b/>ei</l>    <r>l<b/>lui<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-  <e r="LR"><p><l>le<b/>ei</l>  <r>l<b/>lui<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>l<b/>lui</l>  <r>l<b/>lui<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>i<b/>lui</l>  <r>l<b/>lui<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l><b/>ei</l>    <r>l<b/>lui<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>le<b/>ei</l>  <r>l<b/>lui<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>l<b/>lor</l>  <r>l<b/>lor<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>i<b/>lor</l>  <r>l<b/>lor<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l><b/>lor</l>   <r>l<b/>lor<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -18390,137 +18371,6 @@
   <e>       <p><l>le<b/>voastre</l><r>l<b/>vostru<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/><s n="dg"/></r></p></e>
 </pardef>
 
-<!-- <pardef n="cu_mine__prn">
-  <e>       <p>
-          <l/>
-          <r><s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-    </pardef>
-
-<pardef n="cu_tine__prn">
-  <e>       <p>
-          <l/>
-          <r><s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
-    </pardef>
-
-<pardef n="cu_sine__prn">
-  <e>       <p>
-          <l/>
-          <r><s n="prn"/><s n="tn"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
-    </pardef>
-
-<pardef n="/al_lor__prn">
-      <e r="LR"><p>
-	  <l>al<b/>lor</l>
-          <r>al<b/>lor<s n="prn"/><s n="tn"/><s n="pos"/><s n="mn"/><s n="sg"/></r></p></e>
-      <e r="LR"><p>
-	  <l>ai<b/>lor</l>
-          <r>al<b/>lor<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
-
-  <e>       <p>
-	  <l>a<b/>lor</l>
-          <r>al<b/>lor<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p>
-	  <l>ale<b/>lor</l>
-          <r>al<b/>lor<s n="prn"/><s n="tn"/><s n="pos"/><s n="fn"/><s n="pl"/></r></p></e>
-     </pardef>
-  <pardef n="a/l_meu__det">
-      <e r="LR"><p>
-	  <l>l<b/>meu</l>
-          <r>l<b/>meu<s n="det"/><s n="pos"/><s n="mn"/><s n="sg"/></r></p></e>
-      <e r="LR"><p>
-	  <l>i<b/>mei</l>
-          <r>l<b/>meu<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
-  <e>       <p>
-	  <l><b/>mea</l>
-          <r>l<b/>meu<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
-  <e>       <p>
-	  <l>le<b/>mele</l>
-          <r>l<b/>meu<s n="det"/><s n="pos"/><s n="fn"/><s n="pl"/></r></p></e>
-    </pardef>
-    <pardef n="/al_tău__det">
-      <e r="LR"><p>
-	  <l>l<b/>tău</l>
-          <r>l<b/>tău<s n="det"/><s n="pos"/><s n="mn"/><s n="sg"/></r></p></e>
-      <e r="LR"><p>
-	  <l>i<b/>tăi</l>
-          <r>l<b/>tău<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
-  <e>       <p>
-	  <l><b/>ta</l>
-          <r>l<b/>tău<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
-  <e>       <p>
-	  <l>le<b/>tale</l>
-          <r>l<b/>tău<s n="det"/><s n="pos"/><s n="fn"/><s n="pl"/></r></p></e>
-    </pardef>
-    <pardef n="a/l_său__det">
-      <e r="LR"><p>
-	  <l>l<b/>său</l>
-          <r>l<b/>său<s n="det"/><s n="pos"/><s n="mn"/><s n="sg"/></r></p></e>
-      <e r="LR"><p>
-	  <l>i<b/>săi</l>
-          <r>l<b/>său<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
-
-  <e>       <p>
-	  <l><b/>sa</l>
-          <r>l<b/>său<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p>
-	  <l>le<b/>sale</l>
-          <r>l<b/>său<s n="det"/><s n="pos"/><s n="fn"/><s n="pl"/></r></p></e>
-     </pardef>
- <pardef n="a/l_nostru__det">
-
-  <e>       <p>
-	  <l>l<b/>nostru</l>
-          <r>l<b/>nostru<s n="det"/><s n="pos"/><s n="mn"/><s n="sg"/></r></p></e>
-
-  <e>       <p>
-	  <l>i<b/>noștri</l>
-          <r>l<b/>nostru<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
-
-      <e r="LR"><p>
-	  <l><b/>noastră</l>
-          <r>l<b/>nostru<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p>
-	  <l>le<b/>noastre</l>
-          <r>l<b/>nostru<s n="det"/><s n="pos"/><s n="fn"/><s n="pl"/></r></p></e>
-    </pardef>
- <pardef n="a/l_vostru__det">
-
-  <e>       <p>
-	  <l>l<b/>vostru</l>
-          <r>l<b/>vostru<s n="det"/><s n="pos"/><s n="mn"/><s n="sg"/></r></p></e>
-
-  <e>       <p>
-	  <l>i<b/>voștri</l>
-          <r>l<b/>vostru<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
-
-  <e>       <p>
-	  <l><b/>voastră</l>
-          <r>l<b/>vostru<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
-
-  <e>       <p>
-	  <l>le<b/>voastre</l>
-          <r>l<b/>vostru<s n="det"/><s n="pos"/><s n="fn"/><s n="pl"/></r></p></e>
-    </pardef>
-
-<pardef n="/al_lor__det">
-      <e r="LR"><p>
-	  <l>al<b/>lor</l>
-          <r>al<b/>lor<s n="det"/><s n="pos"/><s n="mn"/><s n="sg"/></r></p></e>
-      <e r="LR"><p>
-	  <l>ai<b/>lor</l>
-          <r>al<b/>lor<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
-
-  <e>       <p>
-	  <l>a<b/>lor</l>
-          <r>al<b/>lor<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p>
-	  <l>ale<b/>lor</l>
-          <r>al<b/>lor<s n="det"/><s n="pos"/><s n="fn"/><s n="pl"/></r></p></e>
-     </pardef> -->
 
 <pardef n="me/u__adj">
   <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="pos"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -18619,6 +18469,25 @@
           <l/>
           <r><s n="prn"/><s n="tn"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
     </pardef> -->
+<!-- <pardef n="cu_mine__prn">
+  <e>       <p>
+          <l/>
+          <r><s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
+
+<pardef n="cu_tine__prn">
+  <e>       <p>
+          <l/>
+          <r><s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
+
+<pardef n="cu_sine__prn">
+  <e>       <p>
+          <l/>
+          <r><s n="prn"/><s n="tn"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
+
+-->
 
 <pardef n="c/ineva__prn">
   <e>       <p><l>ineva</l>     <r>ineva<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -22753,6 +22622,11 @@
 <e lm="ceilalți" a="delnou"><p><l>ceilalți</l><r>celălalt<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="celelalte" a="delnou"><p><l>celelalte</l><r>celălalt<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="celălalt" a="delnou"><p><l>celălalt</l><r>celălalt<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+
+<e lm="al lui">          <p><l>al<b/>lui</l> <r>al<s n="det"/><s n="def"/><s n="m"/><s n="sg"/><j/>lui<s n="adj"/><s n="pos"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="ai lui">          <p><l>ai<b/>lui</l> <r>al<s n="det"/><s n="def"/><s n="m"/><s n="pl"/><j/>lui<s n="adj"/><s n="pos"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="a lui">           <p><l>a<b/>lui</l>  <r>al<s n="det"/><s n="def"/><s n="f"/><s n="sg"/><j/>lui<s n="adj"/><s n="pos"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="ale lui">         <p><l>ale<b/>lui</l><r>al<s n="det"/><s n="def"/><s n="f"/><s n="pl"/><j/>lui<s n="adj"/><s n="pos"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 
     <!-- Adverbe -->
 
@@ -40436,6 +40310,9 @@
 
 <e r="LR" lm="n-">       <p><l>n-</l>        <r>nu<s n="adv"/></r></p></e>
 <e r="LR" lm="nu-">      <p><l>nu-</l>       <r>nu<s n="adv"/></r></p></e>
+<e r="LR" lm="nu-i">     <p><l>nu-i</l>      <r>nu<s n="adv"/><j/>fi<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+<e r="LR" lm="nu-i">     <p><l>nu-i</l>      <r>nu<s n="adv"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+<e r="LR" lm="nu-i">     <p><l>nu-i</l>      <r>nu<s n="adv"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/><s n="dg"/></r></p></e>
 <e r="LR" lm="poate-">   <p><l>poate-</l>    <r>poate<s n="adv"/></r></p></e>
 
 <e r="LR" lm="da'">      <p><l>da'</l>       <r>dar<s n="cnjcoo"/></r></p></e>
