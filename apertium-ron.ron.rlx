@@ -1,5 +1,5 @@
 DELIMITERS = "<.>" "<..>" "<...>" "<!>" "<?>" "<¶>" sent ;
-SOFT-DELIMITERS = "<,>" ;
+SOFT-DELIMITERS = "<,>" cm ;
 SUBREADINGS = LTR ;
 
 LIST BOS = (>>>) ;
@@ -8,6 +8,7 @@ LIST EOS = (<<<) ;
 SETS
 
 LIST N = n ;
+LIST Np = np ;
 LIST Adj = adj ;
 LIST Pr = pr ;
 LIST Det = det ;
@@ -17,7 +18,7 @@ LIST Vbavea = vbavea ;
 LIST V = vblex ;
 LIST Vbser = vbser ;
 LIST Vaux = vaux ;
-SET Pp = (vblex pp) | (vbmod pp) | (vaux pp) | (vbser pp) | (vbhaver pp) | (vbdo pp) ;
+LIST Pp = pp ;
 
 LIST Sg = sg ;
 LIST Pl = pl ;
@@ -34,6 +35,7 @@ LIST Nom = nom ;
 LIST Dg = dg ;
 LIST Pri = pri ;
 LIST Prs = prs ;
+LIST Ifi = ifi ;
 LIST Inf = inf ;
 
 LIST Să = ("să") ;
@@ -41,12 +43,26 @@ LIST Să = ("să") ;
 SECTION
 
 # Entries which are either N or Adj
+SELECT Adj IF (0 N) (0 Adj) (-1 N);
+SELECT Adj IF (0 N) (0 Adj) (-2 N) (-1 Adj);
 SELECT N IF (0 N) (0 Adj) ;
 
 # Entries which are either Pp or Adj
 SELECT Pp IF (0 Pp) (0 Adj) (-1 Vbavea) ;
 SELECT Pp IF (0 Pp) (0 Adj) (-2 Vbavea) (-1 ("fi") + Pp) ;
 REMOVE Pp IF (0 Pp) (0 Adj) ;
+
+# Entries which are either Pp or N
+SELECT Pp IF (0 Pp) (0 N) (-1 Vbavea) ;
+SELECT Pp IF (0 Pp) (0 N) (-2 Vbavea) (-1 ("fi") + Pp) ;
+REMOVE Pp IF (0 Pp) (0 N) (1 Adj) ;
+REMOVE Pp IF (0 Pp) (0 N) (1 V) ;
+
+# Entries which are either Pp or Ifi
+SELECT Pp IF (0 Pp) (0 Ifi) (-1 Vbavea) ;
+SELECT Pp IF (0 Pp) (0 Ifi) (-2 Vbavea) (-1 ("fi") + Pp) ;
+SELECT Pp IF (0 Pp) (0 Ifi) (-1 BOS | _S_SOFT_DELIMITERS_) ;
+REMOVE Pp IF (0 Pp) (0 Ifi) ;
 
 # Mai (month or adverb)
 REMOVE N IF (0 ("mai")) (-1 N) (1 Adj) ;
@@ -72,6 +88,10 @@ REMOVE Vaux IF (0 V) (0 Vaux) ;
 REMOVE V IF (0 V) (0 Vbavea) (1 Pp) ;
 REMOVE V IF (0 V) (0 Vbavea) (1 Să) (2 Prs) ;
 REMOVE Vbavea IF (0 V) (0 Vbavea) ;
+
+# Al lui (pronoun/det+adj)
+REMOVE Prn IF (0 ("al lui")) (1 Np) ;
+SELECT Prn IF (0 ("al lui")) ;
 
 # Remove dative/genitive by default
 REMOVE Dg IF (0 Nom) (0 Dg) ;
