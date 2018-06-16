@@ -8025,15 +8025,10 @@
 </pardef>
 
 <pardef n="câ/țiva__det">
-
-  <e>       <p><l>teva</l>      <r>țiva<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
-
+  <e>       <p><l>teva</l>      <r>țiva<s n="det"/><s n="ind"/><s n="fn"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>țiva</l>      <r>țiva<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
-
   <e>       <p><l>torva</l>     <r>țiva<s n="det"/><s n="ind"/><s n="fn"/><s n="pl"/><s n="dg"/></r></p></e>
-
   <e>       <p><l>torva</l>     <r>țiva<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/><s n="dg"/></r></p></e>
-
 </pardef>
 
 <!--PARADIGMA PRONOM/ADJECTIU DEMOSTRATIU D'IDENTITAT-->
@@ -36725,7 +36720,7 @@
 <e lm="Fabregat">        <i>Fabregat</i><par n="Popescu__np"/></e>
 <e lm="Boada">           <i>Boada</i><par n="Popescu__np"/></e>
 <e lm="Haro">            <i>Haro</i><par n="Popescu__np"/></e>
-<e lm="Jordà">           <i>Jorda</i><par n="Popescu__np"/></e>
+<e lm="Jordà">           <i>Jordà</i><par n="Popescu__np"/></e>
 <e lm="Bou">             <i>Bou</i><par n="Popescu__np"/></e>
 <e lm="Parera">          <i>Parera</i><par n="Popescu__np"/></e>
 <e lm="Ojeda">           <i>Ojeda</i><par n="Popescu__np"/></e>
