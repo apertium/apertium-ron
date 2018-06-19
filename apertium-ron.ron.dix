@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 4
-	Entries: 21702
+	Entries: 21706
 	Sdefs: 76
-	Paradigms: 888
+	Paradigms: 889
 	Last processed by: apertium-dixtools fix apertium-ron.ron.dix apertium-ron.ron.dix
 
 -->
@@ -8407,6 +8407,25 @@
   <e>       <p><l>ele</l>       <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>e</l>         <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>elor</l>      <r><s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
+<pardef n="bi/et__adj">
+  <e>       <p><l>et</l>        <r>et<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>etul</l>      <r>et<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>et</l>        <r>et<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>etului</l>    <r>et<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ată</l>       <r>et<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ata</l>       <r>et<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ete</l>       <r>et<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>etei</l>      <r>et<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>eți</l>       <r>et<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>eții</l>      <r>et<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>eți</l>       <r>et<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>eților</l>    <r>et<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ete</l>       <r>et<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>etele</l>     <r>et<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ete</l>       <r>et<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>etelor</l>    <r>et<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
 <pardef n="vivac/e__adj">
@@ -18893,7 +18912,7 @@
 <e lm="arierat" a="mioara"><i>ariera</i><par n="adevăra/t__adj"/></e>
 <e lm="aristocratic" a="mioara"><i>aristocratic</i><par n="bun__adj"/></e>
 <e lm="aristotelic" a="delia"><i>aristotelic</i><par n="bun__adj"/></e>
-<e lm="aritmetic">       <i>aritmeti</i><par n="bun__adj"/></e>
+<e lm="aritmetic">       <i>aritmetic</i><par n="bun__adj"/></e>
 <e r="LR" lm="armat" a="mioara"><i>arma</i><par n="adevăra/t__adj"/></e>
 <e lm="armean" a="mioara"><i>arme</i><par n="europe/an__adj"/></e>
 <e lm="armenesc" a="mioara"><i>armene</i><par n="române/sc__adj"/></e>
@@ -19487,7 +19506,6 @@
 <e lm="căscat" a="delia"><i>căsca</i><par n="adevăra/t__adj"/></e>
 <e lm="căsătorit" a="delia"><i>căsători</i><par n="adevăra/t__adj"/></e>
 <e lm="cățărător" a="delia"><i>cățărăto</i><par n="arzăto/r__adj"/></e>
-
 <e lm="dacic">           <i>dacic</i><par n="bun__adj"/></e>
 <e lm="dactilografiat" a="delia"><i>dactilografia</i><par n="adevăra/t__adj"/></e>
 <e lm="dadaist" a="delnou"><i>dadai</i><par n="ca/st__adj"/></e>
@@ -19496,7 +19514,7 @@
 <e lm="darnic" a="delia"><i>darnic</i><par n="bun__adj"/></e>
 <e lm="darwinist" a="mioara"><i>darwini</i><par n="ca/st__adj"/></e>
 <e lm="des">             <i>de</i><par n="de/s__adj"/></e>
-<e r="LR" lm="de ajuns" a="mioara"><i>de<b/>ajuns</i><par n="multimedia__adj"/></e>
+<e lm="de ajuns" a="mioara"><i>de<b/>ajuns</i><par n="multimedia__adj"/></e>
 <e r="LR" lm="de mâna a doua" a="mioara"><i>de<b/>mâna<b/>a<b/>doua</i><par n="multimedia__adj"/></e>
 <e lm="de nuiele" a="mioara"><i>de<b/>nuiele</i><par n="multimedia__adj"/></e>
 <e r="LR" lm="de sine stătător" a="mioara"><i>de<b/>sine<b/>stătăto</i><par n="arzăto/r__adj"/></e>
@@ -19773,7 +19791,7 @@
 <e lm="economic">        <i>economic</i><par n="bun__adj"/></e>
 <e lm="economico-social"><i>economico-social</i><par n="bun__adj"/></e>
 <e lm="ecuatorial" a="delnou"><i>ecuatorial</i><par n="bun__adj"/></e>
-<e r="LR" lm="ecumenist" a="mioara"><i>ecumeni</i><par n="ca/st__adj"/></e>
+<e lm="ecumenist" a="mioara"><i>ecumeni</i><par n="ca/st__adj"/></e>
 <e lm="ecumenic" a="mioara"><i>ecumenic</i><par n="bun__adj"/></e>
 <e r="LR" lm="edificant" a="delia"><i>edifican</i><par n="adevăra/t__adj"/></e>
 <e lm="edificativ">      <i>edificativ</i><par n="bun__adj"/></e>
@@ -22612,6 +22630,10 @@
 <e r="LR" lm="țăcănit" a="mioara"><i>țăcăni</i><par n="adevăra/t__adj"/></e>
 <e lm="țărănesc" a="delia"><i>țărăne</i><par n="române/sc__adj"/></e>
 <e lm="acrilic">         <i>acrilic</i><par n="bun__adj"/></e>
+<e lm="biet">            <i>bi</i><par n="bi/et__adj"/></e>
+<e lm="salubru">         <i>salubr</i><par n="acr/u__adj"/></e>
+<e lm="neadecvat">       <i>neadecva</i><par n="adevăra/t__adj"/></e>
+<e lm="regenerator">     <i>regenerato</i><par n="arzăto/r__adj"/></e>
 
 <e lm="cealaltă" a="delnou"><p><l>cealaltă</l><r>celălalt<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="ceilalți" a="delnou"><p><l>ceilalți</l><r>celălalt<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
