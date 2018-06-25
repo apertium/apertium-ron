@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 4
-	Entries: 21706
+	Entries: 21843
 	Sdefs: 76
 	Paradigms: 889
 	Last processed by: apertium-dixtools fix apertium-ron.ron.dix apertium-ron.ron.dix
@@ -7742,20 +7742,6 @@
   <e>       <p><l></l>          <r><s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
-<pardef n="Români/a__np">
-  <e>       <p><l>e</l>         <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>a</l>         <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ei</l>        <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-
-<pardef n="Adelaide/__np">
-  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>i</l>         <r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-
 <pardef n="Wikipedi/a__np">
   <e>       <p><l>e</l>         <r>a<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>a</l>         <r>a<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -7774,29 +7760,50 @@
   <e>       <p><l>ei</l>        <r>e<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
-<pardef n="București__np">
-  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ul</l>        <r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ului</l>      <r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>i</l>         <r><s n="np"/><s n="top"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>lor</l>       <r><s n="np"/><s n="top"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+<pardef n="Dumnezeu__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>l</l>         <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lui</l>       <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
-<pardef n="Hollywood__np">
-  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ul</l>        <r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ului</l>      <r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<pardef n="Ford__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="al"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ul</l>        <r><s n="np"/><s n="al"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="al"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ului</l>      <r><s n="np"/><s n="al"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
-<pardef n="Muntenegru__np">
-  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>l</l>         <r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>lui</l>       <r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<pardef n="Celsius__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ul</l>        <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ului</l>      <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
+<pardef n="Disney__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>-ul</l>       <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>-ului</l>     <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
+<pardef n="Discovery__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+</pardef>
+
+<pardef n="Români/a__np">
+  <e>       <p><l>e</l>         <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>a</l>         <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ei</l>        <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
+<pardef n="Adelaide/__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>i</l>         <r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
 <pardef n="Dunăr/e__np">
@@ -7820,20 +7827,6 @@
   <e>       <p><l>i</l>         <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
-<pardef n="Zimbabwe__np">
-  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-
-<pardef n="Balcani__np">
-  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>i</l>         <r><s n="np"/><s n="top"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>lor</l>       <r><s n="np"/><s n="top"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-
 <pardef n="Antile/__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>le</l>        <r><s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
@@ -7846,14 +7839,6 @@
   <e>       <p><l>le<b/>de<b/>Jos</l><r><b/>de<b/>Jos<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l><b/>de<b/>Jos</l><r><b/>de<b/>Jos<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>lor<b/>de<b/>Jos</l><r><b/>de<b/>Jos<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-
-
-<pardef n="Dumnezeu__np">
-  <e>       <p><l></l>          <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>l</l>         <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>lui</l>       <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
 <pardef n="Europ/a__np">
@@ -7876,48 +7861,67 @@
   <e>       <p><l>i</l>         <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ii</l>        <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
-<pardef n="Ford__np">
-  <e>       <p><l></l>          <r><s n="np"/><s n="al"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ul</l>        <r><s n="np"/><s n="al"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="np"/><s n="al"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ului</l>      <r><s n="np"/><s n="al"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+
+<pardef n="Tàrrega__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 </pardef>
 
-<pardef n="Celsius__np">
-  <e>       <p><l></l>          <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ul</l>        <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ului</l>      <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<pardef n="București__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ul</l>        <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ului</l>      <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>i</l>         <r><s n="np"/><s n="top"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lor</l>       <r><s n="np"/><s n="top"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
-<pardef n="Disney__np">
-  <e>       <p><l></l>          <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>-ul</l>       <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l></l>          <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>-ului</l>     <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<pardef n="Hollywood__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ul</l>        <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ului</l>      <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
+<pardef n="Muntenegru__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>l</l>         <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lui</l>       <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
+<pardef n="Zimbabwe__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
+<pardef n="Balcani__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>i</l>         <r><s n="np"/><s n="top"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lor</l>       <r><s n="np"/><s n="top"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
 <pardef n="SUA__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
 <pardef n="Shanghai__np">
-  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-</pardef>
-
-<pardef n="Discovery__np">
-  <e>       <p><l></l>          <r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
 <pardef n="Ion__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 </pardef>
-
-<pardef n="Marea_Britanie__np">
-  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-</pardef>
-
-
 
 <pardef n="Mihai__np">
   <e>       <p><l></l>          <r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -34520,72 +34524,105 @@
 
 <e lm="ACIS" a="prompsit"><i>ACIS</i><par n="Discovery__np"/></e>
 <e lm="ANAF" a="prompsit"><i>ANAF</i><par n="Discovery__np"/></e>
-<e lm="Abadan" a="mioara"><i>Abadan</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+
+<e lm="Ahile">           <i>Ahile</i><par n="Ion__np"/></e>
+<e lm="André_Breton">    <i>André<b/>Breton</i><par n="Ion__np"/></e>
+<e lm="Bechtel" a="prompsit"><i>Bechtel</i><par n="Ion__np"/></e>
+<e lm="Viktor" a="prompsit"><i>Viktor</i><par n="Ion__np"/></e>
+<e lm="Virgiliu">        <i>Virgiliu</i><par n="Ion__np"/></e>
+<e lm="Vlad" a="prompsit"><i>Vlad</i><par n="Ion__np"/></e>
+<e lm="Boc" a="prompsit"><i>Boc</i><par n="Ion__np"/></e>
+<e lm="Botiș" a="prompsit"><i>Botiș</i><par n="Ion__np"/></e>
+<e lm="Breton">          <i>Breton</i><par n="Ion__np"/></e>
+<e lm="Bush">            <i>Bush</i><par n="Ion__np"/></e>
+<e lm="Bâtcă" a="prompsit"><i>Bâtcă</i><par n="Ion__np"/></e>
+<e lm="Cicero">          <i>Cicero</i><par n="Ion__np"/></e>
+<e lm="Columb">          <i>Columb</i><par n="Ion__np"/></e>
+<e lm="Cotovelea" a="prompsit"><i>Cotovelea</i><par n="Ion__np"/></e>
+<e lm="David" a="prompsit"><i>David</i><par n="Ion__np"/></e>
+<e lm="Emil" a="prompsit"><i>Emil</i><par n="Ion__np"/></e>
+<e lm="Gheorghe" a="prompsit"><i>Gheorghe</i><par n="Ion__np"/></e>
+<e lm="Hercule">         <i>Hercule</i><par n="Ion__np"/></e>
+<e lm="Homer">           <i>Homer</i><par n="Ion__np"/></e>
+<e lm="Ialomițianu" a="prompsit"><i>Ialomițianu</i><par n="Ion__np"/></e>
+<e lm="Iehova">          <i>Iehova</i><par n="Ion__np"/></e>
+<e r="LR" lm="Iisus">    <i>Iisus</i><par n="Ion__np"/></e>
+<e lm="Ioan" a="prompsit"><i>Ioan</i><par n="Ion__np"/></e>
+<e lm="Ioan Paul al II-lea"><i>Ioan<b/>Paul<b/>al<b/>II-lea</i><par n="Ion__np"/></e>
+<e lm="Ion">             <i>Ion</i><par n="Ion__np"/></e>
+<e lm="Isus">            <i>Isus</i><par n="Ion__np"/></e>
+<e lm="Mihai" a="prompsit"><i>Mihai</i><par n="Ion__np"/></e>
+<e lm="Răzvan" a="prompsit"><i>Răzvan</i><par n="Ion__np"/></e>
+<e lm="Superman">        <i>Superman</i><par n="Ion__np"/></e>
+<e lm="Traian">          <i>Traian</i><par n="Ion__np"/></e>
+<e lm="Traian Băsescu">  <i>Traian<b/>Băsescu</i><par n="Ion__np"/></e>
+<e r="LR" lm="Vergiliu"> <i>Vergiliu</i><par n="Ion__np"/></e>
+
+<e lm="Alina">           <i>Alin</i><par n="Mari/a__np"/></e>
+<e lm="Ana" a="prompsit"><i>An</i><par n="Mari/a__np"/></e>
+<e lm="Anca">            <i>Anc</i><par n="Mari/a__np"/></e>
+
+<e lm="Abadan" a="mioara"><i>Abadan</i><par n="Hollywood__np"/></e>
 <e lm="Abhazia" a="mioara"><i>Abhazi</i><par n="Români/a__np"/></e>
-<e lm="Abidjan" a="mioara"><i>Abidjan</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Abidjan" a="mioara"><i>Abidjan</i><par n="Hollywood__np"/></e>
 <e lm="Abrud">           <i>Abrud</i><par n="București__np"/></e>
 <e lm="Adelaide" a="mioara"><i>Adelaide</i><par n="Adelaide/__np"/></e>
-<e lm="Aden" a="mioara"> <i>Aden</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Aden" a="mioara"> <i>Aden</i><par n="Hollywood__np"/></e>
 <e lm="Adjud">           <i>Adjud</i><par n="București__np"/></e>
-<e lm="Adrianopol" a="mioara"><i>Adrianopol</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Afganistan" a="mioara"><i>Afganistan</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Adrianopol" a="mioara"><i>Adrianopol</i><par n="Hollywood__np"/></e>
+<e lm="Afganistan" a="mioara"><i>Afganistan</i><par n="Hollywood__np"/></e>
 <e lm="Africa">          <i>Afric</i><par n="Afric/a__np"/></e>
 <e lm="Ahaia" a="mioara"><i>Ahai</i><par n="Români/a__np"/></e>
-<e lm="Ahile">           <i>Ahile</i><par n="Ion__np"/></e>
 <e lm="Aiud">            <i>Aiud</i><par n="București__np"/></e>
 <e lm="Albania">         <i>Albani</i><par n="Români/a__np"/></e>
-<e lm="Albion" a="mioara"><i>Albion</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Albion" a="mioara"><i>Albion</i><par n="Hollywood__np"/></e>
 <e lm="Alexandria" a="mioara"><i>Alexandri</i><par n="Români/a__np"/></e>
 <e lm="Aleșd">           <i>Aleșd</i><par n="București__np"/></e>
-<e lm="Alger" a="mioara"><i>Alger</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Alger" a="mioara"><i>Alger</i><par n="Hollywood__np"/></e>
 <e lm="Algeria" a="mioara"><i>Algeri</i><par n="Români/a__np"/></e>
-<e lm="Alina">           <i>Alin</i><par n="Mari/a__np"/></e>
 <e lm="Alpi">            <i>Alpi</i><par n="Balcani__np"/></e>
 <e lm="Alro" a="prompsit"><i>Alro</i><par n="Discovery__np"/></e>
 <e lm="Alsacia">         <i>Alsaci</i><par n="Români/a__np"/></e>
-<e lm="Amazon">          <i>Amazon</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Amazon">          <i>Amazon</i><par n="Hollywood__np"/></e>
 <e lm="Amazonia">        <i>Amazoni</i><par n="Români/a__np"/></e>
 <e lm="America">         <i>Americ</i><par n="Afric/a__np"/></e>
 <e lm="Americi" a="mioara"><i>Americi</i><par n="Antile/__np"/></e>
-<e lm="Amman" a="mioara"><i>Amman</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Amsterdam" a="mioara"><i>Amsterdam</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Ana" a="prompsit"><i>An</i><par n="Mari/a__np"/></e>
+<e lm="Amman" a="mioara"><i>Amman</i><par n="Hollywood__np"/></e>
+<e lm="Amsterdam" a="mioara"><i>Amsterdam</i><par n="Hollywood__np"/></e>
 <e lm="Anatolia" a="mioara"><i>Anatoli</i><par n="Români/a__np"/></e>
-<e lm="Anca">            <i>Anc</i><par n="Mari/a__np"/></e>
 <e lm="Andaluzia" a="mioara"><i>Andaluzi</i><par n="Români/a__np"/></e>
 <e r="LR" lm="Andora" a="mioara"><i>Andor</i><par n="Români/a__np"/></e>
 <e lm="Andorra" a="mioara"><i>Andorr</i><par n="Români/a__np"/></e>
-<e lm="André_Breton">    <i>André<b/>Breton</i><par n="Ion__np"/></e>
 <e lm="Anglia">          <i>Angli</i><par n="Români/a__np"/></e>
 <e lm="Angola" a="mioara"><i>Angol</i><par n="Români/a__np"/></e>
-<e lm="Annapolis">       <i>Annapolis</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Annapolis">       <i>Annapolis</i><par n="Hollywood__np"/></e>
 <e lm="Antanta" a="mioara"><i>Antant</i><par n="Români/a__np"/></e>
 <e lm="Antarctica" a="mioara"><i>Antarctic</i><par n="Afric/a__np"/></e>
 <e lm="Antile" a="mioara"><i>Antile</i><par n="Antile/__np"/></e>
 <e lm="Antiohia" a="mioara"><i>Antiohi</i><par n="Români/a__np"/></e>
-<e r="LR" lm="Antwerpen" a="mioara"><i>Antwerpen</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Anvers" a="mioara"><i>Anvers</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e r="LR" lm="Antwerpen" a="mioara"><i>Antwerpen</i><par n="Hollywood__np"/></e>
+<e lm="Anvers" a="mioara"><i>Anvers</i><par n="Hollywood__np"/></e>
 <e lm="Apalași" a="mioara"><i>Apalași</i><par n="Balcani__np"/></e>
 <e lm="Apenini" a="mioara"><i>Apenini</i><par n="Balcani__np"/></e>
 <e lm="Aquitania" a="mioara"><i>Aquitani</i><par n="Români/a__np"/></e>
 <e lm="Arabia" a="mioara"><i>Arabi</i><par n="Români/a__np"/></e>
 <e lm="Arad">            <i>Arad</i><par n="București__np"/></e>
-<e lm="Aragon" a="mioara"><i>Aragon</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Aragon" a="mioara"><i>Aragon</i><par n="Hollywood__np"/></e>
 <e lm="Ardud">           <i>Ardud</i><par n="București__np"/></e>
 <e lm="Argentina" a="mioara"><i>Argentin</i><par n="Români/a__np"/></e>
 <e lm="Armenia" a="mioara"><i>Armeni</i><par n="Români/a__np"/></e>
 <e lm="Asia">            <i>Asi</i><par n="Români/a__np"/></e>
-<e lm="Astrahan" a="mioara"><i>Astrahan</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Astrahan" a="mioara"><i>Astrahan</i><par n="Hollywood__np"/></e>
 <e lm="Atena" a="mioara"><i>Aten</i><par n="Români/a__np"/></e>
 <e lm="Australia">       <i>Australi</i><par n="Români/a__np"/></e>
 <e lm="Austria">         <i>Austri</i><par n="Români/a__np"/></e>
 <e lm="Avrig">           <i>Avrig</i><par n="București__np"/></e>
-<e lm="Azerbaidjan" a="mioara"><i>Azerbaidjan</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Așhabad" a="mioara"><i>Așhabad</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Azerbaidjan" a="mioara"><i>Azerbaidjan</i><par n="Hollywood__np"/></e>
+<e lm="Așhabad" a="mioara"><i>Așhabad</i><par n="Hollywood__np"/></e>
 <e lm="Babadag">         <i>Babadag</i><par n="București__np"/></e>
 <e lm="Bacău">           <i>Bacău</i><par n="București__np"/></e>
-<e lm="Bagdad">          <i>Bagdad</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Balaton" a="mioara"><i>Balaton</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Bagdad">          <i>Bagdad</i><par n="Hollywood__np"/></e>
+<e lm="Balaton" a="mioara"><i>Balaton</i><par n="Hollywood__np"/></e>
 <e lm="Balcani">         <i>Balcani</i><par n="Balcani__np"/></e>
 <e lm="Baleare" a="mioara"><i>Baleare</i><par n="Antile/__np"/></e>
 <e lm="Balș">            <i>Balș</i><par n="București__np"/></e>
@@ -34593,40 +34630,36 @@
 <e lm="Barcelona" a="delnou"><i>Barcelon</i><par n="Europ/a__np"/></e>
 <e lm="Bavaria" a="mioara"><i>Bavari</i><par n="Români/a__np"/></e>
 <e lm="Bechet">          <i>Bechet</i><par n="București__np"/></e>
-<e lm="Bechtel" a="prompsit"><i>Bechtel</i><par n="Ion__np"/></e>
 <e lm="Beclean">         <i>Beclean</i><par n="București__np"/></e>
-<e lm="Beijing" a="mioara"><i>Beijing</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Beijing" a="mioara"><i>Beijing</i><par n="Hollywood__np"/></e>
 <e lm="Beiuș">           <i>Beiuș</i><par n="București__np"/></e>
 <e lm="Belgia">          <i>Belgi</i><par n="Români/a__np"/></e>
-<e lm="Belgrad" a="mioara"><i>Belgrad</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Belgrad" a="mioara"><i>Belgrad</i><par n="Hollywood__np"/></e>
 <e lm="Beoția" a="mioara"><i>Beoți</i><par n="Români/a__np"/></e>
 <e lm="Berbești">        <i>Berbești</i><par n="București__np"/></e>
 <e lm="Berezina" a="mioara"><i>Berezin</i><par n="Români/a__np"/></e>
 <e lm="Berești">         <i>Berești</i><par n="București__np"/></e>
-<e lm="Berlin">          <i>Berlin</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Berlin">          <i>Berlin</i><par n="Hollywood__np"/></e>
 <e lm="Berna" a="mioara"><i>Bern</i><par n="Români/a__np"/></e>
 <e lm="Bicaz">           <i>Bicaz</i><par n="București__np"/></e>
 <e lm="Bielarusia">      <p><l>Bielarusi</l> <r>Bielorusi</r></p><par n="Români/a__np"/></e>  <!-- forma molt infrequent -->
 <e lm="Bielorusia">      <i>Bielorusi</i><par n="Români/a__np"/></e>
 <e lm="Birmania">        <i>Birmani</i><par n="Români/a__np"/></e>
 <e lm="Blaj">            <i>Blaj</i><par n="București__np"/></e>
-<e lm="Boc" a="prompsit"><i>Boc</i><par n="Ion__np"/></e>
 <e lm="Boldești-Scăeni"> <i>Boldești-Scăeni</i><par n="București__np"/></e>
-<e lm="Bonn" a="mioara"> <i>Bonn</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Bonn" a="mioara"> <i>Bonn</i><par n="Hollywood__np"/></e>
 <e lm="Borsec">          <i>Borsec</i><par n="București__np"/></e>
 <e lm="Bosnia" a="mioara"><i>Bosni</i><par n="Români/a__np"/></e>
-<e lm="Botiș" a="prompsit"><i>Botiș</i><par n="Ion__np"/></e>
 <e lm="Botoșani">        <i>Botoșani</i><par n="București__np"/></e>
 <e lm="Brad">            <i>Brad</i><par n="București__np"/></e>
 <e lm="Bragadiru">       <i>Bragadiru</i><par n="București__np"/></e>
 <e lm="Bratislava" a="mioara"><i>Bratislav</i><par n="Români/a__np"/></e>
 <e lm="Brazilia">        <i>Brazili</i><par n="Români/a__np"/></e>
-<e lm="Brașov">          <i>Brașov</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Brașov">          <i>Brașov</i><par n="Hollywood__np"/></e>
 <e lm="Brașov">          <i>Brașov</i><par n="București__np"/></e>
-<e lm="Breton">          <i>Breton</i><par n="Ion__np"/></e>
 <e lm="Brezoi">          <i>Brezoi</i><par n="București__np"/></e>
 <e lm="Broșteni">        <i>Broșteni</i><par n="București__np"/></e>
-<e lm="Bruxelles" a="mioara"><i>Bruxelles</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Bruxelles" a="mioara"><i>Bruxelles</i><par n="Hollywood__np"/></e>
 <e lm="București">       <i>București</i><par n="București__np"/></e>
 <e lm="Budapesta" a="mioara"><i>Budapest</i><par n="Români/a__np"/></e>
 <e lm="Budești">         <i>Budești</i><par n="București__np"/></e>
@@ -34634,13 +34667,11 @@
 <e lm="Buhuși">          <i>Buhuși</i><par n="București__np"/></e>
 <e lm="Bulgaria">        <i>Bulgari</i><par n="Români/a__np"/></e>
 <e lm="Bumbești-Jiu">    <i>Bumbești-Jiu</i><par n="București__np"/></e>
-<e lm="Bush">            <i>Bush</i><par n="Ion__np"/></e>
-<e lm="Butan" a="mioara"><i>Butan</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Butan" a="mioara"><i>Butan</i><par n="Hollywood__np"/></e>
 <e lm="Buziaș">          <i>Buziaș</i><par n="București__np"/></e>
 <e lm="Buzău">           <i>Buzău</i><par n="București__np"/></e>
 <e lm="Bușteni">         <i>Bușteni</i><par n="București__np"/></e>
 <e lm="Bârlad">          <i>Bârlad</i><par n="București__np"/></e>
-<e lm="Bâtcă" a="prompsit"><i>Bâtcă</i><par n="Ion__np"/></e>
 <e lm="Băbeni">          <i>Băbeni</i><par n="București__np"/></e>
 <e lm="Băicoi">          <i>Băicoi</i><par n="București__np"/></e>
 <e lm="Băilești">        <i>Băilești</i><par n="București__np"/></e>
@@ -34650,7 +34681,7 @@
 <e lm="Calafat">         <i>Calafat</i><par n="București__np"/></e>
 <e lm="Calcutta" a="mioara"><i>Calcutt</i><par n="Români/a__np"/></e>
 <e lm="California" a="mioara"><i>Californi</i><par n="Români/a__np"/></e>
-<e lm="Camerun" a="mioara"><i>Camerun</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Camerun" a="mioara"><i>Camerun</i><par n="Hollywood__np"/></e>
 <e lm="Canada">          <i>Canad</i><par n="Europ/a__np"/></e>
 <e lm="Canare" a="mioara"><i>Canare</i><par n="Antile/__np"/></e>
 <e lm="Caracal">         <i>Caracal</i><par n="București__np"/></e>
@@ -34660,7 +34691,7 @@
 <e lm="Castilia">        <i>Castili</i><par n="Europ/a__np"/></e>
 <e lm="Catalina">        <i>Catalin</i><par n="Mari/a__np"/></e>
 <e lm="Catalonia" a="mioara"><i>Cataloni</i><par n="Români/a__np"/></e>
-<e lm="Caucaz" a="mioara"><i>Caucaz</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Caucaz" a="mioara"><i>Caucaz</i><par n="Hollywood__np"/></e>
 <e lm="Cavnic">          <i>Cavnic</i><par n="București__np"/></e>
 <e lm="Cecenia">         <i>Ceceni</i><par n="Români/a__np"/></e>
 <e lm="Cehia">           <i>Cehi</i><par n="Români/a__np"/></e>
@@ -34669,19 +34700,16 @@
 <e lm="China">           <i>Chin</i><par n="Europ/a__np"/></e>
 <e lm="Chișineu-Criș">   <i>Chișineu-Criș</i><par n="București__np"/></e>
 <e lm="Chișinău" a="mioara"><i>Chișinău</i><par n="Muntenegru__np"/></e>
-<e lm="Cicero">          <i>Cicero</i><par n="Ion__np"/></e>
 <e lm="Cipru" a="mioara"><i>Cipru</i><par n="Muntenegru__np"/></e>
-<e lm="Cluj">            <i>Cluj</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Cluj">            <i>Cluj</i><par n="Hollywood__np"/></e>
 <e lm="Coca-Cola" a="delnou"><i>Coca-Col</i><par n="Mari/a__np"/></e>
 <e lm="Coca Cola" a="delnou"><i>Coca<b/>Col</i><par n="Mari/a__np"/></e>
-<e lm="Columb">          <i>Columb</i><par n="Ion__np"/></e>
 <e lm="Comarnic">        <i>Comarnic</i><par n="București__np"/></e>
 <e lm="Comănești">       <i>Comănești</i><par n="București__np"/></e>
 <e lm="Copenhaga" a="mioara"><i>Copenhag</i><par n="Mec/a__np"/></e>
 <e lm="Coreea">          <i>Coree</i><par n="Europ/a__np"/></e>
-<e lm="Corint" a="mioara"><i>Corint</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Corint" a="mioara"><i>Corint</i><par n="Hollywood__np"/></e>
 <e lm="Costești">        <i>Costești</i><par n="București__np"/></e>
-<e lm="Cotovelea" a="prompsit"><i>Cotovelea</i><par n="Ion__np"/></e>
 <e lm="Cracovia" a="mioara"><i>Cracovi</i><par n="Români/a__np"/></e>
 <e lm="Cristofor Columb"><i>Cristofor<b/>Columb</i><par n="Ion__np"/></e>
 <e lm="Croația">         <i>Croați</i><par n="Români/a__np"/></e>
@@ -34696,10 +34724,9 @@
 <e lm="Dacia">           <i>Daci</i><par n="Wikipedi/a__np"/></e>
 <e lm="Dacia">           <i>Daci</i><par n="Români/a__np"/></e>
 <e lm="Dalmația" a="mioara"><i>Dalmați</i><par n="Români/a__np"/></e>
-<e lm="Damasc" a="mioara"><i>Damasc</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Danemarca">       <i>Danemarc</i><par n="Europ/a__np"/></e>
+<e lm="Damasc" a="mioara"><i>Damasc</i><par n="Hollywood__np"/></e>
+<e lm="Danemarca">       <i>Danemarc</i><par n="Afric/a__np"/></e>
 <e lm="Darabani">        <i>Darabani</i><par n="București__np"/></e>
-<e lm="David" a="prompsit"><i>David</i><par n="Ion__np"/></e>
 <e lm="Dej">             <i>Dej</i><par n="București__np"/></e>
 <e lm="Discovery">       <i>Discovery</i><par n="Discovery__np"/></e>
 <e lm="Disney">          <i>Disney</i><par n="Celsius__np"/></e>
@@ -34708,16 +34735,15 @@
 <e lm="Dragomirești">    <i>Dragomirești</i><par n="București__np"/></e>
 <e lm="Drăgănești-Olt">  <i>Drăgănești-Olt</i><par n="București__np"/></e>
 <e lm="Drăgășani">       <i>Drăgășani</i><par n="București__np"/></e>
-<e lm="Dublin" a="mioara"><i>Dublin</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Dublin" a="mioara"><i>Dublin</i><par n="Hollywood__np"/></e>
 <e lm="Dumnezeu">        <i>Dumnezeu</i><par n="Dumnezeu__np"/></e>
 <e lm="Dunăre" a="mioara"><i>Dunăr</i><par n="Dunăr/e__np"/></e>
 <e lm="Dăbuleni">        <i>Dăbuleni</i><par n="București__np"/></e>
 <e lm="Dărmănești">      <i>Dărmănești</i><par n="București__np"/></e>
-<e lm="Egipt" a="mioara"><i>Egipt</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Egipt" a="mioara"><i>Egipt</i><par n="Hollywood__np"/></e>
 <e lm="Elveția">         <i>Elveți</i><par n="Români/a__np"/></e>
-<e lm="Emil" a="prompsit"><i>Emil</i><par n="Ion__np"/></e>
 <e lm="Eneida" a="mioara"><i>Eneid</i><par n="Români/a__np"/></e>
-<e lm="Erevan" a="mioara"><i>Erevan</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Erevan" a="mioara"><i>Erevan</i><par n="Hollywood__np"/></e>
 <e lm="Estonia">         <i>Estoni</i><par n="Români/a__np"/></e>
 <e lm="Etiopia" a="mioara"><i>Etiopi</i><par n="Români/a__np"/></e>
 <e lm="Europa">          <i>Europ</i><par n="Europ/a__np"/></e>
@@ -34733,66 +34759,54 @@
 <e lm="Galicia" a="mioara"><i>Galici</i><par n="Români/a__np"/></e>
 <e lm="Georgia" a="mioara"><i>Georgi</i><par n="Români/a__np"/></e>
 <e lm="Germania">        <i>Germani</i><par n="Români/a__np"/></e>
-<e lm="Gheorghe" a="prompsit"><i>Gheorghe</i><par n="Ion__np"/></e>
-<e lm="Gibraltar" a="mioara"><i>Gibraltar</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Gibraltar" a="mioara"><i>Gibraltar</i><par n="Hollywood__np"/></e>
 <e lm="Grecia">          <i>Greci</i><par n="Români/a__np"/></e>
-<e lm="Helsinki" a="mioara"><i>Helsinki</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Hercule">         <i>Hercule</i><par n="Ion__np"/></e>
+<e lm="Helsinki" a="mioara"><i>Helsinki</i><par n="Hollywood__np"/></e>
 <e lm="Herțegovina" a="mioara"><i>Herțegovin</i><par n="Români/a__np"/></e>
 <e lm="Hidroelectrica" a="prompsit"><i>Hidroelectrica</i><par n="Discovery__np"/></e>
 <e lm="Hollywood">       <i>Hollywood</i><par n="Hollywood__np"/></e>
-<e lm="Homer">           <i>Homer</i><par n="Ion__np"/></e>
-<e lm="Ialomițianu" a="prompsit"><i>Ialomițianu</i><par n="Ion__np"/></e>
 <e lm="Iași">            <i>Iași</i><par n="București__np"/></e>
 <e lm="Iberia">          <i>Iberi</i><par n="Europ/a__np"/></e>
-<e lm="Iehova">          <i>Iehova</i><par n="Ion__np"/></e>
-<e lm="Ierusalim">       <i>Ierusalim</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e r="LR" lm="Iisus">    <i>Iisus</i><par n="Ion__np"/></e>
+<e lm="Ierusalim">       <i>Ierusalim</i><par n="Hollywood__np"/></e>
 <e lm="India" a="delnou"><i>Indi</i><par n="Români/a__np"/></e>
 <e lm="Indonezia" a="mioara"><i>Indonezi</i><par n="Români/a__np"/></e>
-<e lm="Ioan" a="prompsit"><i>Ioan</i><par n="Ion__np"/></e>
-<e lm="Ioan Paul al II-lea"><i>Ioan<b/>Paul<b/>al<b/>II-lea</i><par n="Ion__np"/></e>
-<e lm="Ion">             <i>Ion</i><par n="Ion__np"/></e>
-<e lm="Iordan" a="mioara"><i>Iordan</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Irak">            <i>Irak</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Iran">            <i>Iran</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Iordan" a="mioara"><i>Iordan</i><par n="Hollywood__np"/></e>
+<e lm="Irak">            <i>Irak</i><par n="Hollywood__np"/></e>
+<e lm="Iran">            <i>Iran</i><par n="Hollywood__np"/></e>
 <e lm="Irlanda">         <i>Irland</i><par n="Europ/a__np"/></e>
-<e lm="Islamabad" a="mioara"><i>Islamabad</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Islamabad" a="mioara"><i>Islamabad</i><par n="Hollywood__np"/></e>
 <e lm="Islanda">         <i>Island</i><par n="Europ/a__np"/></e>
-<e lm="Israel">          <i>Israel</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Isus">            <i>Isus</i><par n="Ion__np"/></e>
+<e lm="Israel">          <i>Israel</i><par n="Hollywood__np"/></e>
 <e lm="Italia">          <i>Itali</i><par n="Români/a__np"/></e>
 <e lm="Jamaica" a="mioara"><i>Jamaica</i><par n="Români/a__np"/></e>
 <e lm="Japonia">         <i>Japoni</i><par n="Români/a__np"/></e>
 <e lm="Katrina">         <i>Katrin</i><par n="Mari/a__np"/></e>
-<e lm="Kosovo" a="mioara"><i>Kosovo</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Kremlin" a="mioara"><i>Kremlin</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Kosovo" a="mioara"><i>Kosovo</i><par n="Hollywood__np"/></e>
+<e lm="Kremlin" a="mioara"><i>Kremlin</i><par n="Hollywood__np"/></e>
 <e lm="Kyoto" a="delnou"><i>Kyoto</i><par n="Zimbabwe__np"/></e>
 <e lm="Kyril" a="delnou"><i>Kyril</i><par n="Zimbabwe__np"/></e>
 <e lm="Laponia" a="mioara"><i>Laponi</i><par n="Români/a__np"/></e>
 <e lm="Letonia">         <i>Letoni</i><par n="Români/a__np"/></e>
-<e lm="Liban" a="mioara"><i>Liban</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Liban" a="mioara"><i>Liban</i><par n="Hollywood__np"/></e>
 <e lm="Liberia" a="mioara"><i>Liberi</i><par n="Români/a__np"/></e>
 <e lm="Libia" a="mioara"><i>Libi</i><par n="Români/a__np"/></e>
 <e lm="Lisabona" a="mioara"><i>Lisabon</i><par n="Români/a__np"/></e>
 <e lm="Lituania">        <i>Lituani</i><par n="Români/a__np"/></e>
 <e lm="Londra">          <i>Londr</i><par n="Europ/a__np"/></e>
-<e lm="Luxemburg" a="mioara"><i>Luxemburg</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Luxemburg" a="mioara"><i>Luxemburg</i><par n="Hollywood__np"/></e>
 <e lm="MW" a="prompsit"> <i>MW</i><par n="Discovery__np"/></e>
 <e lm="Macedonia">       <i>Macedoni</i><par n="Români/a__np"/></e>
-<e lm="Madrid">          <i>Madrid</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Marburg" a="mioara"><i>Marburg</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Marea Britanie">  <i>Marea<b/>Britanie</i><par n="Marea_Britanie__np"/></e>
+<e lm="Madrid">          <i>Madrid</i><par n="Hollywood__np"/></e>
+<e lm="Marburg" a="mioara"><i>Marburg</i><par n="Hollywood__np"/></e>
 <e lm="Maria">           <i>Mari</i><par n="Mari/a__np"/></e>
-<e lm="Maroc">           <i>Maroc</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Marrakesh" a="delnou"><i>Marrakesh</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Maroc">           <i>Maroc</i><par n="Hollywood__np"/></e>
+<e lm="Marrakesh" a="delnou"><i>Marrakesh</i><par n="Hollywood__np"/></e>
 <e lm="Meca" a="mioara"> <i>Mec</i><par n="Mec/a__np"/></e>
 <e lm="Medina" a="mioara"><i>Medin</i><par n="Români/a__np"/></e>
 <e lm="Melilla">         <i>Melill</i><par n="Europ/a__np"/></e>
 <e lm="Mendoza" a="mioara"><i>Mendoz</i><par n="Români/a__np"/></e>
 <e lm="Menorca" a="mioara"><i>Menorc</i><par n="Mec/a__np"/></e>
-<e lm="Mexic" a="delnou"><i>Mexic</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Mihai" a="prompsit"><i>Mihai</i><par n="Ion__np"/></e>
+<e lm="Mexic" a="delnou"><i>Mexic</i><par n="Hollywood__np"/></e>
 <e lm="Moldova">         <i>Moldov</i><par n="Europ/a__np"/></e>
 <e lm="Moscova">         <i>Moscov</i><par n="Europ/a__np"/></e>
 <e lm="Muntenegru" a="mioara"><i>Muntenegru</i><par n="Muntenegru__np"/></e>
@@ -34801,15 +34815,15 @@
 <e lm="New York">        <i>New<b/>York</i><par n="Hollywood__np"/></e>
 <e lm="Nicosia" a="mioara"><i>Nicosi</i><par n="Români/a__np"/></e>
 <e lm="Nigeria" a="mioara"><i>Nigeri</i><par n="Români/a__np"/></e>
-<e lm="Nil" a="mioara">  <i>Nil</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Nil" a="mioara">  <i>Nil</i><par n="Hollywood__np"/></e>
 <e lm="Norvegia">        <i>Norvegi</i><par n="Români/a__np"/></e>
 <e lm="Oceania" a="delnou"><i>Oceani</i><par n="Români/a__np"/></e>
 <e lm="Olanda">          <i>Oland</i><par n="Europ/a__np"/></e>
 <e lm="Orange" a="prompsit"><i>Orange</i><par n="Discovery__np"/></e>
-<e lm="Pakistan" a="mioara"><i>Pakistan</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Palermo" a="mioara"><i>Palermo</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Pakistan" a="mioara"><i>Pakistan</i><par n="Hollywood__np"/></e>
+<e lm="Palermo" a="mioara"><i>Palermo</i><par n="Hollywood__np"/></e>
 <e lm="Palestina" a="mioara"><i>Palestin</i><par n="Români/a__np"/></e>
-<e lm="Paris">           <i>Paris</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Paris">           <i>Paris</i><par n="Hollywood__np"/></e>
 <e lm="Pepsi-Cola" a="delnou"><i>Pepsi-Col</i><par n="Mari/a__np"/></e>
 <e lm="Pepsi Cola" a="delnou"><i>Pepsi<b/>Col</i><par n="Mari/a__np"/></e>
 <e lm="Persia" a="mioara"><i>Persi</i><par n="Români/a__np"/></e>
@@ -34824,60 +34838,52 @@
 <e lm="Roxana">          <i>Roxan</i><par n="Mari/a__np"/></e>
 <e lm="Ruanda" a="mioara"><i>Ruand</i><par n="Români/a__np"/></e>
 <e lm="Rusia">           <i>Rusi</i><par n="Români/a__np"/></e>
-<e lm="Răzvan" a="prompsit"><i>Răzvan</i><par n="Ion__np"/></e>
 <e lm="SUA">             <i>SUA</i><par n="SUA__np"/></e>
 <e lm="Sahara">          <i>Sahar</i><par n="Europ/a__np"/></e>
-<e lm="Sankt Petersburg" a="mioara"><i>Sankt<b/>Petersburg</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Sarajevo" a="mioara"><i>Sarajevo</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Sankt Petersburg" a="mioara"><i>Sankt<b/>Petersburg</i><par n="Hollywood__np"/></e>
+<e lm="Sarajevo" a="mioara"><i>Sarajevo</i><par n="Hollywood__np"/></e>
 <e lm="Scandinavia">     <i>Scandinavi</i><par n="Români/a__np"/></e>
-<e lm="Schengen">        <i>Schengen</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Schengen">        <i>Schengen</i><par n="Hollywood__np"/></e>
 <e lm="Scoția">          <i>Scoți</i><par n="Români/a__np"/></e>
-<e lm="Seul">            <i>Seul</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Seul">            <i>Seul</i><par n="Hollywood__np"/></e>
 <e lm="Shanghai">        <i>Shanghai</i><par n="Shanghai__np"/></e>
 <e lm="Siria" a="mioara"><i>Siri</i><par n="Români/a__np"/></e>
 <e lm="Slobozia" a="mioara"><i>Slobozi</i><par n="Români/a__np"/></e>
 <e lm="Slovacia">        <i>Slovaci</i><par n="Români/a__np"/></e>
 <e lm="Slovenia">        <i>Sloveni</i><par n="Români/a__np"/></e>
 <e lm="Spania">          <i>Spani</i><par n="Români/a__np"/></e>
-<e lm="Stix" a="mioara"> <i>Stix</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Stockholm" a="mioara"><i>Stockholm</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Strasbourg" a="mioara"><i>Strasbourg</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e r="LR" lm="Strasburg" a="mioara"><i>Strasburg</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Stix" a="mioara"> <i>Stix</i><par n="Hollywood__np"/></e>
+<e lm="Stockholm" a="mioara"><i>Stockholm</i><par n="Hollywood__np"/></e>
+<e lm="Strasbourg" a="mioara"><i>Strasbourg</i><par n="Hollywood__np"/></e>
+<e r="LR" lm="Strasburg" a="mioara"><i>Strasburg</i><par n="Hollywood__np"/></e>
 <e lm="Suedia">          <i>Suedi</i><par n="Români/a__np"/></e>
-<e lm="Superman">        <i>Superman</i><par n="Ion__np"/></e>
-<e r="LR" lm="Taivan">   <i>Taivan</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Taiwan">          <i>Taiwan</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e r="LR" lm="Taivan">   <i>Taivan</i><par n="Hollywood__np"/></e>
+<e lm="Taiwan">          <i>Taiwan</i><par n="Hollywood__np"/></e>
 <e lm="Tbilisi" a="mioara"><i>Tbilisi</i><par n="Zimbabwe__np"/></e>
-<e lm="Teheran" a="mioara"><i>Teheran</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Teheran" a="mioara"><i>Teheran</i><par n="Hollywood__np"/></e>
 <e lm="Terra">           <i>Terr</i><par n="Europ/a__np"/></e>
-<e lm="Tibet" a="mioara"><i>Tibet</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Tibet" a="mioara"><i>Tibet</i><par n="Hollywood__np"/></e>
 <e lm="Tighina" a="mioara"><i>Tighin</i><par n="Români/a__np"/></e>
 <e lm="Timișoara">       <i>Timișoar</i><par n="Europ/a__np"/></e>
-<e lm="Tiraspol" a="mioara"><i>Tiraspol</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Tiraspol" a="mioara"><i>Tiraspol</i><par n="Hollywood__np"/></e>
 <e lm="Toncescu" a="prompsit"><i>Toncescu</i><par n="Ion__np"/></e>
 <e lm="Tracia" a="mioara"><i>Traci</i><par n="Români/a__np"/></e>
-<e lm="Traian">          <i>Traian</i><par n="Ion__np"/></e>
-<e lm="Traian Băsescu">  <i>Traian<b/>Băsescu</i><par n="Ion__np"/></e>
 <e lm="Transilvania">    <i>Transilvani</i><par n="Români/a__np"/></e>
 <e lm="Transnistria" a="mioara"><i>Transnistri</i><par n="Români/a__np"/></e>
-<e lm="Tubingen" a="mioara"><i>Tubingen</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Tubingen" a="mioara"><i>Tubingen</i><par n="Hollywood__np"/></e>
 <e lm="Turcia">          <i>Turci</i><par n="Români/a__np"/></e>
 <e lm="Ucraina">         <i>Ucrain</i><par n="Europ/a__np"/></e>
 <e lm="Ungaria">         <i>Ungari</i><par n="Români/a__np"/></e>
 <e lm="Varșovia" a="mioara"><i>Varșovi</i><par n="Români/a__np"/></e>
 <e lm="Veneția">         <i>Veneți</i><par n="Români/a__np"/></e>
-<e r="LR" lm="Vergiliu"> <i>Vergiliu</i><par n="Ion__np"/></e>
 <e r="LR" lm="Vestfalia" a="mioara"><i>Vestfali</i><par n="Români/a__np"/></e>
 <e lm="Viena" a="mioara"><i>Vien</i><par n="Români/a__np"/></e>
-<e lm="Vietnam" a="mioara"><i>Vietnam</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Viktor" a="prompsit"><i>Viktor</i><par n="Ion__np"/></e>
-<e lm="Vilnius" a="mioara"><i>Vilnius</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
-<e lm="Virgiliu">        <i>Virgiliu</i><par n="Ion__np"/></e>
-<e lm="Vlad" a="prompsit"><i>Vlad</i><par n="Ion__np"/></e>
+<e lm="Vietnam" a="mioara"><i>Vietnam</i><par n="Hollywood__np"/></e>
+<e lm="Vilnius" a="mioara"><i>Vilnius</i><par n="Hollywood__np"/></e>
 <e lm="Vodafone" a="prompsit"><i>Vodafone</i><par n="Discovery__np"/></e>
 <e lm="Volga" a="mioara"><i>Volg</i><par n="Mec/a__np"/></e>
 <e lm="Volksbank" a="prompsit"><i>Volksbank</i><par n="Discovery__np"/></e>
-<e lm="Washington" a="mioara"><i>Washington</i><!-- Israel__np' was replaced --><par n="Hollywood__np"/></e>
+<e lm="Washington" a="mioara"><i>Washington</i><par n="Hollywood__np"/></e>
 <e lm="Westfalia" a="mioara"><i>Westfali</i><par n="Români/a__np"/></e>
 <e lm="Wikipedia">       <i>Wikipedi</i><par n="Wikipedi/a__np"/></e>
 <e lm="Zimbabwe" a="mioara"><i>Zimbabwe</i><par n="Zimbabwe__np"/></e>
@@ -34924,6 +34930,146 @@
 <e lm="El Vendrell">     <i>El<b/>Vendrell</i><par n="Zimbabwe__np"/></e>
 <e lm="Vic">             <i>Vic</i><par n="Zimbabwe__np"/></e>
 <e lm="Vinaròs">         <i>Vinaròs</i><par n="Zimbabwe__np"/></e>
+
+<e lm="Bielarusia">      <i>Bielarusi</i><par n="Români/a__np"/></e>
+<e lm="Muntenia">        <i>Munteni</i><par n="Români/a__np"/></e>
+<e lm="Basarabia">       <i>Basarabi</i><par n="Români/a__np"/></e>
+<e lm="Saxonia">         <i>Saxoni</i><par n="Români/a__np"/></e>
+<e lm="Renania">         <i>Renani</i><par n="Români/a__np"/></e>
+<e lm="Oltenia">         <i>Olteni</i><par n="Români/a__np"/></e>
+<e lm="Serbia">          <i>Serbi</i><par n="Români/a__np"/></e>
+<e lm="Sofia">           <i>Sofi</i><par n="Români/a__np"/></e>
+<e lm="Sicilia">         <i>Sicili</i><par n="Români/a__np"/></e>
+<e lm="Pomerania">       <i>Pomerani</i><par n="Români/a__np"/></e>
+<e lm="Cehoslovacia">    <i>Cehoslovaci</i><par n="Români/a__np"/></e>
+<e lm="Siberia">         <i>Siberi</i><par n="Români/a__np"/></e>
+<e lm="Silezia">         <i>Silezi</i><par n="Români/a__np"/></e>
+<e lm="Valencia">        <i>Valenci</i><par n="Români/a__np"/></e>
+<e lm="Cambodgia">       <i>Cambodgi</i><par n="Români/a__np"/></e>
+<e lm="Catalunia">       <i>Cataluni</i><par n="Români/a__np"/></e>
+<e lm="Kiev">            <i>Kiev</i><par n="Hollywood__np"/></e>
+<e lm="München">         <i>München</i><par n="Hollywood__np"/></e>
+<e lm="Los Angeles">     <i>Los<b/>Angeles</i><par n="Hollywood__np"/></e>
+<e lm="Banat">           <i>Banat</i><par n="Hollywood__np"/></e>
+<e lm="Bihor">           <i>Bihor</i><par n="Hollywood__np"/></e>
+<e lm="Sydney">          <i>Sydney</i><par n="Hollywood__np"/></e>
+<e lm="Constantinopol">  <i>Constantinopol</i><par n="Hollywood__np"/></e>
+<e lm="Texas">           <i>Texas</i><par n="Hollywood__np"/></e>
+<e lm="Calais">          <i>Calais</i><par n="Hollywood__np"/></e>
+<e lm="Manchester">      <i>Manchester</i><par n="Hollywood__np"/></e>
+<e lm="Istanbul">        <i>Istanbul</i><par n="Hollywood__np"/></e>
+<e lm="Boston">          <i>Boston</i><par n="Hollywood__np"/></e>
+<e lm="Frankfurt">       <i>Frankfurt</i><par n="Hollywood__np"/></e>
+<e lm="Oxford">          <i>Oxford</i><par n="Hollywood__np"/></e>
+<e lm="Jersey">          <i>Jersey</i><par n="Hollywood__np"/></e>
+<e lm="Massachusetts">   <i>Massachusetts</i><par n="Hollywood__np"/></e>
+<e lm="Hamburg">         <i>Hamburg</i><par n="Hollywood__np"/></e>
+<e lm="Liverpool">       <i>Liverpool</i><par n="Hollywood__np"/></e>
+<e lm="Leipzig">         <i>Leipzig</i><par n="Hollywood__np"/></e>
+<e lm="Lyon">            <i>Lyon</i><par n="Hollywood__np"/></e>
+<e lm="Missouri">        <i>Missouri</i><par n="Hollywood__np"/></e>
+<e lm="Dubai">           <i>Dubai</i><par n="Hollywood__np"/></e>
+<e lm="Peru">            <i>Peru</i><par n="Muntenegru__np"/></e>
+<e lm="Sibiu">           <i>Sibiu</i><par n="Muntenegru__np"/></e>
+<e lm="Cluj Napoca">     <i>Cluj<b/>Napoc</i><par n="Mec/a__np"/></e>
+<e lm="Jamaica">         <i>Jamaic</i><par n="Mec/a__np"/></e>
+<e lm="Praga">           <i>Prag</i><par n="Mec/a__np"/></e>
+<e lm="Berga">           <i>Berga</i><par n="Tàrrega__np"/></e>
+<e lm="Fraga">           <i>Fraga</i><par n="Tàrrega__np"/></e>
+<e lm="Tàrrega">         <i>Tàrrega</i><par n="Tàrrega__np"/></e>
+<e lm="Crimeea">         <i>Crimee</i><par n="Coree/a__np"/></e>
+<e lm="Coreea">          <i>Coree</i><par n="Coree/a__np"/></e>
+<e lm="Vrancea">         <i>Vrance</i><par n="Coree/a__np"/></e>
+<e lm="Tulcea">          <i>Tulce</i><par n="Coree/a__np"/></e>
+<e lm="Suceava">         <i>Suceav</i><par n="Europ/a__np"/></e>
+<e lm="Bucovina">        <i>Bucovin</i><par n="Europ/a__np"/></e>
+<e lm="Craiova">         <i>Craiov</i><par n="Europ/a__np"/></e>
+<e lm="Prahova">         <i>Prahov</i><par n="Europ/a__np"/></e>
+<e lm="Hunedoara">       <i>Hunedoar</i><par n="Europ/a__np"/></e>
+<e lm="Odesa">           <i>Odes</i><par n="Europ/a__np"/></e>
+<e lm="Thailanda">       <i>Thailand</i><par n="Europ/a__np"/></e>
+<e lm="Geneva">          <i>Genev</i><par n="Europ/a__np"/></e>
+<e lm="Arizona">         <i>Arizon</i><par n="Europ/a__np"/></e>
+<e lm="Toscana">         <i>Toscan</i><par n="Europ/a__np"/></e>
+<e lm="Venezuela">       <i>Venezuel</i><par n="Europ/a__np"/></e>
+<e lm="Malta">           <i>Malt</i><par n="Europ/a__np"/></e>
+<e lm="Alaska">          <i>Alask</i><par n="Europ/a__np"/></e>
+<e lm="Cuba">            <i>Cub</i><par n="Europ/a__np"/></e>
+<e lm="Tarragona">       <i>Tarragon</i><par n="Europ/a__np"/></e>
+<e lm="Girona">          <i>Giron</i><par n="Europ/a__np"/></e>
+<e lm="Lleida">          <i>Lleid</i><par n="Europ/a__np"/></e>
+<e lm="Vistula">         <i>Vistul</i><par n="Europ/a__np"/></e>
+<e lm="Aiora">           <i>Aiora</i><par n="Tàrrega__np"/></e>
+<e lm="L'Alcora">        <i>L'Alcora</i><par n="Tàrrega__np"/></e>
+<e lm="Amposta">         <i>Amposta</i><par n="Tàrrega__np"/></e>
+<e lm="Borriana">        <i>Borriana</i><par n="Tàrrega__np"/></e>
+<e lm="Cervera">         <i>Cervera</i><par n="Tàrrega__np"/></e>
+<e lm="Cocentaina">      <i>Cocentaina</i><par n="Tàrrega__np"/></e>
+<e lm="Dénia">           <i>Dénia</i><par n="Tàrrega__np"/></e>
+<e lm="Eivissa">         <i>Eivissa</i><par n="Tàrrega__np"/></e>
+<e lm="Elda">            <i>Elda</i><par n="Tàrrega__np"/></e>
+<e lm="Énguera">         <i>Énguera</i><par n="Tàrrega__np"/></e>
+<e lm="Gandesa">         <i>Gandesa</i><par n="Tàrrega__np"/></e>
+<e lm="Gandia">          <i>Gandia</i><par n="Tàrrega__np"/></e>
+<e lm="Igualada">        <i>Igualada</i><par n="Tàrrega__np"/></e>
+<e lm="Llíria">          <i>Llíria</i><par n="Tàrrega__np"/></e>
+<e lm="Manresa">         <i>Manresa</i><par n="Tàrrega__np"/></e>
+<e lm="Mollerussa">      <i>Mollerussa</i><par n="Tàrrega__np"/></e>
+<e lm="Morella">         <i>Morella</i><par n="Tàrrega__np"/></e>
+<e lm="Oriola">          <i>Oriola</i><par n="Tàrrega__np"/></e>
+<e lm="Palma">           <i>Palma</i><par n="Tàrrega__np"/></e>
+<e lm="Prada">           <i>Prada</i><par n="Tàrrega__np"/></e>
+<e lm="Requena">         <i>Requena</i><par n="Tàrrega__np"/></e>
+<e lm="Silla">           <i>Silla</i><par n="Tàrrega__np"/></e>
+<e lm="Solsona">         <i>Solsona</i><par n="Tàrrega__np"/></e>
+<e lm="Terrassa">        <i>Terrassa</i><par n="Tàrrega__np"/></e>
+<e lm="Tortosa">         <i>Tortosa</i><par n="Tàrrega__np"/></e>
+<e lm="Vielha">          <i>Vielha</i><par n="Tàrrega__np"/></e>
+<e lm="La Vila Joiosa">  <i>La<b/>Vila<b/>Joiosa</i><par n="Tàrrega__np"/></e>
+<e lm="Villena">         <i>Villena</i><par n="Tàrrega__np"/></e>
+<e lm="Xàtiva">          <i>Xàtiva</i><par n="Tàrrega__np"/></e>
+<e lm="Xelva">           <i>Xelva</i><par n="Tàrrega__np"/></e>
+<e lm="La Bisbal d'Empordà"><i>La<b/>Bisbal<b/>d'Empordà</i><par n="Tàrrega__np"/></e>
+<e lm="Móra d'Ebre">     <i>Móra<b/>d'Ebre</i><par n="Tàrrega__np"/></e>
+<e lm="Santa Coloma de Farners"><i>Santa<b/>Coloma<b/>de<b/>Farners</i><par n="Tàrrega__np"/></e>
+<e lm="La Seu d'Urgell"> <i>La<b/>Seu<b/>d'Urgell</i><par n="Tàrrega__np"/></e>
+<e lm="Vilafranca del Penedès"><i>Vilafranca<b/>del<b/>Penedès</i><par n="Tàrrega__np"/></e>
+<e lm="Vilanova i la Geltrú"><i>Vilanova<b/>i<b/>la<b/>Geltrú</i><par n="Tàrrega__np"/></e>
+<e lm="Xiva de Bunyol">  <i>Xiva<b/>de<b/>Bunyol</i><par n="Tàrrega__np"/></e>
+<e lm="Mexico">          <i>Mexico</i><par n="Shanghai__np"/></e>
+<e lm="Milano">          <i>Milano</i><par n="Shanghai__np"/></e>
+<e lm="Chicago">         <i>Chicago</i><par n="Shanghai__np"/></e>
+<e lm="Torino">          <i>Torino</i><par n="Shanghai__np"/></e>
+<e lm="Cambridge">       <i>Cambridge</i><par n="Shanghai__np"/></e>
+<e lm="Tokyo">           <i>Tokyo</i><par n="Shanghai__np"/></e>
+<e lm="Ohio">            <i>Ohio</i><par n="Shanghai__np"/></e>
+<e lm="Veneto">          <i>Veneto</i><par n="Shanghai__np"/></e>
+
+<e lm="Satu Mare">       <p><l>Satu<b/>Mare</l><r>Satu<b/>Mare<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="Satu Mare">       <p><l>Satu<b/>Mare</l><r>Satu<b/>Mare<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="Satu Mare">       <p><l>Satul<b/>Mare</l><r>Satu<b/>Mare<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="Satu Mare">       <p><l>Satului<b/>Mare</l><r>Satu<b/>Mare<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="Baia Mare">       <p><l>Baie<b/>Mare</l><r>Baia<b/>Mare<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="Baia Mare">       <p><l>Baie<b/>Mare</l><r>Baia<b/>Mare<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="Baia Mare">       <p><l>Baia<b/>Mare</l><r>Baia<b/>Mare<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="Baia Mare">       <p><l>Băii<b/>Mare</l><r>Baia<b/>Mare<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="Alba Iulia">      <p><l>Albă<b/>Iulia</l><r>Alba<b/>Iulia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="Alba Iulia">      <p><l>Albă<b/>Iulia</l><r>Alba<b/>Iulia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="Alba Iulia">      <p><l>Alba<b/>Iulia</l><r>Alba<b/>Iulia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="Alba Iulia">      <p><l>Albei<b/>Iulia</l><r>Alba<b/>Iulia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="Oradea">          <p><l>Orade</l>     <r>Oradea<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="Oradea">          <p><l>Orade</l>     <r>Oradea<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="Oradea">          <p><l>Oradea</l>    <r>Oradea<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="Oradea">          <p><l>Oradei</l>    <r>Oradea<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e r="LR" lm="Oradea">   <p><l>Orăzii</l>    <r>Oradea<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="Dunărea">         <p><l>Dunăre</l>    <r>Dunărea<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="Dunărea">         <p><l>Dunăre</l>    <r>Dunărea<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="Dunărea">         <p><l>Dunărea</l>   <r>Dunărea<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="Dunărea">         <p><l>Dunării</l>   <r>Dunărea<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="Marea Britanie">  <p><l>Mare<b/>Britanie</l><r>Marea<b/>Britanie<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="Marea Britanie">  <p><l>Mare<b/>Britanie</l><r>Marea<b/>Britanie<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="Marea Britanie">  <p><l>Marea<b/>Britanie</l><r>Marea<b/>Britanie<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="Marea Britanie">  <p><l>Marii<b/>Britanii</l><r>Marea<b/>Britanie<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 
 <e lm="Fond Monetar Internațional"><p><l>Fond<b/>Monetar<b/>Internațional</l><r>Fond<b/>Monetar<b/>Internațional<s n="np"/><s n="al"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
 <e lm="Fond Monetar Internațional"><p><l>Fondul<b/>Monetar<b/>Internațional</l><r>Fond<b/>Monetar<b/>Internațional<s n="np"/><s n="al"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
