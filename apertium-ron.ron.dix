@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 4
-	Entries: 21891
+	Entries: 21929
 	Sdefs: 76
-	Paradigms: 890
+	Paradigms: 891
 	Last processed by: apertium-dixtools fix apertium-ron.ron.dix apertium-ron.ron.dix
 
 -->
@@ -7813,6 +7813,13 @@
   <e>       <p><l>ii</l>        <r>e<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
+<pardef n="Târgoviște__np">
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>a</l>         <r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ei</l>        <r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
 <pardef n="Mec/a__np">
   <e>       <p><l>a</l>         <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>a</l>         <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -10040,10 +10047,10 @@
   <e>       <p><l>uia</l>       <r>ul<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/><s n="dg"/></r></p></e>
   <e>       <p><l>ii</l>        <r>ul<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>ora</l>       <r>ul<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/><s n="dg"/></r></p></e>
-  <e>       <p><l>ora</l>       <r>ul<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/><s n="dg"/></r></p></e>
   <e>       <p><l>a</l>         <r>ul<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>eia</l>       <r>ul<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/><s n="dg"/></r></p></e>
   <e>       <p><l>ele</l>       <r>ul<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>ora</l>       <r>ul<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/><s n="dg"/></r></p></e>
 </pardef>
 
 <pardef n="pentru_mine__prn">
@@ -33422,23 +33429,22 @@
 <e r="LR" lm="adițiune"> <i>adițiun</i><par n="fericir/e__n"/></e>
 <e lm="adiție">          <i>adiți</i><par n="coaliți/e__n"/></e>
 
-<e lm="Bancă Mondială">  <p><l>Banca<b/>Mondială</l><r>Bancă<b/>Mondială<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-<e lm="Bancă Mondială" a="delnou"><p><l>Bancă<b/>Mondială</l><r>Bancă<b/>Mondială<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-<e lm="Bancă Mondială">  <p><l>Bănci<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-<e lm="Bancă Mondială">  <p><l>Bănci<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-<e lm="Bancă Mondială">  <p><l>Bănci<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-<e lm="Bancă Mondială">  <p><l>Băncii<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-<e lm="Bancă Mondială">  <p><l>Băncile<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-<e lm="Bancă Mondială">  <p><l>Băncilor<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-<e lm="Fond Monetar Internațional" a="delnou"><p><l>Fond<b/>Monetar<b/>Internațional</l><r>Fond<b/>Monetar<b/>Internațional<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-<e lm="Uniune Europeană"><p><l>Uniune<b/>Europeană</l><r>Uniune<b/>Europeană<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-<e lm="Uniune Europeană"><p><l>Uniunea<b/>Europeană</l><r>Uniune<b/>Europeană<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-<e lm="Uniune Europeană"><p><l>Uniuni<b/>Europene</l><r>Uniune<b/>Europeană<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-<e lm="Uniune Europeană"><p><l>Uniuni<b/>Europene</l><r>Uniune<b/>Europeană<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-<e lm="Uniune Europeană"><p><l>Uniuni<b/>Europene</l><r>Uniune<b/>Europeană<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-<e lm="Uniune Europeană"><p><l>Uniunii<b/>Europene</l><r>Uniune<b/>Europeană<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-<e lm="Uniune Europeană"><p><l>Uniunile<b/>Europene</l><r>Uniune<b/>Europeană<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-<e lm="Uniune Europeană"><p><l>Uniunilor<b/>Europene</l><r>Uniune<b/>Europeană<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="Bancă Mondială">  <p><l>Banca<b/>Mondială</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="Bancă Mondială" a="delnou"><p><l>Bancă<b/>Mondială</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="Bancă Mondială">  <p><l>Bănci<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="Bancă Mondială">  <p><l>Bănci<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="Bancă Mondială">  <p><l>Bănci<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="Bancă Mondială">  <p><l>Băncii<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="Bancă Mondială">  <p><l>Băncile<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="Bancă Mondială">  <p><l>Băncilor<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="Uniune Europeană"><p><l>Uniune<b/>Europeană</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="Uniune Europeană"><p><l>Uniunea<b/>Europeană</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="Uniune Europeană"><p><l>Uniuni<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="Uniune Europeană"><p><l>Uniuni<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="Uniune Europeană"><p><l>Uniuni<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="Uniune Europeană"><p><l>Uniunii<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="Uniune Europeană"><p><l>Uniunile<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="Uniune Europeană"><p><l>Uniunilor<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="afacere externă"> <p><l>afacere<b/>externă</l><r>afacere<b/>externă<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="afacere instituțională"><p><l>afacere<b/>instituțională</l><r>afacere<b/>instituțională<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="afacere externă"> <p><l>afacerea<b/>externă</l><r>afacere<b/>externă<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -35093,6 +35099,43 @@
 <e lm="Tokyo">           <i>Tokyo</i><par n="Shanghai__np"/></e>
 <e lm="Ohio">            <i>Ohio</i><par n="Shanghai__np"/></e>
 <e lm="Veneto">          <i>Veneto</i><par n="Shanghai__np"/></e>
+<e lm="Poltava">         <i>Poltav</i><par n="Europ/a__np"/></e>
+<e lm="Brăila">          <i>Brăil</i><par n="Europ/a__np"/></e>
+<e lm="Dâmbovița">       <i>Dâmboviț</i><par n="Europ/a__np"/></e>
+<e lm="Bistrița">        <i>Bistriț</i><par n="Europ/a__np"/></e>
+<e lm="Vinnița">         <i>Vinniț</i><par n="Europ/a__np"/></e>
+<e lm="Ialomița">        <i>Ialomiț</i><par n="Europ/a__np"/></e>
+<e lm="Harghita">        <i>Harghit</i><par n="Europ/a__np"/></e>
+<e lm="Vâlcea">          <i>Vâlce</i><par n="Coree/a__np"/></e>
+<e lm="Zaporijjea">      <i>Zaporijje</i><par n="Coree/a__np"/></e>
+<e lm="Iugoslavia">      <i>Iugoslavi</i><par n="Români/a__np"/></e>
+<e lm="Volînia">         <i>Volîni</i><par n="Români/a__np"/></e>
+<e lm="Turingia">        <i>Turingi</i><par n="Români/a__np"/></e>
+<e lm="Boemia">          <i>Boemi</i><par n="Români/a__np"/></e>
+<e lm="Mureș">           <i>Mureș</i><par n="Hollywood__np"/></e>
+<e lm="Argeș">           <i>Argeș</i><par n="Hollywood__np"/></e>
+<e lm="Galați">          <i>Galați</i><par n="Hollywood__np"/></e>
+<e lm="Neamț">           <i>Neamț</i><par n="Hollywood__np"/></e>
+<e lm="Cernăuți">        <i>Cernăuți</i><par n="Hollywood__np"/></e>
+<e lm="Vaslui">          <i>Vaslui</i><par n="Hollywood__np"/></e>
+<e lm="Liov">            <i>Liov</i><par n="Hollywood__np"/></e>
+<e lm="Ploiești">        <i>Ploiești</i><par n="Hollywood__np"/></e>
+<e lm="Olt">             <i>Olt</i><par n="Hollywood__np"/></e>
+<e lm="Jîtomîr">         <i>Jîtomîr</i><par n="Hollywood__np"/></e>
+<e lm="Timiș">           <i>Timiș</i><par n="Hollywood__np"/></e>
+<e lm="Maramureș">       <i>Maramureș</i><par n="Hollywood__np"/></e>
+<e lm="Cernihiv">        <i>Cernihiv</i><par n="Hollywood__np"/></e>
+<e lm="Sumî">            <i>Sumî</i><par n="Hollywood__np"/></e>
+<e lm="Hmelnîțkîi">      <i>Hmelnîțkîi</i><par n="Hollywood__np"/></e>
+<e lm="Dnipropetrovsk">  <i>Dnipropetrovsk</i><par n="Hollywood__np"/></e>
+<e lm="Dolj">            <i>Dolj</i><par n="Hollywood__np"/></e>
+<e lm="Sălaj">           <i>Sălaj</i><par n="Hollywood__np"/></e>
+<e lm="Mehedinți">       <i>Mehedinți</i><par n="Hollywood__np"/></e>
+<e lm="Kirovohrad">      <i>Kirovohrad</i><par n="Hollywood__np"/></e>
+<e lm="Prut">            <i>Prut</i><par n="Hollywood__np"/></e>
+<e lm="Schleswig-Holstein"><i>Schleswig-Holstein</i><par n="Shanghai__np"/></e>
+<e lm="Nistru">          <i>Nistru</i><par n="Muntenegru__np"/></e>
+<e lm="Târgoviște">      <i>Târgoviște</i><par n="Târgoviște__np"/></e>
 
 <e lm="Satu Mare">       <p><l>Satu<b/>Mare</l><r>Satu<b/>Mare<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="Satu Mare">       <p><l>Satu<b/>Mare</l><r>Satu<b/>Mare<s n="np"/><s n="top"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
@@ -35120,6 +35163,7 @@
 <e lm="Marea Britanie">  <p><l>Marea<b/>Britanie</l><r>Marea<b/>Britanie<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="Marea Britanie">  <p><l>Marii<b/>Britanii</l><r>Marea<b/>Britanie<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 
+<e lm="Fond Monetar Internațional"><p><l>Fond<b/>Monetar<b/>Internațional</l><r>Fond<b/>Monetar<b/>Internațional<s n="np"/><s n="al"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="Fond Monetar Internațional"><p><l>Fond<b/>Monetar<b/>Internațional</l><r>Fond<b/>Monetar<b/>Internațional<s n="np"/><s n="al"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
 <e lm="Fond Monetar Internațional"><p><l>Fondul<b/>Monetar<b/>Internațional</l><r>Fond<b/>Monetar<b/>Internațional<s n="np"/><s n="al"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="Fond Monetar Internațional"><p><l>Fondului<b/>Monetar<b/>Internațional</l><r>Fond<b/>Monetar<b/>Internațional<s n="np"/><s n="al"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
@@ -37913,6 +37957,7 @@
 <e lm="lui">             <par n="/lui__prn"/></e>
 <e lm="ne">              <i>ne</i><par n="ne__prn"/></e>
 <e lm="nici_unul">       <i>nici<b/>un</i><par n="nici_un/ul__prn"/></e>
+<e lm="niciunul">        <i>niciun</i><par n="nici_un/ul__prn"/></e>
 <e lm="nimeni">          <i>nim</i><par n="nim/eni__prn"/></e>
 <e lm="nimic">           <i>nimic</i><par n="nimic__prn"/></e>
 <e lm="noi">             <i>noi</i><par n="noi__prn"/></e>
