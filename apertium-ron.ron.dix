@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 4
-	Entries: 21992
+	Entries: 22091
 	Sdefs: 76
-	Paradigms: 892
+	Paradigms: 898
 	Last processed by: apertium-dixtools fix apertium-ron.ron.dix apertium-ron.ron.dix
 
 -->
@@ -8132,9 +8132,51 @@
 
 <pardef n="XXI__adj">
   <e>       <p><l>-lea</l>      <r><s n="adj"/><s n="ord"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>-lea</l>      <r><s n="adj"/><s n="ord"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>-a</l>        <r><s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>-a</l>        <r><s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>-lea</l>      <r><s n="adj"/><s n="ord"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>-a</l>        <r><s n="adj"/><s n="ord"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+</pardef>
+
+<pardef n="do/ilea__adj">
+  <e>       <p><l>ilea</l>      <r>ilea<s n="adj"/><s n="ord"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ua</l>        <r>ilea<s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilea</l>      <r>ilea<s n="adj"/><s n="ord"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ua</l>        <r>ilea<s n="adj"/><s n="ord"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+</pardef>
+
+<pardef n="trei/lea__adj">
+  <e>       <p><l>lea</l>       <r>lea<s n="adj"/><s n="ord"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>a</l>         <r>lea<s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lea</l>       <r>lea<s n="adj"/><s n="ord"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>a</l>         <r>lea<s n="adj"/><s n="ord"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+</pardef>
+
+<pardef n="patr/ulea__adj">
+  <e>       <p><l>ulea</l>      <r>ulea<s n="adj"/><s n="ord"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>a</l>         <r>ulea<s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ulea</l>      <r>ulea<s n="adj"/><s n="ord"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>a</l>         <r>ulea<s n="adj"/><s n="ord"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+</pardef>
+
+<pardef n="cinc/ilea__adj">
+  <e>       <p><l>ilea</l>      <r>ilea<s n="adj"/><s n="ord"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ea</l>        <r>ilea<s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilea</l>      <r>ilea<s n="adj"/><s n="ord"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ea</l>        <r>ilea<s n="adj"/><s n="ord"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+</pardef>
+
+<pardef n="nou/ălea__adj">
+  <e>       <p><l>ălea</l>      <r>ălea<s n="adj"/><s n="ord"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>a</l>         <r>ălea<s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ălea</l>      <r>ălea<s n="adj"/><s n="ord"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>a</l>         <r>ălea<s n="adj"/><s n="ord"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+</pardef>
+
+<pardef n="do/isprezecelea__adj">
+  <e>       <p><l>isprezecelea</l><r>isprezecelea<s n="adj"/><s n="ord"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>uăsprezecea</l><r>isprezecelea<s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>isprezecelea</l><r>isprezecelea<s n="adj"/><s n="ord"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>uăsprezecea</l><r>isprezecelea<s n="adj"/><s n="ord"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
 </pardef>
 
 <pardef n="mul/t__adj">
@@ -18364,7 +18406,6 @@
   <e>       <p><l>a</l>         <r><s n="vbmod"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>se</l>        <r><s n="vbmod"/><s n="pper"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ască</l>      <r><s n="vbmod"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
-  <e>       <p><l>e</l>         <r><s n="vbmod"/><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>t</l>         <r><s n="vbmod"/><s n="pp"/><s n="mn"/><s n="sg"/></r></p></e>
   <e>       <p><l>t</l>         <r><s n="vbmod"/><s n="pp"/><s n="mn"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>ndu</l>       <r><s n="vbmod"/><s n="ger"/><j/></r></p><par n="S__aducându"/></e>
@@ -18376,10 +18417,10 @@
 <!--PARADIGMA PRONOMS POSSESSIUS-->
 
 <pardef n="a/l__det">
-  <e>       <p><l>l</l>         <r>l<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
+  <e>       <p><l>l</l>         <r>l<s n="det"/><s n="def"/><s n="mn"/><s n="sg"/></r></p></e>
   <e>       <p><l>i</l>         <r>l<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r></p></e>
   <e>       <p><l></l>          <r>l<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
-  <e>       <p><l>le</l>        <r>l<s n="det"/><s n="def"/><s n="f"/><s n="pl"/></r></p></e>
+  <e>       <p><l>le</l>        <r>l<s n="det"/><s n="def"/><s n="fn"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="a/l_meu__prn">
@@ -18675,6 +18716,109 @@
 <e lm="XXVII">           <i>XXVII</i><par n="XXI__adj"/></e>
 <e lm="XXVIII">          <i>XXVIII</i><par n="XXI__adj"/></e>
 <e lm="XXX">             <i>XXX</i><par n="XXI__adj"/></e>
+
+<e lm="întâi">           <i>întâi</i><par n="prim__adj"/></e>
+<e lm="prim">            <i>prim</i><par n="prim__adj"/></e>
+<e lm="doilea">          <i>do</i><par n="do/ilea__adj"/></e>
+<e lm="treilea">         <i>trei</i><par n="trei/lea__adj"/></e>
+<e lm="patrulea">        <i>patr</i><par n="patr/ulea__adj"/></e>
+<e lm="cincilea">        <i>cinc</i><par n="cinc/ilea__adj"/></e>
+<e lm="șaselea">         <i>șase</i><par n="trei/lea__adj"/></e>
+<e lm="șaptelea">        <i>șapte</i><par n="trei/lea__adj"/></e>
+<e lm="optulea">         <i>opt</i><par n="patr/ulea__adj"/></e>
+<e lm="nouălea">         <i>nou</i><par n="nou/ălea__adj"/></e>
+<e lm="zecelea">         <i>zece</i><par n="trei/lea__adj"/></e>
+<e lm="unsprezecelea">   <i>unsprezece</i><par n="trei/lea__adj"/></e>
+<e lm="doisprezecelea">  <i>do</i><par n="do/isprezecelea__adj"/></e>
+<e lm="treiprezecelea">  <i>treiprezece</i><par n="trei/lea__adj"/></e>
+<e lm="patrusprezecelea"><i>patrusprezece</i><par n="trei/lea__adj"/></e>
+<e lm="cincisprezecelea"><i>cincisprezece</i><par n="trei/lea__adj"/></e>
+<e lm="șaisprezecelea">  <i>șaisprezece</i><par n="trei/lea__adj"/></e>
+<e lm="șaptesprezecelea"><i>șaptesprezece</i><par n="trei/lea__adj"/></e>
+<e lm="optsprezecelea">  <i>optsprezece</i><par n="trei/lea__adj"/></e>
+<e lm="nouăsprezecelea"> <i>nouăsprezece</i><par n="trei/lea__adj"/></e>
+<e lm="douăzecilea">     <i>douăzeci</i><par n="trei/lea__adj"/></e>
+<e lm="douăzeci și unulea"><i>douăzeci<b/>și<b/>un</i><par n="patr/ulea__adj"/></e>
+<e lm="douăzeci și doilea"><i>douăzeci<b/>și<b/>do</i><par n="do/ilea__adj"/></e>
+<e lm="douăzeci și treilea"><i>douăzeci<b/>și<b/>trei</i><par n="trei/lea__adj"/></e>
+<e lm="douăzeci și patrulea"><i>douăzeci<b/>și<b/>patr</i><par n="patr/ulea__adj"/></e>
+<e lm="douăzeci și cincilea"><i>douăzeci<b/>și<b/>cinc</i><par n="cinc/ilea__adj"/></e>
+<e lm="douăzeci și șaselea"><i>douăzeci<b/>și<b/>șase</i><par n="trei/lea__adj"/></e>
+<e lm="douăzeci și șaptelea"><i>douăzeci<b/>și<b/>șapte</i><par n="trei/lea__adj"/></e>
+<e lm="douăzeci și optulea"><i>douăzeci<b/>și<b/>opt</i><par n="patr/ulea__adj"/></e>
+<e lm="douăzeci și nouălea"><i>douăzeci<b/>și<b/>nou</i><par n="nou/ălea__adj"/></e>
+<e lm="treizecilea">     <i>treizeci</i><par n="trei/lea__adj"/></e>
+<e lm="treizeci și unulea"><i>treizeci<b/>și<b/>un</i><par n="patr/ulea__adj"/></e>
+<e lm="treizeci și doilea"><i>treizeci<b/>și<b/>do</i><par n="do/ilea__adj"/></e>
+<e lm="treizeci și treilea"><i>treizeci<b/>și<b/>trei</i><par n="trei/lea__adj"/></e>
+<e lm="treizeci și patrulea"><i>treizeci<b/>și<b/>patr</i><par n="patr/ulea__adj"/></e>
+<e lm="treizeci și cincilea"><i>treizeci<b/>și<b/>cinc</i><par n="cinc/ilea__adj"/></e>
+<e lm="treizeci și șaselea"><i>treizeci<b/>și<b/>șase</i><par n="trei/lea__adj"/></e>
+<e lm="treizeci și șaptelea"><i>treizeci<b/>și<b/>șapte</i><par n="trei/lea__adj"/></e>
+<e lm="treizeci și optulea"><i>treizeci<b/>și<b/>opt</i><par n="patr/ulea__adj"/></e>
+<e lm="treizeci și nouălea"><i>treizeci<b/>și<b/>nou</i><par n="nou/ălea__adj"/></e>
+<e lm="patruzecilea">    <i>patruzeci</i><par n="trei/lea__adj"/></e>
+<e lm="patruzeci și unulea"><i>patruzeci<b/>și<b/>un</i><par n="patr/ulea__adj"/></e>
+<e lm="patruzeci și doilea"><i>patruzeci<b/>și<b/>do</i><par n="do/ilea__adj"/></e>
+<e lm="patruzeci și treilea"><i>patruzeci<b/>și<b/>trei</i><par n="trei/lea__adj"/></e>
+<e lm="patruzeci și patrulea"><i>patruzeci<b/>și<b/>patr</i><par n="patr/ulea__adj"/></e>
+<e lm="patruzeci și cincilea"><i>patruzeci<b/>și<b/>cinc</i><par n="cinc/ilea__adj"/></e>
+<e lm="patruzeci și șaselea"><i>patruzeci<b/>și<b/>șase</i><par n="trei/lea__adj"/></e>
+<e lm="patruzeci și șaptelea"><i>patruzeci<b/>și<b/>șapte</i><par n="trei/lea__adj"/></e>
+<e lm="patruzeci și optulea"><i>patruzeci<b/>și<b/>opt</i><par n="patr/ulea__adj"/></e>
+<e lm="patruzeci și nouălea"><i>patruzeci<b/>și<b/>nou</i><par n="nou/ălea__adj"/></e>
+<e lm="cincizecilea">    <i>cincizeci</i><par n="trei/lea__adj"/></e>
+<e lm="cincizeci și unulea"><i>cincizeci<b/>și<b/>un</i><par n="patr/ulea__adj"/></e>
+<e lm="cincizeci și doilea"><i>cincizeci<b/>și<b/>do</i><par n="do/ilea__adj"/></e>
+<e lm="cincizeci și treilea"><i>cincizeci<b/>și<b/>trei</i><par n="trei/lea__adj"/></e>
+<e lm="cincizeci și patrulea"><i>cincizeci<b/>și<b/>patr</i><par n="patr/ulea__adj"/></e>
+<e lm="cincizeci și cincilea"><i>cincizeci<b/>și<b/>cinc</i><par n="cinc/ilea__adj"/></e>
+<e lm="cincizeci și șaselea"><i>cincizeci<b/>și<b/>șase</i><par n="trei/lea__adj"/></e>
+<e lm="cincizeci și șaptelea"><i>cincizeci<b/>și<b/>șapte</i><par n="trei/lea__adj"/></e>
+<e lm="cincizeci și optulea"><i>cincizeci<b/>și<b/>opt</i><par n="patr/ulea__adj"/></e>
+<e lm="cincizeci și nouălea"><i>cincizeci<b/>și<b/>nou</i><par n="nou/ălea__adj"/></e>
+<e lm="șaizecilea">      <i>șaizeci</i><par n="trei/lea__adj"/></e>
+<e lm="șaizeci și unulea"><i>șaizeci<b/>și<b/>un</i><par n="patr/ulea__adj"/></e>
+<e lm="șaizeci și doilea"><i>șaizeci<b/>și<b/>do</i><par n="do/ilea__adj"/></e>
+<e lm="șaizeci și treilea"><i>șaizeci<b/>și<b/>trei</i><par n="trei/lea__adj"/></e>
+<e lm="șaizeci și patrulea"><i>șaizeci<b/>și<b/>patr</i><par n="patr/ulea__adj"/></e>
+<e lm="șaizeci și cincilea"><i>șaizeci<b/>și<b/>cinc</i><par n="cinc/ilea__adj"/></e>
+<e lm="șaizeci și șaselea"><i>șaizeci<b/>și<b/>șase</i><par n="trei/lea__adj"/></e>
+<e lm="șaizeci și șaptelea"><i>șaizeci<b/>și<b/>șapte</i><par n="trei/lea__adj"/></e>
+<e lm="șaizeci și optulea"><i>șaizeci<b/>și<b/>opt</i><par n="patr/ulea__adj"/></e>
+<e lm="șaizeci și nouălea"><i>șaizeci<b/>și<b/>nou</i><par n="nou/ălea__adj"/></e>
+<e lm="șaptezecilea">    <i>șaptezeci</i><par n="trei/lea__adj"/></e>
+<e lm="șaptezeci și unulea"><i>șaptezeci<b/>și<b/>un</i><par n="patr/ulea__adj"/></e>
+<e lm="șaptezeci și doilea"><i>șaptezeci<b/>și<b/>do</i><par n="do/ilea__adj"/></e>
+<e lm="șaptezeci și treilea"><i>șaptezeci<b/>și<b/>trei</i><par n="trei/lea__adj"/></e>
+<e lm="șaptezeci și patrulea"><i>șaptezeci<b/>și<b/>patr</i><par n="patr/ulea__adj"/></e>
+<e lm="șaptezeci și cincilea"><i>șaptezeci<b/>și<b/>cinc</i><par n="cinc/ilea__adj"/></e>
+<e lm="șaptezeci și șaselea"><i>șaptezeci<b/>și<b/>șase</i><par n="trei/lea__adj"/></e>
+<e lm="șaptezeci și șaptelea"><i>șaptezeci<b/>și<b/>șapte</i><par n="trei/lea__adj"/></e>
+<e lm="șaptezeci și optulea"><i>șaptezeci<b/>și<b/>opt</i><par n="patr/ulea__adj"/></e>
+<e lm="șaptezeci și nouălea"><i>șaptezeci<b/>și<b/>nou</i><par n="nou/ălea__adj"/></e>
+<e lm="optzecilea">      <i>optzeci</i><par n="trei/lea__adj"/></e>
+<e lm="optzeci și unulea"><i>optzeci<b/>și<b/>un</i><par n="patr/ulea__adj"/></e>
+<e lm="optzeci și doilea"><i>optzeci<b/>și<b/>do</i><par n="do/ilea__adj"/></e>
+<e lm="optzeci și treilea"><i>optzeci<b/>și<b/>trei</i><par n="trei/lea__adj"/></e>
+<e lm="optzeci și patrulea"><i>optzeci<b/>și<b/>patr</i><par n="patr/ulea__adj"/></e>
+<e lm="optzeci și cincilea"><i>optzeci<b/>și<b/>cinc</i><par n="cinc/ilea__adj"/></e>
+<e lm="optzeci și șaselea"><i>optzeci<b/>și<b/>șase</i><par n="trei/lea__adj"/></e>
+<e lm="optzeci și șaptelea"><i>optzeci<b/>și<b/>șapte</i><par n="trei/lea__adj"/></e>
+<e lm="optzeci și optulea"><i>optzeci<b/>și<b/>opt</i><par n="patr/ulea__adj"/></e>
+<e lm="optzeci și nouălea"><i>optzeci<b/>și<b/>nou</i><par n="nou/ălea__adj"/></e>
+<e lm="nouăzecilea">     <i>nouăzeci</i><par n="trei/lea__adj"/></e>
+<e lm="nouăzeci și unulea"><i>nouăzeci<b/>și<b/>un</i><par n="patr/ulea__adj"/></e>
+<e lm="nouăzeci și doilea"><i>nouăzeci<b/>și<b/>do</i><par n="do/ilea__adj"/></e>
+<e lm="nouăzeci și treilea"><i>nouăzeci<b/>și<b/>trei</i><par n="trei/lea__adj"/></e>
+<e lm="nouăzeci și patrulea"><i>nouăzeci<b/>și<b/>patr</i><par n="patr/ulea__adj"/></e>
+<e lm="nouăzeci și cincilea"><i>nouăzeci<b/>și<b/>cinc</i><par n="cinc/ilea__adj"/></e>
+<e lm="nouăzeci și șaselea"><i>nouăzeci<b/>și<b/>șase</i><par n="trei/lea__adj"/></e>
+<e lm="nouăzeci și șaptelea"><i>nouăzeci<b/>și<b/>șapte</i><par n="trei/lea__adj"/></e>
+<e lm="nouăzeci și optulea"><i>nouăzeci<b/>și<b/>opt</i><par n="patr/ulea__adj"/></e>
+<e lm="nouăzeci și nouălea"><i>nouăzeci<b/>și<b/>nou</i><par n="nou/ălea__adj"/></e>
+<e lm="o sutălea">       <i>o<b/>sut</i><par n="nou/ălea__adj"/></e>
+
 
     <!-- Adjective -->
 
@@ -21658,7 +21802,6 @@
 <e lm="prielnic" a="delia"><i>prielnic</i><par n="bun__adj"/></e>
 <e lm="prietenesc">      <i>prietene</i><par n="române/sc__adj"/></e>
 <e lm="prietenos" a="mioara"><i>prieteno</i><par n="curajo/s__adj"/></e>
-<e lm="prim">            <i>prim</i><par n="prim__adj"/></e>
 <e lm="primar">          <i>primar</i><par n="bun__adj"/></e>
 <e lm="primitiv">        <i>primitiv</i><par n="bun__adj"/></e>
 <e lm="primitor" a="delia"><i>primito</i><par n="arzăto/r__adj"/></e>
@@ -22655,7 +22798,6 @@
 <e lm="întristător" a="delia"><i>întristăto</i><par n="arzăto/r__adj"/></e>
 <e lm="întunecat" a="delia"><i>întuneca</i><par n="adevăra/t__adj"/></e>
 <e lm="întunecos" a="delia"><i>întuneco</i><par n="curajo/s__adj"/></e>
-<e lm="întâi">           <i>întâi</i><par n="prim__adj"/></e>
 <e lm="întâmplător" a="delia"><i>întâmplăto</i><par n="arzăto/r__adj"/></e>
 <e lm="întârziat" a="delia"><i>întârzia</i><par n="adevăra/t__adj"/></e>
 <e lm="întăritor" a="delia"><i>întărito</i><par n="arzăto/r__adj"/></e>
@@ -22712,10 +22854,10 @@
 <e lm="muntean">         <i>munte</i><par n="europe/an__adj"/></e>
 <e lm="bucovinean">      <i>bucovine</i><par n="europe/an__adj"/></e>
 
-<e lm="cealaltă" a="delnou"><p><l>cealaltă</l><r>celălalt<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-<e lm="ceilalți" a="delnou"><p><l>ceilalți</l><r>celălalt<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-<e lm="celelalte" a="delnou"><p><l>celelalte</l><r>celălalt<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-<e lm="celălalt" a="delnou"><p><l>celălalt</l><r>celălalt<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="cealaltă" a="delnou"><p><l>cealaltă</l><r>celălalt<s n="adj"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="ceilalți" a="delnou"><p><l>ceilalți</l><r>celălalt<s n="adj"/><s n="ind"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="celelalte" a="delnou"><p><l>celelalte</l><r>celălalt<s n="adj"/><s n="ind"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="celălalt" a="delnou"><p><l>celălalt</l><r>celălalt<s n="adj"/><s n="ind"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 
 <e lm="al lui">          <p><l>al<b/>lui</l> <r>al<s n="det"/><s n="def"/><s n="m"/><s n="sg"/><j/>lui<s n="adj"/><s n="pos"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="ai lui">          <p><l>ai<b/>lui</l> <r>al<s n="det"/><s n="def"/><s n="m"/><s n="pl"/><j/>lui<s n="adj"/><s n="pos"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
