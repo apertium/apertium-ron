@@ -38,7 +38,8 @@ LIST Prs = prs ;
 LIST Ifi = ifi ;
 LIST Inf = inf ;
 
-LIST Să = ("să") ;
+LIST Să = ("să") + cnjsub ;
+LIST Inf_a = ("a") ;
 
 SECTION
 
@@ -88,6 +89,12 @@ REMOVE Vaux IF (0 V) (0 Vaux) ;
 REMOVE V IF (0 V) (0 Vbavea) (1 Pp) ;
 REMOVE V IF (0 V) (0 Vbavea) (1 Să) (2 Prs) ;
 REMOVE Vbavea IF (0 V) (0 Vbavea) ;
+
+# Inf
+SELECT Inf IF (0 V) (0 Inf) (-1 Inf_a) ;
+SELECT Inf IF (0 V) (0 Inf) (-1 Vaux) ;
+SELECT Inf IF (0 V) (0 Inf) (-1 Vbavea) ;
+REMOVE Inf IF (0 V) (0 Inf) ;
 
 # Al lui (pronoun/det+adj)
 REMOVE Prn IF (0 ("al lui")) (1 Np) ;

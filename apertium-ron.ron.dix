@@ -33584,6 +33584,7 @@
 <e r="LR" lm="adițiune"> <i>adițiun</i><par n="fericir/e__n"/></e>
 <e lm="adiție">          <i>adiți</i><par n="coaliți/e__n"/></e>
 <e lm="regină">          <i>regin</i><par n="cas/ă__n"/></e>
+<e lm="magistrală">      <i>magistral</i><par n="cas/ă__n"/></e>
 
 <e lm="Bancă Mondială">  <p><l>Banca<b/>Mondială</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="Bancă Mondială" a="delnou"><p><l>Bancă<b/>Mondială</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
