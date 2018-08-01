@@ -2,7 +2,7 @@
 <!--
 	Dictionary:
 	Sections: 4
-	Entries: 22091
+	Entries: 22092
 	Sdefs: 76
 	Paradigms: 898
 	Last processed by: apertium-dixtools fix apertium-ron.ron.dix apertium-ron.ron.dix
@@ -18730,8 +18730,8 @@
 <e lm="zecelea">         <i>zece</i><par n="trei/lea__adj"/></e>
 <e lm="unsprezecelea">   <i>unsprezece</i><par n="trei/lea__adj"/></e>
 <e lm="doisprezecelea">  <i>do</i><par n="do/isprezecelea__adj"/></e>
-<e lm="treiprezecelea">  <i>treiprezece</i><par n="trei/lea__adj"/></e>
-<e lm="patrusprezecelea"><i>patrusprezece</i><par n="trei/lea__adj"/></e>
+<e lm="treisprezecelea"> <i>treisprezece</i><par n="trei/lea__adj"/></e>
+<e lm="paisprezecelea">  <i>paisprezece</i><par n="trei/lea__adj"/></e>
 <e lm="cincisprezecelea"><i>cincisprezece</i><par n="trei/lea__adj"/></e>
 <e lm="șaisprezecelea">  <i>șaisprezece</i><par n="trei/lea__adj"/></e>
 <e lm="șaptesprezecelea"><i>șaptesprezece</i><par n="trei/lea__adj"/></e>
