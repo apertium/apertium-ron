@@ -20,6 +20,7 @@ LIST V = vblex ;
 LIST Vbser = vbser ;
 LIST Vaux = vaux ;
 LIST Pp = pp ;
+LIST Ij = ij ;
 
 LIST Sg = sg ;
 LIST Pl = pl ;
@@ -76,6 +77,10 @@ REMOVE N IF (0 ("mai")) (-1 ("cel")) (1 Adj) ;
 # Și (cnjcoo or adv)
 SELECT Adv IF (0 Și) (-1 BOS) ;
 REMOVE Adv IF (0 Și) ;
+
+# O (ij or det)
+SELECT Ij IF (0 Ij) (0 Det) (-1 BOS | _S_SOFT_DELIMITERS_) (1 _S_SOFT_DELIMITERS_) ;
+REMOVE Ij IF (0 Ij) (0 Det) ;
 
 # A (prep or vbavea)
 SELECT Vbavea IF (0 ("a")) (1 Pp) ;

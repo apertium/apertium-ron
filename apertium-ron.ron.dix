@@ -23303,7 +23303,6 @@
 <e lm="nu este de mirare" a="delnou"><i>nu<b/>este<b/>de<b/>mirare</i><par n="azi__adv"/></e>
 <e lm="numai">           <i>numai</i><par n="azi__adv"/></e>
 <e lm="numaidecât" a="mioara"><i>numaidecât</i><par n="azi__adv"/></e>
-<e lm="o" a="delia">     <i>o</i><par n="azi__adv"/></e>
 <e lm="oare">            <i>oare</i><par n="azi__adv"/></e>
 <e lm="odată">           <i>odată</i><par n="azi__adv"/></e>
 <e r="LR" lm="odată ș-odată" a="mioara"><i>odată<b/>ș-odată</i><par n="azi__adv"/></e>
@@ -23734,6 +23733,7 @@
 <e lm="mulțumesc">       <i>mulțumesc</i><par n="adio__ij"/></e>
 <e lm="mulțumesc frumos"><i>mulțumesc<b/>frumos</i><par n="adio__ij"/></e>
 <e lm="noapte_bună__ij"> <i>noapte<b/>bună</i><par n="adio__ij"/></e>
+<e lm="o" a="delia">     <i>o</i><par n="adio__ij"/></e>
 <e lm="pa">              <i>pa</i><par n="adio__ij"/></e>
 <e lm="pardon">          <i>pardon</i><par n="adio__ij"/></e>
 <e lm="pe curând">       <i>pe<b/>curând</i><par n="adio__ij"/></e>
