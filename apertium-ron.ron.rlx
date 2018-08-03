@@ -15,6 +15,7 @@ LIST Det = det ;
 LIST Adv = adv ;
 LIST Prn = prn ;
 LIST Vbavea = vbavea ;
+LIST Vbmod = vbmod ;
 LIST V = vblex ;
 LIST Vbser = vbser ;
 LIST Vaux = vaux ;
@@ -38,8 +39,10 @@ LIST Prs = prs ;
 LIST Ifi = ifi ;
 LIST Inf = inf ;
 
-LIST Să = ("să") + cnjsub ;
-LIST Inf_a = ("a") ;
+LIST Să = ("să") cnjsub ;
+LIST Inf_a = ("a") pr ;
+LIST Gen_a = ("a") det def ;
+SET Și = ("și" adv) | ("și" cnjcoo) ;
 
 SECTION
 
@@ -70,8 +73,15 @@ REMOVE N IF (0 ("mai")) (-1 N) (1 Adj) ;
 REMOVE N IF (0 ("mai")) (-1 V) (1 Adv) ;
 REMOVE N IF (0 ("mai")) (-1 ("cel")) (1 Adj) ;
 
+# Și (cnjcoo or adv)
+SELECT Adv IF (0 Și) (-1 BOS) ;
+REMOVE Adv IF (0 Și) ;
+
 # A (prep or vbavea)
 SELECT Vbavea IF (0 ("a")) (1 Pp) ;
+
+# A (prep or det)
+SELECT Det IF (0 Gen_a) (1 Dg) ;
 
 # Conjunctiv
 SELECT Prs IF (0 Prs) (0 Pri) (-1 Să) ;
@@ -103,6 +113,8 @@ SELECT Prn IF (0 ("al lui")) ;
 # Remove dative/genitive by default
 REMOVE Dg IF (0 Nom) (0 Dg) ;
 
+# Remove plural by default
+REMOVE Pl IF (0 Sg) (0 Pl) ;
 
 
 # Resources:
