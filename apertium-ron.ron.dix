@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 4
-	Entries: 22133
+	Entries: 22115
 	Sdefs: 76
-	Paradigms: 899
+	Paradigms: 897
 	Last processed by: apertium-dixtools fix apertium-ron.ron.dix apertium-ron.ron.dix
 
 -->
@@ -8075,37 +8075,28 @@
   <e>       <p><l></l>          <r><s n="num"/><s n="mf"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="zero__num">
-  <e>       <p><l></l>          <r><s n="num"/><s n="m"/><s n="sg"/></r></p></e>
-  <e>       <p><l>uri</l>       <r><s n="num"/><s n="m"/><s n="pl"/></r></p></e>
+  <e>       <p><l></l>          <r><s n="num"/><s n="mf"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="un/u__num">
 
-  <e>       <p><l>u</l>         <r>u<s n="num"/><s n="m"/><s n="sg"/></r></p></e>
+  <e>       <p><l>u</l>         <r>u<s n="num"/><s n="mn"/><s n="sg"/></r></p></e>
   <e>       <p><l>a</l>         <r>u<s n="num"/><s n="f"/><s n="sg"/></r></p></e>
 </pardef>
 <pardef n="do/i__num">
   <e>       <p><l>i</l>         <r>i<s n="num"/><s n="m"/><s n="pl"/></r></p></e>
-  <e>       <p><l>uă</l>        <r>i<s n="num"/><s n="f"/><s n="pl"/></r></p></e>
+  <e>       <p><l>uă</l>        <r>i<s n="num"/><s n="fn"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="do/isprezece__num">
   <e>       <p><l>isprezece</l> <r>isprezece<s n="num"/><s n="m"/><s n="pl"/></r></p></e>
-  <e>       <p><l>uăsprezece</l><r>isprezece<s n="num"/><s n="f"/><s n="pl"/></r></p></e>
-</pardef>
-
-<pardef n="al_doilea__num">
-  <e>       <p><l></l>          <r><s n="num"/><s n="m"/><s n="sg"/></r></p></e>
-</pardef>
-
-<pardef n="a_doua__num">
-  <e>       <p><l></l>          <r><s n="num"/><s n="f"/><s n="sg"/></r></p></e>
+  <e>       <p><l>uăsprezece</l><r>isprezece<s n="num"/><s n="fn"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="douăzeci_și_/unu__num">
   <e>       <p><l>unu</l>       <r>unu<s n="num"/><s n="m"/><s n="pl"/></r></p></e>
-  <e>       <p><l>una</l>       <r>unu<s n="num"/><s n="f"/><s n="pl"/></r></p></e>
+  <e>       <p><l>una</l>       <r>unu<s n="num"/><s n="fn"/><s n="pl"/></r></p></e>
   <e>       <p><l>doi</l>       <r>doi<s n="num"/><s n="m"/><s n="pl"/></r></p></e>
-  <e>       <p><l>două</l>      <r>doi<s n="num"/><s n="f"/><s n="pl"/></r></p></e>
+  <e>       <p><l>două</l>      <r>doi<s n="num"/><s n="fn"/><s n="pl"/></r></p></e>
   <e>       <p><l>trei</l>      <r>trei<s n="num"/><s n="mf"/><s n="pl"/></r></p></e>
   <e>       <p><l>patru</l>     <r>patru<s n="num"/><s n="mf"/><s n="pl"/></r></p></e>
   <e>       <p><l>cinci</l>     <r>cinci<s n="num"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -37902,24 +37893,6 @@
 <e lm="XXVIII">          <i>XXVIII</i><par n="C__num"/></e>
 <e lm="XXX">             <i>XXX</i><par n="C__num"/></e>
 
-<e lm="a_cincea">        <i>a<b/>cincea</i><par n="a_doua__num"/></e>
-<e lm="a_doua">          <i>a<b/>doua</i><par n="a_doua__num"/></e>
-<e lm="a_noua">          <i>a<b/>noua</i><par n="a_doua__num"/></e>
-<e lm="a_opta">          <i>a<b/>opta</i><par n="a_doua__num"/></e>
-<e lm="a_patra">         <i>a<b/>patra</i><par n="a_doua__num"/></e>
-<e lm="a_treia">         <i>a<b/>treia</i><par n="a_doua__num"/></e>
-<e lm="a_zecea">         <i>a<b/>zecea</i><par n="a_doua__num"/></e>
-<e lm="a_șaptea">        <i>a<b/>șaptea</i><par n="a_doua__num"/></e>
-<e lm="a_șasea">         <i>a<b/>șasea</i><par n="a_doua__num"/></e>
-<e lm="al_cincilea">     <i>al<b/>cincilea</i><par n="al_doilea__num"/></e>
-<e lm="al_doilea">       <i>al<b/>doilea</i><par n="al_doilea__num"/></e>
-<e lm="al_nouălea">      <i>al<b/>nouălea</i><par n="al_doilea__num"/></e>
-<e lm="al_optulea">      <i>al<b/>optulea</i><par n="al_doilea__num"/></e>
-<e lm="al_patrulea">     <i>al<b/>patrulea</i><par n="al_doilea__num"/></e>
-<e lm="al_treilea">      <i>al<b/>treilea</i><par n="al_doilea__num"/></e>
-<e lm="al_zecelea">      <i>al<b/>zecelea</i><par n="al_doilea__num"/></e>
-<e lm="al_șaptelea">     <i>al<b/>șaptelea</i><par n="al_doilea__num"/></e>
-<e lm="al_șaselea">      <i>al<b/>șaselea</i><par n="al_doilea__num"/></e>
 <e lm="cinci">           <i>cinci</i><par n="C__num"/></e>
 <e lm="cinci_sute">      <i>cinci<b/>sute</i><par n="C__num"/></e>
 <e lm="cincisprezece">   <i>cincisprezece</i><par n="C__num"/></e>
