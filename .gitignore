@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-*.bin
-Makefile
-Makefile.in
-.deps
-modes/
-*.mode
-=======
 /*.bin
 /*.gz
 /*.m4
@@ -22,7 +14,5 @@ modes/
 /missing
 /modes
 /*.mode
+/.d
 /.deps
-/config.in
-/config
->>>>>>> 79d130a126e8ce95b4ce25047e26fa399cf38682
