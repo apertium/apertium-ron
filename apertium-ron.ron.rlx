@@ -14,6 +14,7 @@ LIST Pr = pr ;
 LIST Det = det ;
 LIST Adv = adv ;
 LIST Prn = prn ;
+LIST Prnpro = prn pro;
 LIST Vbavea = vbavea ;
 LIST Vbmod = vbmod ;
 LIST V = vblex ;
@@ -35,6 +36,10 @@ LIST Fn = fn ;
 
 LIST Nom = nom ;
 LIST Dg = dg ;
+
+LIST Ind = ind ;
+LIST Def = def ;
+
 LIST Pri = pri ;
 LIST Prs = prs ;
 LIST Ifi = ifi ;
@@ -50,7 +55,7 @@ SECTION
 # Entries which are either N or Adj
 SELECT Adj IF (0 N) (0 Adj) (-1 N);
 SELECT Adj IF (0 N) (0 Adj) (-2 N) (-1 Adj);
-SELECT N IF (0 N) (0 Adj) ;
+REMOVE Adj IF (0 N) (0 Adj) ;
 
 # Entries which are either Pp or Adj
 SELECT Pp IF (0 Pp) (0 Adj) (-1 Vbavea) ;
@@ -82,6 +87,10 @@ REMOVE Adv IF (0 Și) ;
 SELECT Ij IF (0 Ij) (0 Det) (-1 BOS | _S_SOFT_DELIMITERS_) (1 _S_SOFT_DELIMITERS_) ;
 REMOVE Ij IF (0 Ij) (0 Det) ;
 
+# O (prnpro or det)
+SELECT Det IF (0 Prnpro) (0 Det) (1 N + F + Sg + Ind) ;
+REMOVE Det IF (0 Prnpro) (0 Det) ;
+
 # A (prep or vbavea)
 SELECT Vbavea IF (0 ("a")) (1 Pp) ;
 
@@ -103,6 +112,7 @@ REMOVE Vaux IF (0 V) (0 Vaux) ;
 # Avea
 REMOVE V IF (0 V) (0 Vbavea) (1 Pp) ;
 REMOVE V IF (0 V) (0 Vbavea) (1 Să) (2 Prs) ;
+REMOVE V IF (0 V) (0 Vbavea) (1 Inf) ;
 REMOVE Vbavea IF (0 V) (0 Vbavea) ;
 
 # Inf
@@ -114,6 +124,11 @@ REMOVE Inf IF (0 V) (0 Inf) ;
 # Al lui (pronoun/det+adj)
 REMOVE Prn IF (0 ("al lui")) (1 Np) ;
 SELECT Prn IF (0 ("al lui")) ;
+
+
+# Remove plural if determiner is singular ("fiecare")
+REMOVE Pl IF (0 N) (-1C Det + Sg) ;
+
 
 # Remove dative/genitive by default
 REMOVE Dg IF (0 Nom) (0 Dg) ;
