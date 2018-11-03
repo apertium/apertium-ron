@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 4
-	Entries: 22164
+	Entries: 22229
 	Sdefs: 76
-	Paradigms: 900
+	Paradigms: 907
 	Last processed by: apertium-dixtools fix apertium-ron.ron.dix apertium-ron.ron.dix
 
 -->
@@ -838,6 +838,45 @@
   <e>       <p><l>oaice</l>     <r>i<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>oaicelor</l>  <r>i<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
+
+<pardef n="blăn/ar__n">
+  <e>       <p><l>ar</l>        <r>ar<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>arul</l>      <r>ar<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ar</l>        <r>ar<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>arului</l>    <r>ar<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ari</l>       <r>ar<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>arii</l>      <r>ar<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ari</l>       <r>ar<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>arilor</l>    <r>ar<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ăreasă</l>    <r>ar<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ăreasa</l>    <r>ar<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ărese</l>     <r>ar<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ăresei</l>    <r>ar<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ărese</l>     <r>ar<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ăresele</l>   <r>ar<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ărese</l>     <r>ar<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>reselor</l>   <r>ar<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
+<pardef n="p/aharnic__n">
+  <e>       <p><l>aharnic</l>   <r>aharnic<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>aharnicul</l> <r>aharnic<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>aharnic</l>   <r>aharnic<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>aharnicului</l><r>aharnic<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>aharnici</l>  <r>aharnic<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>aharnicii</l> <r>aharnic<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>aharnici</l>  <r>aharnic<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>aharnicilor</l><r>aharnic<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ăhărniceasă</l><r>aharnic<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ăhărniceasa</l><r>aharnic<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ăhărnicese</l><r>aharnic<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ăhărnicesei</l><r>aharnic<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ăhărnicese</l><r>aharnic<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ăhărnicesele</l><r>aharnic<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ăhărnicese</l><r>aharnic<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ăhărniceselor</l><r>aharnic<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
 <pardef n="an__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ul</l>        <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -1537,6 +1576,25 @@
 
 
 
+<pardef n="f/azan__n">
+  <e>       <p><l>azan</l>      <r>azan<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>azanul</l>    <r>azan<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>azan</l>      <r>azan<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>azanului</l>  <r>azan<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>azani</l>     <r>azan<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>azanii</l>    <r>azan<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>azani</l>     <r>azan<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>azanilor</l>  <r>azan<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ăzăniță</l>   <r>azan<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ăzănița</l>   <r>azan<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ăzănițe</l>   <r>azan<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ăzăniței</l>  <r>azan<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ăzănițe</l>   <r>azan<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ăzănițele</l> <r>azan<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ăzănițe</l>   <r>azan<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ăzănițelor</l><r>azan<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
 <pardef n="mot/an__n">
   <e>       <p><l>an</l>        <r>an<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>anul</l>      <r>an<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -1949,6 +2007,17 @@
   <e>       <p><l>elor</l>      <r>ă<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
+<pardef n="g/aură__n">
+  <e>       <p><l>aură</l>      <r>aură<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>aura</l>      <r>aură<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ăuri</l>      <r>aură<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ăurii</l>     <r>aură<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ăuri</l>      <r>aură<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ăurile</l>    <r>aură<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ăuri</l>      <r>aură<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ăurilor</l>   <r>aură<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
 
 <pardef n="pomanagi/u__n">
   <e>       <p><l>u</l>         <r>u<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -2083,6 +2152,26 @@
   <e>       <p><l>rițe</l>      <r>or<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>rițelor</l>   <r>or<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
+
+<pardef n="ge/amăn__n">
+  <e>       <p><l>amăn</l>      <r>amăn<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>amănul</l>    <r>amăn<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>amăn</l>      <r>amăn<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>amănului</l>  <r>amăn<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>meni</l>      <r>amăn<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>menii</l>     <r>amăn<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>meni</l>      <r>amăn<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>menilor</l>   <r>amăn<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>amănă</l>     <r>amăn<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>amăna</l>     <r>amăn<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>mene</l>      <r>amăn<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>menei</l>     <r>amăn<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>mene</l>      <r>amăn<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>menele</l>    <r>amăn<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>mene</l>      <r>amăn<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>menelor</l>   <r>amăn<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
 <pardef n="femei/e__n">
   <e>       <p><l>e</l>         <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>a</l>         <r>e<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -7011,6 +7100,17 @@
   <e>       <p><l>urilor</l>    <r>ă<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
+<pardef n="făin/ă__n">
+  <e>       <p><l>ă</l>         <r>ă<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>a</l>         <r>ă<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>ă<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ii</l>        <r>ă<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>uri</l>       <r>ă<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>urile</l>     <r>ă<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>uri</l>       <r>ă<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>urilor</l>    <r>ă<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
 
 <pardef n="lun/i__n">
   <e>       <p><l>i</l>         <r>i<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -7520,6 +7620,17 @@
   <e>       <p><l>ilor</l>      <r>u<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
+<pardef n="roș/u__n">
+  <e>       <p><l>u</l>         <r>u<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ul</l>        <r>u<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>u</l>         <r>u<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ului</l>      <r>u<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ii</l>        <r>u<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>iile</l>      <r>u<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ii</l>        <r>u<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>iilor</l>     <r>u<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
 <pardef n="popo/r__n">
   <e>       <p><l>r</l>         <r>r<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>rul</l>       <r>r<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -7612,6 +7723,16 @@
   <e>       <p><l>aiele</l>     <r>i<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>aie</l>       <r>i<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>aielor</l>    <r>i<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+<pardef n="fierăstr/ău__n">
+  <e>       <p><l>ău</l>        <r>ău<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ăul</l>       <r>ău<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ău</l>        <r>ău<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ăului</l>     <r>ău<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>aie</l>       <r>ău<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>aiele</l>     <r>ău<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>aie</l>       <r>ău<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>aielor</l>    <r>ău<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 <pardef n="m/ăr__n">
   <e>       <p><l>ăr</l>        <r>ăr<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -7740,13 +7861,6 @@
   <e>       <p><l>ul</l>        <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l></l>          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ului</l>      <r><s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-
-<pardef n="făin/ă__n">
-  <e>       <p><l>ă</l>         <r>ă<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>a</l>         <r>ă<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>         <r>ă<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ii</l>        <r>ă<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
 <pardef n="mier/e__n">
@@ -23921,8 +24035,8 @@
 <e r="LR" lm="acroșare"> <i>acroș</i><par n="întreb/are__n"/></e>
 <e lm="actor">           <i>act</i><par n="act/or__n"/></e>
 <e lm="act">             <i>act</i><par n="caiet__n"/></e>
-<e lm="action-painting" a="delnou"><i>action-painting</i><!-- aur__n' was replaced --><par n="est__n"/></e>
-<e lm="action painting" a="delnou"><i>action<b/>painting</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="action-painting" a="delnou"><i>action-painting</i><par n="est__n"/></e>
+<e lm="action painting" a="delnou"><i>action<b/>painting</i><par n="est__n"/></e>
 <e lm="activare" a="delia"><i>activ</i><par n="întreb/are__n"/></e>
 <e lm="activist">        <i>activi</i><par n="comuni/st__n"/></e>
 <e lm="activism">        <i>activism</i><par n="caiet__n"/></e>
@@ -24087,7 +24201,7 @@
 <e lm="albie">           <i>albi</i><par n="coaliți/e__n"/></e>
 <e lm="albină" a="delia"><i>albin</i><par n="cas/ă__n"/></e>
 <e lm="albinuță" a="mioara"><i>albinuț</i><par n="cas/ă__n"/></e>
-<e r="LR" lm="albinărel" a="mioara"><i>albinăre</i><!-- cerce/l__n' was replaced --><par n="ca/l__n"/></e>
+<e r="LR" lm="albinărel" a="mioara"><i>albinăre</i><par n="ca/l__n"/></e>
 <e lm="album" a="delia"> <i>album</i><par n="caiet__n"/></e>
 <e lm="albumină">        <i>albumin</i><par n="cas/ă__n"/></e>
 <e lm="albuș" a="delia"> <i>albuș</i><par n="gât__n"/></e>
@@ -24099,14 +24213,14 @@
 <e lm="alcoolemie">      <i>alcoolemi</i><par n="coaliți/e__n"/></e>
 <e lm="alcoolic" a="delia"><i>alcoolic</i><par n="coleg__n"/></e>
 <e lm="alcoolism">       <i>alcoolism</i><par n="caiet__n"/></e>
-<e r="LR" lm="alcătuire" a="mioara"><i>alcătuir</i><par n="fericir/e__n"/></e>
+<e lm="alcătuire" a="mioara"><i>alcătuir</i><par n="fericir/e__n"/></e>
 <e lm="aldehidă" a="delnou"><i>aldehid</i><par n="cas/ă__n"/></e>
 <e lm="alee">            <i>ale</i><par n="fericir/e__n"/></e>
 <e lm="alegere">         <i>aleger</i><par n="fericir/e__n"/></e>
 <e lm="alegorie">        <i>alegori</i><par n="coaliți/e__n"/></e>
 <e lm="alegorism" a="mioara"><i>alegorism</i><par n="caiet__n"/></e>
 <e lm="alegător">        <i>alegăto</i><par n="directo/r__n"/></e>
-<e r="LR" lm="alergare"> <i>alerg</i><par n="întreb/are__n"/></e>
+<e lm="alergare">        <i>alerg</i><par n="întreb/are__n"/></e>
 <e lm="alergie" a="delia"><i>alergi</i><par n="coaliți/e__n"/></e>
 <e lm="alergolog">       <i>alergolo</i><par n="biolo/g__n"/></e>
 <e lm="alergologie" a="mioara"><i>alergologi</i><par n="coaliți/e__n"/></e>
@@ -24192,12 +24306,12 @@
 <e lm="ambuscadă" a="delia"><i>ambuscad</i><par n="cas/ă__n"/></e>
 <e lm="ambuteiaj" a="delia"><i>ambuteiaj</i><par n="caiet__n"/></e>
 <e lm="ameliorare" a="mioara"><i>amelior</i><par n="întreb/are__n"/></e>
-<e lm="amendă">          <i>amen</i><!-- oglin/dă__n' was replaced --><par n="izbân/dă__n"/></e>
+<e lm="amendă">          <i>amen</i><par n="izbân/dă__n"/></e>
 <e lm="amenajare" a="mioara"><i>amenaj</i><par n="întreb/are__n"/></e>
 <e lm="amendament" a="delia"><i>amendament</i><par n="caiet__n"/></e>
 <e lm="amenințare">      <i>ameninț</i><par n="întreb/are__n"/></e>
 <e lm="amenințare cu moartea"><i>ameninț</i><par n="ameninț/are_cu_moartea__n"/></e>
-<e lm="amenoree" a="mioara"><i>amenoree</i><!-- maree__n' was replaced --><par n="bisectoare/__n"/></e>
+<e lm="amenoree" a="mioara"><i>amenoree</i><par n="bisectoare/__n"/></e>
 <e lm="amestec">         <i>amestec</i><par n="gât__n"/></e>
 <e lm="amestecătură" a="delia"><i>amestecătur</i><par n="duminic/ă__n"/></e>
 <e lm="ametist" a="mioara"><i>ametist</i><par n="caiet__n"/></e>
@@ -24217,7 +24331,7 @@
 <e lm="amnistie" a="mioara"><i>amnisti</i><par n="coaliți/e__n"/></e>
 <e r="LR" lm="amnistiere" a="mioara"><i>amnistier</i><par n="fericir/e__n"/></e>
 <e lm="amonestare">      <i>amonest</i><par n="întreb/are__n"/></e>
-<e lm="amoniac" a="mioara"><i>amoniac</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="amoniac" a="mioara"><i>amoniac</i><par n="est__n"/></e>
 <e lm="amortizare">      <i>amortiz</i><par n="întreb/are__n"/></e>
 <e lm="amortizor" a="delia"><i>amortizo</i><par n="popo/r__n"/></e>
 <e lm="amorțire" a="mioara"><i>amorțir</i><par n="fericir/e__n"/></e>
@@ -24239,7 +24353,7 @@
 <e lm="anafură" a="delia"><i>anafur</i><par n="duminic/ă__n"/></e>
 <e lm="anagramă" a="mioara"><i>anagram</i><par n="cas/ă__n"/></e>
 <e lm="anahoret">        <i>anahore</i><par n="avoca/t__n"/></e>
-<e lm="anale" a="delia"> <i>anale</i><!-- aplauze__n' was replaced --><par n="odăjdii__n"/></e>
+<e lm="anale" a="delia"> <i>anale</i><par n="odăjdii__n"/></e>
 <e lm="analfabet" a="delia"><i>analfabe</i><par n="avoca/t__n"/></e>
 <e lm="analfabetism" a="delia"><i>analfabetism</i><par n="caiet__n"/></e>
 <e lm="analist" a="delia"><i>anali</i><par n="comuni/st__n"/></e>
@@ -24272,12 +24386,12 @@
 <e lm="anevrism" a="mioara"><i>anevrism</i><par n="caiet__n"/></e>
 <e lm="anexă">           <i>anex</i><par n="cas/ă__n"/></e>
 <e lm="angajare în muncă" a="delnou"><i>angaj</i><par n="angaj/are_în_muncă__n"/></e>
-<e r="LR" lm="angajare"> <i>angaj</i><par n="întreb/are__n"/></e>
+<e lm="angajare">        <i>angaj</i><par n="întreb/are__n"/></e>
 <e lm="angajat">         <i>angaja</i><par n="avoca/t__n"/></e>
 <e r="LR" lm="angajament" a="delia"><i>angajament</i><par n="caiet__n"/></e>
 <e lm="angajator" a="mioara"><i>angajato</i><par n="directo/r__n"/></e>
 <e lm="angevin" a="mioara"><i>angevin</i><par n="coleg__n"/></e>
-<e lm="anghinare" a="mioara"><i>anghinare</i><par n="anghinare__n"/></e>
+<e lm="anghinare" a="mioara"><i>anghinare</i><par n="bisectoare/__n"/></e>
 <e lm="angină" a="mioara"><i>angin</i><par n="cas/ă__n"/></e>
 <e lm="anglomanie" a="delia"><i>anglomani</i><par n="coaliți/e__n"/></e>
 <e lm="angoasă" a="delia"><i>angoas</i><par n="cas/ă__n"/></e>
@@ -24371,7 +24485,7 @@
 <e lm="apex" a="mioara"> <i>apex</i><par n="gât__n"/></e>
 <e lm="apicultură" a="mioara"><i>apicultur</i><par n="duminic/ă__n"/></e>
 <e lm="aplanare" a="mioara"><i>aplan</i><par n="întreb/are__n"/></e>
-<e lm="aplauze">         <i>aplauze</i><!-- aplauze__n' was replaced --><par n="odăjdii__n"/></e>
+<e lm="aplauze">         <i>aplauze</i><par n="odăjdii__n"/></e>
 <e lm="aplazie" a="mioara"><i>aplazi</i><par n="coaliți/e__n"/></e>
 <e r="LR" lm="aplecare" a="delia"><i>aplec</i><par n="întreb/are__n"/></e>
 <e lm="aplică" a="delia"><i>aplic</i><par n="cas/ă__n"/></e>
@@ -24421,7 +24535,7 @@
 <e lm="aranjament" a="delnou"><i>aranjament</i><par n="caiet__n"/></e>
 <e lm="aranjare" a="mioara"><i>aranj</i><par n="întreb/are__n"/></e>
 <e lm="arat" a="mioara"> <i>arat</i><par n="gât__n"/></e>
-<e lm="arbitru">         <i>arbitr</i><!-- metr/u__n' was replaced --><par n="fi/u__n"/></e>
+<e lm="arbitru">         <i>arbitr</i><par n="fi/u__n"/></e>
 <e lm="arbore">          <i>arbor</i><par n="arbor/e__n"/></e>
 <e r="LR" lm="arborare" a="mioara"><i>arbor</i><par n="întreb/are__n"/></e>
 <e lm="arbust">          <i>arbu</i><par n="pedera/st__n"/></e>
@@ -24442,9 +24556,9 @@
 <e lm="argat" a="mioara"><i>arga</i><par n="bărba/t__n"/></e>
 <e lm="argentinian">     <i>argentini</i><par n="indi/an__n"/></e>
 <e lm="argilă" a="delia"><i>argil</i><par n="cas/ă__n"/></e>
-<e lm="argint" a="mioara"><i>argint</i><!-- aur__n' was replaced --><par n="gât__n"/></e>
+<e lm="argint" a="mioara"><i>argint</i><par n="gât__n"/></e>
 <e lm="argintărie" a="mioara"><i>argintări</i><par n="coaliți/e__n"/></e>
-<e lm="argon" a="mioara"><i>argon</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="argon" a="mioara"><i>argon</i><par n="est__n"/></e>
 <e lm="argou" a="delia"> <i>argou</i><par n="metrou__n"/></e>
 <e lm="argument">        <i>argument</i><par n="caiet__n"/></e>
 <e lm="argumentație">    <i>argumentați</i><par n="coaliți/e__n"/></e>
@@ -24456,7 +24570,7 @@
 <e lm="arhiduce" a="mioara"><i>arhiduc</i><par n="duc/e__n"/></e>
 <e lm="arhiepiscop" a="delia"><i>arhiepiscop</i><par n="an__n"/></e>
 <e lm="arhiepiscopie" a="mioara"><i>arhiepiscopi</i><par n="coaliți/e__n"/></e>
-<e r="LR" lm="arhiereu" a="mioara"><i>arhiere</i><!-- le/u__n' was replaced --><par n="fi/u__n"/></e>
+<e r="LR" lm="arhiereu" a="mioara"><i>arhiere</i><par n="fi/u__n"/></e>
 <e lm="arhipelag" a="delia"><i>arhipelag</i><par n="gât__n"/></e>
 <e lm="arhitect">        <i>arhitec</i><par n="avoca/t__n"/></e>
 <e lm="arhitectură" a="delia"><i>arhitectur</i><par n="duminic/ă__n"/></e>
@@ -24487,8 +24601,8 @@
 <e r="LR" lm="armătură" a="mioara"><i>armătur</i><par n="duminic/ă__n"/></e>
 <e lm="aroganță">        <i>aroganț</i><par n="cas/ă__n"/></e>
 <e lm="aromă">           <i>arom</i><par n="cas/ă__n"/></e>
-<e lm="arpagic" a="mioara"><i>arpagic</i><!-- aur__n' was replaced --><par n="est__n"/></e>
-<e r="LR" lm="arsen" a="mioara"><i>arsen</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="arpagic" a="mioara"><i>arpagic</i><par n="est__n"/></e>
+<e r="LR" lm="arsen" a="mioara"><i>arsen</i><par n="est__n"/></e>
 <e lm="arsenal">         <i>arsenal</i><par n="gât__n"/></e>
 <e lm="arsenic" a="delia"><i>arsenic</i><par n="an__n"/></e>
 <e lm="arsură" a="delia"><i>arsur</i><par n="duminic/ă__n"/></e>
@@ -24573,7 +24687,7 @@
 <e r="LR" lm="astmă" a="mioara"><i>astm</i><par n="cas/ă__n"/></e>
 <e lm="astm" a="mioara"> <i>astm</i><par n="caiet__n"/></e>
 <e lm="astmatic" a="mioara"><i>astmatic</i><par n="coleg__n"/></e>
-<e lm="astre" a="mioara"><i>astre</i><!-- aplauze__n' was replaced --><par n="odăjdii__n"/></e>
+<e lm="astre" a="mioara"><i>astre</i><par n="odăjdii__n"/></e>
 <e lm="astrofizică" a="mioara"><i>astrofizic</i><par n="duminic/ă__n"/></e>
 <e lm="astrofizician" a="mioara"><i>astrofizici</i><par n="tehnici/an__n"/></e>
 <e lm="astrologie">      <i>astrologi</i><par n="coaliți/e__n"/></e>
@@ -24635,7 +24749,7 @@
 <e lm="augur" a="mioara"><i>augur</i><par n="an__n"/></e>
 <e lm="august">          <i>august</i><par n="aprilie__n"/></e>
 <e lm="aulă">            <i>aul</i><par n="cas/ă__n"/></e>
-<e lm="aur">             <i>aur</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="aur">             <i>aur</i><par n="est__n"/></e>
 <e lm="aură" a="delia">  <i>aur</i><par n="cas/ă__n"/></e>
 <e lm="aureolă">         <i>aureol</i><par n="cas/ă__n"/></e>
 <e lm="auroră" a="delia"><i>auror</i><par n="cas/ă__n"/></e>
@@ -24732,7 +24846,7 @@
 <e lm="azbest" a="delia"><i>azbest</i><par n="gât__n"/></e>
 <e lm="azil">            <i>azil</i><par n="gât__n"/></e>
 <e lm="azimut" a="delia"><i>azimut</i><par n="gât__n"/></e>
-<e lm="azot" a="mioara"> <i>azot</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="azot" a="mioara"> <i>azot</i><par n="est__n"/></e>
 <e lm="așchie" a="delia"><i>așchi</i><par n="coaliți/e__n"/></e>
 <e lm="așezare" a="delnou"><i>așez</i><par n="întreb/are__n"/></e>
 <e r="LR" lm="așezământ" a="mioara"><i>așezăm</i><par n="cuv/ânt__n"/></e>
@@ -24747,7 +24861,7 @@
 <e lm="barbă">           <i>b</i><par n="b/arbă__n"/></e>
 <e lm="baie">            <i>b</i><par n="b/aie__n"/></e>
 <e lm="bancă">           <i>b</i><par n="b/ancă__n"/></e>
-<e lm="bandă">           <i>b</i><!-- b/andă__n' was replaced --><par n="com/andă__n"/></e>
+<e lm="bandă">           <i>b</i><par n="com/andă__n"/></e>
 <e r="LR" lm="bardă" a="mioara"><i>b</i><par n="g/ardă__n"/></e>
 <e lm="barcă cu pânze" a="mioara"><i>b</i><par n="b/arcă_cu_pânze__n"/></e>
 <e lm="băț de chibrit" a="mioara"><i>b</i><par n="b/ăț_de_chibrit__n"/></e>
@@ -24765,7 +24879,7 @@
 <e lm="bacteriolog" a="mioara"><i>bacteriolog</i><par n="coleg__n"/></e>
 <e lm="bacteriologie" a="delia"><i>bacteriologi</i><par n="coaliți/e__n"/></e>
 <e r="LR" lm="bacșiș" a="delia"><i>bacșiș</i><par n="gât__n"/></e>
-<e lm="badminton" a="mioara"><i>badminton</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="badminton" a="mioara"><i>badminton</i><par n="est__n"/></e>
 <e r="LR" lm="baftă" a="mioara"><i>baft</i><par n="cas/ă__n"/></e>
 <e lm="baga" a="mioara"> <i>baga</i><par n="zi__n"/></e>
 <e lm="bagaj">           <i>bagaj</i><par n="caiet__n"/></e>
@@ -24777,7 +24891,7 @@
 <e r="LR" lm="bal" a="mioara"><i>bal</i><par n="gât__n"/></e>
 <e lm="baladă">          <i>balad</i><par n="cas/ă__n"/></e>
 <e lm="balalaică" a="mioara"><i>balalaic</i><par n="duminic/ă__n"/></e>
-<e lm="balama">          <i>balama</i><!-- balama__n' was replaced --><par n="zi__n"/></e>
+<e lm="balama">          <i>balama</i><par n="zi__n"/></e>
 <e lm="balamuc" a="delia"><i>balamuc</i><par n="gât__n"/></e>
 <e lm="balansare" a="mioara"><i>balans</i><par n="întreb/are__n"/></e>
 <e r="LR" lm="balans" a="mioara"><i>balans</i><par n="gât__n"/></e>
@@ -24788,7 +24902,7 @@
 <e lm="balaur" a="mioara"><i>balaur</i><par n="an__n"/></e>
 <e lm="balcon">          <i>balco</i><par n="telefo/n__n"/></e>
 <e lm="baldachin" a="mioara"><i>baldachin</i><par n="caiet__n"/></e>
-<e lm="bale" a="delia">  <i>bale</i><!-- aplauze__n' was replaced --><par n="odăjdii__n"/></e>
+<e lm="bale" a="delia">  <i>bale</i><par n="odăjdii__n"/></e>
 <e lm="balegă" a="delia"><i>baleg</i><par n="duminic/ă__n"/></e>
 <e lm="balenă" a="delia"><i>balen</i><par n="cas/ă__n"/></e>
 <e lm="balerin" a="delia"><i>balerin</i><par n="coleg__n"/></e>
@@ -24860,7 +24974,7 @@
 <e lm="batistă">         <i>batist</i><par n="cas/ă__n"/></e>
 <e lm="batjocorire" a="delia"><i>batjocorir</i><par n="fericir/e__n"/></e>
 <e lm="batjocură" a="delia"><i>batjocur</i><par n="duminic/ă__n"/></e>
-<e r="LR" lm="baton" a="mioara"><i>bato</i><par n="telefo/n__n"/></e>
+<e lm="baton" a="mioara"><i>bato</i><par n="telefo/n__n"/></e>
 <e lm="bavarez" a="mioara"><i>bavarez</i><par n="coleg__n"/></e>
 <e lm="bază">            <i>baz</i><par n="cas/ă__n"/></e>
 <e lm="bazaconie" a="mioara"><i>bazaconi</i><par n="coaliți/e__n"/></e>
@@ -24941,9 +25055,9 @@
 <e lm="bilet">           <i>bilet</i><par n="caiet__n"/></e>
 <e lm="biliard" a="delia"><i>biliard</i><par n="caiet__n"/></e>
 <e lm="bilingvism" a="mioara"><i>bilingvism</i><par n="caiet__n"/></e>
-<e r="LR" lm="bilion" a="mioara"><i>bilio</i><par n="telefo/n__n"/></e>
+<e lm="bilion" a="mioara"><i>bilio</i><par n="telefo/n__n"/></e>
 <e lm="binecuvântare">   <i>binecuvânt</i><par n="întreb/are__n"/></e>
-<e r="LR" lm="binefacere" a="mioara"><i>binefacer</i><par n="fericir/e__n"/></e>
+<e lm="binefacere" a="mioara"><i>binefacer</i><par n="fericir/e__n"/></e>
 <e lm="binefăcător" a="delia"><i>binefăcăto</i><par n="directo/r__n"/></e>
 <e lm="binom" a="mioara"><i>bino</i><par n="sindro/m__n"/></e>
 <e lm="binoclu" a="mioara"><i>binoclu</i><par n="metrou__n"/></e>
@@ -24971,7 +25085,7 @@
 <e lm="biscuit" a="delia"><i>biscui</i><par n="bărba/t__n"/></e>
 <e lm="bisectoare" a="mioara"><i>bisectoare</i><par n="bisectoare/__n"/></e>
 <e lm="biserică">        <i>biseric</i><par n="duminic/ă__n"/></e>
-<e lm="bismut" a="mioara"><i>bismut</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="bismut" a="mioara"><i>bismut</i><par n="est__n"/></e>
 <e r="LR" lm="bismut" a="mioara"><i>bismut</i><par n="gât__n"/></e>
 <e lm="bisturiu" a="mioara"><i>bisturi</i><par n="sicri/u__n"/></e>
 <e lm="biter" a="mioara"><i>biter</i><par n="gât__n"/></e>
@@ -25013,19 +25127,19 @@
 <e lm="bluză" a="delia"> <i>bluz</i><par n="cas/ă__n"/></e>
 <e lm="bluzon" a="mioara"><i>bluzo</i><par n="telefo/n__n"/></e>
 <e r="LR" lm="blândețe" a="mioara"><i>blândeț</i><par n="fericir/e__n"/></e>
-<e lm="blănar" a="mioara"><i>blănar</i><par n="an__n"/></e>
+<e lm="blănar" a="mioara"><i>blăn</i><par n="blăn/ar__n"/></e>
 <e lm="blănărie" a="delia"><i>blănări</i><par n="coaliți/e__n"/></e>
-<e lm="bou">             <i>bo</i><!-- le/u__n' was replaced --><par n="fi/u__n"/></e>
+<e lm="bou">             <i>bo</i><par n="fi/u__n"/></e>
 <e lm="boală">           <i>bo</i><par n="îndrăzne/ală__n"/></e>
 <e lm="bob">             <i>bo</i><par n="bo/b__n"/></e>
-<e lm="boa" a="mioara">  <i>boa</i><!-- boa__n' was replaced --><par n="euro__n"/></e>
+<e lm="boa" a="mioara">  <i>boa</i><par n="euro__n"/></e>
 <e lm="boabă" a="mioara"><i>boab</i><par n="cas/ă__n"/></e>
-<e r="LR" lm="boare" a="mioara"><i>boare</i><par n="bisectoare/__n"/></e>
+<e lm="boare" a="mioara"><i>boare</i><par n="bisectoare/__n"/></e>
 <e lm="boarfă" a="mioara"><i>boarf</i><par n="cas/ă__n"/></e>
 <e r="LR" lm="bob" a="mioara"><i>bob</i><par n="an__n"/></e>
 <e lm="bobină" a="delia"><i>bobin</i><par n="cas/ă__n"/></e>
-<e lm="boboc de gâscă" a="mioara"><i>boboc</i><par n="boboc/_de_gâscă__n"/></e>
-<e lm="boboc de rață" a="mioara"><i>boboc</i><par n="boboc/_de_rață__n"/></e>
+<e lm="boboc de gâscă" a="mioara"><i>boboc</i><par n="an__n"/><p><l><b/>de<b/>gâscă</l><r><g><b/>de<b/>gâscă</g></r></p></e>
+<e lm="boboc de rață" a="mioara"><i>boboc</i><par n="an__n"/><p><l><b/>de<b/>rață</l><r><g><b/>de<b/>rață</g></r></p></e>
 <e lm="boboc" a="mioara"><i>boboc</i><par n="an__n"/></e>
 <e lm="bobârnac" a="delia"><i>bobârnac</i><par n="caiet__n"/></e>
 <e lm="bocanc" a="delia"><i>bocanc</i><par n="an__n"/></e>
@@ -25066,13 +25180,13 @@
 <e lm="bonă" a="mioara"> <i>bon</i><par n="cas/ă__n"/></e>
 <e lm="bon" a="delia">   <i>bon</i><par n="gât__n"/></e>
 <e lm="bondar" a="mioara"><i>bondar</i><par n="an__n"/></e>
-<e r="LR" lm="bonetă" a="mioara"><i>bonet</i><par n="cas/ă__n"/></e>
+<e lm="bonetă" a="mioara"><i>bonet</i><par n="cas/ă__n"/></e>
 <e lm="bonificație" a="mioara"><i>bonificați</i><par n="coaliți/e__n"/></e>
 <e r="LR" lm="bonitate" a="mioara"><i>bonit</i><par n="universit/ate__n"/></e>
 <e lm="bonus" a="mioara"><i>bonus</i><par n="gât__n"/></e>
 <e lm="bonus-malus">     <i>bonus</i><par n="gât__n"/><p><l>-malus</l><r><g>-malus</g></r></p></e>
 <e lm="boom" a="mioara"> <i>boom</i><par n="gât__n"/></e>
-<e lm="bor" a="mioara">  <i>bor</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="bor" a="mioara">  <i>bor</i><par n="est__n"/></e>
 <e r="LR" lm="borangic" a="mioara"><i>borangic</i><par n="gât__n"/></e>
 <e lm="borcan">          <i>borcan</i><par n="caiet__n"/></e>
 <e lm="bord" a="delia">  <i>bord</i><par n="gât__n"/></e>
@@ -25127,7 +25241,7 @@
 <e lm="brigadă" a="delia"><i>brig</i><par n="str/adă__n"/></e>
 <e lm="briză">           <i>briz</i><par n="cas/ă__n"/></e>
 <e lm="broască" a="mioara"><i>broa</i><par n="broa/scă__n"/></e>
-<e lm="brom" a="mioara"> <i>brom</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="brom" a="mioara"> <i>brom</i><par n="est__n"/></e>
 <e lm="bronhie" a="mioara"><i>bronhi</i><par n="coaliți/e__n"/></e>
 <e lm="bronhopneumonie" a="delia"><i>bronhopneumoni</i><par n="coaliți/e__n"/></e>
 <e lm="bronhoscopie" a="mioara"><i>bronhoscopi</i><par n="coaliți/e__n"/></e>
@@ -25184,7 +25298,7 @@
 <e lm="bunăstare">       <i>bunăst</i><par n="întreb/are__n"/></e>
 <e lm="bunătate">        <i>bunăt</i><par n="universit/ate__n"/></e>
 <e lm="bunăvoință" a="delia"><i>bunăvoinț</i><par n="cas/ă__n"/></e>
-<e lm="burtă">           <i>bur</i><!-- bur/tă__n' was replaced --><par n="coper/tă__n"/></e>
+<e lm="burtă">           <i>bur</i><par n="coper/tă__n"/></e>
 <e lm="burete">          <i>bure</i><par n="pere/te__n"/></e>
 <e lm="burghez" a="delia"><i>burghez</i><par n="coleg__n"/></e>
 <e lm="burghezie">       <i>burghezi</i><par n="coaliți/e__n"/></e>
@@ -25231,7 +25345,7 @@
 <e lm="bădăran" a="delia"><i>bădăran</i><par n="coleg__n"/></e>
 <e r="LR" lm="bădărănie" a="mioara"><i>bădărăni</i><par n="coaliți/e__n"/></e>
 <e lm="băiat">           <i>băi</i><par n="băi/at__n"/></e>
-<e lm="băiețel" a="delia"><i>băiețe</i><!-- cerce/l__n' was replaced --><par n="ca/l__n"/></e>
+<e lm="băiețel" a="delia"><i>băiețe</i><par n="ca/l__n"/></e>
 <e lm="bălegar" a="delia"><i>bălegar</i><par n="caiet__n"/></e>
 <e r="LR" lm="băligar" a="delia"><i>băligar</i><par n="caiet__n"/></e>
 <e lm="băltoacă">        <i>băltoac</i><par n="cas/ă__n"/></e>
@@ -25241,7 +25355,7 @@
 <e lm="bănuială" a="delia"><i>bănui</i><par n="cheltui/ală__n"/></e>
 <e lm="bărbat">          <i>bărba</i><par n="bărba/t__n"/></e>
 <e lm="bărbie">          <i>bărbi</i><par n="coaliți/e__n"/></e>
-<e lm="bărbier" a="mioara"><i>bărbier</i><par n="an__n"/></e>
+<e lm="bărbier" a="mioara"><i>bărbier</i><par n="croitor__n"/></e>
 <e lm="bărbăție" a="delia"><i>bărbăți</i><par n="coaliți/e__n"/></e>
 <e lm="bărzăun" a="mioara"><i>bărzăun</i><par n="an__n"/></e>
 <e lm="bătaie">          <i>băt</i><par n="b/aie__n"/></e>
@@ -25270,7 +25384,7 @@
 <e lm="cabinet" a="delia"><i>cabinet</i><par n="caiet__n"/></e>
 <e lm="cablu" a="delia"> <i>cablu</i><par n="metrou__n"/></e>
 <e lm="cabotaj" a="mioara"><i>cabotaj</i><par n="caiet__n"/></e>
-<e lm="cacealma" a="delia"><i>cacealma</i><!-- balama__n' was replaced --><par n="zi__n"/></e>
+<e lm="cacealma" a="delia"><i>cacealma</i><par n="zi__n"/></e>
 <e lm="cacofonie" a="delia"><i>cacofoni</i><par n="coaliți/e__n"/></e>
 <e lm="cactus">          <i>cactu</i><par n="pa/s__n"/></e>
 <e lm="cadastru" a="delia"><i>cadastr</i><par n="lice/u__n"/></e>
@@ -25324,7 +25438,7 @@
 <e lm="cameră a deputaților" a="mioara"><i>camer</i><par n="camer/ă_a_deputaților__n"/></e>
 <e lm="cameră" a="delia"><i>camer</i><par n="cas/ă__n"/></e>
 <e lm="cameraman" a="mioara"><i>cameraman</i><par n="an__n"/></e>
-<e lm="camfor" a="delnou"><i>camfor</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="camfor" a="delnou"><i>camfor</i><par n="est__n"/></e>
 <e lm="camion">          <i>camio</i><par n="telefo/n__n"/></e>
 <e lm="camionetă" a="delia"><i>camionet</i><par n="cas/ă__n"/></e>
 <e lm="campament">       <i>campament</i><par n="caiet__n"/></e>
@@ -25336,6 +25450,7 @@
 <e lm="camuflaj" a="delia"><i>camuflaj</i><par n="caiet__n"/></e>
 <e lm="canabis" a="delia"><i>canabis</i><par n="gât__n"/></e>
 <e lm="canal">           <i>canal</i><par n="caiet__n"/></e>
+<e lm="canal de știință"><i>canal</i><par n="caiet__n"/><p><l><b/>de<b/>scurgere</l><r><g><b/>de<b/>scurgere</g></r></p></e>
 <e lm="canalie" a="delia"><i>canali</i><par n="coaliți/e__n"/></e>
 <e lm="canalizare" a="delia"><i>canaliz</i><par n="întreb/are__n"/></e>
 <e lm="canapea" a="delia"><i>canape</i><par n="cafe/a__n"/></e>
@@ -25352,15 +25467,15 @@
 <e lm="candoare" a="delnou"><i>cando</i><par n="flo/are__n"/></e>
 <e lm="cangrenă" a="delia"><i>cangren</i><par n="cas/ă__n"/></e>
 <e lm="cangur" a="delia"><i>cangur</i><par n="an__n"/></e>
-<e lm="canibal" a="delnou"><i>canibal</i><par n="an__n"/></e>
+<e lm="canibal" a="delnou"><i>canibal</i><par n="coleg__n"/></e>
 <e lm="canibalism" a="delia"><i>canibalism</i><par n="caiet__n"/></e>
 <e lm="caniculă">        <i>canicul</i><par n="cas/ă__n"/></e>
 <e lm="canon" a="mioara"><i>cano</i><par n="telefo/n__n"/></e>
-<e lm="canoe" a="delnou"><i>canoe</i><!-- canoe__n' was replaced --><par n="bisectoare/__n"/></e>
+<e lm="canoe" a="delnou"><i>canoe</i><par n="bisectoare/__n"/></e>
 <e lm="cant" a="delia">  <i>cant</i><par n="gât__n"/></e>
 <e lm="cantină" a="delia"><i>cantin</i><par n="cas/ă__n"/></e>
 <e lm="cantitate">       <i>cantit</i><par n="universit/ate__n"/></e>
-<e r="LR" lm="canto">    <i>canto</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e r="LR" lm="canto">    <i>canto</i><par n="est__n"/></e>
 <e lm="canton" a="delnou"><i>canto</i><par n="telefo/n__n"/></e>
 <e lm="cantonament" a="delnou"><i>cantonament</i><par n="caiet__n"/></e>
 <e lm="canționetă" a="delnou"><i>canționet</i><par n="cas/ă__n"/></e>
@@ -25400,11 +25515,11 @@
 <e r="LR" lm="caramea" a="delia"><i>carame</i><par n="cafe/a__n"/></e>
 <e lm="caramelă" a="delia"><i>caramel</i><par n="cas/ă__n"/></e>
 <e lm="carantină" a="mioara"><i>carantin</i><par n="cas/ă__n"/></e>
-<e lm="carapace">        <i>carapace</i><!-- carapace__n' was replaced --><par n="bisectoare/__n"/></e>
+<e lm="carapace">        <i>carapace</i><par n="bisectoare/__n"/></e>
 <e lm="carat" a="delia"> <i>carat</i><par n="caiet__n"/></e>
 <e lm="caravană" a="delia"><i>caravan</i><par n="cas/ă__n"/></e>
 <e lm="carbohidrat" a="mioara"><i>carbohidra</i><par n="bărba/t__n"/></e>
-<e lm="carbon">          <i>carbon</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="carbon">          <i>carbon</i><par n="est__n"/></e>
 <e lm="carbonat" a="delia"><i>carbona</i><par n="bărba/t__n"/></e>
 <e lm="carburant" a="mioara"><i>carburan</i><par n="bărba/t__n"/></e>
 <e lm="carburator" a="delia"><i>carburato</i><par n="popo/r__n"/></e>
@@ -25485,9 +25600,9 @@
 <e lm="catifea" a="delia"><i>catife</i><par n="cafe/a__n"/></e>
 <e lm="catod" a="delnou"><i>cato</i><par n="aci/d__n"/></e>
 <e lm="catolicism" a="delnou"><i>catolicism</i><par n="caiet__n"/></e>
-<e lm="catrafuse" a="delia"><i>catrafuse</i><!-- aplauze__n' was replaced --><par n="odăjdii__n"/></e>
+<e lm="catrafuse" a="delia"><i>catrafuse</i><par n="odăjdii__n"/></e>
 <e r="LR" lm="catran" a="mioara"><i>catran</i><par n="gât__n"/></e>
-<e lm="catâr" a="mioara"><i>catâr</i><!-- catâr/__n' was replaced --><par n="român__n"/></e>
+<e lm="catâr" a="mioara"><i>catâr</i><par n="român__n"/></e>
 <e lm="cauciuc" a="delia"><i>cauciuc</i><par n="gât__n"/></e>
 <e lm="cauterizare" a="mioara"><i>cauteriz</i><par n="întreb/are__n"/></e>
 <e lm="cauză">           <i>cauz</i><par n="cas/ă__n"/></e>
@@ -25496,7 +25611,7 @@
 <e lm="cavaler">         <i>cavaler</i><par n="an__n"/></e>
 <e lm="cavalerie">       <i>cavaleri</i><par n="coaliți/e__n"/></e>
 <e lm="cavernă" a="delia"><i>cavern</i><par n="cas/ă__n"/></e>
-<e lm="caviar" a="delnou"><i>caviar</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="caviar" a="delnou"><i>caviar</i><par n="est__n"/></e>
 <e lm="cavitate" a="delia"><i>cavit</i><par n="universit/ate__n"/></e>
 <e lm="cavou" a="delia"> <i>cavou</i><par n="metrou__n"/></e>
 <e lm="caz">             <i>caz</i><par n="gât__n"/></e>
@@ -25510,7 +25625,7 @@
 <e lm="cașmir" a="mioara"><i>cașmir</i><par n="gât__n"/></e>
 <e lm="ceapă">           <i>ce</i><par n="ce/apă__n"/></e>
 <e lm="ceașcă" a="delnou"><i>ce</i><par n="ce/așcă__n"/></e>
-<e lm="ceață">           <i>ce</i><!-- ghe/ață__n' was replaced --><par n="mătre/ață__n"/></e>
+<e lm="ceață">           <i>ce</i><par n="mătre/ață__n"/></e>
 <e lm="ceartă">          <i>ce</i><par n="ce/artă__n"/></e>
 <e lm="ceată" a="delnou"><i>ce</i><par n="f/ată__n"/></e>
 <e lm="ceafă">           <i>ce</i><par n="ce/afă__n"/></e>
@@ -25524,8 +25639,8 @@
 <e lm="ceasornicar" a="delnou"><i>ceasornicar</i><par n="croitor__n"/></e>
 <e lm="ceasornicărie" a="delia"><i>ceasornicări</i><par n="coaliți/e__n"/></e>
 <e lm="ceaun" a="delia"> <i>ceaun</i><par n="caiet__n"/></e>
-<e lm="cedru" a="delia"> <i>cedr</i><!-- metr/u__n' was replaced --><par n="fi/u__n"/></e>
-<e lm="cefalee" a="mioara"><i>cefalee</i><!-- maree__n' was replaced --><par n="bisectoare/__n"/></e>
+<e lm="cedru" a="delia"> <i>cedr</i><par n="fi/u__n"/></e>
+<e lm="cefalee" a="mioara"><i>cefalee</i><par n="bisectoare/__n"/></e>
 <e lm="ceferist" a="delnou"><i>ceferi</i><par n="comuni/st__n"/></e>
 <e lm="cehoslovac" a="mioara"><i>cehoslovac</i><par n="coleg__n"/></e>
 <e lm="celt">            <i>cel</i><par n="avoca/t__n"/></e>
@@ -25542,7 +25657,7 @@
 <e lm="cenaclu" a="delia"><i>cenaclu</i><par n="metrou__n"/></e>
 <e lm="centenar">        <i>centenar</i><par n="caiet__n"/></e>
 <e lm="centigrad" a="delia"><i>centigrad</i><par n="caiet__n"/></e>
-<e lm="centimetru">      <i>centimetr</i><!-- metr/u__n' was replaced --><par n="fi/u__n"/></e>
+<e lm="centimetru">      <i>centimetr</i><par n="fi/u__n"/></e>
 <e lm="centru">          <i>centr</i><par n="lice/u__n"/></e>
 <e r="LR" lm="centrare" a="mioara"><i>centr</i><par n="întreb/are__n"/></e>
 <e lm="centrală" a="delia"><i>central</i><par n="cas/ă__n"/></e>
@@ -25556,7 +25671,7 @@
 <e lm="ceramică">        <i>ceramic</i><par n="duminic/ă__n"/></e>
 <e lm="cerb" a="delia">  <i>cerb</i><par n="an__n"/></e>
 <e lm="cerc">            <i>cerc</i><par n="gât__n"/></e>
-<e lm="cercel">          <i>cerce</i><!-- cerce/l__n' was replaced --><par n="ca/l__n"/></e>
+<e lm="cercel">          <i>cerce</i><par n="ca/l__n"/></e>
 <e lm="cercetare">       <i>cercet</i><par n="întreb/are__n"/></e>
 <e lm="cercetător">      <i>cercetăto</i><par n="directo/r__n"/></e>
 <e lm="cereală" a="delia"><i>cereal</i><par n="cas/ă__n"/></e>
@@ -25570,7 +25685,7 @@
 <e lm="certitudine">     <i>certitudin</i><par n="fericir/e__n"/></e>
 <e lm="certăreț" a="delnou"><i>certăre</i><par n="cântăre/ț__n"/></e>
 <e lm="ceruire" a="mioara"><i>ceruir</i><par n="fericir/e__n"/></e>
-<e lm="cerumen" a="mioara"><i>cerumen</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="cerumen" a="mioara"><i>cerumen</i><par n="est__n"/></e>
 <e lm="cerșetor">        <i>cerșeto</i><par n="directo/r__n"/></e>
 <e lm="cerșetorie">      <i>cerșetori</i><par n="coaliți/e__n"/></e>
 <e lm="cerșit" a="delia"><i>cerșit</i><par n="gât__n"/></e>
@@ -25650,8 +25765,8 @@
 <e lm="cifoză" a="mioara"><i>cifoz</i><par n="cas/ă__n"/></e>
 <e lm="cifră">           <i>cifr</i><par n="cas/ă__n"/></e>
 <e r="LR" lm="cifru" a="delia"><i>cifru</i><par n="metrou__n"/></e>
-<e lm="cilindru" a="delia"><i>cilindr</i><!-- metr/u__n' was replaced --><par n="fi/u__n"/></e>
-<e lm="cimbru" a="delia"><i>cimbr</i><!-- le/u__n' was replaced --><par n="fi/u__n"/></e>
+<e lm="cilindru" a="delia"><i>cilindr</i><par n="fi/u__n"/></e>
+<e lm="cimbru" a="delia"><i>cimbr</i><par n="fi/u__n"/></e>
 <e lm="cimbrișor" a="delia"><i>cimbrișor</i><par n="an__n"/></e>
 <e lm="cimentare" a="delnou"><i>ciment</i><par n="întreb/are__n"/></e>
 <e lm="ciment" a="mioara"><i>ciment</i><par n="gât__n"/></e>
@@ -25666,8 +25781,8 @@
 <e lm="cinematograf" a="mioara"><i>cinematograf</i><par n="caiet__n"/></e>
 <e lm="cinematografie" a="mioara"><i>cinematografi</i><par n="coaliți/e__n"/></e>
 <e lm="cineramă" a="mioara"><i>cineram</i><par n="cas/ă__n"/></e>
-<e lm="cinste" a="mioara"><i>cinste</i><!-- dragoste__n' was replaced --><par n="bisectoare/__n"/></e>
-<e lm="cioară" a="delia"><i>cio</i><!-- mo/ară__n' was replaced --><par n="o/ară__n"/></e>
+<e lm="cinste" a="mioara"><i>cinste</i><par n="bisectoare/__n"/></e>
+<e lm="cioară" a="delia"><i>cio</i><par n="o/ară__n"/></e>
 <e r="LR" lm="cioban" a="mioara"><i>ciob</i><par n="mot/an__n"/></e>
 <e lm="ciob" a="delnou"> <i>ciob</i><par n="gât__n"/></e>
 <e lm="cioc" a="delia">  <i>cioc</i><par n="gât__n"/></e>
@@ -25719,7 +25834,7 @@
 <e lm="clarinet" a="delia"><i>clarinet</i><par n="caiet__n"/></e>
 <e lm="claritate">       <i>clarit</i><par n="universit/ate__n"/></e>
 <e lm="clasă">           <i>clas</i><par n="cas/ă__n"/></e>
-<e r="LR" lm="clasare" a="mioara"><i>clas</i><par n="întreb/are__n"/></e>
+<e lm="clasare" a="mioara"><i>clas</i><par n="întreb/are__n"/></e>
 <e r="LR" lm="clasament"><i>clasament</i><par n="caiet__n"/></e>
 <e lm="clasic">          <i>clasic</i><par n="coleg__n"/></e>
 <e lm="clasicism" a="delnou"><i>clasicism</i><par n="caiet__n"/></e>
@@ -25749,9 +25864,9 @@
 <e lm="clon" a="delia">  <i>clon</i><par n="caiet__n"/></e>
 <e lm="clopot">          <i>clopot</i><par n="caiet__n"/></e>
 <e lm="clopotniță">      <i>clopotniț</i><par n="cas/ă__n"/></e>
-<e lm="clopoțel" a="mioara"><i>clopoțe</i><!-- cerce/l__n' was replaced --><par n="ca/l__n"/></e>
-<e lm="clor">            <i>clor</i><!-- aur__n' was replaced --><par n="est__n"/></e>
-<e lm="cloroform" a="mioara"><i>cloroform</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="clopoțel" a="mioara"><i>clopoțe</i><par n="ca/l__n"/></e>
+<e lm="clor">            <i>clor</i><par n="est__n"/></e>
+<e lm="cloroform" a="mioara"><i>cloroform</i><par n="est__n"/></e>
 <e lm="closet" a="delia"><i>closet</i><par n="caiet__n"/></e>
 <e lm="club">            <i>club</i><par n="gât__n"/></e>
 <e r="LR" lm="clădire">  <i>clădir</i><par n="fericir/e__n"/></e>
@@ -25772,13 +25887,13 @@
 <e lm="coardă" a="mioara"><i>coard</i><par n="cas/ă__n"/></e>
 <e lm="coastă">          <i>coast</i><par n="cas/ă__n"/></e>
 <e lm="cobai" a="delia"> <i>cobai</i><par n="ochi__n"/></e>
-<e lm="cobalt" a="mioara"><i>cobalt</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="cobalt" a="mioara"><i>cobalt</i><par n="est__n"/></e>
 <e lm="cobră" a="delnou"><i>cobr</i><par n="cas/ă__n"/></e>
 <e lm="coc">             <i>coc</i><par n="gât__n"/></e>
 <e lm="coccis" a="mioara"><i>coccis</i><par n="gât__n"/></e>
 <e lm="cocean">          <i>coce</i><par n="coce/an__n"/></e>
 <e lm="cocină" a="delia"><i>cocin</i><par n="duminic/ă__n"/></e>
-<e lm="cocktail Molotov" a="mioara"><i>cocktail</i><!-- cocktail/_Molotov__n' was replaced --><par n="cocteil/_Molotov__n"/></e>
+<e lm="cocktail Molotov" a="mioara"><i>cocktail</i><par n="cocteil/_Molotov__n"/></e>
 <e lm="cocktail" a="mioara"><i>cocktail</i><par n="gât__n"/></e>
 <e lm="cocoloș">         <i>cocolo</i><par n="cocolo/ș__n"/></e>
 <e lm="cocoș">           <i>cocoș</i><par n="an__n"/></e>
@@ -25786,7 +25901,7 @@
 <e lm="cocteil" a="delia"><i>cocteil</i><par n="gât__n"/></e>
 <e lm="cod">             <i>cod</i><par n="gât__n"/></e>
 <e lm="codru de pâine" a="mioara"><i>codr</i><par n="codr/u_de_pâine__n"/></e>
-<e r="LR" lm="codru" a="mioara"><i>codr</i><!-- metr/u__n' was replaced --><par n="fi/u__n"/></e>
+<e r="LR" lm="codru" a="mioara"><i>codr</i><par n="fi/u__n"/></e>
 <e lm="coeficient" a="delia"><i>coeficien</i><par n="bărba/t__n"/></e>
 <e lm="coerciție" a="delia"><i>coerciți</i><par n="coaliți/e__n"/></e>
 <e lm="coerență" a="delia"><i>coerenț</i><par n="cas/ă__n"/></e>
@@ -25821,22 +25936,22 @@
 <e lm="colindător" a="delnou"><i>colindăto</i><par n="directo/r__n"/></e>
 <e r="LR" lm="colivie">  <i>colivi</i><par n="coaliți/e__n"/></e>
 <e lm="coliziune" a="delia"><i>coliziun</i><par n="fericir/e__n"/></e>
-<e lm="collage" a="delnou"><i>collage</i><!-- mega__n' was replaced --><par n="aprilie__n"/></e>
+<e lm="collage" a="delnou"><i>collage</i><par n="aprilie__n"/></e>
 <e lm="colos" a="delia"> <i>colo</i><par n="pa/s__n"/></e>
 <e lm="coloană">         <i>coloan</i><par n="cas/ă__n"/></e>
 <e lm="colocatar" a="delia"><i>colocatar</i><par n="coleg__n"/></e>
-<e lm="colonel" a="mioara"><i>colone</i><!-- cerce/l__n' was replaced --><par n="ca/l__n"/></e>
+<e lm="colonel" a="mioara"><i>colone</i><par n="ca/l__n"/></e>
 <e lm="colonetă" a="mioara"><i>colonet</i><par n="cas/ă__n"/></e>
 <e lm="colonist" a="mioara"><i>coloni</i><par n="comuni/st__n"/></e>
 <e lm="colonie">         <i>coloni</i><par n="coaliți/e__n"/></e>
 <e lm="colonialism" a="mioara"><i>colonialism</i><par n="caiet__n"/></e>
 <e lm="colonizare" a="mioara"><i>coloniz</i><par n="întreb/are__n"/></e>
 <e lm="colonizator" a="mioara"><i>colonizato</i><par n="directo/r__n"/></e>
-<e lm="color-field-painting" a="delnou"><i>color-field-painting</i><!-- aur__n' was replaced --><par n="est__n"/></e>
-<e lm="color field painting" a="delnou"><i>color<b/>field<b/>painting</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="color-field-painting" a="delnou"><i>color-field-painting</i><par n="est__n"/></e>
+<e lm="color field painting" a="delnou"><i>color<b/>field<b/>painting</i><par n="est__n"/></e>
 <e lm="colorant" a="mioara"><i>coloran</i><par n="bărba/t__n"/></e>
 <e lm="columbian" a="mioara"><i>columbian</i><par n="coleg__n"/></e>
-<e r="LR" lm="columnă" a="mioara"><i>column</i><par n="cas/ă__n"/></e>
+<e lm="columnă" a="mioara"><i>column</i><par n="cas/ă__n"/></e>
 <e lm="colț" a="delia">  <i>colț</i><par n="gât__n"/></e>
 <e lm="comandă">         <i>com</i><par n="com/andă__n"/></e>
 <e r="LR" lm="comandament" a="mioara"><i>comandament</i><par n="caiet__n"/></e>
@@ -25947,7 +26062,7 @@
 <e lm="concubin" a="mioara"><i>concubin</i><par n="coleg__n"/></e>
 <e lm="concubinaj" a="delia"><i>concubinaj</i><par n="caiet__n"/></e>
 <e lm="concurent">       <i>concuren</i><par n="avoca/t__n"/></e>
-<e r="LR" lm="concurență" a="mioara"><i>concurenț</i><par n="cas/ă__n"/></e>
+<e lm="concurență" a="mioara"><i>concurenț</i><par n="cas/ă__n"/></e>
 <e lm="concurs" a="delia"><i>concurs</i><par n="gât__n"/></e>
 <e lm="condamnare" a="mioara"><i>condamn</i><par n="întreb/are__n"/></e>
 <e lm="condensor" a="delia"><i>condenso</i><par n="popo/r__n"/></e>
@@ -25955,7 +26070,7 @@
 <e r="LR" lm="condică" a="delia"><i>condic</i><par n="duminic/ă__n"/></e>
 <e lm="condiment" a="delia"><i>condiment</i><par n="caiet__n"/></e>
 <e lm="condiție">        <i>condiți</i><par n="coaliți/e__n"/></e>
-<e lm="condoleanțe" a="delia"><i>condoleanțe</i><!-- aplauze__n' was replaced --><par n="odăjdii__n"/></e>
+<e lm="condoleanțe" a="delia"><i>condoleanțe</i><par n="odăjdii__n"/></e>
 <e lm="conducere">       <i>conducer</i><par n="fericir/e__n"/></e>
 <e lm="conductă" a="mioara"><i>conduct</i><par n="cas/ă__n"/></e>
 <e lm="conducător" a="delia"><i>conducăto</i><par n="directo/r__n"/></e>
@@ -26011,7 +26126,7 @@
 <e lm="conservant" a="delia"><i>conservan</i><par n="bărba/t__n"/></e>
 <e lm="considerare" a="mioara"><i>consider</i><par n="întreb/are__n"/></e>
 <e r="LR" lm="considerație" a="mioara"><i>considerați</i><par n="coaliți/e__n"/></e>
-<e r="LR" lm="considerent" a="delia"><i>considerent</i><par n="caiet__n"/></e>
+<e lm="considerent" a="delia"><i>considerent</i><par n="caiet__n"/></e>
 <e lm="consiliu">        <i>consili</i><par n="exerciți/u__n"/></e>
 <e lm="consiliere">      <i>consilier</i><par n="fericir/e__n"/></e>
 <e lm="consilier" a="mioara"><i>consilier</i><par n="coleg__n"/></e>
@@ -26029,7 +26144,7 @@
 <e lm="constatare">      <i>constat</i><par n="întreb/are__n"/></e>
 <e lm="constelație">     <i>constelați</i><par n="coaliți/e__n"/></e>
 <e lm="consternare" a="delia"><i>constern</i><par n="întreb/are__n"/></e>
-<e r="LR" lm="constituire"><i>constituir</i><par n="fericir/e__n"/></e>
+<e lm="constituire">     <i>constituir</i><par n="fericir/e__n"/></e>
 <e lm="constituție">     <i>constituți</i><par n="coaliți/e__n"/></e>
 <e lm="constituționalitate" a="mioara"><i>constituționalit</i><par n="universit/ate__n"/></e>
 <e r="LR" lm="constituțiune" a="mioara"><i>constituțiun</i><par n="fericir/e__n"/></e>
@@ -26080,7 +26195,7 @@
 <e r="LR" lm="contravențiune" a="mioara"><i>contravențiun</i><par n="fericir/e__n"/></e>
 <e lm="contribuabil">    <i>contribuabil</i><par n="coleg__n"/></e>
 <e lm="contribuție" a="mioara"><i>contribuți</i><par n="coaliți/e__n"/></e>
-<e lm="control">         <i>contro</i><!-- pisto/l__n' was replaced --><par n="protoco/l__n"/></e>
+<e lm="control">         <i>contro</i><par n="protoco/l__n"/></e>
 <e r="LR" lm="controlare" a="mioara"><i>control</i><par n="întreb/are__n"/></e>
 <e lm="controlor" a="delnou"><i>controlo</i><par n="directo/r__n"/></e>
 <e lm="controversă">     <i>controvers</i><par n="cas/ă__n"/></e>
@@ -26094,7 +26209,7 @@
 <e lm="convergență" a="delnou"><i>convergenț</i><par n="cas/ă__n"/></e>
 <e lm="conversație">     <i>conversați</i><par n="coaliți/e__n"/></e>
 <e lm="convexitate" a="mioara"><i>convexit</i><par n="universit/ate__n"/></e>
-<e r="LR" lm="conviețuire" a="mioara"><i>conviețuir</i><par n="fericir/e__n"/></e>
+<e lm="conviețuire" a="mioara"><i>conviețuir</i><par n="fericir/e__n"/></e>
 <e lm="convingere" a="delia"><i>convinger</i><par n="fericir/e__n"/></e>
 <e lm="convocare" a="delnou"><i>convoc</i><par n="întreb/are__n"/></e>
 <e r="LR" lm="convorbire"><i>convorbir</i><par n="fericir/e__n"/></e>
@@ -26127,7 +26242,7 @@
 <e lm="cordialitate" a="mangheluta"><i>cordialit</i><par n="universit/ate__n"/></e>
 <e lm="cordon" a="mioara"><i>cordo</i><par n="telefo/n__n"/></e>
 <e lm="corectitudine">   <i>corectitudin</i><par n="fericir/e__n"/></e>
-<e r="LR" lm="corecție"> <i>corecți</i><par n="coaliți/e__n"/></e>
+<e lm="corecție">        <i>corecți</i><par n="coaliți/e__n"/></e>
 <e lm="coreean" a="mioara"><i>coree</i><par n="egipte/an__n"/></e>
 <e lm="coregraf" a="mioara"><i>coregraf</i><par n="coleg__n"/></e>
 <e lm="coregrafie" a="mioara"><i>coregrafi</i><par n="coaliți/e__n"/></e>
@@ -26137,7 +26252,7 @@
 <e lm="corespondență">   <i>corespondenț</i><par n="cas/ă__n"/></e>
 <e lm="coridor" a="mioara"><i>corido</i><par n="popo/r__n"/></e>
 <e lm="corijență" a="delia"><i>corijenț</i><par n="cas/ă__n"/></e>
-<e lm="cornee" a="mioara"><i>cornee</i><!-- maree__n' was replaced --><par n="bisectoare/__n"/></e>
+<e lm="cornee" a="mioara"><i>cornee</i><par n="bisectoare/__n"/></e>
 <e lm="coroană" a="delia"><i>coroan</i><par n="cas/ă__n"/></e>
 <e lm="coroborare" a="mioara"><i>corobor</i><par n="întreb/are__n"/></e>
 <e lm="corp">            <i>corp</i><par n="gât__n"/></e>
@@ -26182,7 +26297,7 @@
 <e lm="cravată">         <i>cravat</i><par n="cas/ă__n"/></e>
 <e r="LR" lm="creare">   <i>cre</i><par n="întreb/are__n"/></e>
 <e lm="creangă">         <i>cre</i><par n="cre/angă__n"/></e>
-<e r="LR" lm="creanță">  <i>creanț</i><par n="cas/ă__n"/></e>
+<e lm="creanță">         <i>creanț</i><par n="cas/ă__n"/></e>
 <e r="LR" lm="creanțier" a="mioara"><i>creanțier</i><par n="coleg__n"/></e>
 <e lm="creatină" a="mioara"><i>creatin</i><par n="cas/ă__n"/></e>
 <e lm="creatinină" a="mioara"><i>creatinin</i><par n="cas/ă__n"/></e>
@@ -26230,7 +26345,7 @@
 <e lm="crochetă" a="delia"><i>crochet</i><par n="cas/ă__n"/></e>
 <e lm="crocodil" a="delia"><i>crocodil</i><par n="an__n"/></e>
 <e lm="croitor">         <i>croitor</i><par n="croitor__n"/></e>
-<e lm="crom" a="mioara"> <i>crom</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="crom" a="mioara"> <i>crom</i><par n="est__n"/></e>
 <e lm="cronică" a="delia"><i>cronic</i><par n="duminic/ă__n"/></e>
 <e lm="cronicar">        <i>cronicar</i><par n="an__n"/></e>
 <e lm="cronologie" a="delnou"><i>cronologi</i><par n="coaliți/e__n"/></e>
@@ -26303,16 +26418,16 @@
 <e lm="cupolă" a="delia"><i>cupol</i><par n="cas/ă__n"/></e>
 <e lm="cuprins al țării" a="mioara"><i>cuprins</i><par n="cuprins/_al_țării__n"/></e>
 <e r="LR" lm="cuprins" a="mioara"><i>cuprins</i><par n="gât__n"/></e>
-<e lm="cupru">           <i>cupru</i><!-- cupru__n' was replaced --><par n="sodiu__n"/></e>
+<e lm="cupru">           <i>cupru</i><par n="sodiu__n"/></e>
 <e lm="cuptor" a="delia"><i>cupto</i><par n="popo/r__n"/></e>
-<e lm="curte">           <i>cur</i><!-- min/te__n' was replaced --><par n="virtu/te__n"/></e>
+<e lm="curte">           <i>cur</i><par n="virtu/te__n"/></e>
 <e lm="curte de apel" a="mioara"><i>cur</i><par n="virtu/te__n"/><p><l><b/>de<b/>apel</l><r><g><b/>de<b/>apel</g></r></p></e>
 <e lm="curte de casație" a="mioara"><i>cur</i><par n="virtu/te__n"/><p><l><b/>de<b/>casație</l><r><g><b/>de<b/>casație</g></r></p></e>
 <e lm="curte de conturi" a="mioara"><i>cur</i><par n="virtu/te__n"/><p><l><b/>de<b/>conturi</l><r><g><b/>de<b/>conturi</g></r></p></e>
 <e lm="curte de justiție" a="mioara"><i>cur</i><par n="virtu/te__n"/><p><l><b/>de<b/>justiție</l><r><g><b/>de<b/>justiție</g></r></p></e>
 <e lm="cursă de șoareci"><i>curs</i><par n="cas/ă__n"/><p><l><b/>de<b/>șoareci</l><r><g><b/>de<b/>șoareci</g></r></p></e>
 <e lm="cur" a="delia">   <i>cur</i><par n="gât__n"/></e>
-<e lm="curaj">           <i>curaj</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="curaj">           <i>curaj</i><par n="est__n"/></e>
 <e lm="curcă" a="mioara"><i>curc</i><par n="duminic/ă__n"/></e>
 <e lm="curcan" a="mioara"><i>curcan</i><par n="an__n"/></e>
 <e lm="curcubeu">        <i>curcube</i><par n="lice/u__n"/></e>
@@ -26380,8 +26495,8 @@
 <e lm="călugăr">         <i>călugăr</i><par n="înger__n"/></e>
 <e lm="căluș" a="delia"> <i>căluș</i><par n="gât__n"/></e>
 <e lm="căluț">           <i>căluț</i><par n="an__n"/></e>
-<e lm="călău" a="delia"> <i>călă</i><!-- metr/u__n' was replaced --><par n="fi/u__n"/></e>
-<e lm="călăreț">         <i>călăreț</i><par n="an__n"/></e>
+<e lm="călău" a="delia"> <i>călă</i><par n="fi/u__n"/></e>
+<e lm="călăreț">         <i>călăre</i><par n="cântăre/ț__n"/></e>
 <e r="LR" lm="călărie" a="mioara"><i>călări</i><par n="coaliți/e__n"/></e>
 <e lm="călător" a="delia"><i>călăto</i><par n="directo/r__n"/></e>
 <e lm="călătorie" a="delia"><i>călători</i><par n="coaliți/e__n"/></e>
@@ -26398,7 +26513,7 @@
 <e lm="căprioară" a="delia"><i>căprioar</i><par n="cas/ă__n"/></e>
 <e lm="căptușeală" a="delia"><i>căptușe</i><par n="îndrăzne/ală__n"/></e>
 <e lm="căpușă" a="delnou"><i>căpuș</i><par n="cas/ă__n"/></e>
-<e lm="căpăcel" a="delia"><i>căpăce</i><!-- cerce/l__n' was replaced --><par n="ca/l__n"/></e>
+<e lm="căpăcel" a="delia"><i>căpăce</i><par n="ca/l__n"/></e>
 <e r="LR" lm="căpătuială" a="mioara"><i>căpătui</i><par n="cheltui/ală__n"/></e>
 <e lm="căpătâi" a="delia"><i>căpătâi</i><par n="caiet__n"/></e>
 <e lm="căpșună" a="delia"><i>căpșun</i><par n="duminic/ă__n"/></e>
@@ -26408,13 +26523,13 @@
 <e lm="căruță" a="mioara"><i>căruț</i><par n="cas/ă__n"/></e>
 <e lm="căruțaș" a="mioara"><i>căruțaș</i><par n="an__n"/></e>
 <e lm="cărăbuș" a="delnou"><i>cărăbuș</i><par n="an__n"/></e>
-<e lm="cărămidă">        <i>cărămi</i><!-- oglin/dă__n' was replaced --><par n="izbân/dă__n"/></e>
+<e lm="cărămidă">        <i>cărămi</i><par n="izbân/dă__n"/></e>
 <e lm="căsnicie">        <i>căsnici</i><par n="coaliți/e__n"/></e>
 <e lm="căsuță" a="mioara"><i>căsuț</i><par n="cas/ă__n"/></e>
 <e lm="căsătorie">       <i>căsători</i><par n="coaliți/e__n"/></e>
 <e lm="căutare">         <i>căut</i><par n="întreb/are__n"/></e>
 <e lm="căzătură" a="delia"><i>căzătur</i><par n="duminic/ă__n"/></e>
-<e lm="cățel">           <i>cățe</i><!-- prichinde/l__n' was replaced --><par n="mișe/l__n"/></e>
+<e lm="cățel">           <i>cățe</i><par n="mișe/l__n"/></e>
 <e lm="daltă" a="mioara"><i>d</i><par n="b/altă__n"/></e>
 <e lm="dactilografie" a="delia"><i>dactilografi</i><par n="coaliți/e__n"/></e>
 <e lm="dadaist" a="delnou"><i>dadai</i><par n="comuni/st__n"/></e>
@@ -26593,7 +26708,7 @@
 <e lm="deranj">          <i>deranj</i><par n="gât__n"/></e>
 <e lm="derapare" a="delnou"><i>derap</i><par n="întreb/are__n"/></e>
 <e lm="derapaj" a="delnou"><i>derapaj</i><par n="caiet__n"/></e>
-<e r="LR" lm="derbedeu" a="mioara"><i>derbede</i><!-- le/u__n' was replaced --><par n="fi/u__n"/></e>
+<e r="LR" lm="derbedeu" a="mioara"><i>derbede</i><par n="fi/u__n"/></e>
 <e r="LR" lm="dereglare" a="mioara"><i>deregl</i><par n="întreb/are__n"/></e>
 <e lm="derivare" a="delnou"><i>deriv</i><par n="întreb/are__n"/></e>
 <e lm="derivat" a="delia"><i>derivat</i><par n="caiet__n"/></e>
@@ -26654,7 +26769,7 @@
 <e lm="detalist" a="delia"><i>detali</i><par n="comuni/st__n"/></e>
 <e lm="detașare" a="delia"><i>detaș</i><par n="întreb/are__n"/></e>
 <e r="LR" lm="detectare"><i>detect</i><par n="întreb/are__n"/></e>
-<e lm="detectiv">        <i>detectiv</i><par n="an__n"/></e>
+<e lm="detectiv">        <i>detectiv</i><par n="coleg__n"/></e>
 <e lm="detector" a="delia"><i>detecto</i><par n="popo/r__n"/></e>
 <e lm="detecție">        <i>detecți</i><par n="coaliți/e__n"/></e>
 <e lm="detenție">        <i>detenți</i><par n="coaliți/e__n"/></e>
@@ -26719,7 +26834,7 @@
 <e lm="dializă" a="mioara"><i>dializ</i><par n="cas/ă__n"/></e>
 <e lm="dialog">          <i>dialog</i><par n="gât__n"/></e>
 <e lm="diamant">         <i>diamant</i><par n="caiet__n"/></e>
-<e lm="diaree" a="delia"><i>diaree</i><!-- maree__n' was replaced --><par n="bisectoare/__n"/></e>
+<e lm="diaree" a="delia"><i>diaree</i><par n="bisectoare/__n"/></e>
 <e lm="diasporă" a="mioara"><i>diaspor</i><par n="cas/ă__n"/></e>
 <e lm="diavol">          <i>diavol</i><par n="an__n"/></e>
 <e lm="dibăcie" a="delia"><i>dibăci</i><par n="coaliți/e__n"/></e>
@@ -26793,7 +26908,7 @@
 <e r="LR" lm="disipare" a="delnou"><i>disip</i><par n="întreb/are__n"/></e>
 <e r="LR" lm="disipație" a="delnou"><i>disipați</i><par n="coaliți/e__n"/></e>
 <e lm="dislocare" a="delia"><i>disloc</i><par n="întreb/are__n"/></e>
-<e lm="dismenoree" a="mioara"><i>dismenoree</i><!-- maree__n' was replaced --><par n="bisectoare/__n"/></e>
+<e lm="dismenoree" a="mioara"><i>dismenoree</i><par n="bisectoare/__n"/></e>
 <e r="LR" lm="disoluție" a="mioara"><i>disoluți</i><par n="coaliți/e__n"/></e>
 <e lm="disonanță" a="mioara"><i>disonanț</i><par n="cas/ă__n"/></e>
 <e lm="dispariție">      <i>dispariți</i><par n="coaliți/e__n"/></e>
@@ -26801,11 +26916,11 @@
 <e lm="dispensă" a="delia"><i>dispens</i><par n="cas/ă__n"/></e>
 <e lm="dispepsie" a="mioara"><i>dispepsi</i><par n="coaliți/e__n"/></e>
 <e lm="disperare">       <i>disper</i><par n="întreb/are__n"/></e>
-<e lm="dispnee" a="mioara"><i>dispnee</i><!-- maree__n' was replaced --><par n="bisectoare/__n"/></e>
+<e lm="dispnee" a="mioara"><i>dispnee</i><par n="bisectoare/__n"/></e>
 <e lm="disponibilitate"> <i>disponibilit</i><par n="universit/ate__n"/></e>
 <e lm="dispozitiv">      <i>dispozitiv</i><par n="caiet__n"/></e>
 <e lm="dispoziție">      <i>dispoziți</i><par n="coaliți/e__n"/></e>
-<e lm="dispreț">         <i>dispreț</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="dispreț">         <i>dispreț</i><par n="est__n"/></e>
 <e lm="dispunere" a="mioara"><i>dispuner</i><par n="fericir/e__n"/></e>
 <e lm="dispută" a="mioara"><i>disput</i><par n="cas/ă__n"/></e>
 <e lm="distanță">        <i>distanț</i><par n="cas/ă__n"/></e>
@@ -26868,9 +26983,9 @@
 <e lm="donator" a="delia"><i>donato</i><par n="directo/r__n"/></e>
 <e lm="donație" a="delia"><i>donați</i><par n="coaliți/e__n"/></e>
 <e r="LR" lm="dopare" a="delnou"><i>dop</i><par n="întreb/are__n"/></e>
-<e r="LR" lm="dop" a="delia"><i>dop</i><par n="gât__n"/></e>
+<e lm="dop" a="delia">   <i>dop</i><par n="gât__n"/></e>
 <e lm="dopaj" a="delnou"><i>dopaj</i><par n="caiet__n"/></e>
-<e lm="doping" a="delnou"><i>doping</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="doping" a="delnou"><i>doping</i><par n="est__n"/></e>
 <e lm="dor" a="mioara">  <i>dor</i><par n="gât__n"/></e>
 <e lm="dorință">         <i>dorinț</i><par n="cas/ă__n"/></e>
 <e lm="doritor" a="mioara"><i>dorito</i><par n="directo/r__n"/></e>
@@ -26880,15 +26995,15 @@
 <e lm="dotare" a="mioara"><i>dot</i><par n="întreb/are__n"/></e>
 <e r="LR" lm="dovadă">   <i>dov</i><par n="liv/adă__n"/></e>
 <e lm="dovleac" a="mioara"><i>dovle</i><par n="dovle/ac__n"/></e>
-<e lm="dovlecel" a="mioara"><i>dovlece</i><!-- cerce/l__n' was replaced --><par n="ca/l__n"/></e>
+<e lm="dovlecel" a="mioara"><i>dovlece</i><par n="ca/l__n"/></e>
 <e lm="doză">            <i>doz</i><par n="cas/ă__n"/></e>
 <e lm="drac">            <i>dr</i><par n="dr/ac__n"/></e>
 <e lm="dragon" a="delia"><i>dragon</i><par n="an__n"/></e>
-<e lm="dragoste">        <i>dragoste</i><!-- dragoste__n' was replaced --><par n="bisectoare/__n"/></e>
+<e lm="dragoste">        <i>dragoste</i><par n="bisectoare/__n"/></e>
 <e lm="drajeu" a="delia"><i>drajeu</i><par n="metrou__n"/></e>
 <e lm="dramă">           <i>dram</i><par n="cas/ă__n"/></e>
 <e lm="dram" a="mioara"> <i>dram</i><par n="gât__n"/></e>
-<e lm="dramaturg" a="mioara"><i>dramaturg</i><par n="an__n"/></e>
+<e lm="dramaturg" a="mioara"><i>dramaturg</i><par n="coleg__n"/></e>
 <e r="LR" lm="drapel" a="delia"><i>drapel</i><par n="caiet__n"/></e>
 <e lm="drenaj" a="delia"><i>drenaj</i><par n="caiet__n"/></e>
 <e lm="drept la petiție" a="delnou"><i>drept</i><par n="drept/_la_petiție__n"/></e>
@@ -26922,8 +27037,8 @@
 <e lm="duel">            <i>duel</i><par n="gât__n"/></e>
 <e lm="duhoare" a="delia"><i>duho</i><par n="flo/are__n"/></e>
 <e lm="duioșie" a="delia"><i>duioși</i><par n="coaliți/e__n"/></e>
-<e lm="dulceață" a="mioara"><i>dulce</i><!-- ghe/ață__n' was replaced --><par n="mătre/ață__n"/></e>
-<e lm="dulău" a="delia"> <i>dulă</i><!-- metr/u__n' was replaced --><par n="fi/u__n"/></e>
+<e lm="dulceață" a="mioara"><i>dulce</i><par n="mătre/ață__n"/></e>
+<e lm="dulău" a="delia"> <i>dulă</i><par n="fi/u__n"/></e>
 <e lm="dumă" a="mioara"> <i>dum</i><par n="cas/ă__n"/></e>
 <e lm="dumbravă">        <i>dumbr</i><par n="t/avă__n"/></e>
 <e lm="duminică">        <i>duminic</i><par n="duminic/ă__n"/></e>
@@ -27025,7 +27140,7 @@
 <e r="LR" lm="elevare" a="mioara"><i>elev</i><par n="întreb/are__n"/></e>
 <e lm="elevație" a="mioara"><i>elevați</i><par n="coaliți/e__n"/></e>
 <e lm="eliberare">       <i>eliber</i><par n="întreb/are__n"/></e>
-<e lm="elice" a="delia"> <i>elice</i><!-- maree__n' was replaced --><par n="bisectoare/__n"/></e>
+<e lm="elice" a="delia"> <i>elice</i><par n="bisectoare/__n"/></e>
 <e lm="elicopter">       <i>elicopter</i><par n="caiet__n"/></e>
 <e lm="eliminare" a="delia"><i>elimin</i><par n="întreb/are__n"/></e>
 <e lm="elită">           <i>elit</i><par n="cas/ă__n"/></e>
@@ -27080,7 +27195,7 @@
 <e lm="enterocolită" a="mioara"><i>enterocolit</i><par n="cas/ă__n"/></e>
 <e lm="entitate">        <i>entit</i><par n="universit/ate__n"/></e>
 <e lm="entorsă" a="mioara"><i>entors</i><par n="cas/ă__n"/></e>
-<e lm="entuziasm">       <i>entuziasm</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="entuziasm">       <i>entuziasm</i><par n="est__n"/></e>
 <e r="LR" lm="enumerare" a="delia"><i>enumer</i><par n="întreb/are__n"/></e>
 <e lm="enumerație" a="delia"><i>enumerați</i><par n="coaliți/e__n"/></e>
 <e lm="enzimă" a="mioara"><i>enzim</i><par n="cas/ă__n"/></e>
@@ -27096,7 +27211,7 @@
 <e lm="epilepsie" a="delia"><i>epilepsi</i><par n="coaliți/e__n"/></e>
 <e lm="episcop">         <i>episcop</i><par n="an__n"/></e>
 <e lm="episod">          <i>episo</i><par n="episo/d__n"/></e>
-<e lm="epistaxis" a="mioara"><i>epistaxis</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="epistaxis" a="mioara"><i>epistaxis</i><par n="est__n"/></e>
 <e lm="epistemiologie">  <i>epistemiologi</i><par n="coaliți/e__n"/></e>
 <e lm="epistemologie">   <i>epistemologi</i><par n="coaliți/e__n"/></e>
 <e lm="epistolă" a="delia"><i>epistol</i><par n="cas/ă__n"/></e>
@@ -27287,6 +27402,7 @@
 <e lm="falcă">           <i>f</i><par n="f/alcă__n"/></e>
 <e lm="fată">            <i>f</i><par n="f/ată__n"/></e>
 <e lm="față">            <i>f</i><par n="f/ață__n"/></e>
+<e lm="față de masă">    <i>f</i><par n="f/ață__n"/><p><l><b/>de<b/>masă</l><r><g><b/>de<b/>masă</g></r></p></e>
 <e lm="făt" a="mioara">  <i>f</i><par n="f/ăt__n"/></e>
 <e lm="fabricare">       <i>fabric</i><par n="întreb/are__n"/></e>
 <e lm="fabrică" a="delia"><i>fabric</i><par n="duminic/ă__n"/></e>
@@ -27355,7 +27471,7 @@
 <e lm="favoritism" a="delia"><i>favoritism</i><par n="caiet__n"/></e>
 <e lm="fax" a="delia">   <i>fax</i><par n="gât__n"/></e>
 <e lm="fază">            <i>faz</i><par n="cas/ă__n"/></e>
-<e lm="fazan" a="delia"> <i>fazan</i><par n="an__n"/></e>
+<e lm="fazan" a="delia"> <i>f</i><par n="f/azan__n"/></e>
 <e lm="fațadă">          <i>fațad</i><par n="cas/ă__n"/></e>
 <e lm="fațetă" a="delia"><i>fațet</i><par n="cas/ă__n"/></e>
 <e lm="febră">           <i>febr</i><par n="febr/ă__n"/></e>
@@ -27376,6 +27492,7 @@
 <e lm="felină" a="delnou"><i>felin</i><par n="cas/ă__n"/></e>
 <e lm="felinar" a="delia"><i>felinar</i><par n="caiet__n"/></e>
 <e lm="femeie">          <i>femei</i><par n="femei/e__n"/></e>
+<e lm="femeie de știință"><i>femei</i><par n="femei/e__n"/><p><l><b/>de<b/>știință</l><r><g><b/>de<b/>știință</g></r></p></e>
 <e lm="femelă">          <i>femel</i><par n="cas/ă__n"/></e>
 <e lm="feminist" a="delnou"><i>femini</i><par n="comuni/st__n"/></e>
 <e lm="feminism" a="delia"><i>feminism</i><par n="caiet__n"/></e>
@@ -27506,15 +27623,15 @@
 <e lm="fluidizare">      <i>fluidiz</i><par n="întreb/are__n"/></e>
 <e lm="fluier" a="delia"><i>fluier</i><par n="caiet__n"/></e>
 <e lm="fluierătură">     <i>fluierătur</i><par n="duminic/ă__n"/></e>
-<e lm="fluor" a="mioara"><i>fluor</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="fluor" a="mioara"><i>fluor</i><par n="est__n"/></e>
 <e lm="fluture" a="delia"><i>flutur</i><par n="arbor/e__n"/></e>
 <e lm="fluviu">          <i>fluvi</i><par n="exerciți/u__n"/></e>
 <e lm="flux">            <i>flux</i><par n="gât__n"/></e>
 <e lm="foaie">           <i>fo</i><par n="fo/aie__n"/></e>
 <e lm="foaie de cort">   <i>fo</i><par n="fo/aie_de_cort__n"/></e>
 <e lm="foaie de parcurs"><i>fo</i><par n="fo/aie_de_parcurs__n"/></e>
-<e lm="foame">           <i>foame</i><!-- sete__n' was replaced --><par n="anghinare__n"/></e>
-<e lm="foamete">         <i>foamete</i><!-- sete__n' was replaced --><par n="anghinare__n"/></e>
+<e lm="foame">           <i>foame</i><par n="anghinare__n"/></e>
+<e lm="foamete">         <i>foamete</i><par n="anghinare__n"/></e>
 <e r="LR" lm="foburg" a="mioara"><i>foburg</i><par n="gât__n"/></e>
 <e lm="foc">             <i>foc</i><par n="gât__n"/></e>
 <e lm="focă" a="delia">  <i>foc</i><par n="duminic/ă__n"/></e>
@@ -27552,9 +27669,9 @@
 <e lm="forță">           <i>forț</i><par n="cas/ă__n"/></e>
 <e lm="fosă" a="delia">  <i>fos</i><par n="cas/ă__n"/></e>
 <e lm="fosfat" a="delia"><i>fosfa</i><par n="bărba/t__n"/></e>
-<e lm="fosfor">          <i>fosfor</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="fosfor">          <i>fosfor</i><par n="est__n"/></e>
 <e lm="fosilă" a="delia"><i>fosil</i><par n="cas/ă__n"/></e>
-<e lm="fotbal">          <i>fotbal</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="fotbal">          <i>fotbal</i><par n="est__n"/></e>
 <e lm="fotbalist">       <i>fotbali</i><par n="comuni/st__n"/></e>
 <e lm="fotocelulă" a="delia"><i>fotocelul</i><par n="cas/ă__n"/></e>
 <e lm="fotograf">        <i>fotograf</i><par n="coleg__n"/></e>
@@ -27588,7 +27705,7 @@
 <e lm="frecvență">       <i>frecvenț</i><par n="cas/ă__n"/></e>
 <e r="LR" lm="frescă" a="delia"><i>fresc</i><par n="cas/ă__n"/></e>
 <e lm="frică">           <i>fric</i><par n="duminic/ă__n"/></e>
-<e lm="frig">            <i>frig</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="frig">            <i>frig</i><par n="est__n"/></e>
 <e lm="frigian" a="delnou"><i>frigian</i><par n="coleg__n"/></e>
 <e lm="frigider" a="delia"><i>frigider</i><par n="caiet__n"/></e>
 <e lm="frigănea" a="delia"><i>frigăne</i><par n="cafe/a__n"/></e>
@@ -27598,7 +27715,7 @@
 <e lm="frizer" a="delia"><i>frizer</i><par n="an__n"/></e>
 <e r="LR" lm="frizerie"> <i>frizeri</i><par n="coaliți/e__n"/></e>
 <e lm="frondă" a="delnou"><i>frond</i><par n="cas/ă__n"/></e>
-<e r="LR" lm="front">    <i>front</i><par n="gât__n"/></e>
+<e lm="front">           <i>front</i><par n="gât__n"/></e>
 <e lm="frontieră">       <i>frontier</i><par n="cas/ă__n"/></e>
 <e lm="fronton" a="mioara"><i>fronto</i><par n="telefo/n__n"/></e>
 <e lm="fruct">           <i>fruct</i><par n="caiet__n"/></e>
@@ -27644,13 +27761,13 @@
 <e lm="fund al oceanului" a="mioara"><i>fund</i><par n="fund/_al_oceanului__n"/></e>
 <e lm="fund" a="delia">  <i>fund</i><par n="gât__n"/></e>
 <e r="LR" lm="fundare" a="mioara"><i>fund</i><par n="întreb/are__n"/></e>
-<e r="LR" lm="fundal" a="mioara"><i>fundal</i><par n="gât__n"/></e>
+<e lm="fundal" a="mioara"><i>fundal</i><par n="gât__n"/></e>
 <e lm="fundament">       <i>fundament</i><par n="caiet__n"/></e>
 <e lm="fundamentare" a="mioara"><i>fundament</i><par n="întreb/are__n"/></e>
 <e lm="fundamentalism" a="mioara"><i>fundamentalism</i><par n="caiet__n"/></e>
 <e lm="fundaș" a="mioara"><i>fundaș</i><par n="an__n"/></e>
 <e lm="fundație">        <i>fundați</i><par n="coaliți/e__n"/></e>
-<e lm="funeralii">       <i>funeralii</i><!-- funeralii__n' was replaced --><par n="ghiduri__n"/></e>
+<e lm="funeralii">       <i>funeralii</i><par n="ghiduri__n"/></e>
 <e lm="fungi" a="delia"> <i>fungi</i><par n="zori__n"/></e>
 <e lm="funicular" a="delia"><i>funicular</i><par n="caiet__n"/></e>
 <e lm="funingine" a="delia"><i>funingin</i><par n="fericir/e__n"/></e>
@@ -27737,7 +27854,7 @@
 <e lm="gaz" a="delia">   <i>gaz</i><par n="caiet__n"/></e>
 <e lm="gazdă">           <i>gazd</i><par n="cas/ă__n"/></e>
 <e lm="gazetă" a="delia"><i>gazet</i><par n="cas/ă__n"/></e>
-<e lm="gazon">           <i>gazon</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="gazon">           <i>gazon</i><par n="est__n"/></e>
 <e lm="geantă" a="delnou"><i>ge</i><par n="ge/antă__n"/></e>
 <e lm="geană">           <i>ge</i><par n="sprânce/ană__n"/></e>
 <e lm="get" a="mioara">  <i>ge</i><par n="avoca/t__n"/></e>
@@ -27777,7 +27894,7 @@
 <e lm="gestație" a="delnou"><i>gestați</i><par n="coaliți/e__n"/></e>
 <e r="LR" lm="gestionare" a="mioara"><i>gestion</i><par n="întreb/are__n"/></e>
 <e lm="gestiune">        <i>gestiun</i><par n="fericir/e__n"/></e>
-<e lm="gheață">          <i>ghe</i><!-- ghe/ață__n' was replaced --><par n="mătre/ață__n"/></e>
+<e lm="gheață">          <i>ghe</i><par n="mătre/ață__n"/></e>
 <e lm="gheb" a="delia">  <i>gheb</i><par n="gât__n"/></e>
 <e lm="ghem">            <i>ghem</i><par n="gât__n"/></e>
 <e lm="gheretă" a="delia"><i>gheret</i><par n="cas/ă__n"/></e>
@@ -27789,11 +27906,11 @@
 <e r="LR" lm="ghidare" a="mioara"><i>ghid</i><par n="întreb/are__n"/></e>
 <e lm="ghidon" a="delia"><i>ghido</i><par n="telefo/n__n"/></e>
 <e r="LR" lm="ghiduri" a="mioara"><i>ghiduri</i><par n="ghiduri__n"/></e>
-<e lm="ghilimele" a="delia"><i>ghilimele</i><!-- aplauze__n' was replaced --><par n="odăjdii__n"/></e>
+<e lm="ghilimele" a="delia"><i>ghilimele</i><par n="odăjdii__n"/></e>
 <e lm="ghimber" a="delia"><i>ghimber</i><par n="an__n"/></e>
 <e lm="ghindă" a="delia"><i>ghind</i><par n="cas/ă__n"/></e>
 <e lm="ghiont" a="delia"><i>ghiont</i><par n="gât__n"/></e>
-<e r="LR" lm="ghips" a="delia"><i>ghips</i><par n="gât__n"/></e>
+<e lm="ghips" a="delia"> <i>ghips</i><par n="gât__n"/></e>
 <e lm="ghirlandă" a="delia"><i>ghirland</i><par n="cas/ă__n"/></e>
 <e r="LR" lm="ghitară" a="mioara"><i>ghitar</i><par n="cas/ă__n"/></e>
 <e lm="ghișeu" a="delia"><i>ghișe</i><par n="lice/u__n"/></e>
@@ -27807,7 +27924,7 @@
 <e lm="gingie" a="delia"><i>gingi</i><par n="coaliți/e__n"/></e>
 <e lm="gingășie" a="delia"><i>gingăși</i><par n="coaliți/e__n"/></e>
 <e r="LR" lm="gips" a="mioara"><i>gips</i><par n="gât__n"/></e>
-<e lm="gips-carton" a="mioara"><i>gips-carton</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="gips-carton" a="mioara"><i>gips-carton</i><par n="est__n"/></e>
 <e lm="girafă" a="delia"><i>giraf</i><par n="cas/ă__n"/></e>
 <e lm="giroscop" a="delia"><i>girosco</i><par n="proso/p__n"/></e>
 <e r="LR" lm="gitan" a="mioara"><i>gitan</i><par n="coleg__n"/></e>
@@ -27835,7 +27952,7 @@
 <e lm="glugă" a="delia"> <i>glug</i><par n="duminic/ă__n"/></e>
 <e lm="glumă">           <i>glum</i><par n="cas/ă__n"/></e>
 <e lm="gnom" a="delia">  <i>gnom</i><par n="an__n"/></e>
-<e lm="gnu" a="mioara">  <i>gnu</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="gnu" a="mioara">  <i>gnu</i><par n="piper__n"/></e>
 <e lm="got" a="mioara">  <i>go</i><par n="avoca/t__n"/></e>
 <e r="LR" lm="goalkeeper" a="mioara"><i>goalkeeper</i><par n="an__n"/></e>
 <e lm="goană">           <i>goan</i><par n="cas/ă__n"/></e>
@@ -27867,7 +27984,7 @@
 <e lm="gravitate" a="delia"><i>gravit</i><par n="universit/ate__n"/></e>
 <e lm="gravură" a="delia"><i>gravur</i><par n="duminic/ă__n"/></e>
 <e lm="grație">          <i>grați</i><par n="coaliți/e__n"/></e>
-<e lm="greață">          <i>gre</i><!-- ghe/ață__n' was replaced --><par n="mătre/ață__n"/></e>
+<e lm="greață">          <i>gre</i><par n="mătre/ață__n"/></e>
 <e lm="grec">            <i>grec</i><par n="chinez__n"/></e>
 <e lm="grefier" a="mioara"><i>grefier</i><par n="an__n"/></e>
 <e lm="grenadă" a="delia"><i>grenad</i><par n="cas/ă__n"/></e>
@@ -27879,7 +27996,7 @@
 <e lm="grijă">           <i>grij</i><par n="duminic/ă__n"/></e>
 <e lm="grilă" a="mioara"><i>gril</i><par n="cas/ă__n"/></e>
 <e lm="grimasă" a="delia"><i>grimas</i><par n="cas/ă__n"/></e>
-<e lm="grindă" a="delia"><i>grin</i><!-- oglin/dă__n' was replaced --><par n="izbân/dă__n"/></e>
+<e lm="grindă" a="delia"><i>grin</i><par n="izbân/dă__n"/></e>
 <e lm="gripă">           <i>grip</i><par n="cas/ă__n"/></e>
 <e lm="groapă">          <i>gro</i><par n="gro/apă__n"/></e>
 <e lm="groapă de gunoi"> <i>gro</i><par n="gro/apă_de_gunoi__n"/></e>
@@ -27918,7 +28035,7 @@
 <e lm="guvernator">      <i>guvernato</i><par n="directo/r__n"/></e>
 <e lm="guvernație">      <i>guvernați</i><par n="coaliți/e__n"/></e>
 <e lm="gușă" a="delia">  <i>guș</i><par n="duminic/ă__n"/></e>
-<e lm="gâscă" a="delia"> <i>gâ</i><!-- mu/scă__n' was replaced --><par n="broa/scă__n"/></e>
+<e lm="gâscă" a="delia"> <i>gâ</i><par n="broa/scă__n"/></e>
 <e lm="gâdilătură" a="delia"><i>gâdilătur</i><par n="duminic/ă__n"/></e>
 <e lm="gâfâială" a="delia"><i>gâfâi</i><par n="cheltui/ală__n"/></e>
 <e lm="gâlceavă" a="delia"><i>gâlce</i><par n="țe/avă__n"/></e>
@@ -28028,7 +28145,7 @@
 <e lm="hidrocarbură" a="mioara"><i>hidrocarbur</i><par n="duminic/ă__n"/></e>
 <e lm="hidrocentrală" a="delnou"><i>hidrocentral</i><par n="cas/ă__n"/></e>
 <e lm="hidrofobie" a="delia"><i>hidrofobi</i><par n="coaliți/e__n"/></e>
-<e lm="hidrogen" a="delnou"><i>hidrogen</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="hidrogen" a="delnou"><i>hidrogen</i><par n="est__n"/></e>
 <e lm="hidrografie" a="delnou"><i>hidrografi</i><par n="coaliți/e__n"/></e>
 <e lm="hidroliză" a="delia"><i>hidroliz</i><par n="cas/ă__n"/></e>
 <e lm="hidrolog" a="mioara"><i>hidrolog</i><par n="coleg__n"/></e>
@@ -28099,7 +28216,7 @@
 <e lm="hotărâre" a="mioara"><i>hotărâr</i><par n="fericir/e__n"/></e>
 <e lm="hoție" a="delia"> <i>hoți</i><par n="coaliți/e__n"/></e>
 <e r="LR" lm="hram" a="mioara"><i>hram</i><par n="gât__n"/></e>
-<e lm="hrană">           <i>hran</i><!-- hran/ă__n' was replaced --><par n="febr/ă__n"/></e>
+<e lm="hrană">           <i>hran</i><par n="febr/ă__n"/></e>
 <e lm="huiduială" a="delia"><i>huidui</i><par n="cheltui/ală__n"/></e>
 <e lm="huligan" a="delia"><i>huligan</i><par n="coleg__n"/></e>
 <e lm="hulubărie" a="delia"><i>hulubări</i><par n="coaliți/e__n"/></e>
@@ -28151,7 +28268,7 @@
 <e lm="ierarhie">        <i>ierarhi</i><par n="coaliți/e__n"/></e>
 <e lm="ieromonah" a="mioara"><i>ieromonah</i><par n="an__n"/></e>
 <e lm="iertare">         <i>iert</i><par n="întreb/are__n"/></e>
-<e lm="iesle" a="delia"> <i>iesle</i><!-- maree__n' was replaced --><par n="bisectoare/__n"/></e>
+<e lm="iesle" a="delia"> <i>iesle</i><par n="bisectoare/__n"/></e>
 <e lm="iezuit" a="delia"><i>iezui</i><par n="avoca/t__n"/></e>
 <e lm="ieșire">          <i>ieșir</i><par n="fericir/e__n"/></e>
 <e lm="ifos" a="delia">  <i>ifos</i><par n="caiet__n"/></e>
@@ -28276,7 +28393,7 @@
 <e r="LR" lm="indemnizare" a="mioara"><i>indemniz</i><par n="întreb/are__n"/></e>
 <e lm="indemnizație" a="delia"><i>indemnizați</i><par n="coaliți/e__n"/></e>
 <e lm="independență">    <i>independenț</i><par n="cas/ă__n"/></e>
-<e r="LR" lm="index">    <i>index</i><par n="gât__n"/></e>
+<e lm="index">           <i>index</i><par n="gât__n"/></e>
 <e lm="indian">          <i>indi</i><par n="indi/an__n"/></e>
 <e lm="indice" a="delia"><i>indic</i><par n="arbor/e__n"/></e>
 <e lm="indicativ" a="delia"><i>indicativ</i><par n="caiet__n"/></e>
@@ -28573,7 +28690,7 @@
 <e lm="jivină" a="delia"><i>jivin</i><par n="cas/ă__n"/></e>
 <e r="LR" lm="joacă">    <i>joac</i><par n="cas/ă__n"/></e>
 <e lm="joc">             <i>joc</i><par n="gât__n"/></e>
-<e lm="jocheu" a="delia"><i>joche</i><!-- le/u__n' was replaced --><par n="fi/u__n"/></e>
+<e lm="jocheu" a="delia"><i>joche</i><par n="fi/u__n"/></e>
 <e lm="joi">             <i>joi</i><par n="joi__n"/></e>
 <e r="LR" lm="joncțiune" a="mioara"><i>joncțiun</i><par n="fericir/e__n"/></e>
 <e lm="josnicie" a="delia"><i>josnici</i><par n="coaliți/e__n"/></e>
@@ -28611,15 +28728,15 @@
 <e r="LR" lm="jăratic" a="delia"><i>jăratic</i><par n="caiet__n"/></e>
 <e lm="kaizer" a="delia"><i>kaizer</i><par n="an__n"/></e>
 <e lm="kamikaze" a="mioara"><i>kamikaze</i><par n="kamikaze/__n"/></e>
-<e lm="karate" a="delia"><i>karate</i><!-- aplauze__n' was replaced --><par n="odăjdii__n"/></e>
+<e lm="karate" a="delia"><i>karate</i><par n="odăjdii__n"/></e>
 <e lm="karateka" a="delia"><i>karateka</i><par n="mecena__n"/></e>
 <e lm="karatist" a="delia"><i>karati</i><par n="comuni/st__n"/></e>
 <e lm="khmer" a="mioara"><i>khmer</i><par n="coleg__n"/></e>
 <e lm="kil" a="delia">   <i>kil</i><par n="caiet__n"/></e>
 <e lm="kilocalorie" a="delia"><i>kilocalori</i><par n="coaliți/e__n"/></e>
 <e lm="kilogram">        <i>kilogram</i><par n="caiet__n"/></e>
-<e lm="kilolitru" a="delia"><i>kilolitr</i><!-- metr/u__n' was replaced --><par n="fi/u__n"/></e>
-<e lm="kilometru">       <i>kilometr</i><!-- metr/u__n' was replaced --><par n="fi/u__n"/></e>
+<e lm="kilolitru" a="delia"><i>kilolitr</i><par n="fi/u__n"/></e>
+<e lm="kilometru">       <i>kilometr</i><par n="fi/u__n"/></e>
 <e lm="kilometraj" a="delia"><i>kilometraj</i><par n="caiet__n"/></e>
 <e lm="kilovolt" a="delia"><i>kilovol</i><par n="bărba/t__n"/></e>
 <e lm="kilowatt">        <i>kilowa</i><par n="wa/tt__n"/></e>
@@ -28627,8 +28744,8 @@
 <e lm="kimono" a="delia"><i>kimono</i><par n="gât__n"/></e>
 <e lm="kinescop" a="delia"><i>kinesco</i><par n="proso/p__n"/></e>
 <e lm="kitsch" a="delnou"><i>kitsch</i><par n="gât__n"/></e>
-<e lm="know-how" a="delnou"><i>know-how</i><!-- aur__n' was replaced --><par n="est__n"/></e>
-<e lm="kripton" a="mioara"><i>kripton</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="know-how" a="delnou"><i>know-how</i><par n="est__n"/></e>
+<e lm="kripton" a="mioara"><i>kripton</i><par n="est__n"/></e>
 <e lm="kurd" a="delia">  <i>kur</i><par n="indivi/d__n"/></e>
 <e lm="lampă">           <i>l</i><par n="l/ampă__n"/></e>
 <e r="LR" lm="ladă" a="delia"><i>l</i><par n="str/adă__n"/></e>
@@ -28640,7 +28757,7 @@
 <e lm="laborator">       <i>laborato</i><par n="popo/r__n"/></e>
 <e lm="laburist" a="delia"><i>laburi</i><par n="comuni/st__n"/></e>
 <e lm="lac">             <i>lac</i><par n="gât__n"/></e>
-<e lm="lacheu" a="delia"><i>lache</i><!-- le/u__n' was replaced --><par n="fi/u__n"/></e>
+<e lm="lacheu" a="delia"><i>lache</i><par n="fi/u__n"/></e>
 <e lm="laconism" a="mioara"><i>laconism</i><par n="caiet__n"/></e>
 <e lm="lacrimă">         <i>lacrim</i><par n="duminic/ă__n"/></e>
 <e lm="lactație">        <i>lactați</i><par n="coaliți/e__n"/></e>
@@ -28712,7 +28829,7 @@
 <e lm="laxativ" a="delia"><i>laxativ</i><par n="caiet__n"/></e>
 <e lm="lașitate">        <i>lașit</i><par n="universit/ate__n"/></e>
 <e lm="laț" a="delia">   <i>laț</i><par n="gât__n"/></e>
-<e lm="leu">             <i>le</i><!-- le/u__n' was replaced --><par n="fi/u__n"/></e>
+<e lm="leu">             <i>le</i><par n="fi/u__n"/></e>
 <e lm="leafă" a="delia"> <i>le</i><par n="le/afă__n"/></e>
 <e r="LR" lm="leac" a="mioara"><i>leac</i><par n="gât__n"/></e>
 <e lm="leagăn" a="mioara"><i>leagăn</i><par n="caiet__n"/></e>
@@ -28725,7 +28842,7 @@
 <e lm="legalitate" a="delia"><i>legalit</i><par n="universit/ate__n"/></e>
 <e lm="legalizare" a="mioara"><i>legaliz</i><par n="întreb/are__n"/></e>
 <e lm="legendă">         <i>legend</i><par n="cas/ă__n"/></e>
-<e lm="leghe" a="mioara"><i>leghe</i><!-- maree__n' was replaced --><par n="bisectoare/__n"/></e>
+<e lm="leghe" a="mioara"><i>leghe</i><par n="bisectoare/__n"/></e>
 <e lm="legibilitate" a="mioara"><i>legibilit</i><par n="universit/ate__n"/></e>
 <e lm="legionar" a="mioara"><i>legionar</i><par n="coleg__n"/></e>
 <e lm="legislator" a="mioara"><i>legislato</i><par n="directo/r__n"/></e>
@@ -28825,7 +28942,7 @@
 <e lm="ligatură" a="mioara"><i>ligatur</i><par n="duminic/ă__n"/></e>
 <e lm="lighean" a="mioara"><i>lighe</i><par n="lighe/an__n"/></e>
 <e r="LR" lm="lighioană" a="mioara"><i>lighioan</i><par n="cas/ă__n"/></e>
-<e lm="lignit" a="mioara"><i>lignit</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="lignit" a="mioara"><i>lignit</i><par n="est__n"/></e>
 <e lm="liliac" a="mioara"><i>lili</i><par n="lili/ac__n"/></e>
 <e lm="liman" a="mioara"><i>liman</i><par n="gât__n"/></e>
 <e r="LR" lm="limbă de pantofi" a="mioara"><i>limb</i><par n="limb/ă_de_pantofi__n"/></e>
@@ -28840,7 +28957,7 @@
 <e lm="limită">          <i>limit</i><par n="cas/ă__n"/></e>
 <e lm="limonadă" a="mioara"><i>limonad</i><par n="cas/ă__n"/></e>
 <e lm="limuzină" a="mioara"><i>limuzin</i><par n="cas/ă__n"/></e>
-<e lm="linte">           <i>lin</i><!-- min/te__n' was replaced --><par n="virtu/te__n"/></e>
+<e lm="linte">           <i>lin</i><par n="virtu/te__n"/></e>
 <e lm="lingou" a="mioara"><i>lingou</i><par n="metrou__n"/></e>
 <e lm="lingură de lemn" a="mioara"><i>lingur</i><par n="lingur/ă_de_lemn__n"/></e>
 <e lm="lingură" a="delnou"><i>lingur</i><par n="duminic/ă__n"/></e>
@@ -28848,7 +28965,7 @@
 <e lm="lingușeală" a="mioara"><i>lingușe</i><par n="îndrăzne/ală__n"/></e>
 <e lm="lingvist" a="delnou"><i>lingvi</i><par n="comuni/st__n"/></e>
 <e lm="lingvistică">     <i>lingvistic</i><par n="duminic/ă__n"/></e>
-<e lm="lingău" a="delia"><i>lingă</i><!-- metr/u__n' was replaced --><par n="fi/u__n"/></e>
+<e lm="lingău" a="delia"><i>lingă</i><par n="fi/u__n"/></e>
 <e lm="linie">           <i>lini</i><par n="coaliți/e__n"/></e>
 <e lm="liniște">         <i>linișt</i><par n="fericir/e__n"/></e>
 <e lm="linoleum" a="mioara"><i>linoleum</i><par n="gât__n"/></e>
@@ -28872,7 +28989,7 @@
 <e lm="litiu" a="mioara"><i>litiu</i><par n="sodiu__n"/></e>
 <e lm="litografie" a="delnou"><i>litografi</i><par n="coaliți/e__n"/></e>
 <e lm="litoral" a="delia"><i>litoral</i><par n="caiet__n"/></e>
-<e lm="litru">           <i>litr</i><!-- metr/u__n' was replaced --><par n="fi/u__n"/></e>
+<e lm="litru">           <i>litr</i><par n="fi/u__n"/></e>
 <e r="LR" lm="litră" a="mioara"><i>litr</i><par n="cas/ă__n"/></e>
 <e lm="liturghie">       <i>liturghi</i><par n="coaliți/e__n"/></e>
 <e lm="livadă">          <i>liv</i><par n="liv/adă__n"/></e>
@@ -28889,7 +29006,7 @@
 <e lm="loc">             <i>loc</i><par n="gât__n"/></e>
 <e lm="local">           <i>local</i><par n="gât__n"/></e>
 <e lm="localitate">      <i>localit</i><par n="universit/ate__n"/></e>
-<e r="LR" lm="localizare"><i>localiz</i><par n="întreb/are__n"/></e>
+<e lm="localizare">      <i>localiz</i><par n="întreb/are__n"/></e>
 <e lm="localnic" a="delia"><i>localnic</i><par n="coleg__n"/></e>
 <e r="LR" lm="locatar" a="mioara"><i>locatar</i><par n="coleg__n"/></e>
 <e r="LR" lm="locaș" a="mioara"><i>locaș</i><par n="gât__n"/></e>
@@ -28909,7 +29026,7 @@
 <e lm="logodnic">        <i>logodnic</i><par n="coleg__n"/></e>
 <e lm="logoped" a="mioara"><i>logope</i><par n="indivi/d__n"/></e>
 <e lm="logopedie" a="mioara"><i>logopedi</i><par n="coaliți/e__n"/></e>
-<e r="LR" lm="logoree" a="mioara"><i>logoree</i><!-- maree__n' was replaced --><par n="bisectoare/__n"/></e>
+<e r="LR" lm="logoree" a="mioara"><i>logoree</i><par n="bisectoare/__n"/></e>
 <e lm="logotip" a="delia"><i>logotip</i><par n="gât__n"/></e>
 <e lm="loialitate">      <i>loialit</i><par n="universit/ate__n"/></e>
 <e lm="lombard" a="mioara"><i>lombar</i><par n="indivi/d__n"/></e>
@@ -28958,7 +29075,7 @@
 <e lm="lungan" a="mioara"><i>lungan</i><par n="coleg__n"/></e>
 <e lm="lungime">         <i>lungim</i><par n="fericir/e__n"/></e>
 <e lm="luntre" a="mioara"><i>luntre</i><par n="bisectoare/__n"/></e>
-<e lm="lup">             <i>lup</i><par n="an__n"/></e>
+<e lm="lup">             <i>lup</i><par n="chinez__n"/></e>
 <e lm="lup de mare" a="mioara"><i>lup</i><par n="lup/_de_mare__n"/></e>
 <e lm="lupă" a="delia">  <i>lup</i><par n="cas/ă__n"/></e>
 <e lm="lupanar" a="mioara"><i>lupanar</i><par n="caiet__n"/></e>
@@ -28986,7 +29103,7 @@
 <e r="LR" lm="lăscaie" a="mioara"><i>lăsc</i><par n="b/aie__n"/></e>
 <e lm="lăudăros">        <i>lăudăro</i><par n="năso/s__n"/></e>
 <e lm="lăută" a="delia"> <i>lăut</i><par n="cas/ă__n"/></e>
-<e lm="lăutar" a="mioara"><i>lăutar</i><par n="an__n"/></e>
+<e lm="lăutar" a="mioara"><i>lăut</i><par n="blăn/ar__n"/></e>
 <e lm="lăuză" a="delia"> <i>lăuz</i><par n="cas/ă__n"/></e>
 <e lm="lățime">          <i>lățim</i><par n="fericir/e__n"/></e>
 <e lm="marcă">           <i>m</i><par n="b/arcă__n"/></e>
@@ -29071,7 +29188,7 @@
 <e lm="manetă" a="delia"><i>manet</i><par n="cas/ă__n"/></e>
 <e lm="manevrare">       <i>manevr</i><par n="întreb/are__n"/></e>
 <e lm="manevră">         <i>manevr</i><par n="cas/ă__n"/></e>
-<e lm="mangan" a="mioara"><i>mangan</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="mangan" a="mioara"><i>mangan</i><par n="est__n"/></e>
 <e lm="manie">           <i>mani</i><par n="coaliți/e__n"/></e>
 <e lm="manichiură" a="delia"><i>manichiur</i><par n="duminic/ă__n"/></e>
 <e lm="manieră">         <i>manier</i><par n="cas/ă__n"/></e>
@@ -29087,7 +29204,7 @@
 <e r="LR" lm="manoperă" a="mioara"><i>manoper</i><par n="cas/ă__n"/></e>
 <e lm="mansardă" a="mioara"><i>mansard</i><par n="cas/ă__n"/></e>
 <e lm="mantă" a="delnou"><i>mant</i><par n="cas/ă__n"/></e>
-<e lm="manta" a="mioara"><i>manta</i><!-- balama__n' was replaced --><par n="zi__n"/></e>
+<e lm="manta" a="mioara"><i>manta</i><par n="zi__n"/></e>
 <e lm="manual" a="delia"><i>manual</i><par n="caiet__n"/></e>
 <e lm="manufactură" a="delia"><i>manufactur</i><par n="duminic/ă__n"/></e>
 <e lm="manuscris" a="delia"><i>manuscris</i><par n="caiet__n"/></e>
@@ -29099,7 +29216,7 @@
 <e lm="marcator" a="delia"><i>marcator</i><par n="an__n"/></e>
 <e lm="marchiză" a="delia"><i>marchiz</i><par n="cas/ă__n"/></e>
 <e lm="marchiz" a="delia"><i>marchiz</i><par n="coleg__n"/></e>
-<e lm="maree">           <i>maree</i><!-- maree__n' was replaced --><par n="bisectoare/__n"/></e>
+<e lm="maree">           <i>maree</i><par n="bisectoare/__n"/></e>
 <e lm="mareșal" a="delia"><i>mareșal</i><par n="an__n"/></e>
 <e lm="margaretă" a="delia"><i>margaret</i><par n="cas/ă__n"/></e>
 <e lm="margarină" a="delia"><i>margarin</i><par n="cas/ă__n"/></e>
@@ -29148,7 +29265,7 @@
 <e lm="maternitate" a="delia"><i>maternit</i><par n="universit/ate__n"/></e>
 <e lm="matineu" a="delia"><i>matine</i><par n="lice/u__n"/></e>
 <e lm="matriarhat" a="mioara"><i>matriarhat</i><par n="caiet__n"/></e>
-<e lm="matrice" a="delia"><i>matrice</i><!-- maree__n' was replaced --><par n="bisectoare/__n"/></e>
+<e lm="matrice" a="delia"><i>matrice</i><par n="bisectoare/__n"/></e>
 <e lm="matricolă" a="delia"><i>matricol</i><par n="cas/ă__n"/></e>
 <e lm="matriculare" a="delia"><i>matricul</i><par n="întreb/are__n"/></e>
 <e r="LR" lm="matrimoniu"><i>matrimoni</i><par n="exerciți/u__n"/></e>
@@ -29158,7 +29275,7 @@
 <e lm="mausoleu" a="delia"><i>mausole</i><par n="lice/u__n"/></e>
 <e lm="maximă" a="delia"><i>maxim</i><par n="cas/ă__n"/></e>
 <e lm="maxim" a="mioara"><i>maxim</i><par n="caiet__n"/></e>
-<e lm="maximum" a="mioara"><i>maximum</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="maximum" a="mioara"><i>maximum</i><par n="gât__n"/></e>
 <e lm="mazurcă" a="mioara"><i>mazurc</i><par n="duminic/ă__n"/></e>
 <e lm="mașină de spălat"><i>mașin</i><par n="mașin/ă_de_spălat__n"/></e>
 <e r="LR" lm="mașină de deszăpezire" a="mioara"><i>mașin</i><par n="mașin/ă_de_deszăpezire__n"/></e>
@@ -29193,7 +29310,7 @@
 <e lm="mediocritate" a="delia"><i>mediocrit</i><par n="universit/ate__n"/></e>
 <e lm="meditație" a="delia"><i>meditați</i><par n="coaliți/e__n"/></e>
 <e r="LR" lm="mefiență" a="delnou"><i>mefienț</i><par n="cas/ă__n"/></e>
-<e lm="mega" a="delia">  <i>mega</i><!-- mega__n' was replaced --><par n="aprilie__n"/></e>
+<e lm="mega" a="delia">  <i>mega</i><par n="aprilie__n"/></e>
 <e lm="megafon">         <i>megafo</i><par n="telefo/n__n"/></e>
 <e lm="megaloman" a="mioara"><i>megaloman</i><par n="coleg__n"/></e>
 <e lm="megalomanie" a="delia"><i>megalomani</i><par n="coaliți/e__n"/></e>
@@ -29231,7 +29348,7 @@
 <e lm="mercur" a="delia"><i>mercur</i><par n="gât__n"/></e>
 <e lm="meridian" a="delia"><i>meridian</i><par n="caiet__n"/></e>
 <e lm="merit">           <i>merit</i><par n="caiet__n"/></e>
-<e lm="merluciu" a="delia"><i>merluci</i><!-- metr/u__n' was replaced --><par n="fi/u__n"/></e>
+<e lm="merluciu" a="delia"><i>merluci</i><par n="fi/u__n"/></e>
 <e lm="mers" a="delia">  <i>mers</i><par n="gât__n"/></e>
 <e lm="mesager" a="delia"><i>mesager</i><par n="coleg__n"/></e>
 <e lm="mesagerie" a="delia"><i>mesageri</i><par n="coaliți/e__n"/></e>
@@ -29245,7 +29362,7 @@
 <e lm="metal">           <i>metal</i><par n="caiet__n"/></e>
 <e lm="metalurgie" a="delia"><i>metalurgi</i><par n="coaliți/e__n"/></e>
 <e lm="metamorfoză" a="delia"><i>metamorfoz</i><par n="cas/ă__n"/></e>
-<e lm="metan" a="mioara"><i>metan</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="metan" a="mioara"><i>metan</i><par n="est__n"/></e>
 <e lm="metanol" a="mioara"><i>metanol</i><par n="an__n"/></e>
 <e lm="metapsihică" a="mioara"><i>metapsihic</i><par n="duminic/ă__n"/></e>
 <e lm="metastază" a="delia"><i>metastaz</i><par n="cas/ă__n"/></e>
@@ -29258,7 +29375,7 @@
 <e lm="meticulozitate" a="mioara"><i>meticulozit</i><par n="universit/ate__n"/></e>
 <e lm="metisaj" a="delia"><i>metisaj</i><par n="caiet__n"/></e>
 <e lm="metodă">          <i>metod</i><par n="cas/ă__n"/></e>
-<e lm="metru">           <i>metr</i><!-- metr/u__n' was replaced --><par n="fi/u__n"/></e>
+<e lm="metru">           <i>metr</i><par n="fi/u__n"/></e>
 <e lm="metraj" a="mioara"><i>metraj</i><par n="caiet__n"/></e>
 <e lm="metrică" a="mioara"><i>metric</i><par n="duminic/ă__n"/></e>
 <e lm="metronomie">      <i>metronomi</i><par n="coaliți/e__n"/></e>
@@ -29268,7 +29385,7 @@
 <e lm="mezencefal" a="mioara"><i>mezencefal</i><par n="caiet__n"/></e>
 <e lm="mezenter" a="mioara"><i>mezenter</i><par n="caiet__n"/></e>
 <e lm="mezoderm" a="mioara"><i>mezoderm</i><par n="caiet__n"/></e>
-<e lm="mezolitic" a="delnou"><i>mezolitic</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="mezolitic" a="delnou"><i>mezolitic</i><par n="est__n"/></e>
 <e lm="mezoterapie" a="delia"><i>mezoterapi</i><par n="coaliți/e__n"/></e>
 <e r="LR" lm="meșă" a="mioara"><i>meș</i><par n="cas/ă__n"/></e>
 <e r="LR" lm="meșteșug" a="delnou"><i>meșteșug</i><par n="gât__n"/></e>
@@ -29290,7 +29407,7 @@
 <e lm="micuț">           <i>micuț</i><par n="coleg__n"/></e>
 <e lm="micțiune" a="mioara"><i>micțiun</i><par n="fericir/e__n"/></e>
 <e lm="midriază" a="mioara"><i>midriaz</i><par n="cas/ă__n"/></e>
-<e lm="miel" a="mioara"> <i>mie</i><!-- cerce/l__n' was replaced --><par n="ca/l__n"/></e>
+<e lm="miel" a="mioara"> <i>mie</i><par n="ca/l__n"/></e>
 <e lm="mielină" a="mioara"><i>mielin</i><par n="cas/ă__n"/></e>
 <e lm="mielom" a="mioara"><i>mielo</i><par n="sindro/m__n"/></e>
 <e lm="mielușel" a="mioara"><i>mielușe</i><par n="mișe/l__n"/></e>
@@ -29307,7 +29424,7 @@
 <e lm="milă">            <i>mil</i><par n="cas/ă__n"/></e>
 <e lm="mileniu">         <i>mileni</i><par n="exerciți/u__n"/></e>
 <e lm="miliard">         <i>miliard</i><par n="caiet__n"/></e>
-<e lm="milimetru">       <i>milimetr</i><!-- metr/u__n' was replaced --><par n="fi/u__n"/></e>
+<e lm="milimetru">       <i>milimetr</i><par n="fi/u__n"/></e>
 <e lm="milion">          <i>milio</i><par n="telefo/n__n"/></e>
 <e lm="milionar" a="delia"><i>milionar</i><par n="coleg__n"/></e>
 <e lm="militant">        <i>militan</i><par n="avoca/t__n"/></e>
@@ -29318,7 +29435,7 @@
 <e lm="milostenie">      <i>milosteni</i><par n="coaliți/e__n"/></e>
 <e lm="milostivire" a="mioara"><i>milostivir</i><par n="fericir/e__n"/></e>
 <e lm="mimică" a="delia"><i>mimic</i><par n="duminic/ă__n"/></e>
-<e lm="minte">           <i>min</i><!-- min/te__n' was replaced --><par n="virtu/te__n"/></e>
+<e lm="minte">           <i>min</i><par n="virtu/te__n"/></e>
 <e lm="mină">            <i>min</i><par n="cas/ă__n"/></e>
 <e lm="minaret" a="mioara"><i>minaret</i><par n="caiet__n"/></e>
 <e lm="minciună">        <i>minciun</i><par n="duminic/ă__n"/></e>
@@ -29343,10 +29460,10 @@
 <e lm="minutar" a="delia"><i>minutar</i><par n="caiet__n"/></e>
 <e lm="minuțiozitate" a="mioara"><i>minuțiozit</i><par n="universit/ate__n"/></e>
 <e lm="miop">            <i>mio</i><par n="mio/p__n"/></e>
-<e lm="miocard" a="mioara"><i>miocard</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="miocard" a="mioara"><i>miocard</i><par n="est__n"/></e>
 <e lm="miocardită" a="mioara"><i>miocardit</i><par n="cas/ă__n"/></e>
 <e lm="miopie" a="delia"><i>miopi</i><par n="coaliți/e__n"/></e>
-<e r="LR" lm="mirare">   <i>mir</i><par n="întreb/are__n"/></e>
+<e lm="mirare">          <i>mir</i><par n="întreb/are__n"/></e>
 <e lm="mirt" a="delia">  <i>mir</i><par n="bărba/t__n"/></e>
 <e lm="miră" a="delia">  <i>mir</i><par n="cas/ă__n"/></e>
 <e lm="miracol">         <i>miracol</i><par n="caiet__n"/></e>
@@ -29355,7 +29472,7 @@
 <e lm="mirean" a="mioara"><i>mire</i><par n="europe/an__n"/></e>
 <e lm="mireasă" a="mioara"><i>mire</i><par n="mire/asă__n"/></e>
 <e lm="miros">           <i>miros</i><par n="gât__n"/></e>
-<e lm="misit" a="mioara"><i>misi</i><par n="bărba/t__n"/></e>
+<e lm="misit" a="mioara"><i>misi</i><par n="avoca/t__n"/></e>
 <e lm="misil" a="delia"> <i>misil</i><par n="caiet__n"/></e>
 <e lm="misionar" a="delia"><i>misionar</i><par n="coleg__n"/></e>
 <e lm="misitie" a="delia"><i>misiti</i><par n="coaliți/e__n"/></e>
@@ -29387,7 +29504,7 @@
 <e lm="mlaștină" a="delia"><i>mlaștin</i><par n="duminic/ă__n"/></e>
 <e lm="mort">            <i>mo</i><par n="mo/rt__n"/></e>
 <e lm="moarte">          <i>mo</i><par n="mo/arte__n"/></e>
-<e lm="moară">           <i>mo</i><!-- mo/ară__n' was replaced --><par n="o/ară__n"/></e>
+<e lm="moară">           <i>mo</i><par n="o/ară__n"/></e>
 <e lm="moașă" a="mioara"><i>moaș</i><par n="cas/ă__n"/></e>
 <e r="LR" lm="moaștă" a="delnou - forzar el sg"><i>moașt</i><par n="cas/ă__n"/></e>
 <e lm="mobilă">          <i>mobil</i><par n="cas/ă__n"/></e>
@@ -29417,7 +29534,7 @@
 <e lm="moleculă">        <i>molecul</i><par n="cas/ă__n"/></e>
 <e lm="moleșeală" a="delnou"><i>moleșe</i><par n="îndrăzne/ală__n"/></e>
 <e lm="molie" a="delia"> <i>moli</i><par n="coaliți/e__n"/></e>
-<e lm="molibden" a="mioara"><i>molibden</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="molibden" a="mioara"><i>molibden</i><par n="est__n"/></e>
 <e r="LR" lm="molimă" a="delia"><i>molim</i><par n="cas/ă__n"/></e>
 <e lm="momeală" a="delia"><i>mome</i><par n="îndrăzne/ală__n"/></e>
 <e lm="moment de cumpănă" a="mioara"><i>moment</i><par n="moment_de_cumpănă__n"/></e>
@@ -29485,7 +29602,7 @@
 <e lm="moștenitor">      <i>moștenito</i><par n="directo/r__n"/></e>
 <e lm="moț" a="delia">   <i>moț</i><par n="gât__n"/></e>
 <e lm="moțiune" a="delia"><i>moțiun</i><par n="fericir/e__n"/></e>
-<e lm="muscă">           <i>mu</i><!-- mu/scă__n' was replaced --><par n="broa/scă__n"/></e>
+<e lm="muscă">           <i>mu</i><par n="broa/scă__n"/></e>
 <e lm="mut" a="delia">   <i>mu</i><par n="avoca/t__n"/></e>
 <e lm="muc" a="delia">   <i>muc</i><par n="an__n"/></e>
 <e lm="mucegai" a="delia"><i>mucegai</i><par n="gât__n"/></e>
@@ -29544,7 +29661,7 @@
 <e lm="mușată" a="delia"><i>mușat</i><par n="cas/ă__n"/></e>
 <e lm="mușchi">          <i>mușchi</i><par n="ochi__n"/></e>
 <e lm="mușcătură" a="mioara"><i>mușcătur</i><par n="duminic/ă__n"/></e>
-<e lm="mușețel" a="delia"><i>mușețe</i><!-- cerce/l__n' was replaced --><par n="ca/l__n"/></e>
+<e lm="mușețel" a="delia"><i>mușețe</i><par n="ca/l__n"/></e>
 <e r="LR" lm="mușteriu" a="mioara"><i>mușteri</i><par n="fi/u__n"/></e>
 <e lm="muștiuc" a="delia"><i>muștiuc</i><par n="gât__n"/></e>
 <e lm="mușuroi" a="delia"><i>mușuro</i><par n="guno/i__n"/></e>
@@ -29553,8 +29670,8 @@
 <e lm="mână">            <i>mâ</i><par n="mâ/nă__n"/></e>
 <e lm="mână de lucru" a="mioara"><i>mâ</i><par n="mâ/nă_de_lucru__n"/></e>
 <e r="LR" lm="mâhnire" a="mioara"><i>mâhnir</i><par n="fericir/e__n"/></e>
-<e lm="mânz" a="mioara"> <i>mân</i><!-- mân/z__n' was replaced --><par n="obra/z__n"/></e>
-<e lm="mâncare">         <i>mânc</i><!-- mânc/are__n' was replaced --><par n="s/are__n"/></e>
+<e lm="mânz" a="mioara"> <i>mân</i><par n="obra/z__n"/></e>
+<e lm="mâncare">         <i>mânc</i><par n="s/are__n"/></e>
 <e lm="mâncăcios">       <i>mâncăcio</i><par n="năso/s__n"/></e>
 <e lm="mândrie" a="delia"><i>mândri</i><par n="coaliți/e__n"/></e>
 <e lm="mânecă">          <i>mânec</i><par n="duminic/ă__n"/></e>
@@ -29563,7 +29680,7 @@
 <e lm="mânie">           <i>mâni</i><par n="coaliți/e__n"/></e>
 <e lm="mântuire" a="mioara"><i>mântuir</i><par n="fericir/e__n"/></e>
 <e r="LR" lm="mânuire" a="delia"><i>mânuir</i><par n="fericir/e__n"/></e>
-<e r="LR" lm="mânăstire" a="delia"><i>mânăstir</i><par n="fericir/e__n"/></e>
+<e lm="mânăstire" a="delia"><i>mânăstir</i><par n="fericir/e__n"/></e>
 <e lm="mârșav" a="delia"><i>mârșav</i><par n="coleg__n"/></e>
 <e lm="mârșăvie" a="delia"><i>mârșăvi</i><par n="coaliți/e__n"/></e>
 <e lm="mârțoagă" a="delia"><i>mârțoag</i><par n="cas/ă__n"/></e>
@@ -29573,7 +29690,7 @@
 <e lm="măcelărie" a="delia"><i>măcelări</i><par n="coaliți/e__n"/></e>
 <e lm="măciucă" a="delia"><i>măciuc</i><par n="duminic/ă__n"/></e>
 <e lm="măduvă">          <i>măduv</i><par n="cas/ă__n"/></e>
-<e lm="măgar">           <i>măg</i><!-- măg/ar__n' was replaced --><par n="prim/ar__n"/></e>
+<e lm="măgar">           <i>măg</i><par n="prim/ar__n"/></e>
 <e lm="măgărie" a="delia"><i>măgări</i><par n="coaliți/e__n"/></e>
 <e lm="măiestrie" a="delia"><i>măiestri</i><par n="coaliți/e__n"/></e>
 <e lm="mălai" a="mioara"><i>mălai</i><par n="caiet__n"/></e>
@@ -29597,7 +29714,7 @@
 <e lm="măsurare">        <i>măsur</i><par n="întreb/are__n"/></e>
 <e lm="măsură">          <i>măsur</i><par n="duminic/ă__n"/></e>
 <e lm="măsurătoare">     <i>măsurăto</i><par n="flo/are__n"/></e>
-<e lm="măsuță de toaletă" a="mioara"><i>măsuț</i><!-- măsuț/ă_de_toaletă__n' was replaced --><par n="trus/ă_de_toaletă__n"/></e>
+<e lm="măsuță de toaletă" a="mioara"><i>măsuț</i><par n="trus/ă_de_toaletă__n"/></e>
 <e lm="măsuță" a="mioara"><i>măsuț</i><par n="cas/ă__n"/></e>
 <e lm="mătase">          <i>măt</i><par n="măt/ase__n"/></e>
 <e lm="mătreață">        <i>mătre</i><par n="mătre/ață__n"/></e>
@@ -29630,7 +29747,7 @@
 <e lm="natație" a="delia"><i>natați</i><par n="coaliți/e__n"/></e>
 <e r="LR" lm="natriu">   <i>natriu</i><par n="sodiu__n"/></e>
 <e lm="natură">          <i>natur</i><par n="duminic/ă__n"/></e>
-<e lm="naturalețe">      <i>naturalețe</i><!-- sete__n' was replaced --><par n="anghinare__n"/></e>
+<e lm="naturalețe">      <i>naturalețe</i><par n="anghinare__n"/></e>
 <e lm="naturalist" a="delnou"><i>naturali</i><par n="comuni/st__n"/></e>
 <e lm="naturalism" a="delnou"><i>naturalism</i><par n="caiet__n"/></e>
 <e lm="naturalizare" a="mioara"><i>naturaliz</i><par n="întreb/are__n"/></e>
@@ -29710,7 +29827,7 @@
 <e lm="neofascism" a="mioara"><i>neofascism</i><par n="caiet__n"/></e>
 <e lm="neoimpresionism" a="delnou"><i>neoimpresionism</i><par n="caiet__n"/></e>
 <e lm="neoliberalism">   <i>neoliberalism</i><par n="caiet__n"/></e>
-<e lm="neolitic">        <i>neolitic</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="neolitic">        <i>neolitic</i><par n="est__n"/></e>
 <e lm="neomenie" a="delia"><i>neomeni</i><par n="coaliți/e__n"/></e>
 <e lm="neonatologie">    <i>neonatologi</i><par n="coaliți/e__n"/></e>
 <e lm="neoobiectivism" a="delnou"><i>neoobiectivism</i><par n="caiet__n"/></e>
@@ -29767,7 +29884,7 @@
 <e r="LR" lm="neîndemânare" a="delia"><i>neîndemân</i><par n="întreb/are__n"/></e>
 <e r="LR" lm="neînțelegere" a="delia"><i>neînțeleger</i><par n="fericir/e__n"/></e>
 <e r="LR" lm="neștiință" a="mioara"><i>neștiinț</i><par n="cas/ă__n"/></e>
-<e lm="nichel" a="mioara"><i>nichel</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="nichel" a="mioara"><i>nichel</i><par n="est__n"/></e>
 <e lm="nicotină" a="delia"><i>nicotin</i><par n="cas/ă__n"/></e>
 <e lm="nicovală" a="delia"><i>nicoval</i><par n="cas/ă__n"/></e>
 <e lm="nihilist" a="delnou"><i>nihili</i><par n="comuni/st__n"/></e>
@@ -29781,14 +29898,14 @@
 <e lm="nisip">           <i>nisip</i><par n="gât__n"/></e>
 <e lm="nistagmus" a="mioara"><i>nistagmus</i><par n="gât__n"/></e>
 <e lm="nitrat" a="delia"><i>nitra</i><par n="bărba/t__n"/></e>
-<e lm="nitrogen" a="mioara"><i>nitrogen</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="nitrogen" a="mioara"><i>nitrogen</i><par n="est__n"/></e>
 <e lm="nitrură" a="delia"><i>nitrur</i><par n="duminic/ă__n"/></e>
 <e lm="nivel">           <i>nivel</i><par n="gât__n"/></e>
 <e lm="nișă" a="delia">  <i>niș</i><par n="cas/ă__n"/></e>
 <e lm="noapte">          <i>no</i><par n="no/apte__n"/></e>
 <e lm="noadă" a="delia"> <i>noad</i><par n="cas/ă__n"/></e>
 <e r="LR" lm="nobilime"> <i>nobilim</i><par n="fericir/e__n"/></e>
-<e lm="noblețe">         <i>noblețe</i><!-- sete__n' was replaced --><par n="anghinare__n"/></e>
+<e lm="noblețe">         <i>noblețe</i><par n="anghinare__n"/></e>
 <e lm="nod">             <i>nod</i><par n="gât__n"/></e>
 <e r="LR" lm="noian" a="mioara"><i>noian</i><par n="caiet__n"/></e>
 <e lm="noiembrie">       <i>noiembrie</i><par n="aprilie__n"/></e>
@@ -29839,7 +29956,7 @@
 <e lm="numire">          <i>numir</i><par n="fericir/e__n"/></e>
 <e lm="numismatică" a="mioara"><i>numismatic</i><par n="duminic/ă__n"/></e>
 <e r="LR" lm="numărare" a="mioara"><i>număr</i><par n="întreb/are__n"/></e>
-<e lm="nuntă">           <i>nun</i><!-- bur/tă__n' was replaced --><par n="coper/tă__n"/></e>
+<e lm="nuntă">           <i>nun</i><par n="coper/tă__n"/></e>
 <e lm="nutreț" a="delia"><i>nutreț</i><par n="gât__n"/></e>
 <e lm="nutrie" a="delia"><i>nutri</i><par n="coaliți/e__n"/></e>
 <e lm="nutriție" a="delia"><i>nutriți</i><par n="coaliți/e__n"/></e>
@@ -29901,7 +30018,7 @@
 <e lm="obținere">        <i>obținer</i><par n="fericir/e__n"/></e>
 <e lm="ocară" a="delia"> <i>oc</i><par n="g/ară__n"/></e>
 <e lm="ocazie">          <i>ocazi</i><par n="coaliți/e__n"/></e>
-<e lm="occident">        <i>occident</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="occident">        <i>occident</i><par n="est__n"/></e>
 <e lm="ocean">           <i>ocean</i><par n="caiet__n"/></e>
 <e lm="ocheadă" a="delia"><i>ochead</i><par n="cas/ă__n"/></e>
 <e lm="ochean" a="delia"><i>ochean</i><par n="caiet__n"/></e>
@@ -29946,8 +30063,8 @@
 <e lm="oftalmologie" a="delnou"><i>oftalmologi</i><par n="coaliți/e__n"/></e>
 <e lm="ogar" a="delia">  <i>ogar</i><par n="an__n"/></e>
 <e lm="ogivă" a="delia"> <i>ogiv</i><par n="cas/ă__n"/></e>
-<e lm="oglindă">         <i>oglin</i><!-- oglin/dă__n' was replaced --><par n="izbân/dă__n"/></e>
-<e r="LR" lm="ogor" a="mioara"><i>ogo</i><par n="popo/r__n"/></e>
+<e lm="oglindă">         <i>oglin</i><par n="izbân/dă__n"/></e>
+<e lm="ogor" a="mioara"> <i>ogo</i><par n="popo/r__n"/></e>
 <e r="LR" lm="oier" a="mioara"><i>oier</i><par n="an__n"/></e>
 <e lm="oiță" a="delia">  <i>oiț</i><par n="cas/ă__n"/></e>
 <e lm="olandez">         <i>olandez</i><par n="coleg__n"/></e>
@@ -29959,7 +30076,7 @@
 <e lm="omagiu">          <i>omagi</i><par n="exerciți/u__n"/></e>
 <e lm="omenie" a="delnou"><i>omeni</i><par n="coaliți/e__n"/></e>
 <e r="LR" lm="omenire" a="delia"><i>omenir</i><par n="fericir/e__n"/></e>
-<e lm="omidă" a="delia"> <i>omi</i><!-- oglin/dă__n' was replaced --><par n="izbân/dă__n"/></e>
+<e lm="omidă" a="delia"> <i>omi</i><par n="izbân/dă__n"/></e>
 <e lm="omicidiu" a="delia"><i>omicidi</i><par n="exerciți/u__n"/></e>
 <e lm="omisiune" a="delia"><i>omisiun</i><par n="fericir/e__n"/></e>
 <e lm="omitere" a="mioara"><i>omiter</i><par n="fericir/e__n"/></e>
@@ -29977,11 +30094,11 @@
 <e lm="oncologie" a="mioara"><i>oncologi</i><par n="coaliți/e__n"/></e>
 <e lm="onctuozitate" a="mioara"><i>onctuozit</i><par n="universit/ate__n"/></e>
 <e lm="onestitate" a="delia"><i>onestit</i><par n="universit/ate__n"/></e>
-<e lm="onix" a="mioara"> <i>onix</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="onix" a="mioara"> <i>onix</i><par n="est__n"/></e>
 <e lm="onoare">          <i>ono</i><par n="ono/are__n"/></e>
 <e lm="onomasiologie" a="mioara"><i>onomasiologi</i><par n="coaliți/e__n"/></e>
 <e lm="onomastică" a="mioara"><i>onomastic</i><par n="duminic/ă__n"/></e>
-<e lm="onomatopee" a="delnou"><i>onomatopee</i><!-- maree__n' was replaced --><par n="bisectoare/__n"/></e>
+<e lm="onomatopee" a="delnou"><i>onomatopee</i><par n="bisectoare/__n"/></e>
 <e lm="onorabilitate" a="delia"><i>onorabilit</i><par n="universit/ate__n"/></e>
 <e lm="onorariu" a="delia"><i>onorari</i><par n="exerciți/u__n"/></e>
 <e lm="opacitate" a="mioara"><i>opacit</i><par n="universit/ate__n"/></e>
@@ -30001,7 +30118,7 @@
 <e lm="opoziție">        <i>opoziți</i><par n="coaliți/e__n"/></e>
 <e lm="opresiune" a="delnou"><i>opresiun</i><par n="fericir/e__n"/></e>
 <e r="LR" lm="oprimare" a="delnou"><i>oprim</i><par n="întreb/are__n"/></e>
-<e r="LR" lm="oprire" a="mioara"><i>oprir</i><par n="fericir/e__n"/></e>
+<e lm="oprire" a="mioara"><i>oprir</i><par n="fericir/e__n"/></e>
 <e lm="oprobriu" a="delia"><i>oprobri</i><par n="exerciți/u__n"/></e>
 <e lm="optimist" a="delia"><i>optimi</i><par n="comuni/st__n"/></e>
 <e lm="optimism">        <i>optimism</i><par n="caiet__n"/></e>
@@ -30038,9 +30155,9 @@
 <e lm="orgasm">          <i>orgasm</i><par n="caiet__n"/></e>
 <e lm="orgie">           <i>orgi</i><par n="coaliți/e__n"/></e>
 <e lm="orgoliu">         <i>orgoli</i><par n="exerciți/u__n"/></e>
-<e lm="orhidee" a="delia"><i>orhidee</i><!-- maree__n' was replaced --><par n="bisectoare/__n"/></e>
+<e lm="orhidee" a="delia"><i>orhidee</i><par n="bisectoare/__n"/></e>
 <e lm="orientare">       <i>orient</i><par n="întreb/are__n"/></e>
-<e lm="orient">          <i>orient</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="orient">          <i>orient</i><par n="est__n"/></e>
 <e lm="orificiu" a="delia"><i>orifici</i><par n="exerciți/u__n"/></e>
 <e lm="origine">         <i>origin</i><par n="fericir/e__n"/></e>
 <e lm="originalitate" a="delia"><i>originalit</i><par n="universit/ate__n"/></e>
@@ -30089,14 +30206,14 @@
 <e lm="ovul" a="delia">  <i>ovul</i><par n="caiet__n"/></e>
 <e lm="oxid" a="delia">  <i>oxi</i><par n="aci/d__n"/></e>
 <e lm="oxidație" a="delia"><i>oxidați</i><par n="coaliți/e__n"/></e>
-<e lm="oxigen" a="delnou"><i>oxigen</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="oxigen" a="delnou"><i>oxigen</i><par n="est__n"/></e>
 <e lm="ozeneu" a="delia"><i>ozene</i><par n="lice/u__n"/></e>
 <e lm="ozn">             <i>ozn</i><par n="mail__n"/></e>
-<e lm="ozon">            <i>ozon</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="ozon">            <i>ozon</i><par n="est__n"/></e>
 <e lm="oștire">          <i>oștir</i><par n="fericir/e__n"/></e>
 <e lm="oțel">            <i>oțel</i><par n="gât__n"/></e>
 <e lm="oțet" a="delia">  <i>oțet</i><par n="gât__n"/></e>
-<e lm="p/ăr">            <i>p</i><!-- um/ăr__n' was replaced --><par n="nuf/ăr__n"/></e>
+<e lm="p/ăr">            <i>p</i><par n="nuf/ăr__n"/></e>
 <e lm="parte">           <i>p</i><par n="c/arte__n"/></e>
 <e lm="pace">            <i>p</i><par n="p/ace__n"/></e>
 <e lm="pasăre">          <i>p</i><par n="p/asăre__n"/></e>
@@ -30117,7 +30234,7 @@
 <e lm="pagodă">          <i>pagod</i><par n="cas/ă__n"/></e>
 <e lm="pagubă">          <i>pagub</i><par n="cas/ă__n"/></e>
 <e lm="pahar" a="delia"> <i>pahar</i><par n="caiet__n"/></e>
-<e lm="paharnic" a="mioara"><i>paharnic</i><par n="an__n"/></e>
+<e lm="paharnic" a="mioara"><i>p</i><par n="p/aharnic__n"/></e>
 <e lm="pai">             <i>pai</i><par n="caiet__n"/></e>
 <e lm="paiață" a="delia"><i>paiaț</i><par n="cas/ă__n"/></e>
 <e lm="pajiște" a="delia"><i>pajișt</i><par n="fericir/e__n"/></e>
@@ -30125,7 +30242,7 @@
 <e lm="paladiu" a="mioara"><i>paladiu</i><par n="sodiu__n"/></e>
 <e lm="palat">           <i>palat</i><par n="caiet__n"/></e>
 <e lm="palavragiu" a="delia"><i>palavragi</i><par n="pomanagi/u__n"/></e>
-<e lm="paleolitic" a="delnou"><i>paleolitic</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="paleolitic" a="delnou"><i>paleolitic</i><par n="est__n"/></e>
 <e lm="paleontologie">   <i>paleontologi</i><par n="coaliți/e__n"/></e>
 <e lm="palestinian" a="mioara"><i>palestini</i><par n="tehnici/an__n"/></e>
 <e lm="paletă" a="delia"><i>palet</i><par n="cas/ă__n"/></e>
@@ -30173,7 +30290,7 @@
 <e lm="par" a="delia">   <i>par</i><par n="an__n"/></e>
 <e lm="para" a="mioara"> <i>para</i><par n="zi__n"/></e>
 <e lm="parabolă" a="delia"><i>parabol</i><par n="cas/ă__n"/></e>
-<e lm="paracliser" a="delia"><i>paracliser</i><par n="an__n"/></e>
+<e lm="paracliser" a="delia"><i>paracliser</i><par n="înger__n"/></e>
 <e lm="paradă" a="delia"><i>parad</i><par n="cas/ă__n"/></e>
 <e lm="paradigmă" a="delia"><i>paradigm</i><par n="cas/ă__n"/></e>
 <e lm="paradis">         <i>paradis</i><par n="gât__n"/></e>
@@ -30185,14 +30302,14 @@
 <e lm="paralizare" a="delia"><i>paraliz</i><par n="întreb/are__n"/></e>
 <e lm="paraliză" a="delia"><i>paraliz</i><par n="cas/ă__n"/></e>
 <e r="LR" lm="parament" a="mioara"><i>parament</i><par n="caiet__n"/></e>
-<e lm="parametru" a="delia"><i>parametr</i><!-- metr/u__n' was replaced --><par n="fi/u__n"/></e>
+<e lm="parametru" a="delia"><i>parametr</i><par n="fi/u__n"/></e>
 <e lm="paranoia">        <i>paranoi</i><par n="paranoi/a__n"/></e>
 <e lm="paranteză" a="delia"><i>parantez</i><par n="cas/ă__n"/></e>
 <e lm="parapet" a="delia"><i>parapet</i><par n="caiet__n"/></e>
 <e lm="parapsihologie">  <i>parapsihologi</i><par n="coaliți/e__n"/></e>
 <e lm="paratrăznet" a="delia"><i>paratrăznet</i><par n="caiet__n"/></e>
 <e lm="paravan" a="delia"><i>paravan</i><par n="caiet__n"/></e>
-<e lm="parazit" a="delia"><i>parazi</i><par n="bărba/t__n"/></e>
+<e lm="parazit" a="delia"><i>parazi</i><par n="avoca/t__n"/></e>
 <e lm="parazitare" a="delnou"><i>parazit</i><par n="întreb/are__n"/></e>
 <e lm="parazitism" a="delnou"><i>parazitism</i><par n="caiet__n"/></e>
 <e lm="parazitologie">   <i>parazitologi</i><par n="coaliți/e__n"/></e>
@@ -30239,7 +30356,7 @@
 <e lm="pasiune">         <i>pasiun</i><par n="fericir/e__n"/></e>
 <e lm="pasivitate">      <i>pasivit</i><par n="universit/ate__n"/></e>
 <e r="LR" lm="pasmanterie" a="delnou"><i>pasmanteri</i><par n="coaliți/e__n"/></e>
-<e r="LR" lm="paste">    <i>paste</i><!-- aplauze__n' was replaced --><par n="odăjdii__n"/></e>
+<e r="LR" lm="paste">    <i>paste</i><par n="odăjdii__n"/></e>
 <e lm="pastilă" a="delia"><i>pastil</i><par n="cas/ă__n"/></e>
 <e lm="pat">             <i>pat</i><par n="gât__n"/></e>
 <e lm="patentă" a="delia"><i>patent</i><par n="cas/ă__n"/></e>
@@ -30375,7 +30492,7 @@
 <e lm="perversitate" a="mioara"><i>perversit</i><par n="universit/ate__n"/></e>
 <e lm="perversiune" a="delia"><i>perversiun</i><par n="fericir/e__n"/></e>
 <e lm="pescar" a="delia"><i>pesc</i><par n="prim/ar__n"/></e>
-<e lm="pescuit">         <i>pescuit</i><!-- pescuit__n' was replaced --><par n="est__n"/></e>
+<e lm="pescuit">         <i>pescuit</i><par n="est__n"/></e>
 <e r="LR" lm="pescuitor" a="mioara"><i>pescuito</i><par n="directo/r__n"/></e>
 <e lm="pescărie" a="delia"><i>pescări</i><par n="coaliți/e__n"/></e>
 <e lm="pescăruș" a="delia"><i>pescăruș</i><par n="an__n"/></e>
@@ -30388,7 +30505,7 @@
 <e lm="petrochimist" a="prompsit"><i>petrochimi</i><par n="comuni/st__n"/></e>
 <e lm="petrochimie" a="mioara"><i>petrochimi</i><par n="coaliți/e__n"/></e>
 <e lm="petrografie" a="mioara"><i>petrografi</i><par n="coaliți/e__n"/></e>
-<e lm="petrol" a="delia"><i>petrol</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="petrol" a="delia"><i>petrol</i><par n="est__n"/></e>
 <e lm="petrolier" a="mioara"><i>petrolier</i><par n="caiet__n"/></e>
 <e lm="petunie" a="mioara"><i>petuni</i><par n="coaliți/e__n"/></e>
 <e lm="pește">           <i>peșt</i><par n="arbor/e__n"/></e>
@@ -30448,7 +30565,7 @@
 <e lm="pisc" a="delia">  <i>pisc</i><par n="gât__n"/></e>
 <e lm="piscină" a="delia"><i>piscin</i><par n="cas/ă__n"/></e>
 <e lm="pistă" a="delia"> <i>pist</i><par n="cas/ă__n"/></e>
-<e lm="pistol">          <i>pisto</i><!-- pisto/l__n' was replaced --><par n="protoco/l__n"/></e>
+<e lm="pistol">          <i>pisto</i><par n="protoco/l__n"/></e>
 <e lm="pistolar" a="mioara"><i>pistolar</i><par n="an__n"/></e>
 <e lm="pistrui" a="delia"><i>pistrui</i><par n="ochi__n"/></e>
 <e lm="pitecantrop" a="delnou"><i>pitecantrop</i><par n="an__n"/></e>
@@ -30463,7 +30580,7 @@
 <e lm="pișcătură">       <i>pișcătur</i><par n="duminic/ă__n"/></e>
 <e lm="placă">           <i>pl</i><par n="pl/acă__n"/></e>
 <e lm="plagă">           <i>pl</i><par n="pl/agă__n"/></e>
-<e lm="plată">           <i>pl</i><!-- pl/ată__n' was replaced --><par n="buc/ată__n"/></e>
+<e lm="plată">           <i>pl</i><par n="buc/ată__n"/></e>
 <e lm="plapumă">         <i>pl</i><par n="pl/apumă__n"/></e>
 <e r="LR" lm="plafon">   <i>plafo</i><par n="telefo/n__n"/></e>
 <e lm="plagiat" a="mioara"><i>plagiat</i><par n="caiet__n"/></e>
@@ -30504,7 +30621,7 @@
 <e lm="pliu" a="delia">  <i>pliu</i><par n="metrou__n"/></e>
 <e lm="ploaie">          <i>plo</i><par n="fo/aie__n"/></e>
 <e lm="plop" a="mioara"> <i>plop</i><par n="an__n"/></e>
-<e lm="plugar">          <i>plugar</i><par n="an__n"/></e>
+<e lm="plugar">          <i>plug</i><par n="blăn/ar__n"/></e>
 <e lm="plumb" a="delia"> <i>plumb</i><par n="an__n"/></e>
 <e lm="plural" a="delia"><i>plural</i><par n="caiet__n"/></e>
 <e lm="pluralitate" a="delia"><i>pluralit</i><par n="universit/ate__n"/></e>
@@ -30601,7 +30718,7 @@
 <e lm="porcină" a="mioara"><i>porcin</i><par n="cas/ă__n"/></e>
 <e lm="poreclă" a="delia"><i>porecl</i><par n="cas/ă__n"/></e>
 <e r="LR" lm="pornire" a="mioara"><i>pornir</i><par n="fericir/e__n"/></e>
-<e lm="porno" a="delia"> <i>porno</i><!-- mega__n' was replaced --><par n="aprilie__n"/></e>
+<e lm="porno" a="delia"> <i>porno</i><par n="aprilie__n"/></e>
 <e lm="pornografie">     <i>pornografi</i><par n="coaliți/e__n"/></e>
 <e lm="portar">          <i>port</i><par n="bucăt/ar__n"/></e>
 <e lm="port" a="delia">  <i>port</i><par n="gât__n"/></e>
@@ -30613,9 +30730,9 @@
 <e lm="portocală">       <i>portocal</i><par n="cas/ă__n"/></e>
 <e lm="portofel" a="delia"><i>portofel</i><par n="caiet__n"/></e>
 <e lm="portofoliu" a="mioara"><i>portofoli</i><par n="exerciți/u__n"/></e>
-<e lm="portret în ulei" a="mioara"><i>portret</i><!-- portret/_în_ulei__n' was replaced --><par n="peisaj/_în_ulei__n"/></e>
+<e lm="portret în ulei" a="mioara"><i>portret</i><par n="peisaj/_în_ulei__n"/></e>
 <e lm="portret" a="delia"><i>portret</i><par n="caiet__n"/></e>
-<e lm="portărel" a="delia"><i>portăre</i><!-- cerce/l__n' was replaced --><par n="ca/l__n"/></e>
+<e lm="portărel" a="delia"><i>portăre</i><par n="ca/l__n"/></e>
 <e lm="porumbel">        <i>porumb</i><par n="porumb/el__n"/></e>
 <e lm="porumb" a="delia"><i>porumb</i><par n="an__n"/></e>
 <e lm="poruncă">         <i>porunc</i><par n="duminic/ă__n"/></e>
@@ -30657,7 +30774,7 @@
 <e lm="poștaș">          <i>poșt</i><par n="poșt/aș__n"/></e>
 <e lm="poștă">           <i>poșt</i><par n="cas/ă__n"/></e>
 <e lm="pradă" a="delia"> <i>pr</i><par n="str/adă__n"/></e>
-<e lm="praz" a="mioara"> <i>pra</i><!-- mân/z__n' was replaced --><par n="obra/z__n"/></e>
+<e lm="praz" a="mioara"> <i>pra</i><par n="obra/z__n"/></e>
 <e lm="practică" a="delia"><i>practic</i><par n="duminic/ă__n"/></e>
 <e r="LR" lm="practicare" a="mioara"><i>practic</i><par n="întreb/are__n"/></e>
 <e lm="practicant" a="delia"><i>practican</i><par n="avoca/t__n"/></e>
@@ -30683,7 +30800,7 @@
 <e lm="predecesor" a="mioara"><i>predeceso</i><par n="directo/r__n"/></e>
 <e lm="predestinare" a="delia"><i>predestin</i><par n="întreb/are__n"/></e>
 <e lm="predică" a="delia"><i>predic</i><par n="duminic/ă__n"/></e>
-<e lm="predicator" a="mioara"><i>predicator</i><par n="an__n"/></e>
+<e lm="predicator" a="mioara"><i>predicato</i><par n="directo/r__n"/></e>
 <e lm="predicție" a="delia"><i>predicți</i><par n="coaliți/e__n"/></e>
 <e lm="predilecție" a="delia"><i>predilecți</i><par n="coaliți/e__n"/></e>
 <e lm="predispoziție" a="delia"><i>predispoziți</i><par n="coaliți/e__n"/></e>
@@ -30760,7 +30877,7 @@
 <e lm="președinție">     <i>președinți</i><par n="coaliți/e__n"/></e>
 <e lm="preț" a="delia">  <i>preț</i><par n="gât__n"/></e>
 <e r="LR" lm="pricepere" a="mioara"><i>priceper</i><par n="fericir/e__n"/></e>
-<e lm="prichindel">      <i>prichinde</i><!-- prichinde/l__n' was replaced --><par n="mișe/l__n"/></e>
+<e lm="prichindel">      <i>prichinde</i><par n="mișe/l__n"/></e>
 <e lm="pricină" a="delia"><i>pricin</i><par n="duminic/ă__n"/></e>
 <e lm="pridvor" a="mioara"><i>pridvo</i><par n="popo/r__n"/></e>
 <e lm="prieten">         <i>prieten</i><par n="coleg__n"/></e>
@@ -30811,7 +30928,7 @@
 <e lm="procesiune" a="delia"><i>procesiun</i><par n="fericir/e__n"/></e>
 <e lm="proclamare" a="mioara"><i>proclam</i><par n="întreb/are__n"/></e>
 <e lm="procură" a="mioara"><i>procur</i><par n="duminic/ă__n"/></e>
-<e lm="procurator" a="mioara"><i>procurator</i><par n="an__n"/></e>
+<e lm="procurator" a="mioara"><i>procurato</i><par n="directo/r__n"/></e>
 <e lm="procuratură" a="mioara"><i>procuratur</i><par n="duminic/ă__n"/></e>
 <e lm="procuror">        <i>procuro</i><par n="directo/r__n"/></e>
 <e lm="prodecan" a="delia"><i>prodecan</i><par n="coleg__n"/></e>
@@ -30830,7 +30947,7 @@
 <e lm="profet" a="delia"><i>profet</i><par n="coleg__n"/></e>
 <e lm="profeție" a="delnou"><i>profeți</i><par n="coaliți/e__n"/></e>
 <e lm="profil">          <i>profil</i><par n="gât__n"/></e>
-<e r="LR" lm="profit">   <i>profit</i><par n="gât__n"/></e>
+<e lm="profit">          <i>profit</i><par n="gât__n"/></e>
 <e lm="profunzime" a="delia"><i>profunzim</i><par n="fericir/e__n"/></e>
 <e r="LR" lm="prognoză meteo"><i>prognoz</i><par n="prognoz/ă_meteo__n"/></e>
 <e lm="prognoză" a="mioara"><i>prognoz</i><par n="cas/ă__n"/></e>
@@ -30862,7 +30979,7 @@
 <e lm="propagare" a="mioara"><i>propag</i><par n="întreb/are__n"/></e>
 <e lm="propagandă" a="delia"><i>propagand</i><par n="cas/ă__n"/></e>
 <e lm="propagandist" a="delia"><i>propagandi</i><par n="comuni/st__n"/></e>
-<e lm="propan" a="mioara"><i>propan</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="propan" a="mioara"><i>propan</i><par n="est__n"/></e>
 <e lm="propensiune" a="delia"><i>propensiun</i><par n="fericir/e__n"/></e>
 <e lm="proporție" a="delia"><i>proporți</i><par n="coaliți/e__n"/></e>
 <e lm="propovăduire" a="mioara"><i>propovăduir</i><par n="fericir/e__n"/></e>
@@ -30949,14 +31066,14 @@
 <e lm="punctuație" a="delia"><i>punctuați</i><par n="coaliți/e__n"/></e>
 <e r="LR" lm="punere sub acuzare" a="mioara"><i>puner</i><par n="puner/e_sub_acuzare__n"/></e>
 <e lm="punere" a="mioara"><i>puner</i><par n="fericir/e__n"/></e>
-<e r="LR" lm="pungă" a="delnou"><i>pung</i><par n="duminic/ă__n"/></e>
+<e lm="pungă" a="delnou"><i>pung</i><par n="duminic/ă__n"/></e>
 <e r="LR" lm="pungaș" a="mioara"><i>pungaș</i><par n="an__n"/></e>
 <e lm="pungășie" a="delia"><i>pungăși</i><par n="coaliți/e__n"/></e>
 <e lm="pupăză" a="mioara"><i>pup</i><par n="pav/ăză__n"/></e>
 <e lm="pupă" a="delia">  <i>pup</i><par n="cas/ă__n"/></e>
 <e lm="pupic" a="mioara"><i>pupic</i><par n="an__n"/></e>
 <e lm="pupitru" a="delia"><i>pupitr</i><par n="lice/u__n"/></e>
-<e lm="purcel" a="delia"><i>purce</i><!-- cerce/l__n' was replaced --><par n="ca/l__n"/></e>
+<e lm="purcel" a="delia"><i>purce</i><par n="ca/l__n"/></e>
 <e lm="purgativ" a="delia"><i>purgativ</i><par n="caiet__n"/></e>
 <e lm="purice" a="delia"><i>puric</i><par n="arbor/e__n"/></e>
 <e lm="purificare" a="mioara"><i>purific</i><par n="întreb/are__n"/></e>
@@ -31019,7 +31136,7 @@
 <e r="LR" lm="pătrar" a="mioara"><i>pătrar</i><par n="caiet__n"/></e>
 <e r="LR" lm="pătrime" a="mioara"><i>pătrim</i><par n="fericir/e__n"/></e>
 <e r="LR" lm="pătundere" a="delnou"><i>pătrunder</i><par n="fericir/e__n"/></e>
-<e lm="pătrunjel" a="delia"><i>pătrunje</i><!-- cerce/l__n' was replaced --><par n="ca/l__n"/></e>
+<e lm="pătrunjel" a="delia"><i>pătrunje</i><par n="ca/l__n"/></e>
 <e lm="pătrățel" a="mioara"><i>pătrățel</i><par n="caiet__n"/></e>
 <e lm="pătură">          <i>pătur</i><par n="duminic/ă__n"/></e>
 <e lm="pătuț">           <i>pătuț</i><par n="gât__n"/></e>
@@ -31056,7 +31173,7 @@
 <e lm="radiotransmisiune" a="mioara"><i>radiotransmisiun</i><par n="fericir/e__n"/></e>
 <e lm="radioundă" a="mioara"><i>radiound</i><par n="cas/ă__n"/></e>
 <e lm="radiu" a="mioara"><i>radiu</i><par n="sodiu__n"/></e>
-<e lm="radon" a="mioara"><i>radon</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="radon" a="mioara"><i>radon</i><par n="est__n"/></e>
 <e lm="rafaelit" a="delnou"><i>rafaeli</i><par n="avoca/t__n"/></e>
 <e lm="rafaelism" a="delnou"><i>rafaelism</i><par n="caiet__n"/></e>
 <e lm="rafală" a="delia"><i>rafal</i><par n="cas/ă__n"/></e>
@@ -31406,7 +31523,7 @@
 <e lm="rețetă" a="delia"><i>rețet</i><par n="cas/ă__n"/></e>
 <e lm="rețetar" a="mioara"><i>rețetar</i><par n="caiet__n"/></e>
 <e lm="reținere" a="delia"><i>reținer</i><par n="fericir/e__n"/></e>
-<e lm="ricin">           <i>ricin</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="ricin">           <i>ricin</i><par n="est__n"/></e>
 <e r="LR" lm="ricoșare" a="mioara"><i>ricoș</i><par n="întreb/are__n"/></e>
 <e lm="ricoșeu" a="delnou"><i>ricoșe</i><par n="lice/u__n"/></e>
 <e lm="rictus" a="mioara"><i>rictus</i><par n="gât__n"/></e>
@@ -31447,12 +31564,12 @@
 <e lm="rochiță" a="mioara"><i>rochiț</i><par n="cas/ă__n"/></e>
 <e lm="rock" a="delia">  <i>rock</i><par n="mail__n"/></e>
 <e lm="rock-and-roll">   <i>rock-and-roll</i><par n="mail__n"/></e>
-<e lm="rococo" a="delnou"><i>rococo</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="rococo" a="delnou"><i>rococo</i><par n="est__n"/></e>
 <e r="LR" lm="rodare" a="mioara"><i>rod</i><par n="întreb/are__n"/></e>
 <e lm="rodaj" a="delia"> <i>rodaj</i><par n="caiet__n"/></e>
 <e lm="rodie">           <i>rodi</i><par n="coaliți/e__n"/></e>
 <e lm="rodiu" a="mioara"><i>rodiu</i><par n="sodiu__n"/></e>
-<e lm="roentgen" a="mioara"><i>roentgen</i><!-- boa__n' was replaced --><par n="euro__n"/></e>
+<e lm="roentgen" a="mioara"><i>roentgen</i><par n="euro__n"/></e>
 <e lm="rogojină">        <i>rogojin</i><par n="duminic/ă__n"/></e>
 <e lm="roi" a="delia">   <i>roi</i><par n="gât__n"/></e>
 <e lm="roib" a="delia">  <i>roib</i><par n="an__n"/></e>
@@ -31510,7 +31627,7 @@
 <e r="LR" lm="rundă" a="mioara"><i>rund</i><par n="cas/ă__n"/></e>
 <e lm="rupere" a="delia"><i>ruper</i><par n="fericir/e__n"/></e>
 <e lm="ruptură" a="delia"><i>ruptur</i><par n="duminic/ă__n"/></e>
-<e lm="rusalii">         <i>rusalii</i><!-- rusalii__n' was replaced --><par n="odăjdii__n"/></e>
+<e lm="rusalii">         <i>rusalii</i><par n="odăjdii__n"/></e>
 <e lm="rută" a="delia">  <i>rut</i><par n="cas/ă__n"/></e>
 <e lm="ruteniu" a="mioara"><i>ruteniu</i><par n="sodiu__n"/></e>
 <e lm="rutină" a="delia"><i>rutin</i><par n="cas/ă__n"/></e>
@@ -31548,7 +31665,7 @@
 <e r="LR" lm="răspundere" a="delia"><i>răspunder</i><par n="fericir/e__n"/></e>
 <e lm="răspuns">         <i>răspuns</i><par n="gât__n"/></e>
 <e lm="răspândire" a="mioara"><i>răspândir</i><par n="fericir/e__n"/></e>
-<e r="LR" lm="răspântie" a="delnou"><i>răspânti</i><par n="coaliți/e__n"/></e>
+<e lm="răspântie" a="delnou"><i>răspânti</i><par n="coaliți/e__n"/></e>
 <e lm="răstimp" a="mioara"><i>răstimp</i><par n="gât__n"/></e>
 <e lm="răsturnare" a="mioara"><i>răsturn</i><par n="întreb/are__n"/></e>
 <e lm="răsuflare" a="delnou"><i>răsufl</i><par n="întreb/are__n"/></e>
@@ -31559,7 +31676,7 @@
 <e lm="răuvoitor" a="delia"><i>răuvoito</i><par n="directo/r__n"/></e>
 <e lm="răvășeală" a="delia"><i>răvășe</i><par n="îndrăzne/ală__n"/></e>
 <e lm="război">          <i>războ</i><par n="guno/i__n"/></e>
-<e lm="războinic" a="delia"><i>războinic</i><par n="an__n"/></e>
+<e lm="războinic" a="delia"><i>războinic</i><par n="coleg__n"/></e>
 <e lm="răzbunare" a="delia"><i>răzbun</i><par n="întreb/are__n"/></e>
 <e lm="răzmeriță" a="delia"><i>răzmeriț</i><par n="cas/ă__n"/></e>
 <e lm="răzor">           <i>răzo</i><par n="popo/r__n"/></e>
@@ -31575,7 +31692,7 @@
 <e lm="sabotor" a="delia"><i>saboto</i><par n="directo/r__n"/></e>
 <e lm="sac" a="delia">   <i>sac</i><par n="an__n"/></e>
 <e lm="sacou" a="delnou"><i>sacou</i><par n="metrou__n"/></e>
-<e r="LR" lm="sacoșă" a="delnou"><i>sacoș</i><par n="cas/ă__n"/></e>
+<e lm="sacoșă" a="delnou"><i>sacoș</i><par n="cas/ă__n"/></e>
 <e lm="sacrament" a="delia"><i>sacrament</i><par n="caiet__n"/></e>
 <e lm="sacrificiu" a="delia"><i>sacrifici</i><par n="exerciți/u__n"/></e>
 <e lm="sacrilegiu" a="delia"><i>sacrilegi</i><par n="exerciți/u__n"/></e>
@@ -31635,7 +31752,7 @@
 <e lm="savoare" a="delia"><i>savo</i><par n="flo/are__n"/></e>
 <e lm="sațietate" a="delia"><i>sațiet</i><par n="universit/ate__n"/></e>
 <e lm="scadență" a="delia"><i>scadenț</i><par n="cas/ă__n"/></e>
-<e lm="scafandru" a="mioara"><i>scafandr</i><!-- metr/u__n' was replaced --><par n="fi/u__n"/></e>
+<e lm="scafandru" a="mioara"><i>scafandr</i><par n="fi/u__n"/></e>
 <e lm="scandal">         <i>scandal</i><par n="gât__n"/></e>
 <e lm="scandiu" a="mioara"><i>scandiu</i><par n="sodiu__n"/></e>
 <e lm="scaner" a="delia"><i>scaner</i><par n="caiet__n"/></e>
@@ -31720,8 +31837,8 @@
 <e lm="scăpare" a="mioara"><i>scăp</i><par n="întreb/are__n"/></e>
 <e lm="scăpărare" a="delia"><i>scăpăr</i><par n="întreb/are__n"/></e>
 <e lm="seamăn" a="mioara"><i>se</i><par n="se/amăn__n"/></e>
-<e lm="seară" a="delia"> <i>se</i><!-- mo/ară__n' was replaced --><par n="o/ară__n"/></e>
-<e lm="seboree" a="mioara"><i>seboree</i><!-- maree__n' was replaced --><par n="bisectoare/__n"/></e>
+<e lm="seară" a="delia"> <i>se</i><par n="o/ară__n"/></e>
+<e lm="seboree" a="mioara"><i>seboree</i><par n="bisectoare/__n"/></e>
 <e lm="seceră" a="delia"><i>secer</i><par n="duminic/ă__n"/></e>
 <e lm="seceriș" a="delia"><i>seceriș</i><par n="gât__n"/></e>
 <e lm="secesionism" a="delnou"><i>secesionism</i><par n="caiet__n"/></e>
@@ -31819,13 +31936,13 @@
 <e lm="servitute" a="mioara"><i>servitu</i><par n="virtu/te__n"/></e>
 <e lm="sesiune de lucru"><i>sesiun</i><par n="sesiun/e_de_lucru__n"/></e>
 <e lm="sesiune" a="delia"><i>sesiun</i><par n="fericir/e__n"/></e>
-<e lm="sete">            <i>sete</i><!-- sete__n' was replaced --><par n="anghinare__n"/></e>
+<e lm="sete">            <i>sete</i><par n="anghinare__n"/></e>
 <e lm="sex" a="delia">   <i>sex</i><par n="caiet__n"/></e>
 <e lm="sexagenar" a="mioara"><i>sexagenar</i><par n="coleg__n"/></e>
 <e lm="sexualitate" a="delnou"><i>sexualit</i><par n="universit/ate__n"/></e>
 <e lm="sezon" a="delia"> <i>sezo</i><par n="telefo/n__n"/></e>
 <e lm="sfânt">           <i>sf</i><par n="sf/ânt__n"/></e>
-<e r="LR" lm="sfat" a="delia"><i>sfat</i><par n="gât__n"/></e>
+<e lm="sfat" a="delia">  <i>sfat</i><par n="gât__n"/></e>
 <e lm="sfeclă" a="delia"><i>sfecl</i><par n="cas/ă__n"/></e>
 <e lm="sferă">           <i>sfer</i><par n="cas/ă__n"/></e>
 <e lm="sferometru" a="delia"><i>sferometr</i><par n="lice/u__n"/></e>
@@ -31959,7 +32076,7 @@
 <e lm="solicitant" a="mioara"><i>solicitan</i><par n="avoca/t__n"/></e>
 <e lm="solidaritate" a="delia"><i>solidarit</i><par n="universit/ate__n"/></e>
 <e lm="soliditate" a="delia"><i>solidit</i><par n="universit/ate__n"/></e>
-<e r="LR" lm="soliman" a="mioara"><i>soliman</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e r="LR" lm="soliman" a="mioara"><i>soliman</i><par n="est__n"/></e>
 <e lm="solniță" a="delia"><i>solniț</i><par n="cas/ă__n"/></e>
 <e lm="solstițiu" a="delia"><i>solstiți</i><par n="exerciți/u__n"/></e>
 <e lm="soluție" a="delia"><i>soluți</i><par n="coaliți/e__n"/></e>
@@ -31979,7 +32096,7 @@
 <e lm="sonorizare" a="mioara"><i>sonoriz</i><par n="întreb/are__n"/></e>
 <e lm="sopran">          <i>sopran</i><par n="coleg__n"/></e>
 <e lm="sorbitură" a="delia"><i>sorbitur</i><par n="duminic/ă__n"/></e>
-<e r="LR" lm="sorginte" a="mioara"><i>sorgin</i><!-- min/te__n' was replaced --><par n="virtu/te__n"/></e>
+<e r="LR" lm="sorginte" a="mioara"><i>sorgin</i><par n="virtu/te__n"/></e>
 <e lm="soroc" a="delia"> <i>soro</i><par n="noro/c__n"/></e>
 <e lm="sos" a="delia">   <i>sos</i><par n="gât__n"/></e>
 <e lm="sosire">          <i>sosir</i><par n="fericir/e__n"/></e>
@@ -32060,7 +32177,7 @@
 <e lm="stabilitate">     <i>stabilit</i><par n="universit/ate__n"/></e>
 <e lm="stabilizare" a="delnou"><i>stabiliz</i><par n="întreb/are__n"/></e>
 <e lm="stadiu">          <i>stadi</i><par n="exerciți/u__n"/></e>
-<e r="LR" lm="stadion">  <i>stadio</i><par n="telefo/n__n"/></e>
+<e lm="stadion">         <i>stadio</i><par n="telefo/n__n"/></e>
 <e lm="stafidă" a="delia"><i>stafid</i><par n="cas/ă__n"/></e>
 <e lm="stafilococ" a="mioara"><i>stafilococ</i><par n="an__n"/></e>
 <e r="LR" lm="stagiu" a="mioara"><i>stagi</i><par n="exerciți/u__n"/></e>
@@ -32114,7 +32231,7 @@
 <e lm="stimulare" a="mioara"><i>stimul</i><par n="întreb/are__n"/></e>
 <e lm="stimul">          <i>stimul</i><par n="caiet__n"/></e>
 <e lm="stindard" a="delia"><i>stindard</i><par n="caiet__n"/></e>
-<e lm="stirpe" a="delia"><i>stirpe</i><!-- maree__n' was replaced --><par n="bisectoare/__n"/></e>
+<e lm="stirpe" a="delia"><i>stirpe</i><par n="bisectoare/__n"/></e>
 <e lm="stocare" a="mioara"><i>stoc</i><par n="întreb/are__n"/></e>
 <e lm="stoc" a="delia">  <i>stoc</i><par n="gât__n"/></e>
 <e r="LR" lm="stocaj" a="mioara"><i>stocaj</i><par n="caiet__n"/></e>
@@ -32123,7 +32240,7 @@
 <e lm="stol" a="delia">  <i>stol</i><par n="gât__n"/></e>
 <e lm="stomac">          <i>stomac</i><par n="gât__n"/></e>
 <e lm="stop">            <i>stop</i><par n="gât__n"/></e>
-<e r="LR" lm="stopare" a="mioara"><i>stop</i><par n="întreb/are__n"/></e>
+<e lm="stopare" a="mioara"><i>stop</i><par n="întreb/are__n"/></e>
 <e lm="stor" a="delia">  <i>stor</i><par n="gât__n"/></e>
 <e lm="stradă">          <i>str</i><par n="str/adă__n"/></e>
 <e r="LR" lm="strai" a="mioara"><i>strai</i><par n="caiet__n"/></e>
@@ -32179,7 +32296,7 @@
 <e lm="stăpânire" a="mioara"><i>stăpânir</i><par n="fericir/e__n"/></e>
 <e lm="stăruință">       <i>stăruinț</i><par n="cas/ă__n"/></e>
 <e lm="subaltern" a="delia"><i>subaltern</i><par n="coleg__n"/></e>
-<e lm="subconștient" a="mioara"><i>subconștient</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="subconștient" a="mioara"><i>subconștient</i><par n="est__n"/></e>
 <e lm="subdezvoltare" a="delia"><i>subdezvolt</i><par n="întreb/are__n"/></e>
 <e lm="subdiviziune" a="delia"><i>subdiviziun</i><par n="fericir/e__n"/></e>
 <e lm="subgrup">         <i>subgrup</i><par n="gât__n"/></e>
@@ -32232,7 +32349,7 @@
 <e lm="sughiț" a="delia"><i>sughiț</i><par n="gât__n"/></e>
 <e lm="sugrumare" a="delnou"><i>sugrum</i><par n="întreb/are__n"/></e>
 <e lm="sulă" a="delia">  <i>sul</i><par n="cas/ă__n"/></e>
-<e lm="sulf" a="mioara"> <i>sulf</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="sulf" a="mioara"> <i>sulf</i><par n="est__n"/></e>
 <e lm="sumă" a="delia">  <i>sum</i><par n="cas/ă__n"/></e>
 <e lm="sumar" a="delia"> <i>sumar</i><par n="caiet__n"/></e>
 <e r="LR" lm="sumedenie" a="mioara"><i>sumedeni</i><par n="coaliți/e__n"/></e>
@@ -32260,7 +32377,7 @@
 <e lm="suplimentare" a="mioara"><i>supliment</i><par n="întreb/are__n"/></e>
 <e lm="suplinitor" a="delia"><i>suplinito</i><par n="directo/r__n"/></e>
 <e lm="suport" a="delia"><i>suport</i><par n="gât__n"/></e>
-<e lm="suporter" a="mioara"><i>suporter</i><par n="an__n"/></e>
+<e lm="suporter" a="mioara"><i>suporter</i><par n="coleg__n"/></e>
 <e lm="supozitor" a="delia"><i>supozito</i><par n="popo/r__n"/></e>
 <e lm="supoziție" a="delia"><i>supoziți</i><par n="coaliți/e__n"/></e>
 <e r="LR" lm="supraetajare" a="mioara"><i>supraetaj</i><par n="întreb/are__n"/></e>
@@ -32375,7 +32492,7 @@
 <e lm="tandrețe">        <i>tandreț</i><par n="tandreț/e__n"/></e>
 <e lm="tangentă" a="delia"><i>tangent</i><par n="cas/ă__n"/></e>
 <e lm="tango" a="delia"> <i>tango</i><par n="gât__n"/></e>
-<e lm="tantal" a="mioara"><i>tantal</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="tantal" a="mioara"><i>tantal</i><par n="est__n"/></e>
 <e lm="tapet" a="delia"> <i>tapet</i><par n="caiet__n"/></e>
 <e lm="tapiserie" a="delia"><i>tapiseri</i><par n="coaliți/e__n"/></e>
 <e lm="tapițerie" a="delia"><i>tapițeri</i><par n="coaliți/e__n"/></e>
@@ -32385,7 +32502,7 @@
 <e lm="tartru" a="delia"><i>tartru</i><par n="metrou__n"/></e>
 <e lm="tastă" a="delia"> <i>tast</i><par n="cas/ă__n"/></e>
 <e lm="tastatură" a="delia"><i>tastatur</i><par n="duminic/ă__n"/></e>
-<e lm="tataia" a="delia"><i>tataia</i><!-- mega__n' was replaced --><par n="aprilie__n"/></e>
+<e lm="tataie" a="delia"><i>tataie</i><par n="aprilie__n"/></e>
 <e lm="taur" a="delia">  <i>taur</i><par n="an__n"/></e>
 <e lm="tautologie">      <i>tautologi</i><par n="coaliți/e__n"/></e>
 <e lm="tavan" a="delia"> <i>tavan</i><par n="caiet__n"/></e>
@@ -32424,7 +32541,7 @@
 <e lm="teletext" a="delia"><i>teletext</i><par n="caiet__n"/></e>
 <e lm="televiziune">     <i>televiziun</i><par n="fericir/e__n"/></e>
 <e lm="televizor" a="delia"><i>televizo</i><par n="popo/r__n"/></e>
-<e lm="telur" a="mioara"><i>telur</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="telur" a="mioara"><i>telur</i><par n="est__n"/></e>
 <e lm="temă" a="delia">  <i>tem</i><par n="cas/ă__n"/></e>
 <e lm="temei" a="mioara"><i>temei</i><par n="gât__n"/></e>
 <e lm="temelie" a="mioara"><i>temeli</i><par n="coaliți/e__n"/></e>
@@ -32442,7 +32559,7 @@
 <e lm="tendință">        <i>tendinț</i><par n="cas/ă__n"/></e>
 <e lm="tendon" a="mioara"><i>tendo</i><par n="telefo/n__n"/></e>
 <e r="LR" lm="tenebră" a="mioara"><i>tenebr</i><par n="cas/ă__n"/></e>
-<e lm="tenis" a="mioara"><i>tenis</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="tenis" a="mioara"><i>tenis</i><par n="est__n"/></e>
 <e lm="tenisman">        <i>tenism</i><par n="tenism/an__n"/></e>
 <e lm="tenor" a="delia"> <i>tenor</i><par n="an__n"/></e>
 <e lm="tensiune" a="delia"><i>tensiun</i><par n="fericir/e__n"/></e>
@@ -32489,13 +32606,12 @@
 <e lm="tichet" a="delia"><i>tichet</i><par n="caiet__n"/></e>
 <e lm="ticălos" a="delia"><i>ticălo</i><par n="năso/s__n"/></e>
 <e lm="tigaie" a="delia"><i>tig</i><par n="b/aie__n"/></e>
-<e lm="tigru">           <i>tigr</i><!-- tigr/u__n' was replaced --><par n="negr/u__n"/></e>
+<e lm="tigru">           <i>tigr</i><par n="negr/u__n"/></e>
 <e lm="tihnă">           <i>tihn</i><par n="cas/ă__n"/></e>
 <e lm="tildă" a="delia"> <i>tild</i><par n="cas/ă__n"/></e>
 <e lm="timiditate" a="delia"><i>timidit</i><par n="universit/ate__n"/></e>
 <e lm="timonă" a="delia"><i>timon</i><par n="cas/ă__n"/></e>
 <e lm="timp" a="mioara"> <i>timp</i><par n="timp__n"/></e>
-<e lm="timp liber">      <i>timp<b/>liber</i><par n="gât__n"/></e>
 <e lm="timpan" a="delia"><i>timpan</i><par n="caiet__n"/></e>
 <e r="LR" lm="tineret">  <i>tineret</i><par n="gât__n"/></e>
 <e lm="tinerețe">        <i>tinereț</i><par n="fericir/e__n"/></e>
@@ -32510,7 +32626,7 @@
 <e r="LR" lm="tiranic" a="mioara"><i>tiranic</i><par n="coleg__n"/></e>
 <e lm="tirbușon" a="mioara"><i>tirbușo</i><par n="telefo/n__n"/></e>
 <e lm="tiribombă" a="mioara"><i>tiribomb</i><par n="cas/ă__n"/></e>
-<e lm="titan" a="mioara"><i>titan</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="titan" a="mioara"><i>titan</i><par n="est__n"/></e>
 <e lm="titlu">           <i>titlu</i><par n="metrou__n"/></e>
 <e lm="titrare" a="delia"><i>titr</i><par n="întreb/are__n"/></e>
 <e lm="titular">         <i>titular</i><par n="coleg__n"/></e>
@@ -32539,7 +32655,7 @@
 <e lm="toponimie" a="mioara"><i>toponimi</i><par n="coaliți/e__n"/></e>
 <e lm="toreador" a="delia"><i>toreado</i><par n="directo/r__n"/></e>
 <e lm="torent" a="delia"><i>toren</i><par n="bărba/t__n"/></e>
-<e lm="torero" a="delia"><i>torero</i><!-- mega__n' was replaced --><par n="aprilie__n"/></e>
+<e lm="torero" a="delia"><i>torero</i><par n="aprilie__n"/></e>
 <e lm="torpilă" a="mioara"><i>torpil</i><par n="cas/ă__n"/></e>
 <e lm="tors" a="delia">  <i>tors</i><par n="gât__n"/></e>
 <e lm="tort" a="delia">  <i>tort</i><par n="gât__n"/></e>
@@ -32550,7 +32666,7 @@
 <e lm="totem" a="mioara"><i>totem</i><par n="gât__n"/></e>
 <e lm="totemism" a="mioara"><i>totemism</i><par n="caiet__n"/></e>
 <e lm="tovarăș">         <i>tovarăș</i><par n="coleg__n"/></e>
-<e r="LR" lm="tovărășie" a="mioara"><i>tovărăși</i><par n="coaliți/e__n"/></e>
+<e lm="tovărășie" a="mioara"><i>tovărăși</i><par n="coaliți/e__n"/></e>
 <e lm="toxemie" a="mioara"><i>toxemi</i><par n="coaliți/e__n"/></e>
 <e lm="toxicitate" a="mioara"><i>toxicit</i><par n="universit/ate__n"/></e>
 <e lm="toxicologie" a="mioara"><i>toxicologi</i><par n="coaliți/e__n"/></e>
@@ -32600,7 +32716,7 @@
 <e lm="tranzit" a="delia"><i>tranzit</i><par n="gât__n"/></e>
 <e lm="tranziție" a="delia"><i>tranziți</i><par n="coaliți/e__n"/></e>
 <e lm="tranșă" a="mioara"><i>tranș</i><par n="cas/ă__n"/></e>
-<e lm="tranșee" a="delia"><i>tranșee</i><!-- maree__n' was replaced --><par n="bisectoare/__n"/></e>
+<e lm="tranșee" a="delia"><i>tranșee</i><par n="bisectoare/__n"/></e>
 <e lm="trasare" a="mioara"><i>tras</i><par n="întreb/are__n"/></e>
 <e lm="traseu">          <i>trase</i><par n="lice/u__n"/></e>
 <e r="LR" lm="tratare">  <i>trat</i><par n="întreb/are__n"/></e>
@@ -32679,7 +32795,7 @@
 <e lm="trăire" a="delia"><i>trăir</i><par n="fericir/e__n"/></e>
 <e lm="trăsătură">       <i>trăsătur</i><par n="duminic/ă__n"/></e>
 <e r="LR" lm="trăznet" a="mioara"><i>trăznet</i><par n="caiet__n"/></e>
-<e r="LR" lm="tub" a="delia"><i>tub</i><par n="gât__n"/></e>
+<e lm="tub" a="delia">   <i>tub</i><par n="gât__n"/></e>
 <e lm="tuberculoză" a="delia"><i>tuberculoz</i><par n="cas/ă__n"/></e>
 <e lm="tulburare de scaun" a="mioara"><i>tulbur</i><par n="tulbur/are_de_scaun__n"/></e>
 <e lm="tulburare" a="delia"><i>tulbur</i><par n="întreb/are__n"/></e>
@@ -32696,7 +32812,7 @@
 <e lm="turație" a="mioara"><i>turați</i><par n="coaliți/e__n"/></e>
 <e lm="turbă" a="delia"> <i>turb</i><par n="cas/ă__n"/></e>
 <e lm="turbină" a="delia"><i>turbin</i><par n="cas/ă__n"/></e>
-<e lm="turbo" a="delia"> <i>turbo</i><!-- mega__n' was replaced --><par n="aprilie__n"/></e>
+<e lm="turbo" a="delia"> <i>turbo</i><par n="aprilie__n"/></e>
 <e lm="turbomotor" a="mioara"><i>turbomoto</i><par n="popo/r__n"/></e>
 <e lm="turbopropulsor" a="mioara"><i>turbopropulso</i><par n="popo/r__n"/></e>
 <e lm="turbulență">      <i>turbulenț</i><par n="cas/ă__n"/></e>
@@ -32711,7 +32827,7 @@
 <e lm="turneu" a="delia"><i>turne</i><par n="lice/u__n"/></e>
 <e r="LR" lm="turnător" a="mioara"><i>turnăto</i><par n="directo/r__n"/></e>
 <e lm="turtă" a="delia"> <i>turt</i><par n="cas/ă__n"/></e>
-<e lm="tuse" a="delia">  <i>tuse</i><!-- maree__n' was replaced --><par n="bisectoare/__n"/></e>
+<e lm="tuse" a="delia">  <i>tuse</i><par n="bisectoare/__n"/></e>
 <e lm="tutelă" a="delia"><i>tutel</i><par n="cas/ă__n"/></e>
 <e lm="tutor" a="delia"> <i>tuto</i><par n="directo/r__n"/></e>
 <e lm="tutorat" a="delia"><i>tutorat</i><par n="caiet__n"/></e>
@@ -32723,7 +32839,7 @@
 <e lm="tâmplă" a="delia"><i>tâmpl</i><par n="cas/ă__n"/></e>
 <e lm="tâmplar" a="delia"><i>tâmpl</i><par n="prim/ar__n"/></e>
 <e lm="tâmplărie" a="delnou"><i>tâmplări</i><par n="coaliți/e__n"/></e>
-<e lm="târcoale">        <i>târcoale</i><!-- aplauze__n' was replaced --><par n="odăjdii__n"/></e>
+<e lm="târcoale">        <i>târcoale</i><par n="odăjdii__n"/></e>
 <e lm="târfă" a="delia"> <i>târf</i><par n="cas/ă__n"/></e>
 <e lm="târg">            <i>târg</i><par n="gât__n"/></e>
 <e r="LR" lm="târnosire" a="mioara"><i>târnosir</i><par n="fericir/e__n"/></e>
@@ -32736,7 +32852,7 @@
 <e lm="tăieței">         <i>tăieței</i><par n="zori__n"/></e>
 <e lm="tăinuire">        <i>tăinuir</i><par n="fericir/e__n"/></e>
 <e lm="tălmăcire" a="mioara"><i>tălmăcir</i><par n="fericir/e__n"/></e>
-<e r="LR" lm="tămbălău" a="mioara"><i>tămbălău</i><!-- tămbălău__n' was replaced --><par n="sodiu__n"/></e>
+<e r="LR" lm="tămbălău" a="mioara"><i>tămbălău</i><par n="sodiu__n"/></e>
 <e lm="tărie">           <i>tări</i><par n="coaliți/e__n"/></e>
 <e lm="tărie de caracter" a="delnou"><i>tări</i><par n="tări/e_de_caracter__n"/></e>
 <e lm="tărâță" a="delia"><i>tărâț</i><par n="cas/ă__n"/></e>
@@ -32751,7 +32867,7 @@
 <e lm="ulcer" a="delia"> <i>ulcer</i><par n="caiet__n"/></e>
 <e lm="ulcior" a="delia"><i>ulcio</i><par n="popo/r__n"/></e>
 <e lm="ulei">            <i>ulei</i><par n="gât__n"/></e>
-<e lm="uliu" a="delia">  <i>uli</i><!-- metr/u__n' was replaced --><par n="fi/u__n"/></e>
+<e lm="uliu" a="delia">  <i>uli</i><par n="fi/u__n"/></e>
 <e lm="uliță" a="delia"> <i>uliț</i><par n="cas/ă__n"/></e>
 <e lm="ulm" a="delia">   <i>ulm</i><par n="an__n"/></e>
 <e lm="ultimatum">       <i>ultimatu</i><par n="ultimatu/m__n"/></e>
@@ -32759,7 +32875,7 @@
 <e lm="ultranaționalism" a="mioara"><i>ultranaționalism</i><par n="caiet__n"/></e>
 <e lm="ultrasunet" a="delia"><i>ultrasunet</i><par n="caiet__n"/></e>
 <e lm="uluc" a="delia">  <i>uluc</i><par n="caiet__n"/></e>
-<e lm="umăr">            <i>um</i><!-- um/ăr__n' was replaced --><par n="nuf/ăr__n"/></e>
+<e lm="umăr">            <i>um</i><par n="nuf/ăr__n"/></e>
 <e lm="umanist">         <i>umani</i><par n="comuni/st__n"/></e>
 <e lm="umanism" a="mioara"><i>umanism</i><par n="caiet__n"/></e>
 <e lm="umanitate">       <i>umanit</i><par n="universit/ate__n"/></e>
@@ -32772,13 +32888,13 @@
 <e lm="umiditate">       <i>umidit</i><par n="universit/ate__n"/></e>
 <e lm="umilință" a="delia"><i>umilinț</i><par n="cas/ă__n"/></e>
 <e lm="umilire">         <i>umilir</i><par n="fericir/e__n"/></e>
-<e lm="umor">            <i>umor</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="umor">            <i>umor</i><par n="est__n"/></e>
 <e lm="umplutură" a="delia"><i>umplutur</i><par n="duminic/ă__n"/></e>
 <e lm="unanimitate" a="delia"><i>unanimit</i><par n="universit/ate__n"/></e>
 <e lm="unchi">           <i>unchi</i><par n="ochi__n"/></e>
 <e lm="undă">            <i>und</i><par n="cas/ă__n"/></e>
 <e lm="undă radio" a="mioara"><i>und</i><par n="und/ă_radio__n"/></e>
-<e r="LR" lm="undiță">   <i>undiț</i><par n="cas/ă__n"/></e>
+<e lm="undiță">          <i>undiț</i><par n="cas/ă__n"/></e>
 <e lm="unealtă">         <i>une</i><par n="une/altă__n"/></e>
 <e lm="unghi">           <i>unghi</i><par n="gât__n"/></e>
 <e lm="unghie" a="delia"><i>unghi</i><par n="coaliți/e__n"/></e>
@@ -32871,7 +32987,7 @@
 <e lm="valvulă" a="delia"><i>valvul</i><par n="cas/ă__n"/></e>
 <e lm="vampir" a="delia"><i>vampir</i><par n="an__n"/></e>
 <e lm="vanadiu" a="mioara"><i>vanadiu</i><par n="sodiu__n"/></e>
-<e lm="vandal" a="mioara"><i>vandal</i><par n="an__n"/></e>
+<e lm="vandal" a="mioara"><i>vandal</i><par n="coleg__n"/></e>
 <e lm="vandalism" a="delia"><i>vandalism</i><par n="caiet__n"/></e>
 <e lm="vanilie" a="delia"><i>vanili</i><par n="coaliți/e__n"/></e>
 <e lm="vanitate" a="delia"><i>vanit</i><par n="universit/ate__n"/></e>
@@ -32928,8 +33044,8 @@
 <e lm="verișor" a="mioara"><i>verișo</i><par n="profeso/r__n"/></e>
 <e lm="verosimilitudine" a="delia"><i>verosimilitudin</i><par n="fericir/e__n"/></e>
 <e lm="vers" a="mioara"> <i>vers</i><par n="gât__n"/></e>
-<e lm="versant">         <i>versan</i><!-- versan/t__n' was replaced --><par n="bărba/t__n"/></e>
-<e lm="versante" a="mioara"><i>versante</i><!-- aplauze__n' was replaced --><par n="odăjdii__n"/></e>
+<e lm="versant">         <i>versan</i><par n="bărba/t__n"/></e>
+<e lm="versante" a="mioara"><i>versante</i><par n="odăjdii__n"/></e>
 <e lm="versificare" a="mioara"><i>versific</i><par n="întreb/are__n"/></e>
 <e r="LR" lm="versificație" a="mioara"><i>versificați</i><par n="coaliți/e__n"/></e>
 <e lm="versiune" a="delia"><i>versiun</i><par n="fericir/e__n"/></e>
@@ -32989,7 +33105,7 @@
 <e lm="vineri">          <i>viner</i><par n="lun/i__n"/></e>
 <e lm="vinietă" a="delia"><i>viniet</i><par n="cas/ă__n"/></e>
 <e lm="vinovăție" a="delia"><i>vinovăți</i><par n="coaliți/e__n"/></e>
-<e lm="vioară">          <i>vio</i><!-- mo/ară__n' was replaced --><par n="o/ară__n"/></e>
+<e lm="vioară">          <i>vio</i><par n="o/ară__n"/></e>
 <e r="LR" lm="viol">     <i>viol</i><par n="gât__n"/></e>
 <e lm="violare" a="delia"><i>viol</i><par n="întreb/are__n"/></e>
 <e lm="violator" a="delia"><i>violato</i><par n="directo/r__n"/></e>
@@ -33010,15 +33126,15 @@
 <e lm="virtuozitate" a="delia"><i>virtuozit</i><par n="universit/ate__n"/></e>
 <e lm="virus" a="delia"> <i>viru</i><par n="pa/s__n"/></e>
 <e lm="virulență" a="delia"><i>virulenț</i><par n="cas/ă__n"/></e>
-<e lm="vis">             <i>vis</i><!-- vis__n' was replaced --><par n="hazard__n"/></e>
+<e lm="vis">             <i>vis</i><par n="hazard__n"/></e>
 <e r="LR" lm="viscol" a="mioara"><i>viscol</i><par n="caiet__n"/></e>
 <e r="LR" lm="vistier" a="mioara"><i>vistier</i><par n="an__n"/></e>
 <e r="LR" lm="vistierie" a="mioara"><i>vistieri</i><par n="coaliți/e__n"/></e>
 <e r="LR" lm="vistiernic" a="mioara"><i>vistiernic</i><par n="an__n"/></e>
-<e lm="vită">            <i>vit</i><!-- vit/ă__n' was replaced --><par n="febr/ă__n"/></e>
+<e lm="vită">            <i>vit</i><par n="cas/ă__n"/></e>
 <e lm="vitalitate" a="delia"><i>vitalit</i><par n="universit/ate__n"/></e>
 <e lm="vitamină" a="delia"><i>vitamin</i><par n="cas/ă__n"/></e>
-<e r="LR" lm="vite" a="mioara"><i>vite</i><!-- aplauze__n' was replaced --><par n="odăjdii__n"/></e>
+<e r="LR" lm="vite" a="mioara"><i>vite</i><par n="odăjdii__n"/></e>
 <e lm="viteză" a="delia"><i>vitez</i><par n="cas/ă__n"/></e>
 <e lm="vitraliu" a="delnou"><i>vitrali</i><par n="exerciți/u__n"/></e>
 <e lm="vitrină" a="delia"><i>vitrin</i><par n="cas/ă__n"/></e>
@@ -33055,7 +33171,7 @@
 <e lm="voință" a="delia"><i>voinț</i><par n="cas/ă__n"/></e>
 <e lm="volt" a="delia">  <i>vol</i><par n="bărba/t__n"/></e>
 <e lm="volan" a="delia"> <i>volan</i><par n="caiet__n"/></e>
-<e lm="volei" a="delia"> <i>volei</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="volei" a="delia"> <i>volei</i><par n="est__n"/></e>
 <e lm="voltaj" a="delia"><i>voltaj</i><par n="caiet__n"/></e>
 <e lm="volum" a="delia"> <i>volum</i><par n="caiet__n"/></e>
 <e lm="voluntariat" a="delia"><i>voluntariat</i><par n="caiet__n"/></e>
@@ -33077,7 +33193,7 @@
 <e lm="vreme">           <i>vrem</i><par n="vrem/e__n"/></e>
 <e lm="vrăjitor">        <i>vrăjito</i><par n="directo/r__n"/></e>
 <e lm="vulcan" a="delia"><i>vulcan</i><par n="an__n"/></e>
-<e lm="vulg" a="delia">  <i>vulg</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="vulg" a="delia">  <i>vulg</i><par n="est__n"/></e>
 <e lm="vulgaritate" a="delia"><i>vulgarit</i><par n="universit/ate__n"/></e>
 <e lm="vulnerare" a="delia"><i>vulner</i><par n="întreb/are__n"/></e>
 <e lm="vulnerabilitate" a="delia"><i>vulnerabilit</i><par n="universit/ate__n"/></e>
@@ -33090,9 +33206,9 @@
 <e lm="vânt" a="delia">  <i>vânt</i><par n="gât__n"/></e>
 <e lm="vânzare">         <i>vânz</i><par n="întreb/are__n"/></e>
 <e lm="vânzător">        <i>vânzăto</i><par n="directo/r__n"/></e>
-<e r="LR" lm="vânătaie"> <i>vânăt</i><par n="b/aie__n"/></e>
+<e lm="vânătaie">        <i>vânăt</i><par n="b/aie__n"/></e>
 <e lm="vânătoare">       <i>vânăto</i><par n="flo/are__n"/></e>
-<e lm="vânător">         <i>vânător</i><par n="an__n"/></e>
+<e lm="vânător">         <i>vânăto</i><par n="directo/r__n"/></e>
 <e lm="vârf al limbii" a="mioara"><i>vârf</i><par n="vârf/_al_limbii__n"/></e>
 <e lm="vârf" a="delia">  <i>vârf</i><par n="gât__n"/></e>
 <e lm="vârstă">          <i>vârst</i><par n="cas/ă__n"/></e>
@@ -33110,9 +33226,9 @@
 <e lm="web">             <i>web</i><par n="gât__n"/></e>
 <e r="LR" lm="week-end"> <i>week-end</i><par n="gât__n"/></e>
 <e lm="whisky" a="delia"><i>whisky</i><par n="gât__n"/></e>
-<e lm="wolfram" a="mioara"><i>wolfram</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="wolfram" a="mioara"><i>wolfram</i><par n="est__n"/></e>
 <e lm="xenofobie">       <i>xenofobi</i><par n="coaliți/e__n"/></e>
-<e lm="xenon" a="mioara"><i>xenon</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="xenon" a="mioara"><i>xenon</i><par n="est__n"/></e>
 <e r="LR" lm="yacht" a="mioara"><i>yacht</i><par n="gât__n"/></e>
 <e lm="yen">             <i>yen</i><par n="an__n"/></e>
 <e lm="ytriu" a="mioara"><i>ytriu</i><par n="sodiu__n"/></e>
@@ -33133,12 +33249,12 @@
 <e lm="zebră">           <i>zebr</i><par n="cas/ă__n"/></e>
 <e lm="zeflemea" a="delia"><i>zefleme</i><par n="cafe/a__n"/></e>
 <e lm="zeitate" a="mioara"><i>zeit</i><par n="universit/ate__n"/></e>
-<e lm="zel">             <i>zel</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="zel">             <i>zel</i><par n="est__n"/></e>
 <e lm="zero">            <i>zero</i><par n="gât__n"/></e>
-<e lm="zestre">          <i>zestre</i><!-- sete__n' was replaced --><par n="anghinare__n"/></e>
+<e lm="zestre">          <i>zestre</i><par n="anghinare__n"/></e>
 <e lm="zgomot" a="delia"><i>zgomot</i><par n="caiet__n"/></e>
 <e lm="zgură" a="mioara"><i>zgur</i><par n="duminic/ă__n"/></e>
-<e lm="zgârie-nori" a="delia"><i>zgârie-nori</i><!-- mega__n' was replaced --><par n="aprilie__n"/></e>
+<e lm="zgârie-nori" a="delia"><i>zgârie-nori</i><par n="ochi__n"/></e>
 <e lm="zgârietură" a="delia"><i>zgârietur</i><par n="duminic/ă__n"/></e>
 <e lm="zi">              <i>zi</i><par n="zi__n"/></e>
 <e lm="zi lucrătoare">   <i>zi</i><par n="zi/_lucrătoare__n"/></e>
@@ -33150,7 +33266,7 @@
 <e lm="zidar" a="delia"> <i>zid</i><par n="prim/ar__n"/></e>
 <e lm="zidărie" a="delia"><i>zidări</i><par n="coaliți/e__n"/></e>
 <e r="LR" lm="zilier" a="mioara"><i>zilier</i><par n="coleg__n"/></e>
-<e r="LR" lm="zimbru" a="mioara"><i>zimbr</i><!-- metr/u__n' was replaced --><par n="fi/u__n"/></e>
+<e r="LR" lm="zimbru" a="mioara"><i>zimbr</i><par n="fi/u__n"/></e>
 <e lm="zinc">            <i>zinc</i><par n="gât__n"/></e>
 <e lm="zirconiu" a="mioara"><i>zirconiu</i><par n="sodiu__n"/></e>
 <e lm="zmeură" a="delia"><i>zmeur</i><par n="cas/ă__n"/></e>
@@ -33179,7 +33295,7 @@
 <e lm="îmblânzitor" a="delia"><i>îmblânzito</i><par n="directo/r__n"/></e>
 <e lm="îmbogățire" a="mioara"><i>îmbogățir</i><par n="fericir/e__n"/></e>
 <e lm="îmbolnăvire">     <i>îmbolnăvir</i><par n="fericir/e__n"/></e>
-<e r="LR" lm="îmbrăcăminte"><i>îmbrăcămin</i><!-- min/te__n' was replaced --><par n="virtu/te__n"/></e>
+<e r="LR" lm="îmbrăcăminte"><i>îmbrăcămin</i><par n="virtu/te__n"/></e>
 <e lm="îmbrățișare">     <i>îmbrățiș</i><par n="întreb/are__n"/></e>
 <e lm="îmbucătură" a="delia"><i>îmbucătur</i><par n="duminic/ă__n"/></e>
 <e lm="îmbujorare" a="delnou"><i>îmbujor</i><par n="întreb/are__n"/></e>
@@ -33209,7 +33325,7 @@
 <e lm="înarmare" a="delia"><i>înarm</i><par n="întreb/are__n"/></e>
 <e lm="încadrare" a="mioara"><i>încadr</i><par n="întreb/are__n"/></e>
 <e lm="încasare" a="delia"><i>încas</i><par n="întreb/are__n"/></e>
-<e r="LR" lm="începere" a="mioara"><i>începer</i><par n="fericir/e__n"/></e>
+<e lm="începere" a="mioara"><i>începer</i><par n="fericir/e__n"/></e>
 <e lm="început">         <i>început</i><par n="gât__n"/></e>
 <e lm="începător" a="mioara"><i>începăto</i><par n="directo/r__n"/></e>
 <e lm="încercare">       <i>încerc</i><par n="întreb/are__n"/></e>
@@ -33241,8 +33357,8 @@
 <e lm="încăierare" a="delia"><i>încăier</i><par n="întreb/are__n"/></e>
 <e lm="încălcare" a="delia"><i>încălc</i><par n="întreb/are__n"/></e>
 <e lm="încălzire" a="delia"><i>încălzir</i><par n="fericir/e__n"/></e>
-<e r="LR" lm="încălțare" a="delia"><i>încălț</i><par n="întreb/are__n"/></e>
-<e lm="încălțăminte">    <i>încălțăminte</i><!-- sete__n' was replaced --><par n="anghinare__n"/></e>
+<e lm="încălțare" a="delia"><i>încălț</i><par n="întreb/are__n"/></e>
+<e lm="încălțăminte">    <i>încălțăminte</i><par n="anghinare__n"/></e>
 <e lm="încălțător" a="mioara"><i>încălțăto</i><par n="popo/r__n"/></e>
 <e r="LR" lm="încăpățânare" a="mioara"><i>încăpățân</i><par n="întreb/are__n"/></e>
 <e lm="încărcător" a="delia"><i>încărcăto</i><par n="popo/r__n"/></e>
@@ -33329,7 +33445,7 @@
 <e lm="întreținere">     <i>întreținer</i><par n="fericir/e__n"/></e>
 <e r="LR" lm="întrunire" a="mioara"><i>întrunir</i><par n="fericir/e__n"/></e>
 <e lm="întunecime" a="mioara"><i>întunecim</i><par n="fericir/e__n"/></e>
-<e lm="întuneric">       <i>întuneric</i><!-- aur__n' was replaced --><par n="est__n"/></e>
+<e lm="întuneric">       <i>întuneric</i><par n="est__n"/></e>
 <e lm="întâlnire">       <i>întâlnir</i><par n="fericir/e__n"/></e>
 <e lm="întâmpinare" a="mioara"><i>întâmpin</i><par n="întreb/are__n"/></e>
 <e lm="întâmplare">      <i>întâmpl</i><par n="întreb/are__n"/></e>
@@ -33340,7 +33456,7 @@
 <e lm="înviere" a="delnou"><i>învier</i><par n="fericir/e__n"/></e>
 <e lm="învălmășeală" a="delia"><i>învălmășe</i><par n="îndrăzne/ală__n"/></e>
 <e lm="învățare">        <i>învăț</i><par n="întreb/are__n"/></e>
-<e lm="învățăcel" a="mioara"><i>învățăce</i><!-- cerce/l__n' was replaced --><par n="ca/l__n"/></e>
+<e lm="învățăcel" a="mioara"><i>învățăce</i><par n="ca/l__n"/></e>
 <e lm="învățământ">      <i>învățăm</i><par n="cuv/ânt__n"/></e>
 <e lm="învățător">       <i>învățăto</i><par n="directo/r__n"/></e>
 <e lm="învățătură" a="mioara"><i>învățătur</i><par n="duminic/ă__n"/></e>
@@ -33553,7 +33669,7 @@
 <e lm="istoric">         <i>istoric</i><par n="român__n"/></e>
 <e lm="ginecolog">       <i>ginecolog</i><par n="român__n"/></e>
 <e lm="castilian">       <i>castilian</i><par n="român__n"/></e>
-<e lm="﻿cântar">         <i>﻿cântar</i><par n="caiet__n"/></e>
+<e lm="cântar">          <i>cântar</i><par n="caiet__n"/></e>
 <e lm="fir de păr">      <i>fir</i><par n="caiet__n"/><p><l><b/>de<b/>păr</l><r><g><b/>de<b/>păr</g></r></p></e>
 <e lm="garaj">           <i>garaj</i><par n="caiet__n"/></e>
 <e lm="ilic">            <i>ilic</i><par n="caiet__n"/></e>
@@ -33563,7 +33679,6 @@
 <e lm="tricotaj">        <i>tricotaj</i><par n="caiet__n"/></e>
 <e lm="comitat">         <i>comitat</i><par n="caiet__n"/></e>
 <e lm="livret">          <i>livret</i><par n="caiet__n"/></e>
-<e lm="canal de scurgere"><i>canal</i><par n="caiet__n"/><p><l><b/>de<b/>scurgere</l><r><g><b/>de<b/>scurgere</g></r></p></e>
 <e lm="﻿chioșc">         <i>﻿chioșc</i><par n="gât__n"/></e>
 <e lm="cler">            <i>cler</i><par n="gât__n"/></e>
 <e lm="coș de hârtii">   <i>coș</i><par n="gât__n"/><p><l><b/>de<b/>hârtii</l><r><g><b/>de<b/>hârtii</g></r></p></e>
@@ -33692,11 +33807,51 @@
 <e lm="patinator">       <i>patinato</i><par n="directo/r__n"/></e>
 <e lm="întregime">       <i>întregim</i><par n="fericir/e__n"/></e>
 <e lm="răzătoare">       <i>răzăto</i><par n="flo/are__n"/></e>
-<e lm="stânjenel">       <i>stânjenel</i><par n="ca/l__n"/></e>
+<e lm="stânjenel">       <i>stânjene</i><par n="ca/l__n"/></e>
 <e lm="asiatic">         <i>asiatic</i><par n="coleg__n"/></e>
 <e lm="britanic">        <i>britanic</i><par n="coleg__n"/></e>
 <e lm="conte">           <i>con</i><par n="con/te__n"/></e>
 <e lm="cotoi">           <i>cotoi</i><par n="ochi__n"/></e>
+<e lm="informatică">     <i>informatic</i><par n="duminic/ă__n"/></e>
+<e lm="informatician">   <i>informatici</i><par n="tehnici/an__n"/></e>
+<e lm="cremă de zahăr ars"><i>crem</i><par n="cas/ă__n"/><p><l><b/>de<b/>zahăr<b/>ars</l><r><g><b/>de<b/>zahăr<b/>ars</g></r></p></e>
+<e lm="cianură">         <i>cianur</i><par n="duminic/ă__n"/></e>
+<e lm="geamăn">          <i>ge</i><par n="ge/amăn__n"/></e>
+<e lm="breton">          <i>breton</i><par n="coleg__n"/></e>
+<e lm="persan">          <i>persan</i><par n="coleg__n"/></e>
+<e lm="militar">         <i>militar</i><par n="coleg__n"/></e>
+<e lm="bală">            <i>bal</i><par n="cas/ă__n"/></e>
+<e lm="leopard">         <i>leopar</i><par n="aci/d__n"/></e>
+<e lm="revizionist">     <i>revizioni</i><par n="comuni/st__n"/></e>
+<e lm="sulfat">          <i>sulfa</i><par n="bărba/t__n"/></e>
+<e lm="patriarhat">      <i>patriarhat</i><par n="est__n"/></e>
+<e lm="lemă">            <i>lem</i><par n="cas/ă__n"/></e>
+<e lm="molibden">        <i>molibden</i><par n="aprilie__n"/></e>
+<e lm="tomberon">        <i>tombero</i><par n="telefo/n__n"/></e>
+<e lm="monoxid">         <i>monoxi</i><par n="aci/d__n"/></e>
+<e lm="calif">           <i>calif</i><par n="an__n"/></e>
+<e lm="emir">            <i>emir</i><par n="an__n"/></e>
+<e lm="cașalot">         <i>cașalo</i><par n="bărba/t__n"/></e>
+<e lm="dreaptă">         <i>dre</i><par n="tre/aptă__n"/></e>
+<e lm="laur">            <i>laur</i><par n="an__n"/></e>
+<e lm="masiv">           <i>masiv</i><par n="caiet__n"/></e>
+<e lm="intermediu">      <i>intermedi</i><par n="exerciți/u__n"/></e>
+<e lm="satin">           <i>satin</i><par n="gât__n"/></e>
+<e lm="chilot">          <i>chilo</i><par n="bărba/t__n"/></e>
+<e lm="masterat">        <i>masterat</i><par n="caiet__n"/></e>
+<e lm="gaură">           <i>g</i><par n="g/aură__n"/></e>
+<e lm="încălzitor">      <i>încălzito</i><par n="popo/r__n"/></e>
+<e lm="karate">          <i>karate</i><par n="sânge__n"/></e>
+<e lm="single">          <i>single</i><par n="mail__n"/></e>
+<e lm="software">        <i>software</i><par n="jacuzzi__n"/></e>
+<e lm="mormoloc">        <i>mormoloc</i><par n="an__n"/></e>
+<e lm="dialectică">      <i>dialectic</i><par n="duminic/ă__n"/></e>
+<e lm="roșu">            <i>roș</i><par n="roș/u__n"/></e>
+<e lm="conservator">     <i>conservato</i><par n="popo/r__n"/></e>
+<e lm="titan">           <i>titan</i><par n="an__n"/></e>
+<e lm="ginere">          <i>giner</i><par n="arbor/e__n"/></e>
+<e lm="rozmarin">        <i>rozmarin</i><par n="an__n"/></e>
+<e lm="fierăstrău">      <i>fierăstr</i><par n="fierăstr/ău__n"/></e>
 
 <e lm="Bancă Mondială">  <p><l>Banca<b/>Mondială</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="Bancă Mondială" a="delnou"><p><l>Bancă<b/>Mondială</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -34327,7 +34482,7 @@
 <e lm="medicament compensat"><p><l>medicament<b/>compensat</l><r>medicament<b/>compensat<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="medicament compensat"><p><l>medicament<b/>compensat</l><r>medicament<b/>compensat<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
 <e lm="medicament compensat"><p><l>medicamente<b/>compensate</l><r>medicament<b/>compensat<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-<e lm="medicament compensat"><p><l>medicamente<b/>poștale</l><r>medicament<b/>poștal<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="medicament compensat"><p><l>medicamente<b/>compensat</l><r>medicament<b/>compensat<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="medicament compensat"><p><l>medicamentele<b/>compensate</l><r>medicament<b/>compensat<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="medicament compensat"><p><l>medicamentelor<b/>compensate</l><r>medicament<b/>compensat<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="medicament compensat"><p><l>medicamentul<b/>compensat</l><r>medicament<b/>compensat<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -34490,6 +34645,14 @@
 <e lm="piatră filozofală"><p><l>pietrelor<b/>filozofale</l><r>piatră<b/>filozofală<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="piatră funerară"> <p><l>pietrelor<b/>funerare</l><r>piatră<b/>funerară<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="piatră vânătă">   <p><l>pietrelor<b/>vinete</l><r>piatră<b/>vânătă<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="piatră cioplită"> <p><l>piatra<b/>cioplită</l><r>piatră<b/>cioplită<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="piatră cioplită"> <p><l>piatră<b/>cioplită</l><r>piatră<b/>cioplită<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="piatră cioplită"> <p><l>pietre<b/>cioplită</l><r>piatră<b/>cioplită<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="piatră cioplită"> <p><l>pietre<b/>cioplite</l><r>piatră<b/>cioplită<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="piatră cioplită"> <p><l>pietre<b/>cioplite</l><r>piatră<b/>cioplită<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="piatră cioplită"> <p><l>pietrei<b/>cioplită</l><r>piatră<b/>cioplită<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="piatră cioplită"> <p><l>pietrele<b/>cioplite</l><r>piatră<b/>cioplită<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="piatră cioplită"> <p><l>pietrelor<b/>cioplite</l><r>piatră<b/>cioplită<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="plasament imobiliar"><p><l>plasament<b/>imobiliar</l><r>plasament<b/>imobiliar<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="plasament imobiliar"><p><l>plasament<b/>imobiliar</l><r>plasament<b/>imobiliar<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
 <e lm="plasament imobiliar"><p><l>plasamente<b/>imobiliare</l><r>plasament<b/>imobiliar<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -34844,6 +35007,22 @@
 <e lm="țară membră">     <p><l>țările<b/>membre</l><r>țară<b/>membră<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="țară candidată">  <p><l>țărilor<b/>candidate</l><r>țară<b/>candidată<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="țară membră">     <p><l>țărilor<b/>membre</l><r>țară<b/>membră<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="timp liber">      <p><l>timp<b/>liber</l><r>timp<b/>liber<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="timp liber">      <p><l>timp<b/>liber</l><r>timp<b/>liber<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="timp liber">      <p><l>timpuri<b/>libere</l><r>timp<b/>liber<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="timp liber">      <p><l>timpuri<b/>libere</l><r>timp<b/>liber<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="timp liber">      <p><l>timpurile<b/>libere</l><r>timp<b/>liber<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="timp liber">      <p><l>timpurilor<b/>libere</l><r>timp<b/>liber<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="timp liber">      <p><l>timpul<b/>liber</l><r>timp<b/>liber<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="timp liber">      <p><l>timpului<b/>liber</l><r>timp<b/>liber<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="șampanie spaniolă"><p><l>șampanie<b/>spaniolă</l><r>șampanie<b/>spaniolă<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="șampanie spaniolă"><p><l>șampania<b/>spaniolă</l><r>șampanie<b/>spaniolă<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="șampanie spaniolă"><p><l>șampanii<b/>spaniolă</l><r>șampanie<b/>spaniolă<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="șampanie spaniolă"><p><l>șampanii<b/>spaniole</l><r>șampanie<b/>spaniolă<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="șampanie spaniolă"><p><l>șampanii<b/>spaniole</l><r>șampanie<b/>spaniolă<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="șampanie spaniolă"><p><l>șampaniei<b/>spaniolă</l><r>șampanie<b/>spaniolă<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="șampanie spaniolă"><p><l>șampaniile<b/>spaniole</l><r>șampanie<b/>spaniolă<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="șampanie spaniolă"><p><l>șampaniilor<b/>spaniole</l><r>șampanie<b/>spaniolă<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 
     <!-- Nume proprii -->
 
