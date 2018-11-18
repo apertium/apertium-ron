@@ -1758,6 +1758,24 @@
   <e>       <p><l>ese</l>       <r><s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>eselor</l>    <r><s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
+<pardef n="colone/l__n">
+  <e>       <p><l>l</l>          <r>l<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lul</l>        <r>l<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>l</l>          <r>l<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lului</l>      <r>l<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>          <r>l<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ii</l>         <r>l<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>          <r>l<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilor</l>       <r>l<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>leasă</l>      <r>l<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>leasa</l>      <r>l<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>lese</l>       <r>l<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lesei</l>      <r>l<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>lese</l>       <r>l<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lesele</l>     <r>l<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>lese</l>       <r>l<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>leselor</l>    <r>l<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
 <pardef n="mo/rt__n">
   <e>       <p><l>rt</l>        <r>rt<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>rtul</l>      <r>rt<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -7114,8 +7132,13 @@
 
 <pardef n="lun/i__n">
   <e>       <p><l>i</l>         <r>i<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ea</l>        <r>i<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ea</l>        <r>i<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>i<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ii</l>        <r>i<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>i<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ile</l>       <r>i<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>i<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilor</l>      <r>i<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 <pardef n="joi__n">
   <e>       <p><l></l>          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -10286,14 +10309,10 @@
   <e>       <p><l>o</l>         <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
   <e>       <p><l>îi</l>        <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>le</l>        <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="fn"/><s n="pl"/><s n="nom"/></r></p></e>
-  <e r="LR"><p><l>îi</l>        <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/><s n="dg"/></r></p></e>
-  <e r="LR"><p><l>îi</l>        <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/><s n="dg"/></r></p></e>
-  <e r="LR"><p><l>le</l>        <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/><s n="dg"/></r></p></e>
-  <e r="LR"><p><l>le</l>        <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="fn"/><s n="pl"/><s n="dg"/></r></p></e>
-  <e r="RL"><p><l><a/>îi</l>    <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/><s n="dg"/></r></p></e>
-  <e r="RL"><p><l><a/>îi</l>    <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/><s n="dg"/></r></p></e>
-  <e r="RL"><p><l><a/>le</l>    <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/><s n="dg"/></r></p></e>
-  <e r="RL"><p><l><a/>le</l>    <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="fn"/><s n="pl"/><s n="dg"/></r></p></e>
+  <e r="LR"><p><l>îi</l>        <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mfn"/><s n="sg"/><s n="dg"/></r></p></e>
+  <e r="LR"><p><l>le</l>        <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mfn"/><s n="pl"/><s n="dg"/></r></p></e>
+  <e r="RL"><p><l><a/>îi</l>    <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mfn"/><s n="sg"/><s n="dg"/></r></p></e>
+  <e r="RL"><p><l><a/>le</l>    <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mfn"/><s n="pl"/><s n="dg"/></r></p></e>
 </pardef>
 
 <pardef n="ne__prn">
@@ -25940,7 +25959,7 @@
 <e lm="colos" a="delia"> <i>colo</i><par n="pa/s__n"/></e>
 <e lm="coloană">         <i>coloan</i><par n="cas/ă__n"/></e>
 <e lm="colocatar" a="delia"><i>colocatar</i><par n="coleg__n"/></e>
-<e lm="colonel" a="mioara"><i>colone</i><par n="ca/l__n"/></e>
+<e lm="colonel" a="mioara"><i>colone</i><par n="colone/l__n"/></e>
 <e lm="colonetă" a="mioara"><i>colonet</i><par n="cas/ă__n"/></e>
 <e lm="colonist" a="mioara"><i>coloni</i><par n="comuni/st__n"/></e>
 <e lm="colonie">         <i>coloni</i><par n="coaliți/e__n"/></e>
@@ -28812,7 +28831,7 @@
 <e lm="lasou" a="mioara"><i>lasou</i><par n="metrou__n"/></e>
 <e lm="latență" a="mioara"><i>latenț</i><par n="cas/ă__n"/></e>
 <e lm="latifundiu" a="mioara"><i>latifundi</i><par n="exerciți/u__n"/></e>
-<e lm="latifundiar" a="mioara"><i>latifundiar</i><par n="an__n"/></e>
+<e lm="latifundiar" a="mioara"><i>latifundiar</i><par n="coleg__n"/></e>
 <e lm="latinist" a="mioara"><i>latini</i><par n="comuni/st__n"/></e>
 <e lm="latinism" a="mioara"><i>latinism</i><par n="caiet__n"/></e>
 <e lm="latinitate" a="mioara"><i>latinit</i><par n="universit/ate__n"/></e>
@@ -29596,7 +29615,7 @@
 <e lm="moș">             <i>moș</i><par n="an__n"/></e>
 <e lm="moș Crăciun">     <i>moș</i><par n="moș/_Crăciun__n"/></e>
 <e lm="moșie" a="mioara"><i>moși</i><par n="coaliți/e__n"/></e>
-<e lm="moșier" a="mioara"><i>moșier</i><par n="an__n"/></e>
+<e lm="moșier" a="mioara"><i>moșier</i><par n="croitor__n"/></e>
 <e r="RL" lm="moșneag" a="mioara"><i>moșne</i><par n="moșne/ag__n"/></e>
 <e lm="moștenire" a="delia"><i>moștenir</i><par n="fericir/e__n"/></e>
 <e lm="moștenitor">      <i>moștenito</i><par n="directo/r__n"/></e>
@@ -30057,7 +30076,7 @@
 <e r="LR" lm="oficiu">   <i>ofici</i><par n="exerciți/u__n"/></e>
 <e lm="oficialitate" a="delia"><i>oficialit</i><par n="universit/ate__n"/></e>
 <e lm="oficiere">        <i>oficier</i><par n="fericir/e__n"/></e>
-<e lm="ofițer">          <i>ofițer</i><par n="an__n"/></e>
+<e lm="ofițer">          <i>ofițer</i><par n="croitor__n"/></e>
 <e lm="ofrandă" a="delia"><i>ofrand</i><par n="cas/ă__n"/></e>
 <e lm="oftalmolog">      <i>oftalmolo</i><par n="biolo/g__n"/></e>
 <e lm="oftalmologie" a="delnou"><i>oftalmologi</i><par n="coaliți/e__n"/></e>
