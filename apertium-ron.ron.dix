@@ -10631,6 +10631,8 @@
   <e>       <p><l>ându</l>      <r>a<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducându"/></e>
   <e>       <p><l>ând</l>       <r>a<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>ând</l>       <r>a<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>ai</l>        <r>a<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>ai</l>        <r>a<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__adu"/></e>
   <e>       <p><l>ai</l>        <r>a<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
   <e>       <p><l>ea</l>        <r>a<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>ea</l>        <r>a<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aduceți"/></e>
@@ -10638,6 +10640,8 @@
   <e>       <p><l>ăm</l>        <r>a<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>ăm</l>        <r>a<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>ăm</l>        <r>a<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>ați</l>       <r>a<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>ați</l>       <r>a<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>ați</l>       <r>a<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>ea</l>        <r>a<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>ea</l>        <r>a<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
@@ -10684,6 +10688,8 @@
   <e>       <p><l>stându</l>    <r>sta<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducându"/></e>
   <e>       <p><l>stând</l>     <r>sta<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>stând</l>     <r>sta<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>stă</l>       <r>sta<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>stă</l>       <r>sta<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__adu"/></e>
   <e>       <p><l>stă</l>       <r>sta<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
   <e>       <p><l>ste</l>       <r>sta<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>ste</l>       <r>sta<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aduceți"/></e>
@@ -10691,6 +10697,8 @@
   <e>       <p><l>stăm</l>      <r>sta<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>stăm</l>      <r>sta<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>stăm</l>      <r>sta<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>stați</l>     <r>sta<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>stați</l>     <r>sta<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>stați</l>     <r>sta<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>ste</l>       <r>sta<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>ste</l>       <r>sta<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
@@ -10737,17 +10745,18 @@
   <e>       <p><l>ându</l>      <r>a<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducându"/></e>
   <e>       <p><l>ând</l>       <r>a<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>ând</l>       <r>a<s n="vblex"/><s n="ger"/></r></p></e>
-  <e>       <p><l>ă</l>         <r>a<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
   <e>       <p><l>ă</l>         <r>a<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__adu"/></e>
+  <e>       <p><l>ă</l>         <r>a<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>ă</l>         <r>a<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
   <e>       <p><l>ea</l>        <r>a<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>ea</l>        <r>a<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>ea</l>        <r>a<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>ăm</l>        <r>a<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>ăm</l>        <r>a<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>ăm</l>        <r>a<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e>       <p><l>ați</l>       <r>a<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>ați</l>       <r>a<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>ați</l>       <r>a<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
+  <e>       <p><l>ați</l>       <r>a<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>ea</l>        <r>a<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>ea</l>        <r>a<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>ea</l>        <r>a<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e>
@@ -13129,7 +13138,11 @@
   <e>       <p><l>ită</l>       <r>i<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
   <e>       <p><l>iți</l>       <r>i<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
   <e>       <p><l>ite</l>       <r>i<s n="vblex"/><s n="pp"/><s n="fn"/><s n="pl"/></r></p></e>
+  <e>       <p><l>indu</l>      <r>i<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducându"/></e>
+  <e>       <p><l>ind</l>       <r>i<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>ind</l>       <r>i<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>i</l>         <r>i<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>i</l>         <r>i<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__adu"/></e>
   <e>       <p><l>i</l>         <r>i<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
   <e>       <p><l>ă</l>         <r>i<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>ă</l>         <r>i<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aduceți"/></e>
@@ -13137,6 +13150,8 @@
   <e>       <p><l>im</l>        <r>i<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>im</l>        <r>i<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>im</l>        <r>i<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>iți</l>       <r>i<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>iți</l>       <r>i<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>iți</l>       <r>i<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>ă</l>         <r>i<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>ă</l>         <r>i<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
@@ -13236,6 +13251,8 @@
   <e>       <p><l>iți</l>       <r>i<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
   <e>       <p><l>ite</l>       <r>i<s n="vblex"/><s n="pp"/><s n="fn"/><s n="pl"/></r></p></e>
   <e>       <p><l>ind</l>       <r>i<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>ă</l>         <r>i<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>ă</l>         <r>i<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__adu"/></e>
   <e>       <p><l>ă</l>         <r>i<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
   <e>       <p><l>e</l>         <r>i<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>e</l>         <r>i<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aduceți"/></e>
@@ -13243,6 +13260,8 @@
   <e>       <p><l>im</l>        <r>i<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>im</l>        <r>i<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>im</l>        <r>i<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>iți</l>       <r>i<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>iți</l>       <r>i<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>iți</l>       <r>i<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>e</l>         <r>i<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>e</l>         <r>i<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
@@ -13851,6 +13870,8 @@
   <e>       <p><l>rgându</l>    <r>rge<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducându"/></e>
   <e>       <p><l>rgând</l>     <r>rge<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>rgând</l>     <r>rge<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>rgi</l>       <r>rge<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>rgi</l>       <r>rge<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__adu"/></e>
   <e>       <p><l>rgi</l>       <r>rge<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
   <e>       <p><l>argă</l>      <r>rge<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>argă</l>      <r>rge<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aduceți"/></e>
@@ -16255,6 +16276,8 @@
   <e>       <p><l>vându</l>     <r>vea<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducându"/></e>
   <e>       <p><l>vând</l>      <r>vea<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>vând</l>      <r>vea<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>i</l>         <r>vea<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>i</l>         <r>vea<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__adu"/></e>
   <e>       <p><l>i</l>         <r>vea<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
   <e>       <p><l>ibă</l>       <r>vea<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>ibă</l>       <r>vea<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aduceți"/></e>
@@ -16262,6 +16285,8 @@
   <e>       <p><l>vem</l>       <r>vea<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>vem</l>       <r>vea<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>vem</l>       <r>vea<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>veți</l>      <r>vea<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>veți</l>      <r>vea<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>veți</l>      <r>vea<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>ibă</l>       <r>vea<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>ibă</l>       <r>vea<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
@@ -16363,6 +16388,8 @@
   <e>       <p><l>fostă</l>     <r>fi<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
   <e>       <p><l>foști</l>     <r>fi<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
   <e>       <p><l>foste</l>     <r>fi<s n="vblex"/><s n="pp"/><s n="fn"/><s n="pl"/></r></p></e>
+  <e>       <p><l>fiindu</l>    <r>fi<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducându"/></e>
+  <e>       <p><l>fiind</l>     <r>fi<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>fiind</l>     <r>fi<s n="vblex"/><s n="ger"/></r></p></e>
   <e>       <p><l>fii</l>       <r>fi<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__adu"/></e>
   <e>       <p><l>fii</l>       <r>fi<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
@@ -18034,6 +18061,8 @@
   <e>       <p><l>rându</l>     <r>rea<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducându"/></e>
   <e>       <p><l>rând</l>      <r>rea<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>rând</l>      <r>rea<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>rei</l>       <r>rea<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>rei</l>       <r>rea<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__adu"/></e>
   <e>       <p><l>rei</l>       <r>rea<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
   <e>       <p><l>rea</l>       <r>rea<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>rea</l>       <r>rea<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aduceți"/></e>
@@ -18041,6 +18070,8 @@
   <e>       <p><l>rem</l>       <r>rea<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>rem</l>       <r>rea<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>rem</l>       <r>rea<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>reți</l>      <r>rea<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>reți</l>      <r>rea<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>reți</l>      <r>rea<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>rea</l>       <r>rea<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>rea</l>       <r>rea<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
@@ -18371,6 +18402,8 @@
   <e>       <p><l>enindu</l>    <r>eni<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducându"/></e>
   <e>       <p><l>enind</l>     <r>eni<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>enind</l>     <r>eni<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>ino</l>       <r>eni<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>ino</l>       <r>eni<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__adu"/></e>
   <e>       <p><l>ino</l>       <r>eni<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
   <e>       <p><l>ină</l>       <r>eni<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>ină</l>       <r>eni<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aduceți"/></e>
@@ -18768,6 +18801,8 @@
   <e>       <p><l>rmindu</l>    <r>rmi<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducându"/></e>
   <e>       <p><l>rmind</l>     <r>rmi<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>rmind</l>     <r>rmi<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>rmi</l>       <r>rmi<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>rmi</l>       <r>rmi<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__adu"/></e>
   <e>       <p><l>rmi</l>       <r>rmi<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
   <e>       <p><l>armă</l>      <r>rmi<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>armă</l>      <r>rmi<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aduceți"/></e>
@@ -18775,6 +18810,8 @@
   <e>       <p><l>rmim</l>      <r>rmi<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>rmim</l>      <r>rmi<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>rmim</l>      <r>rmi<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>rmiți</l>     <r>rmi<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>rmiți</l>     <r>rmi<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>rmiți</l>     <r>rmi<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>armă</l>      <r>rmi<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>armă</l>      <r>rmi<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
@@ -18821,6 +18858,8 @@
   <e>       <p><l>rbindu</l>    <r>rbi<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducându"/></e>
   <e>       <p><l>rbind</l>     <r>rbi<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>rbind</l>     <r>rbi<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>rbi</l>       <r>rbi<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>rbi</l>       <r>rbi<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__adu"/></e>
   <e>       <p><l>rbi</l>       <r>rbi<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
   <e>       <p><l>arbă</l>      <r>rbi<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>arbă</l>      <r>rbi<s n="vblex"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aduceți"/></e>
@@ -18828,6 +18867,8 @@
   <e>       <p><l>rbim</l>      <r>rbi<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>rbim</l>      <r>rbi<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>rbim</l>      <r>rbi<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>rbiți</l>     <r>rbi<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>rbiți</l>     <r>rbi<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>rbiți</l>     <r>rbi<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>arbă</l>      <r>rbi<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>arbă</l>      <r>rbi<s n="vblex"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
