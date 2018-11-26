@@ -7810,7 +7810,7 @@
   <e>       <p><l>âu</l>        <r>âu<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>âului</l>     <r>âu<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>aie</l>       <r>âu<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>aiele</l>     <r>âu<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>aiele</l>     <r>âu<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>aie</l>       <r>âu<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>aielor</l>    <r>âu<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
@@ -7820,7 +7820,7 @@
   <e>       <p><l>u</l>         <r>u<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ului</l>      <r>u<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ie</l>        <r>u<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>iele</l>      <r>u<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>iele</l>      <r>u<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ie</l>        <r>u<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ielor</l>     <r>u<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
@@ -7831,7 +7831,7 @@
   <e>       <p><l>u</l>         <r>u<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ului</l>      <r>u<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>e</l>         <r>u<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ele</l>       <r>u<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ele</l>       <r>u<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>e</l>         <r>u<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>elor</l>      <r>u<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
@@ -17525,10 +17525,17 @@
   <e>       <p><l>oți</l>       <r>utea<s n="vbmod"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__adu"/></e>
   <e>       <p><l>oți</l>       <r>utea<s n="vbmod"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>oți</l>       <r>utea<s n="vbmod"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+  <e>       <p><l>oată</l>      <r>utea<s n="vbmod"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>oată</l>      <r>utea<s n="vbmod"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>oată</l>      <r>utea<s n="vbmod"/><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>utem</l>      <r>utea<s n="vbmod"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>utem</l>      <r>utea<s n="vbmod"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>utem</l>      <r>utea<s n="vbmod"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e>       <p><l>uteți</l>     <r>utea<s n="vbmod"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
   <e>       <p><l>uteți</l>     <r>utea<s n="vbmod"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>uteți</l>     <r>utea<s n="vbmod"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+  <e>       <p><l>oată</l>      <r>utea<s n="vbmod"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>oată</l>      <r>utea<s n="vbmod"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__aduceți"/></e>
   <e>       <p><l>oată</l>      <r>utea<s n="vbmod"/><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e>
   <e>       <p><l>uții</l>      <r>utea<s n="vbmod"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e>
   <e>       <p><l>uțiși</l>     <r>utea<s n="vbmod"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -25570,7 +25577,7 @@
 <e lm="antet" a="delia"> <i>antet</i><par n="gât__n"/></e>
 <e lm="antibiotic" a="mioara"><i>antibiotic</i><par n="caiet__n"/></e>
 <e lm="anticameră" a="delia"><i>anticamer</i><par n="cas/ă__n"/></e>
-<e lm="anticar" a="delia"><i>anticar</i><par n="an__n"/></e>
+<e lm="anticar" a="delia"><i>anticar</i><par n="croitor__n"/></e>
 <e lm="antichitate">     <i>antichit</i><par n="universit/ate__n"/></e>
 <e lm="anticiclon" a="delia"><i>anticiclo</i><par n="telefo/n__n"/></e>
 <e r="LR" lm="anticipare" a="delia"><i>anticip</i><par n="întreb/are__n"/></e>
@@ -35002,6 +35009,7 @@
 <e lm="ginere">          <i>giner</i><par n="arbor/e__n"/></e>
 <e lm="rozmarin">        <i>rozmarin</i><par n="an__n"/></e>
 <e lm="fierăstrău">      <i>fierăstr</i><par n="fierăstr/ău__n"/></e>
+<e lm="parizer">         <i>parizer</i><par n="est__n"/></e>
 
 <e lm="Bancă Mondială">  <p><l>Banca<b/>Mondială</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="Bancă Mondială" a="delnou"><p><l>Bancă<b/>Mondială</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
