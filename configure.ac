@@ -1,12 +1,12 @@
 AC_PREREQ(2.52)
 
-AC_INIT([apertium-ron], [0.1.0], [unhammer@fsfe.org])
-AM_INIT_AUTOMAKE([apertium-ron], [0.1.0], no-define)
+AC_INIT([apertium-ron], [1.0.0], [unhammer@fsfe.org])
+AM_INIT_AUTOMAKE([apertium-ron], [1.0.0], no-define)
 AC_PROG_LN_S
 AC_PROG_AWK
 
-m4_define([required_apertium_version], [3.3.0])
-m4_define([required_lttoolbox_version], [3.3.0])
+m4_define([required_apertium_version], [3.4.0])
+m4_define([required_lttoolbox_version], [3.4.0])
 
 PKG_CHECK_MODULES(APERTIUM, apertium >= required_apertium_version)
 PKG_CHECK_MODULES(LTTOOLBOX, lttoolbox >= required_lttoolbox_version)
