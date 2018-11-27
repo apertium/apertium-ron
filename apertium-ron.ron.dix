@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 4
-	Entries: 22229
+	Entries: 22230
 	Sdefs: 76
-	Paradigms: 907
+	Paradigms: 909
 	Last processed by: apertium-dixtools fix apertium-ron.ron.dix apertium-ron.ron.dix
 
 -->
@@ -1761,22 +1761,22 @@
   <e>       <p><l>eselor</l>    <r><s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 <pardef n="colone/l__n">
-  <e>       <p><l>l</l>          <r>l<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>lul</l>        <r>l<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>l</l>          <r>l<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>lului</l>      <r>l<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>          <r>l<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ii</l>         <r>l<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>i</l>          <r>l<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ilor</l>       <r>l<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>leasă</l>      <r>l<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>leasa</l>      <r>l<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>lese</l>       <r>l<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>lesei</l>      <r>l<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>lese</l>       <r>l<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>lesele</l>     <r>l<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>lese</l>       <r>l<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>leselor</l>    <r>l<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>l</l>         <r>l<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lul</l>       <r>l<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>l</l>         <r>l<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lului</l>     <r>l<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>l<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ii</l>        <r>l<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>i</l>         <r>l<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ilor</l>      <r>l<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>leasă</l>     <r>l<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>leasa</l>     <r>l<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>lese</l>      <r>l<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lesei</l>     <r>l<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>lese</l>      <r>l<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>lesele</l>    <r>l<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>lese</l>      <r>l<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>leselor</l>   <r>l<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 <pardef n="mo/rt__n">
   <e>       <p><l>rt</l>        <r>rt<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -16354,6 +16354,29 @@
   <e>       <p><l>ăurăm</l>     <r>ea<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e>
   <e>       <p><l>ăurăți</l>    <r>ea<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e>
   <e>       <p><l>ăură</l>      <r>ea<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e>
+</pardef>
+
+<pardef n="/fi__vblex_p3">
+  <e>       <p><l>fi</l>        <r>fi<s n="vblex"/><s n="inf"/></r></p></e>
+      <!--fran: Hay que eligir una o la otra para generación -->
+  <e>       <p><l>este</l>      <r>fi<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>e</l>         <r>fi<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>sunt</l>      <r>fi<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+  <e>       <p><l>era</l>       <r>fi<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>erau</l>      <r>fi<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+  <e>       <p><l>fusese</l>    <r>fi<s n="vblex"/><s n="pper"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>fuseseră</l>  <r>fi<s n="vblex"/><s n="pper"/><s n="p3"/><s n="pl"/></r></p></e>
+  <e>       <p><l>fie</l>       <r>fi<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>fie</l>       <r>fi<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
+  <e>       <p><l>fost</l>      <r>fi<s n="vblex"/><s n="pp"/><s n="mn"/><s n="sg"/></r></p></e>
+  <e>       <p><l>fostă</l>     <r>fi<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
+  <e>       <p><l>foști</l>     <r>fi<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
+  <e>       <p><l>foste</l>     <r>fi<s n="vblex"/><s n="pp"/><s n="fn"/><s n="pl"/></r></p></e>
+  <e>       <p><l>fiindu</l>    <r>fi<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducându"/></e>
+  <e>       <p><l>fiind</l>     <r>fi<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducând"/></e>
+  <e>       <p><l>fiind</l>     <r>fi<s n="vblex"/><s n="ger"/></r></p></e>
+  <e>       <p><l>fu</l>        <r>fi<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e>
+  <e>       <p><l>fură</l>      <r>fi<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e>
 </pardef>
 
 <pardef n="/fi__vblex">
@@ -39644,7 +39667,7 @@
 <e lm="lua la zor" a="mioara"><par n="/lua__vblex"/><p><l><b/>la<b/>zor</l><r><g><b/>la<b/>zor</g></r></p></e>
 <e r="LR" lm="lua legătura"><par n="/lua__vblex"/><p><l><b/>legătura</l><r><g><b/>legătura</g></r></p></e>
 <e lm="lua micul dejun"> <par n="/lua__vblex"/><p><l><b/>micul<b/>dejun</l><r><g><b/>micul<b/>dejun</g></r></p></e>
-<e lm="fi nevoie">       <par n="/fi__vblex"/><p><l><b/>nevoie</l><r><g><b/>nevoie</g></r></p></e>
+<e lm="fi nevoie">       <par n="/fi__vblex_p3"/><p><l><b/>nevoie</l><r><g><b/>nevoie</g></r></p></e>
 <e lm="fi în legătură" a="mioara"><par n="/fi__vblex"/><p><l><b/>în<b/>legătură</l><r><g><b/>în<b/>legătură</g></r></p></e>
 <e lm="lua în seamă">    <par n="/lua__vblex"/><p><l><b/>în<b/>seamă</l><r><g><b/>în<b/>seamă</g></r></p></e>
 <e r="LR" lm="lua înapoi" a="mioara"><par n="/lua__vblex"/><p><l><b/>înapoi</l><r><g><b/>înapoi</g></r></p></e>
