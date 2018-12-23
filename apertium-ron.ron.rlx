@@ -71,8 +71,8 @@ REMOVE Pp IF (0 Pp) (0 N) (1 Adj) ;
 REMOVE Pp IF (0 Pp) (0 N) (1 V) ;
 
 # Entries which are either Pp or Ifi
-SELECT Pp IF (0 Pp) (0 Ifi) (-1 Vbavea) ;
-SELECT Pp IF (0 Pp) (0 Ifi) (-2 Vbavea) (-1 ("fi") + Pp) ;
+SELECT Pp IF (0 Pp) (-1 Vbavea) ;
+SELECT Pp IF (0 Pp) (-2 Vbavea) (-1 ("fi") + Pp) ;
 SELECT Pp IF (0 Pp) (0 Ifi) (-1 BOS | _S_SOFT_DELIMITERS_) ;
 REMOVE Pp IF (0 Pp) (0 Ifi) ;
 
@@ -80,6 +80,7 @@ REMOVE Pp IF (0 Pp) (0 Ifi) ;
 REMOVE N IF (0 ("mai")) (-1 N) (1 Adj) ;
 REMOVE N IF (0 ("mai")) (-1 V) (1 Adv) ;
 REMOVE N IF (0 ("mai")) (-1 ("cel")) (1 Adj) ;
+REMOVE N IF (0 ("mai")) (-1 ("mult")) (1 Adj) ;
 
 # Și (cnjcoo or adv)
 SELECT Adv IF (0 Și) (-1 BOS) ;
@@ -96,9 +97,17 @@ REMOVE Det IF (0 Prnpro) (0 Det) ;
 # A (prep or vbavea)
 SELECT Vbavea IF (0 ("a")) (1 Pp) ;
 SELECT Pr IF (0 Inf_a) (1 Inf) ;
+SELECT Pr IF (0 Inf_a) (1 Prnpro) (2 Inf) ;
+SELECT Pr IF (0 Inf_a) (1 Prnpro) (2 Prnpro) (3 Inf) ;
 
 # A (prep or det)
 SELECT Det IF (0 Gen_a) (1 Dg) ;
+
+# Ei (prn or adj)
+SELECT Prn IF (0 Prn) (0 Adj) (NOT -1 N) (1 V) ;
+SELECT Prn IF (0 Prn) (0 Adj) (NOT -1 N) (1 Vbser) ;
+SELECT Prn IF (0 Prn) (0 Adj) (NOT -1 N) (1 Vbavea) (2 V) ;
+SELECT Prn IF (0 Prn) (0 Adj) (NOT -1 N) (1 Vbavea) (2 Vbser) ;
 
 # Conjunctiv
 SELECT Prs IF (0 Prs) (0 Pri) (-1 Să) ;
@@ -118,8 +127,13 @@ REMOVE V IF (0 V) (0 Vbavea) (1 Să) (2 Prs) ;
 REMOVE V IF (0 V) (0 Vbavea) (1 Inf) ;
 REMOVE Vbavea IF (0 V) (0 Vbavea) ;
 
+# Fi
+REMOVE V IF (0 V) (0 Vbser) (1 Pp) ;
+
 # Inf
 SELECT Inf IF (0 V) (0 Inf) (-1 Inf_a) ;
+SELECT Inf IF (0 V) (0 Inf) (-2 Inf_a) (-1 Prnpro) ;
+SELECT Inf IF (0 V) (0 Inf) (-3 Inf_a) (-2 Prnpro) (-1 Prnpro) ;
 SELECT Inf IF (0 V) (0 Inf) (-1 Vaux) ;
 SELECT Inf IF (0 V) (0 Inf) (-1 Vbavea) ;
 REMOVE Inf IF (0 V) (0 Inf) ;
@@ -150,6 +164,12 @@ REMOVE ("avea" vbavea pri p3 sg) IF (-1 BOS) ;
 
 APPEND ("Al" det def f sg) ("al" det def f sg) IF (-1 BOS) ;
 REMOVE ("al" det def f sg) IF (-1 BOS) ;
+
+APPEND ("Un" det ind f sg nom) ("un" det ind f sg nom) IF (-1 BOS) ;
+REMOVE ("un" det ind f sg nom) IF (-1 BOS) ;
+
+APPEND ("Îl" prn pro p3 f sg nom) ("îl" prn pro p3 f sg nom) IF (-1 BOS) ;
+REMOVE ("îl" prn pro p3 f sg nom) IF (-1 BOS) ;
 
 
 
