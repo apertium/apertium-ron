@@ -16358,6 +16358,7 @@
 
 <pardef n="/fi__vblex_p3">
   <e>       <p><l>fi</l>        <r>fi<s n="vblex"/><s n="inf"/></r></p></e>
+  <e>       <p><l>fiind</l>     <r>fi<s n="vblex"/><s n="ger"/></r></p></e>
       <!--fran: Hay que eligir una o la otra para generación -->
   <e>       <p><l>este</l>      <r>fi<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
   <e r="LR"><p><l>e</l>         <r>fi<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -16372,9 +16373,6 @@
   <e>       <p><l>fostă</l>     <r>fi<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
   <e>       <p><l>foști</l>     <r>fi<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
   <e>       <p><l>foste</l>     <r>fi<s n="vblex"/><s n="pp"/><s n="fn"/><s n="pl"/></r></p></e>
-  <e>       <p><l>fiindu</l>    <r>fi<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducându"/></e>
-  <e>       <p><l>fiind</l>     <r>fi<s n="vblex"/><s n="ger"/><j/></r></p><par n="S__aducând"/></e>
-  <e>       <p><l>fiind</l>     <r>fi<s n="vblex"/><s n="ger"/></r></p></e>
   <e>       <p><l>fu</l>        <r>fi<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e>
   <e>       <p><l>fură</l>      <r>fi<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e>
 </pardef>
@@ -40615,7 +40613,7 @@
 <e lm="fenta" a="delia"> <i>fent</i><par n="lucr/a__vblex"/></e>
 <e r="LR" lm="feri" a="mioara"><i>fer</i><par n="gând/i__vblex"/></e>
 <e lm="fermenta" a="mioara"><i>ferment</i><par n="lucr/a__vblex"/></e>
-<e lm="fi">              <par n="/fi__vblex"/></e>
+<e lm="fi">              <par n="/fi__vblex_p3"/></e>
 <e lm="fi martor">       <i></i><par n="/fi__vblex"/><p><l><b/>martor</l><r><g><b/>martor</g></r></p></e>
 <e lm="figura" a="mioara"><i>figur</i><par n="lucr/a__vblex"/></e>
 <e lm="filma" a="mioara"><i>film</i><par n="lucr/a__vblex"/></e>
