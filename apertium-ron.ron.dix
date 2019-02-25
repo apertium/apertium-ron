@@ -25134,6 +25134,7 @@
 <e lm="sâc">             <i>sâc</i><par n="adio__ij"/></e>
 <e lm="vai" a="delnou">  <i>vai</i><par n="adio__ij"/></e>
 <e lm="cuțu-cuțu">       <i>cuțu-cuțu</i><par n="adio__ij"/></e>
+<e lm="ubi bene ibi patria" a="marcriera"><i>ubi<b/>bene<b/>ibi<b/>patria</i><par n="adio__ij"/></e>
 
     <!-- Acronime -->
 
@@ -37271,6 +37272,7 @@
 <e lm="Superman">        <i>Superman</i><par n="Mihai__np"/></e>
 <e lm="Traian Băsescu">  <i>Traian<b/>Băsescu</i><par n="Mihai__np"/></e>
 <e r="LR" lm="Vergiliu"> <i>Vergiliu</i><par n="Mihai__np"/></e>
+<e lm="Moș Crăciun" a="marcriera"><i>Moș<b/>Crăciun</i><par n="Mihai__np"/></e>
 
 <e lm="Ada">             <i>Ad</i><par n="Mari/a__np"/></e>
 <e lm="Adela">           <i>Adel</i><par n="Mari/a__np"/></e>
@@ -39669,6 +39671,8 @@
 <e lm="fi în legătură" a="mioara"><par n="/fi__vblex"/><p><l><b/>în<b/>legătură</l><r><g><b/>în<b/>legătură</g></r></p></e>
 <e lm="lua în seamă">    <par n="/lua__vblex"/><p><l><b/>în<b/>seamă</l><r><g><b/>în<b/>seamă</g></r></p></e>
 <e r="LR" lm="lua înapoi" a="mioara"><par n="/lua__vblex"/><p><l><b/>înapoi</l><r><g><b/>înapoi</g></r></p></e>
+<e lm="lua de bărbat" a="marcriera"><par n="/lua__vblex"/><p><l><b/>de<b/>bărbat</l><r><g><b/>de<b/>bărbat</g></r></p></e>
+<e lm="lua de gât" a="marcriera"><par n="/lua__vblex"/><p><l><b/>de<b/>gât</l><r><g><b/>de<b/>gât</g></r></p></e>
 <e lm="avea">            <i>a</i><par n="a/vea__vblex"/></e>
 <e lm="avea acces">      <i>a</i><par n="a/vea__vblex"/><p><l><b/>acces</l><r><g><b/>acces</g></r></p></e>
 <e lm="avea încredere">  <i>a</i><par n="a/vea__vblex"/><p><l><b/>încredere</l><r><g><b/>încredere</g></r></p></e>
@@ -40600,6 +40604,8 @@
 <e lm="face planuri" a="mioara"><i>f</i><par n="f/ace__vblex"/><p><l><b/>planuri</l><r><g><b/>planuri</g></r></p></e>
 <e lm="face parte" a="delia"><i>f</i><par n="f/ace__vblex"/><p><l><b/>parte</l><r><g><b/>parte</g></r></p></e>
 <e lm="face față" a="mioara"><i>f</i><par n="f/ace__vblex"/><p><l><b/>față</l><r><g><b/>față</g></r></p></e>
+<e lm="face foamea" a="marcriera">     <i>f</i><par n="f/ace__vblex"/><p><l><b/>foamea</l><r><g><b/>foamea</g></r></p></e>
+<e lm="face o gafă" a="marcriera">     <i>f</i><par n="f/ace__vblex"/><p><l><b/>o<b/>gafă</l><r><g><b/>o<b/>gafă</g></r></p></e>
 <e lm="fabrica">         <i>fabric</i><par n="declar/a__vblex"/></e>
 <e lm="facilita">        <i>facilit</i><par n="lucr/a__vblex"/></e>
 <e lm="factura" a="delnou"><i>factur</i><par n="lucr/a__vblex"/></e>
@@ -41800,6 +41806,7 @@
 <e lm="trage la răspundere" a="mioara"><i>tra</i><par n="ajun/ge__vblex"/><p><l><b/>la<b/>răspundere</l><r><g><b/>la<b/>răspundere</g></r></p></e>
 <e lm="trage beții" a="mioara"><i>tra</i><par n="ajun/ge__vblex"/><p><l><b/>beții</l><r><g><b/>beții</g></r></p></e>
 <e lm="trage o chelfăneală" a="delnou"><i>tra</i><par n="ajun/ge__vblex"/><p><l><b/>o<b/>chelfăneală</l><r><g><b/>o<b/>chelfăneală</g></r></p></e>
+<e lm="trage un futai" a="marcriera"><i>tra</i><par n="ajun/ge__vblex"/><p><l><b/>un<b/>futai</l><r><g><b/>un<b/>futai</g></r></p></e>
 <e r="LR" lm="tracta" a="mioara"><i>tract</i><par n="lucr/a__vblex"/></e>
 <e lm="traduce">         <i>tradu</i><par n="du/ce__vblex"/></e>
 <e lm="trafica" a="delia"><i>trafic</i><par n="parc/a__vblex"/></e>
@@ -42308,6 +42315,9 @@
 <e lm="reteza">          <i>rete</i><par n="bote/za__vblex"/></e>
 <e lm="răscula">         <i>răsc</i><par n="sc/ula__vblex"/></e>
 <e lm="presăra">         <i>pres</i><par n="c/ăra__vblex"/></e>
+<e lm="flirta" a="marcriera"><i>flirt</i><par n="lucr/a__vblex"/></e>
+<e lm="înaripa" a="marcriera"><i>înarip</i><par n="lucr/a__vblex"/></e>
+<e lm="remineraliza" a="marcriera"><i>remineraliz</i><par n="lucr/a__vblex"/></e>
 
 <e lm="putea">           <i>p</i><par n="p/utea__vbmod"/></e>
     <!-- Modals<e lm="trebui să"><i>trebui</i><par n="trebui__vbmod"/>	<p>	  <l><b/>să</l>	  <r><g><b/>să</g></r>	</p></e> -->
