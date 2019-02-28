@@ -39993,7 +39993,7 @@
 <e lm="boci" a="delia">  <i>boc</i><par n="gând/i__vblex"/></e>
 <e lm="bodogăni" a="delia"><i>bodogăn</i><par n="bodogăn/i__vblex"/></e>
 <e lm="boicota">         <i>boicot</i><par n="lucr/a__vblex"/></e>
-<e r="LR" lm="boli" a="mioara"><i>bol</i><par n="gând/i__vblex"/></e>
+<e lm="boli" a="mioara"> <i>bol</i><par n="gând/i__vblex"/></e>
 <e r="LR" lm="bolborosi" a="mioara"><i>bolboros</i><par n="gând/i__vblex"/></e>
 <e lm="bomba" a="mioara"><i>bomb</i><par n="lucr/a__vblex"/></e>
 <e lm="bombarda" a="mioara"><i>bombard</i><par n="lucr/a__vblex"/></e>
@@ -40053,6 +40053,7 @@
 <e lm="captura">         <i>captur</i><par n="lucr/a__vblex"/></e>
 <e lm="caracteriza">     <i>caracteriz</i><par n="lucr/a__vblex"/></e>
 <e lm="carboniza" a="delnou"><i>carboniz</i><par n="lucr/a__vblex"/></e>
+<e lm="caria" a="marcriera"><i>cari</i><par n="închiri/a__vblex"/></e>
 <e lm="castra" a="delnou"><i>castr</i><par n="lucr/a__vblex"/></e>
 <e r="LR" lm="catagrafia" a="mioara"><i>catagrafi</i><par n="închiri/a__vblex"/></e>
 <e lm="cataliza" a="mioara"><i>cataliz</i><par n="lucr/a__vblex"/></e>
