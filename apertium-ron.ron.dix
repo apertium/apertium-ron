@@ -24543,7 +24543,8 @@
 <e lm="etcetera">        <i>etcetera</i><par n="azi__adv"/></e>
 <e lm="ex." a="delnou">  <i>ex.</i><par n="azi__adv"/></e>
 <e lm="expres" a="delia"><i>expres</i><par n="azi__adv"/></e>
-<e lm="față_de">         <i>față<b/>de</i><par n="azi__adv"/></e>
+<e lm="față de">         <i>față<b/>de</i><par n="azi__adv"/></e>
+<e lm="față în față" a="marcriera"><i>față<b/>în<b/>față</i><par n="azi__adv"/></e>
 <e lm="firește" a="mioara"><i>firește</i><par n="azi__adv"/></e>
 <e lm="franțuzește" a="delia"><i>franțuzește</i><par n="azi__adv"/></e>
 <e lm="fără drept de apel" a="delia"><i>fără<b/>drept<b/>de<b/>apel</i><par n="azi__adv"/></e>
@@ -32976,7 +32977,7 @@
 <e lm="scandal">         <i>scandal</i><par n="gât__n"/></e>
 <e lm="scandiu" a="mioara"><i>scandiu</i><par n="sodiu__n"/></e>
 <e lm="scaner" a="delia"><i>scaner</i><par n="caiet__n"/></e>
-<e lm="scară">           <i>scar</i><par n="cas/ă__n"/></e>
+<e lm="scară">           <i>sc</i><par n="g/ară__n"/></e>
 <e lm="scatologie">      <i>scatologi</i><par n="coaliți/e__n"/></e>
 <e lm="scaun cu rotile" a="mioara"><i>scaun</i><par n="scaun/_cu_rotile__n"/></e>
 <e lm="scaun" a="delia"> <i>scaun</i><par n="caiet__n"/></e>
@@ -42376,12 +42377,12 @@
 <e r="LR" lm="li le">    <p><l>li<b/>le</l>  <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="fn"/><s n="pl"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
 <e r="LR" lm="li te">    <p><l>li<b/>te</l>  <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="fn"/><s n="pl"/><s n="dg"/><j/>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
 <e r="LR" lm="m-">       <p><l>m-</l>        <r>mă<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
-<e r="LR" lm="mi-">      <p><l>mi-</l>       <r>îmi<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/></r></p></e>
-<e r="LR" lm="mi-i">     <p><l>mi-i</l>      <r>îmi<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îi<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
-<e r="LR" lm="mi-l">     <p><l>mi-l</l>      <r>îmi<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/></r></p></e>
-<e r="LR" lm="mi-o">     <p><l>mi-o</l>      <r>îmi<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-<e r="LR" lm="mi le">    <p><l>mi<b/>le</l>  <r>îmi<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
-<e r="LR" lm="mi te">    <p><l>mi<b/>te</l>  <r>îmi<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+<e r="LR" lm="mi-">      <p><l>mi-</l>       <r>mă<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/></r></p></e>
+<e r="LR" lm="mi-i">     <p><l>mi-i</l>      <r>mă<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îi<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="LR" lm="mi-l">     <p><l>mi-l</l>      <r>mă<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/></r></p></e>
+<e r="LR" lm="mi-o">     <p><l>mi-o</l>      <r>mă<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR" lm="mi le">    <p><l>mi<b/>le</l>  <r>mă<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="LR" lm="mi te">    <p><l>mi<b/>te</l>  <r>mă<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
 <e r="LR" lm="ne-">      <p><l>ne-</l>       <r>ne<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
 <e r="LR" lm="ne-">      <p><l>ne-</l>       <r>ne<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="dg"/></r></p></e>
 <e r="LR" lm="ni-i">     <p><l>ni-i</l>      <r>ne<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="dg"/><j/>îi<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
@@ -42400,11 +42401,11 @@
 <e r="LR" lm="vi le">    <p><l>vi<b/>le</l>  <r>vă<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
 <!--    <e lm="și-'" r="LR"><p><l>și-</l><r>își<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mfn"/><s n="sp"/><s n="dg"/></r></p></e>-->
 <e r="LR" lm="și-">      <p><l>și-</l>       <r>se<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mfn"/><s n="sp"/><s n="dg"/></r></p></e>
-<e r="LR" lm="ți-">      <p><l>ți-</l>       <r>îți<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dg"/></r></p></e>
-<e r="LR" lm="ți-i">     <p><l>ți-i</l>      <r>îți<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îi<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
-<e r="LR" lm="ți-l">     <p><l>ți-l</l>      <r>îți<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/></r></p></e>
-<e r="LR" lm="ți-o">     <p><l>ți-o</l>      <r>îți<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-<e r="LR" lm="ți le">    <p><l>ți<b/>le</l>  <r>îți<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="LR" lm="ți-">      <p><l>ți-</l>       <r>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dg"/></r></p></e>
+<e r="LR" lm="ți-i">     <p><l>ți-i</l>      <r>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îi<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="LR" lm="ți-l">     <p><l>ți-l</l>      <r>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/></r></p></e>
+<e r="LR" lm="ți-o">     <p><l>ți-o</l>      <r>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR" lm="ți le">    <p><l>ți<b/>le</l>  <r>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
 
   </section>
   <section id="final" type="inconditional">
