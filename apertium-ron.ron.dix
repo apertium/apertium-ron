@@ -9682,7 +9682,7 @@
   <e>       <p><l></l>          <r><s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ului</l>      <r><s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ă</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>a</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>a</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>e</l>         <r><s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ei</l>        <r><s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>i</l>         <r><s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -27935,7 +27935,6 @@
 <e lm="derivat" a="delia"><i>derivat</i><par n="caiet__n"/></e>
 <e r="LR" lm="derivație" a="delnou"><i>derivați</i><par n="coaliți/e__n"/></e>
 <e lm="dermatită" a="mioara"><i>dermatit</i><par n="cas/ă__n"/></e>
-<e lm="dermatolog">      <i>dermatolo</i><par n="biolo/g__n"/></e>
 <e lm="dermatolog" a="mioara"><i>dermatolog</i><par n="coleg__n"/></e>
 <e lm="dermatologie" a="delnou"><i>dermatologi</i><par n="coaliți/e__n"/></e>
 <e lm="dermatoză" a="mioara"><i>dermatoz</i><par n="cas/ă__n"/></e>
