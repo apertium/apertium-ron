@@ -27667,6 +27667,7 @@
 <e lm="curtezană" a="mioara"><i>curtezan</i><par n="cas/ă__n"/></e>
 <e r="LR" lm="curtoazie" a="mioara"><i>curtoazi</i><par n="coaliți/e__n"/></e>
 <e lm="curățenie">       <i>curățeni</i><par n="coaliți/e__n"/></e>
+<e lm="cuscru" a="marcriera"><i>cuscr</i><par n="membr/u__n"/></e>
 <e lm="custodie" a="delia"><i>custodi</i><par n="coaliți/e__n"/></e>
 <e lm="cusur" a="delia"> <i>cusur</i><par n="gât__n"/></e>
 <e lm="cută" a="delia">  <i>cut</i><par n="cas/ă__n"/></e>
@@ -41208,6 +41209,7 @@
 <e lm="psihanaliza" a="delnou"><i>psihanaliz</i><par n="lucr/a__vblex"/></e>
 <e lm="pune">            <i>pu</i><par n="pu/ne__vblex"/></e>
 <e lm="pune în lumină" a="mioara"><i>pu</i><par n="pu/ne__vblex"/><p><l><b/>în<b/>lumină</l><r><g><b/>în<b/>lumină</g></r></p></e>
+<e lm="pune masa" a="marcriera"><i>pu</i><par n="pu/ne__vblex"/><p><l><b/>masa</l><r><g><b/>masa</g></r></p></e>
 <e r="LR" lm="pune foc" a="mioara"><i>pu</i><par n="pu/ne__vblex"/><p><l><b/>foc</l><r><g><b/>foc</g></r></p></e>
 <e r="LR" lm="pune la cale" a="mioara"><i>pu</i><par n="pu/ne__vblex"/><p><l><b/>la<b/>cale</l><r><g><b/>la<b/>cale</g></r></p></e>
 <e lm="pune sub observație" a="mioara"><i>pu</i><par n="pu/ne__vblex"/><p><l><b/>sub<b/>observație</l><r><g><b/>sub<b/>observație</g></r></p></e>
