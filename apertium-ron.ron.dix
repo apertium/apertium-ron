@@ -10394,9 +10394,13 @@
 </pardef>
 
 <pardef n="cu__pr">
-
   <e>       <p><l></l>          <r><s n="pr"/></r></p></e>
 </pardef>
+
+<pardef n="potrivit__pr">
+  <e>       <p><l></l>          <r><s n="pr"/><s n="gen"/></r></p></e>
+</pardef>
+
 
 <!--PARADIGMA VERBS AUXILIARS-->
 
@@ -28781,6 +28785,7 @@
 <e lm="filogenie" a="mioara"><i>filogeni</i><par n="coaliți/e__n"/></e>
 <e lm="filologie">       <i>filologi</i><par n="coaliți/e__n"/></e>
 <e r="LR" lm="filosofie" a="mioara"><i>filosofi</i><par n="coaliți/e__n"/></e>
+<e r="LR" lm="filosof">  <p><l>filoso</l><r>filozo</r></p><par n="filozo/f__n"/></e>
 <e lm="filozof">         <i>filozo</i><par n="filozo/f__n"/></e>
 <e lm="filozofie">       <i>filozofi</i><par n="coaliți/e__n"/></e>
 <e lm="filtru" a="delia"><i>filtr</i><par n="lice/u__n"/></e>
@@ -39449,32 +39454,32 @@
 <e lm="între">           <i></i><par n="/între__pr"/></e>
 <e lm="printre">         <i></i><par n="/printre__pr"/></e>
 <e lm="dintre">          <i></i><par n="/dintre__pr"/></e>
-<e lm="abia_după">       <i>abia<b/>după</i><par n="cu__pr"/></e>
-<e lm="alături_de">      <i>alături<b/>de</i><par n="cu__pr"/></e>
-<e r="LR" lm="asupra">   <i>asupra</i><par n="cu__pr"/></e>
-<e lm="asupra_viitorului" a="delnou"><i>asupra<b/>viitorului</i><par n="cu__pr"/></e>
+<e lm="abia după">       <i>abia<b/>după</i><par n="cu__pr"/></e>
+<e lm="alături de">      <i>alături<b/>de</i><par n="cu__pr"/></e>
+<e r="LR" lm="asupra">   <i>asupra</i><par n="potrivit__pr"/></e>
+<e lm="asupra viitorului" a="delnou"><i>asupra<b/>viitorului</i><par n="cu__pr"/></e>
 <e r="LR" lm="bașca" a="mioara"><i>bașca</i><par n="cu__pr"/></e>
-<e lm="ca_pe">           <i>ca<b/>pe</i><par n="cu__pr"/></e>
+<e lm="ca pe">           <i>ca<b/>pe</i><par n="cu__pr"/></e>
 <e lm="ca urmare a" a="mioara"><i>ca<b/>urmare<b/>a</i><par n="cu__pr"/></e>
-<e lm="conform">         <i>conform</i><par n="cu__pr"/></e>
-<e lm="contra" a="delia"><i>contra</i><par n="cu__pr"/></e>
+<e lm="conform">         <i>conform</i><par n="potrivit__pr"/></e>
+<e lm="contra" a="delia"><i>contra</i><par n="potrivit__pr"/></e>
 <e lm="cu">              <i>cu</i><par n="cu__pr"/></e>
-<e lm="cu_privire la">   <i>cu<b/>privire<b/>la</i><par n="cu__pr"/></e>
+<e lm="cu privire la">   <i>cu<b/>privire<b/>la</i><par n="cu__pr"/></e>
 <e lm="cu referire la" a="delia"><i>cu<b/>referire<b/>la</i><par n="cu__pr"/></e>
-<e lm="cât_despre">      <i>cât<b/>despre</i><par n="cu__pr"/></e>
+<e lm="cât despre">      <i>cât<b/>despre</i><par n="cu__pr"/></e>
 <e r="LR" lm="către">    <i>către</i><par n="cu__pr"/></e>
-<e lm="datorită" a="delia"><i>datorită</i><par n="cu__pr"/></e>
-<e r="LR" lm="de_către"> <i>de<b/>către</i><par n="cu__pr"/></e>
-<e r="LR" lm="de_la">    <i>de<b/>la</i><par n="cu__pr"/></e>
+<e lm="datorită" a="delia"><i>datorită</i><par n="potrivit__pr"/></e>
+<e r="LR" lm="de către"> <i>de<b/>către</i><par n="cu__pr"/></e>
+<e r="LR" lm="de la">    <i>de<b/>la</i><par n="cu__pr"/></e>
 <e lm="de mai bine de" a="mioara"><i>de<b/>mai<b/>bine<b/>de</i><par n="cu__pr"/></e>
-<e r="LR" lm="de_pe">    <i>de<b/>pe</i><par n="cu__pr"/></e>
-<e lm="de_peste">        <i>de<b/>peste</i><par n="cu__pr"/></e>
+<e r="LR" lm="de pe">    <i>de<b/>pe</i><par n="cu__pr"/></e>
+<e lm="de peste">        <i>de<b/>peste</i><par n="cu__pr"/></e>
 <e lm="despre">          <i>despre</i><par n="cu__pr"/></e>
 <e lm="din">             <i>din</i><par n="cu__pr"/></e>
-<e lm="din_afara">       <i>din<b/>afara</i><par n="cu__pr"/></e>
-<e lm="din_cauza">       <i>din<b/>cauza</i><par n="cu__pr"/></e>
+<e lm="din afara">       <i>din<b/>afara</i><par n="cu__pr"/></e>
+<e lm="din cauza">       <i>din<b/>cauza</i><par n="potrivit__pr"/></e>
 <e lm="din jurul" a="delia"><i>din<b/>jurul</i><par n="cu__pr"/></e>
-<e lm="dinaintea" a="mioara"><i>dinaintea</i><par n="cu__pr"/></e>
+<e lm="dinaintea" a="mioara"><i>dinaintea</i><par n="potrivit__pr"/></e>
 <e lm="dinspre">         <i>dinspre</i><par n="cu__pr"/></e>
 <e lm="după">            <i>după</i><par n="cu__pr"/></e>
 <e lm="după cum">        <i>după<b/>cum</i><par n="cu__pr"/></e>
@@ -39482,23 +39487,24 @@
 <e lm="față de">         <i>față<b/>de</i><par n="cu__pr"/></e>
 <e lm="fără">            <i>fără</i><par n="cu__pr"/></e>
 <e lm="la">              <i>la</i><par n="cu__pr"/></e>
-<e lm="la_jumătatea">    <i>la<b/>jumătatea</i><par n="cu__pr"/></e>
+<e lm="la jumătatea">    <i>la<b/>jumătatea</i><par n="cu__pr"/></e>
 <e lm="la mijlocul">     <i>la<b/>mijlocul</i><par n="cu__pr"/></e>
-<e lm="la_sfârșitul">    <i>la<b/>sfârșitul</i><par n="cu__pr"/></e>
-<e lm="la_începutul">    <i>la<b/>începutul</i><par n="cu__pr"/></e>
+<e lm="la sfârșitul">    <i>la<b/>sfârșitul</i><par n="cu__pr"/></e>
+<e lm="la începutul">    <i>la<b/>începutul</i><par n="cu__pr"/></e>
 <e lm="la îndemâna" a="delnou"><i>la<b/>îndemâna</i><par n="cu__pr"/></e>
 <e lm="lângă">           <i>lângă</i><par n="cu__pr"/></e>
-<e lm="mai_presus_de" a="mioara"><i>mai<b/>presus<b/>de</i><par n="cu__pr"/></e>
-<e lm="mulțumită" a="delia"><i>mulțumită</i><par n="cu__pr"/></e>
-<e lm="o_anume" a="delnou"><i>o<b/>anume</i><par n="cu__pr"/></e>
+<e lm="mai presus de" a="mioara"><i>mai<b/>presus<b/>de</i><par n="cu__pr"/></e>
+<e lm="mulțumită" a="delia"><i>mulțumită</i><par n="potrivit__pr"/></e>
+<e lm="o anume" a="delnou"><i>o<b/>anume</i><par n="cu__pr"/></e>
 <e lm="pe">              <i>pe</i><par n="cu__pr"/></e>
-<e lm="pe_deasupra">     <i>pe<b/>deasupra</i><par n="cu__pr"/></e>
-<e lm="pe_gustul">       <i>pe<b/>gustul</i><par n="cu__pr"/></e>
-<e lm="pe_lângă">        <i>pe<b/>lângă</i><par n="cu__pr"/></e>
-<e lm="pe_parcursul">    <i>pe<b/>parcursul</i><par n="cu__pr"/></e>
+<e lm="pe deasupra">     <i>pe<b/>deasupra</i><par n="cu__pr"/></e>
+<e lm="pe gustul">       <i>pe<b/>gustul</i><par n="cu__pr"/></e>
+<e lm="pe lângă">        <i>pe<b/>lângă</i><par n="cu__pr"/></e>
+<e lm="pe parcursul">    <i>pe<b/>parcursul</i><par n="cu__pr"/></e>
 <e lm="pe seama" a="delia"><i>pe<b/>seama</i><par n="cu__pr"/></e>
 <e lm="pentru">          <i>pentru</i><par n="cu__pr"/></e>
 <e lm="peste">           <i>peste</i><par n="cu__pr"/></e>
+<e lm="potrivit">        <i>potrivit</i><par n="potrivit__pr"/></e>
 <e lm="prin">            <i>prin</i><par n="cu__pr"/></e>
 <e lm="prin intermediul" a="mioara"><i>prin<b/>intermediul</i><par n="cu__pr"/></e>
 <e lm="privind" a="delia"><i>privind</i><par n="cu__pr"/></e>
@@ -39507,13 +39513,12 @@
 <e lm="relativ la">      <i>relativ<b/>la</i><par n="cu__pr"/></e>
 <e lm="spre">            <i>spre</i><par n="cu__pr"/></e>
 <e lm="sub">             <i>sub</i><par n="cu__pr"/></e>
-<e lm="un_anume" a="delnou"><i>un<b/>anume</i><par n="cu__pr"/></e>
-<e lm="împotriva" a="delia"><i>împotriva</i><par n="cu__pr"/></e>
-<e lm="împotrivă" a="mioara"><i>împotrivă</i><par n="cu__pr"/></e>
-<e lm="împreună_cu">     <i>împreună<b/>cu</i><par n="cu__pr"/></e>
+<e lm="un anume" a="delnou"><i>un<b/>anume</i><par n="cu__pr"/></e>
+<e lm="împotriva" a="delia"><i>împotriva</i><par n="potrivit__pr"/></e>
+<e lm="împreună cu">     <i>împreună<b/>cu</i><par n="cu__pr"/></e>
 <e lm="în">              <i>în</i><par n="cu__pr"/></e>
-<e lm="în_afara">        <i>în<b/>afara</i><par n="cu__pr"/></e>
-<e lm="în_afară_de">     <i>în<b/>afară<b/>de</i><par n="cu__pr"/></e>
+<e lm="în afara">        <i>în<b/>afara</i><par n="cu__pr"/></e>
+<e lm="în afară de">     <i>în<b/>afară<b/>de</i><par n="cu__pr"/></e>
 <e r="LR" lm="în_ceea_ce-i_privește_pe" a="mioara"><i>în<b/>ceea<b/>ce-i<b/>privește<b/>pe</i><par n="cu__pr"/></e>
 <e r="LR" lm="în_ceea_ce-l_privește_pe" a="mioara"><i>în<b/>ceea<b/>ce-l<b/>privește<b/>pe</i><par n="cu__pr"/></e>
 <e r="LR" lm="în_ceea_ce-o_privește_pe" a="mioara"><i>în<b/>ceea<b/>ce-o<b/>privește<b/>pe</i><par n="cu__pr"/></e>
@@ -39525,23 +39530,23 @@
 <e r="LR" lm="în_ceea_ce_îl_privește_pe" a="mioara"><i>în<b/>ceea<b/>ce<b/>îl<b/>privește<b/>pe</i><par n="cu__pr"/></e>
 <e lm="în cinstea" a="mioara"><i>în<b/>cinstea</i><par n="cu__pr"/></e>
 <e r="LR" lm="în_ciuda" a="mioara"><i>în<b/>ciuda</i><par n="cu__pr"/></e>
-<e lm="în_conformitate_cu"><i>în<b/>conformitate<b/>cu</i><par n="cu__pr"/></e>
-<e lm="în_fața">         <i>în<b/>fața</i><par n="cu__pr"/></e>
+<e lm="în conformitate_cu"><i>în<b/>conformitate<b/>cu</i><par n="cu__pr"/></e>
+<e lm="în fața">         <i>în<b/>fața</i><par n="potrivit__pr"/></e>
 <e lm="în jurul" a="delnou"><i>în<b/>jurul</i><par n="cu__pr"/></e>
-<e r="LR" lm="în_legătură_cu"><i>în<b/>legătură<b/>cu</i><par n="cu__pr"/></e>
+<e r="LR" lm="în legătură cu"><i>în<b/>legătură<b/>cu</i><par n="cu__pr"/></e>
 <e lm="în marja" a="delia"><i>în<b/>marja</i><par n="cu__pr"/></e>
-<e lm="în_pofida" a="mioara"><i>în<b/>pofida</i><par n="cu__pr"/></e>
+<e lm="în pofida" a="mioara"><i>în<b/>pofida</i><par n="cu__pr"/></e>
 <e r="LR" lm="în preajma" a="delnou"><i>în<b/>preajma</i><par n="cu__pr"/></e>
-<e lm="în_privința">     <i>în<b/>privința</i><par n="cu__pr"/></e>
-<e lm="în_raport_cu" a="mioara"><i>în<b/>raport<b/>cu</i><par n="cu__pr"/></e>
+<e lm="în privința">     <i>în<b/>privința</i><par n="cu__pr"/></e>
+<e lm="în raport cu" a="mioara"><i>în<b/>raport<b/>cu</i><par n="cu__pr"/></e>
 <e lm="în temeiul" a="delnou"><i>în<b/>temeiul</i><par n="cu__pr"/></e>
-<e lm="în_termen_de">    <i>în<b/>termen<b/>de</i><par n="cu__pr"/></e>
-<e lm="în_timpul">       <i>în<b/>timpul</i><par n="cu__pr"/></e>
-<e lm="în_toiul" a="delnou"><i>în<b/>toiul</i><par n="cu__pr"/></e>
-<e lm="în_urma">         <i>în<b/>urma</i><par n="cu__pr"/></e>
+<e lm="în termen_de">    <i>în<b/>termen<b/>de</i><par n="cu__pr"/></e>
+<e lm="în timpul">       <i>în<b/>timpul</i><par n="potrivit__pr"/></e>
+<e lm="în toiul" a="delnou"><i>în<b/>toiul</i><par n="cu__pr"/></e>
+<e lm="în urma">         <i>în<b/>urma</i><par n="cu__pr"/></e>
 <e lm="în vederea" a="delia"><i>în<b/>vederea</i><par n="cu__pr"/></e>
 <e lm="în văzul" a="mioara"><i>în<b/>văzul</i><par n="cu__pr"/></e>
-<e r="LR" lm="înaintea" a="mioara"><i>înaintea</i><par n="cu__pr"/></e>
+<e r="LR" lm="înaintea" a="mioara"><i>înaintea</i><par n="potrivit__pr"/></e>
 <e lm="începând cu">     <i>începând<b/>cu</i><par n="cu__pr"/></e>
 <e r="LR" lm="înspre">   <i>înspre</i><par n="cu__pr"/></e>
 <e r="LR" lm="întru">    <i>întru</i><par n="cu__pr"/></e>
@@ -42358,6 +42363,10 @@
 
 <e r="LR" lm="că-">      <p><l>că-</l>       <r>că<s n="cnjsub"/></r></p></e>
 <e r="LR" lm="să-">      <p><l>să-</l>       <r>să<s n="cnjsub"/></r></p></e>
+<e r="LR" lm="să-i">     <p><l>să-i</l>      <r>să<s n="cnjsub"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+<e r="LR" lm="să-i">     <p><l>să-i</l>      <r>să<s n="cnjsub"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mfn"/><s n="sg"/><s n="dg"/></r></p></e>
+<e r="LR" lm="să-l">     <p><l>să-l</l>      <r>să<s n="cnjsub"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/><s n="nom"/></r></p></e>
+<e r="LR" lm="să-o">     <p><l>să-o</l>      <r>să<s n="cnjsub"/><j/>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
 
 <e r="LR" lm="a-">       <p><l>a-</l>        <r>la<s n="pr"/></r></p></e>
 <e r="LR" lm="de-">      <p><l>de-</l>       <r>de<s n="pr"/></r></p></e>
