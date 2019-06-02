@@ -39953,6 +39953,7 @@
 <e r="LR" lm="aținti" a="mioara"><i>ațint</i><par n="gând/i__vblex"/></e>
 <e lm="ațâța" a="delia"> <i>ațâț</i><par n="declar/a__vblex"/></e>
 <e lm="bate">            <i>b</i><par n="b/ate__vblex"/></e>
+<e lm="bate la cap">     <i>b</i><par n="b/ate__vblex"/><p><l><b/>la<b/>cap</l><r><g><b/>la<b/>cap</g></r></p></e>
 <e lm="bea">             <i>b</i><par n="b/ea__vblex"/></e>
 <e lm="băga">            <i>b</i><par n="b/ăga__vblex"/></e>
 <e lm="băga în închisoare"><i>b</i><par n="b/ăga__vblex"/><p><l><b/>în<b/>închisoare</l><r><g><b/>în<b/>închisoare</g></r></p></e>
@@ -39983,7 +39984,7 @@
 <e lm="binevoi" a="mioara"><i>binevoi</i><par n="sfătui__vblex"/></e>
 <e lm="birocratiza" a="mioara"><i>birocratiz</i><par n="lucr/a__vblex"/></e>
 <e r="LR" lm="birui" a="mioara"><i>birui</i><par n="constitui__vblex"/></e>
-<e r="LR" lm="blagoslovi" a="mioara"><i>blagoslovi</i><par n="gând/i__vblex"/></e>
+<e r="LR" lm="blagoslovi" a="mioara"><i>blagoslov</i><par n="gând/i__vblex"/></e>
 <e r="LR" lm="blama" a="mioara"><i>blam</i><par n="lucr/a__vblex"/></e>
 <e lm="blasfema" a="delia"><i>blasfem</i><par n="lucr/a__vblex"/></e>
 <e lm="blaza" a="mioara"><i>blaz</i><par n="lucr/a__vblex"/></e>
@@ -40802,6 +40803,7 @@
 <e lm="interzice">       <i>interzi</i><par n="du/ce__vblex"/></e>
 <e lm="intitula">        <i>intitul</i><par n="lucr/a__vblex"/></e>
 <e lm="intra">           <i>intr</i><par n="afl/a__vblex"/></e>
+<e lm="intra în bucluc"> <i>intr</i><par n="afl/a__vblex"/><p><l><b/>în<b/>bucluc</l><r><g><b/>în<b/>bucluc</g></r></p></e>
 <e lm="introduce">       <i>introdu</i><par n="du/ce__vblex"/></e>
 <e lm="intuba" a="mioara"><i>intub</i><par n="lucr/a__vblex"/></e>
 <e lm="intui">           <i>intui</i><par n="sfătui__vblex"/></e>
@@ -40921,6 +40923,7 @@
 <e lm="milita" a="delnou"><i>milit</i><par n="lucr/a__vblex"/></e>
 <e lm="militariza" a="delia"><i>militariz</i><par n="lucr/a__vblex"/></e>
 <e lm="milostivi" a="mioara"><i>milostiv</i><par n="gând/i__vblex"/></e>
+<e lm="mima">            <i>mim</i><par n="lucr/a__vblex"/></e>
 <e lm="minți">           <i>min</i><par n="sim/ți__vblex"/></e>
 <e lm="mineraliza" a="mioara"><i>mineraliz</i><par n="lucr/a__vblex"/></e>
 <e lm="minuna" a="delnou"><i>minun</i><par n="lucr/a__vblex"/></e>
@@ -41209,9 +41212,11 @@
 <e lm="psihanaliza" a="delnou"><i>psihanaliz</i><par n="lucr/a__vblex"/></e>
 <e lm="pune">            <i>pu</i><par n="pu/ne__vblex"/></e>
 <e lm="pune în lumină" a="mioara"><i>pu</i><par n="pu/ne__vblex"/><p><l><b/>în<b/>lumină</l><r><g><b/>în<b/>lumină</g></r></p></e>
+<e lm="pune în mișcare"> <i>pu</i><par n="pu/ne__vblex"/><p><l><b/>în<b/>mișcare</l><r><g><b/>în<b/>mișcare</g></r></p></e>
 <e lm="pune masa" a="marcriera"><i>pu</i><par n="pu/ne__vblex"/><p><l><b/>masa</l><r><g><b/>masa</g></r></p></e>
 <e r="LR" lm="pune foc" a="mioara"><i>pu</i><par n="pu/ne__vblex"/><p><l><b/>foc</l><r><g><b/>foc</g></r></p></e>
 <e r="LR" lm="pune la cale" a="mioara"><i>pu</i><par n="pu/ne__vblex"/><p><l><b/>la<b/>cale</l><r><g><b/>la<b/>cale</g></r></p></e>
+<e lm="pune la treabă"><i>pu</i><par n="pu/ne__vblex"/><p><l><b/>la<b/>treabă</l><r><g><b/>la<b/>treabă</g></r></p></e>
 <e lm="pune sub observație" a="mioara"><i>pu</i><par n="pu/ne__vblex"/><p><l><b/>sub<b/>observație</l><r><g><b/>sub<b/>observație</g></r></p></e>
 <e lm="pune capăt la">   <i>pu</i><par n="pu/ne__vblex"/><p><l><b/>capăt<b/>la</l><r><g><b/>capăt<b/>la</g></r></p></e>
 <e lm="puți" a="delnou"> <i>pu</i><par n="sim/ți__vblex"/></e>
