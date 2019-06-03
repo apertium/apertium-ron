@@ -142,6 +142,7 @@ SELECT Inf IF (0 V) (0 Inf) (-2 Inf_a) (-1 Prnpro) ;
 SELECT Inf IF (0 V) (0 Inf) (-3 Inf_a) (-2 Prnpro) (-1 Prnpro) ;
 SELECT Inf IF (0 V) (0 Inf) (-1 Vaux) ;
 SELECT Inf IF (0 V) (0 Inf) (-1 Vbavea) ;
+SELECT Inf IF (0 V) (0 Inf) (-1 Vbmod) ;
 REMOVE Inf IF (0 V) (0 Inf) ;
 
 # Al lui (pronoun/det+adj)
