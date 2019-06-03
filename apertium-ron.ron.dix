@@ -20611,6 +20611,7 @@
 <e lm="beat turtă" a="mioara"><i>be</i><par n="be/at_turtă__adj"/></e>
 <e r="LR" lm="beat criță" a="mioara"><i>be</i><par n="be/at_criță__adj"/></e>
 <e lm="beatific" a="mioara"><i>beatific</i><par n="bun__adj"/></e>
+<e lm="bej" a="marcriera"><i>bej</i><par n="multimedia__adj"/></e>
 <e lm="belgian" a="mioara"><i>belgi</i><par n="vegetari/an__adj"/></e>
 <e lm="belic">           <i>belic</i><par n="bun__adj"/></e>
 <e lm="belicos" a="mioara"><i>belico</i><par n="curajo/s__adj"/></e>
@@ -21659,6 +21660,7 @@
 <e lm="fosforescent" a="delia"><i>fosforescen</i><par n="adevăra/t__adj"/></e>
 <e lm="fosil" a="delnou"><i>fosil</i><par n="bun__adj"/></e>
 <e lm="fotbalistic">     <i>fotbalistic</i><par n="bun__adj"/></e>
+<e lm="fotoelectric">    <i>fotoelectric</i><par n="bun__adj"/></e>
 <e lm="fotogenic" a="delia"><i>fotogenic</i><par n="bun__adj"/></e>
 <e lm="fotografic">      <i>fotografic</i><par n="bun__adj"/></e>
 <e lm="fotoreceptor">    <i>fotorecepto</i><par n="arzăto/r__adj"/></e>
@@ -32427,7 +32429,7 @@
 <e lm="raniță" a="delia"><i>raniț</i><par n="cas/ă__n"/></e>
 <e lm="rapacitate" a="delia"><i>rapacit</i><par n="universit/ate__n"/></e>
 <e lm="rapiditate" a="delnou"><i>rapidit</i><par n="universit/ate__n"/></e>
-<e lm="raport">          <i>rapo</i><par n="pașapo/rt__n"/></e>
+<e lm="raport">          <i>raport</i><par n="gât__n"/></e>
 <e lm="rapsodie" a="delnou"><i>rapsodi</i><par n="coaliți/e__n"/></e>
 <e lm="rapăn" a="delia"> <i>rapăn</i><par n="caiet__n"/></e>
 <e lm="rasă" a="delia">  <i>ras</i><par n="cas/ă__n"/></e>

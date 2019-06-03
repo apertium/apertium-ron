@@ -14,14 +14,20 @@ LIST Pr = pr ;
 LIST Det = det ;
 LIST Adv = adv ;
 LIST Prn = prn ;
-LIST Prnpro = prn pro;
-LIST Vbavea = vbavea ;
-LIST Vbmod = vbmod ;
-LIST V = vblex ;
+LIST Prnpro = (prn pro) ;
+LIST V = vblex vbser vaux vbmod vbhaver vbavea ;
+LIST Vblex = vblex ;
 LIST Vbser = vbser ;
 LIST Vaux = vaux ;
-LIST Pp = pp ;
+LIST Vbavea = vbavea ;
+LIST Vbmod = vbmod ;
 LIST Ij = ij ;
+
+LIST Pri = (vblex pri) (vbser pri) (vaux pri) (vbmod pri) (vbhaver pri) (vbavea pri) ;
+LIST Prs = (vblex prs) (vbser prs) (vaux prs) (vbmod prs) (vbhaver prs) (vbavea prs) ;
+LIST Ifi = (vblex ifi) (vbser ifi) (vaux ifi) (vbmod ifi) (vbhaver ifi) (vbavea ifi) ;
+LIST Inf = (vblex inf) (vbser inf) (vaux inf) (vbmod inf) (vbhaver inf) (vbavea inf) ;
+LIST Pp = (vblex pp) (vbser pp) (vaux pp) (vbmod pp) (vbhaver pp) (vbavea pp) ;
 
 LIST Sg = sg ;
 LIST Pl = pl ;
@@ -40,15 +46,15 @@ LIST Dg = dg ;
 LIST Ind = ind ;
 LIST Def = def ;
 
-LIST Pri = pri ;
-LIST Prs = prs ;
-LIST Ifi = ifi ;
-LIST Inf = inf ;
+LIST P1 = p1 ;
 
-LIST Să = ("să") cnjsub ;
-LIST Inf_a = ("a") pr ;
-LIST Gen_a = ("a") det def ;
-LIST Avea_a = ("a") vbavea ;
+LIST P1Sg = (p1 sg) ;
+LIST P1Pl = (p1 pl) ;
+
+LIST Să = ("să" cnjsub) ;
+LIST Inf_a = ("a" pr) ;
+LIST Gen_a = ("a" det def) ;
+LIST Avea_a = ("a" vbavea) ;
 SET Și = ("și" adv) | ("și" cnjcoo) ;
 
 
@@ -110,25 +116,25 @@ SELECT Prn IF (0 Prn) (0 Adj) (NOT -1 N) (1 Vbavea) (2 V) ;
 SELECT Prn IF (0 Prn) (0 Adj) (NOT -1 N) (1 Vbavea) (2 Vbser) ;
 
 # Conjunctiv
-SELECT Prs IF (0 Prs) (0 Pri) (-1 Să) ;
-SELECT Prs IF (0 Prs) (0 Pri) (-2 Să) (-1 Adv);
-SELECT Prs IF (0 Prs) (0 Pri) (-2 Să) (-1 Prn);
-SELECT Prs IF (0 Prs) (0 Pri) (-3 Să) (-2 Adv) (-1 Prn);
-REMOVE Prs IF (0 Prs) (0 Pri) ;
+SELECT Prs IF (0 V) (-1 Să) ;
+SELECT Prs IF (0 V) (-2 Să) (-1 Adv);
+SELECT Prs IF (0 V) (-2 Să) (-1 Prn);
+SELECT Prs IF (0 V) (-3 Să) (-2 Adv) (-1 Prn);
+REMOVE Prs IF (0 V) ;
 
 # Vrea
-REMOVE V IF (0 V) (0 Vaux) (1 Inf) ;
-REMOVE V IF (0 V) (0 Vaux) (1 Să) (2 Prs) ;
-REMOVE Vaux IF (0 V) (0 Vaux) ;
+REMOVE Vblex IF (0 Vblex) (0 Vaux) (1 Inf) ;
+REMOVE Vblex IF (0 Vblex) (0 Vaux) (1 Să) (2 Prs) ;
+REMOVE Vaux IF (0 Vblex) (0 Vaux) ;
 
 # Avea
-REMOVE V IF (0 V) (0 Vbavea) (1 Pp) ;
-REMOVE V IF (0 V) (0 Vbavea) (1 Să) (2 Prs) ;
-REMOVE V IF (0 V) (0 Vbavea) (1 Inf) ;
-REMOVE Vbavea IF (0 V) (0 Vbavea) ;
+REMOVE Vblex IF (0 Vblex) (0 Vbavea) (1 Pp) ;
+REMOVE Vblex IF (0 Vblex) (0 Vbavea) (1 Să) (2 Prs) ;
+REMOVE Vblex IF (0 Vblex) (0 Vbavea) (1 Inf) ;
+REMOVE Vbavea IF (0 Vblex) (0 Vbavea) ;
 
 # Fi
-REMOVE V IF (0 V) (0 Vbser) (1 Pp) ;
+REMOVE Vblex IF (0 Vblex) (0 Vbser) (1 Pp) ;
 
 # Inf
 SELECT Inf IF (0 V) (0 Inf) (-1 Inf_a) ;
@@ -143,15 +149,29 @@ REMOVE Prn IF (0 ("al lui")) (1 Np) ;
 SELECT Prn IF (0 ("al lui")) ;
 
 
+# Noi (Prn/Adj)
+
+SELECT Prn IF (0 ("noi")) (-1 Pr) (NOT 1 N) ;
+
+
+# Vblex/Vbser
+
+SELECT Vbser IF (0 V) (1C Adj) (2 Să);
+SELECT Vbser IF (0 V) (1 Adv) (2C Adj) (3 Să);
+
+
+# Verbe cu pronume
+
+REMOVE P1Sg IF (0C V) (NOT -2C Prnpro) (-1C Prnpro + P1 + Pl) ;
+REMOVE P1Pl IF (0C V) (NOT -2C Prnpro) (-1C Prnpro + P1 + Sg) ;
+
+
+
 # Remove plural if determiner is singular ("fiecare")
 REMOVE Pl IF (0 N) (-1C Det + Sg) ;
 
 
-# Remove dative/genitive by default
-REMOVE Dg IF (0 Nom) (0 Dg) ;
 
-# Remove plural by default
-REMOVE Pl IF (0 Sg) (0 Pl) ;
 
 
 
@@ -162,6 +182,12 @@ AFTER-SECTIONS
 APPEND ("Avea" vbavea pri p3 sg) ("avea" vbavea pri p3 sg) IF (-1 BOS) ;
 REMOVE ("avea" vbavea pri p3 sg) IF (-1 BOS) ;
 
+APPEND ("Fi" vbser pri p3 sg) ("fi" vbser pri p3 sg) IF (-1 BOS) ;
+REMOVE ("fi" vbser pri p3 sg) IF (-1 BOS) ;
+
+APPEND ("Fi" vblex pri p3 sg) ("fi" vblex pri p3 sg) IF (-1 BOS) ;
+REMOVE ("fi" vblex pri p3 sg) IF (-1 BOS) ;
+
 APPEND ("Al" det def f sg) ("al" det def f sg) IF (-1 BOS) ;
 REMOVE ("al" det def f sg) IF (-1 BOS) ;
 
@@ -171,6 +197,9 @@ REMOVE ("un" det ind f sg nom) IF (-1 BOS) ;
 APPEND ("Îl" prn pro p3 f sg nom) ("îl" prn pro p3 f sg nom) IF (-1 BOS) ;
 REMOVE ("îl" prn pro p3 f sg nom) IF (-1 BOS) ;
 
+
+REMOVE Dg IF (0 Nom) (0 Dg) ;
+REMOVE Pl IF (0 Sg) (0 Pl) ;
 
 
 # Resources:
