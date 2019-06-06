@@ -7809,10 +7809,14 @@
   <e>       <p><l>âul</l>       <r>âu<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>âu</l>        <r>âu<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>âului</l>     <r>âu<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-  <e>       <p><l>aie</l>       <r>âu<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>aiele</l>     <r>âu<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-  <e>       <p><l>aie</l>       <r>âu<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>aielor</l>    <r>âu<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>âuri</l>      <r>âu<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>âurile</l>    <r>âu<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>âuri</l>      <r>âu<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>âurilor</l>   <r>âu<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e r="LR"><p><l>aie</l>       <r>âu<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e r="LR"><p><l>aiele</l>     <r>âu<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e r="LR"><p><l>aie</l>       <r>âu<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e r="LR"><p><l>aielor</l>    <r>âu<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 <pardef n="brâ/u__n">
   <e>       <p><l>u</l>         <r>u<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -24966,6 +24970,7 @@
 <e r="LR" lm="înlăuntru"><i>înlăuntru</i><par n="azi__adv"/></e>
 <e lm="întocmai" a="mioara"><i>întocmai</i><par n="azi__adv"/></e>
 <e lm="întotdeauna">     <i>întotdeauna</i><par n="azi__adv"/></e>
+<e lm="într-adevăr">     <i>într-adevăr</i><par n="azi__adv"/></e>
 <e lm="într-o anumită privință" a="mioara"><i>într-o<b/>anumită<b/>privință</i><par n="azi__adv"/></e>
 <e lm="într-o_bună_zi" a="delnou"><i>într-o<b/>bună<b/>zi</i><par n="azi__adv"/></e>
 <e lm="într-o_clipă">    <i>într-o<b/>clipă</i><par n="azi__adv"/></e>
@@ -42345,6 +42350,53 @@
 <e lm="fi">              <par n="/fi__vbser"/></e>
 
   </section>
+
+  <section id="contractions" type="standard">
+
+<e r="LR" lm="și-și">    <p><l>și-și</l>     <r>și<s n="cnjcoo"/><j/>se<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mfn"/><s n="sp"/><s n="dg"/></r></p></e>
+
+<e r="LR" lm="să-i">     <p><l>să-i</l>      <r>să<s n="cnjsub"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+<e r="LR" lm="să-i">     <p><l>să-i</l>      <r>să<s n="cnjsub"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mfn"/><s n="sg"/><s n="dg"/></r></p></e>
+<e r="LR" lm="să-l">     <p><l>să-l</l>      <r>să<s n="cnjsub"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/><s n="nom"/></r></p></e>
+<e r="LR" lm="să-o">     <p><l>să-o</l>      <r>să<s n="cnjsub"/><j/>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+
+<e r="LR" lm="dintr-un"> <p><l>dintr-un</l>  <r>din<s n="pr"/><j/>un<s n="det"/><s n="ind"/><s n="mn"/><s n="sg"/><s n="nom"/></r></p></e>
+<e r="LR" lm="dintr-o">  <p><l>dintr-o</l>   <r>din<s n="pr"/><j/>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+<e r="LR" lm="printr-un"><p><l>printr-un</l> <r>prin<s n="pr"/><j/>un<s n="det"/><s n="ind"/><s n="mn"/><s n="sg"/><s n="nom"/></r></p></e>
+<e r="LR" lm="printr-o"> <p><l>printr-o</l>  <r>prin<s n="pr"/><j/>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+<e r="LR" lm="într-un">  <p><l>într-un</l>   <r>în<s n="pr"/><j/>un<s n="det"/><s n="ind"/><s n="mn"/><s n="sg"/><s n="nom"/></r></p></e>
+<e r="LR" lm="într-o">   <p><l>într-o</l>    <r>în<s n="pr"/><j/>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+
+<e r="LR" lm="i-i">      <p><l>i-i</l>       <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/><s n="dg"/><j/>îi<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="LR" lm="i-l">      <p><l>i-l</l>       <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/></r></p></e>
+<e r="LR" lm="i-o">      <p><l>i-o</l>       <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/><s n="dg"/><j/>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR" lm="i le">     <p><l>i<b/>le</l>   <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="LR" lm="i te">     <p><l>i<b/>te</l>   <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/><s n="dg"/><j/>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+<e r="LR" lm="le-o">     <p><l>le-o</l>      <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="fn"/><s n="pl"/><s n="dg"/><j/>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR" lm="li-i">     <p><l>li-i</l>      <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="fn"/><s n="pl"/><s n="dg"/><j/>îi<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="LR" lm="li-l">     <p><l>li-l</l>      <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="fn"/><s n="pl"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/></r></p></e>
+<e r="LR" lm="li le">    <p><l>li<b/>le</l>  <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="fn"/><s n="pl"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="LR" lm="li te">    <p><l>li<b/>te</l>  <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="fn"/><s n="pl"/><s n="dg"/><j/>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+<e r="LR" lm="mi-i">     <p><l>mi-i</l>      <r>mă<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îi<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="LR" lm="mi-l">     <p><l>mi-l</l>      <r>mă<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/></r></p></e>
+<e r="LR" lm="mi-o">     <p><l>mi-o</l>      <r>mă<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR" lm="mi le">    <p><l>mi<b/>le</l>  <r>mă<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="LR" lm="mi te">    <p><l>mi<b/>te</l>  <r>mă<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+<e r="LR" lm="ni-i">     <p><l>ni-i</l>      <r>ne<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="dg"/><j/>îi<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="LR" lm="ni-l">     <p><l>ni-l</l>      <r>ne<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/></r></p></e>
+<e r="LR" lm="ni-o">     <p><l>ni-o</l>      <r>ne<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="dg"/><j/>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR" lm="ni le">    <p><l>ni<b/>le</l>  <r>ne<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="LR" lm="ni te">    <p><l>ni<b/>te</l>  <r>ne<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="dg"/><j/>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+<e r="LR" lm="vi-i">     <p><l>vi-i</l>      <r>vă<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="dg"/><j/>îi<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="LR" lm="vi-l">     <p><l>vi-l</l>      <r>vă<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/></r></p></e>
+<e r="LR" lm="v-o">      <p><l>vi-o</l>      <r>vă<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="dg"/><j/>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR" lm="vi le">    <p><l>vi<b/>le</l>  <r>vă<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="LR" lm="ți-i">     <p><l>ți-i</l>      <r>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îi<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="LR" lm="ți-l">     <p><l>ți-l</l>      <r>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/></r></p></e>
+<e r="LR" lm="ți-o">     <p><l>ți-o</l>      <r>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR" lm="ți le">    <p><l>ți<b/>le</l>  <r>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+
+  </section>
   <section id="apostrophes2" type="preblank">
 
 <e r="LR" lm="-n">       <p><l>-n</l>        <r>în<s n="pr"/></r></p></e>
@@ -42361,68 +42413,32 @@
 
 <e r="LR" lm="da'">      <p><l>da'</l>       <r>dar<s n="cnjcoo"/></r></p></e>
 <e r="LR" lm="și-">      <p><l>și-</l>       <r>și<s n="cnjcoo"/></r></p></e>
-<e r="LR" lm="și-și">    <p><l>și-și</l>     <r>și<s n="cnjcoo"/><j/>se<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mfn"/><s n="sp"/><s n="dg"/></r></p></e>
 
 <e r="LR" lm="că-">      <p><l>că-</l>       <r>că<s n="cnjsub"/></r></p></e>
 <e r="LR" lm="să-">      <p><l>să-</l>       <r>să<s n="cnjsub"/></r></p></e>
-<e r="LR" lm="să-i">     <p><l>să-i</l>      <r>să<s n="cnjsub"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
-<e r="LR" lm="să-i">     <p><l>să-i</l>      <r>să<s n="cnjsub"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mfn"/><s n="sg"/><s n="dg"/></r></p></e>
-<e r="LR" lm="să-l">     <p><l>să-l</l>      <r>să<s n="cnjsub"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/><s n="nom"/></r></p></e>
-<e r="LR" lm="să-o">     <p><l>să-o</l>      <r>să<s n="cnjsub"/><j/>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
 
 <e r="LR" lm="a-">       <p><l>a-</l>        <r>la<s n="pr"/></r></p></e>
 <e r="LR" lm="de-">      <p><l>de-</l>       <r>de<s n="pr"/></r></p></e>
-<e r="LR" lm="dintr-">   <p><l>dintr-</l>    <r>dintre<s n="pr"/></r></p></e>
-<e r="LR" lm="printr-">  <p><l>printr-</l>   <r>printr-<s n="pr"/></r></p></e>
-<e r="LR" lm="într-">    <p><l>într-</l>     <r>într-<s n="pr"/></r></p></e>
 
 <e r="LR" lm="ce-">      <p><l>ce-</l>       <r>ce<s n="prn"/><s n="itg"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
 <e r="LR" lm="cine-">    <p><l>cine-</l>     <r>cine<s n="prn"/><s n="itg"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
 <e r="LR" lm="i-">       <p><l>i-</l>        <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
 <e r="LR" lm="i-">       <p><l>i-</l>        <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/><s n="dg"/></r></p></e>
-<e r="LR" lm="i-i">      <p><l>i-i</l>       <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/><s n="dg"/><j/>îi<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
-<e r="LR" lm="i-l">      <p><l>i-l</l>       <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/></r></p></e>
-<e r="LR" lm="i-o">      <p><l>i-o</l>       <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/><s n="dg"/><j/>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-<e r="LR" lm="i le">     <p><l>i<b/>le</l>   <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
-<e r="LR" lm="i te">     <p><l>i<b/>te</l>   <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/><s n="dg"/><j/>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
 <e r="LR" lm="l-">       <p><l>l-</l>        <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/><s n="nom"/></r></p></e>
 <e r="LR" lm="le-">      <p><l>le-</l>       <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="fn"/><s n="pl"/><s n="nom"/></r></p></e>
 <e r="LR" lm="le-">      <p><l>le-</l>       <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="fn"/><s n="pl"/><s n="dg"/></r></p></e>
-<e r="LR" lm="le-o">     <p><l>le-o</l>      <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="fn"/><s n="pl"/><s n="dg"/><j/>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-<e r="LR" lm="li-i">     <p><l>li-i</l>      <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="fn"/><s n="pl"/><s n="dg"/><j/>îi<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
-<e r="LR" lm="li-l">     <p><l>li-l</l>      <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="fn"/><s n="pl"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/></r></p></e>
-<e r="LR" lm="li le">    <p><l>li<b/>le</l>  <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="fn"/><s n="pl"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
-<e r="LR" lm="li te">    <p><l>li<b/>te</l>  <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="fn"/><s n="pl"/><s n="dg"/><j/>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
 <e r="LR" lm="m-">       <p><l>m-</l>        <r>mă<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
 <e r="LR" lm="mi-">      <p><l>mi-</l>       <r>mă<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/></r></p></e>
-<e r="LR" lm="mi-i">     <p><l>mi-i</l>      <r>mă<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îi<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
-<e r="LR" lm="mi-l">     <p><l>mi-l</l>      <r>mă<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/></r></p></e>
-<e r="LR" lm="mi-o">     <p><l>mi-o</l>      <r>mă<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-<e r="LR" lm="mi le">    <p><l>mi<b/>le</l>  <r>mă<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
-<e r="LR" lm="mi te">    <p><l>mi<b/>te</l>  <r>mă<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
 <e r="LR" lm="ne-">      <p><l>ne-</l>       <r>ne<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
 <e r="LR" lm="ne-">      <p><l>ne-</l>       <r>ne<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="dg"/></r></p></e>
-<e r="LR" lm="ni-i">     <p><l>ni-i</l>      <r>ne<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="dg"/><j/>îi<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
-<e r="LR" lm="ni-l">     <p><l>ni-l</l>      <r>ne<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/></r></p></e>
-<e r="LR" lm="ni-o">     <p><l>ni-o</l>      <r>ne<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="dg"/><j/>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-<e r="LR" lm="ni le">    <p><l>ni<b/>le</l>  <r>ne<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
-<e r="LR" lm="ni te">    <p><l>ni<b/>te</l>  <r>ne<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="dg"/><j/>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
 <!--    <e lm="și-" r="LR"><p><l>și-</l><r>își<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mfn"/><s n="sp"/><s n="dg"/></r></p></e>-->
 <e r="LR" lm="s-'">      <p><l>s-</l>        <r>se<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mfn"/><s n="sp"/><s n="nom"/></r></p></e>
 <e r="LR" lm="te-">      <p><l>te-</l>       <r>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
 <e r="LR" lm="v-">       <p><l>v-</l>        <r>vă<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
 <e r="LR" lm="v-">       <p><l>v-</l>        <r>vă<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="dg"/></r></p></e>
-<e r="LR" lm="vi-i">     <p><l>vi-i</l>      <r>vă<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="dg"/><j/>îi<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
-<e r="LR" lm="vi-l">     <p><l>vi-l</l>      <r>vă<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/></r></p></e>
-<e r="LR" lm="v-o">      <p><l>vi-o</l>      <r>vă<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="dg"/><j/>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-<e r="LR" lm="vi le">    <p><l>vi<b/>le</l>  <r>vă<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
 <!--    <e lm="și-'" r="LR"><p><l>și-</l><r>își<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mfn"/><s n="sp"/><s n="dg"/></r></p></e>-->
 <e r="LR" lm="și-">      <p><l>și-</l>       <r>se<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mfn"/><s n="sp"/><s n="dg"/></r></p></e>
 <e r="LR" lm="ți-">      <p><l>ți-</l>       <r>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dg"/></r></p></e>
-<e r="LR" lm="ți-i">     <p><l>ți-i</l>      <r>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îi<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
-<e r="LR" lm="ți-l">     <p><l>ți-l</l>      <r>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/></r></p></e>
-<e r="LR" lm="ți-o">     <p><l>ți-o</l>      <r>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-<e r="LR" lm="ți le">    <p><l>ți<b/>le</l>  <r>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
 
   </section>
   <section id="final" type="inconditional">

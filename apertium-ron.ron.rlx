@@ -26,6 +26,7 @@ LIST Ij = ij ;
 LIST Pri = (vblex pri) (vbser pri) (vaux pri) (vbmod pri) (vbhaver pri) (vbavea pri) ;
 LIST Prs = (vblex prs) (vbser prs) (vaux prs) (vbmod prs) (vbhaver prs) (vbavea prs) ;
 LIST Ifi = (vblex ifi) (vbser ifi) (vaux ifi) (vbmod ifi) (vbhaver ifi) (vbavea ifi) ;
+LIST Imp = (vblex imp) (vbser imp) (vaux imp) (vbmod imp) (vbhaver imp) (vbavea imp) ;
 LIST Inf = (vblex inf) (vbser inf) (vaux inf) (vbmod inf) (vbhaver inf) (vbavea inf) ;
 LIST Pp = (vblex pp) (vbser pp) (vaux pp) (vbmod pp) (vbhaver pp) (vbavea pp) ;
 
@@ -53,8 +54,9 @@ LIST P1Pl = (p1 pl) ;
 
 LIST Să = ("să" cnjsub) ;
 LIST Inf_a = ("a" pr) ;
-LIST Gen_a = ("a" det def) ;
+LIST Gen_al = ("al" det def) ;
 LIST Avea_a = ("a" vbavea) ;
+LIST Rel_unde = ("unde" rel adv) ;
 SET Și = ("și" adv) | ("și" cnjcoo) ;
 
 
@@ -106,8 +108,8 @@ SELECT Pr IF (0 Inf_a) (1 Inf) ;
 SELECT Pr IF (0 Inf_a) (1 Prnpro) (2 Inf) ;
 SELECT Pr IF (0 Inf_a) (1 Prnpro) (2 Prnpro) (3 Inf) ;
 
-# A (prep or det)
-SELECT Det IF (0 Gen_a) (1 Dg) ;
+# A/al (prep/det def/det ind)
+SELECT Gen_al IF (0 Gen_al) (1 Dg) ;
 
 # Ei (prn or adj)
 SELECT Prn IF (0 Prn) (0 Adj) (NOT -1 N) (1 V) ;
@@ -134,7 +136,12 @@ REMOVE Vblex IF (0 Vblex) (0 Vbavea) (1 Inf) ;
 REMOVE Vbavea IF (0 Vblex) (0 Vbavea) ;
 
 # Fi
+SELECT Vblex IF (0 Vblex) (0 Vbser) (-1 Rel_unde ) ;
 REMOVE Vblex IF (0 Vblex) (0 Vbser) (1 Pp) ;
+REMOVE Vblex IF (0 Vblex) (0 Vbser) (NOT -3 N) (NOT -2 Pr)(-1 N OR Np) ;
+REMOVE Vblex IF (0 Vblex) (0 Vbser) (NOT -4 Pr) (-3 N) (-2 Pr) (-1 N OR Np) ;
+REMOVE Vblex IF (0 Vblex) (0 Vbser) (NOT -3 Pr) (-2 N) (-1 N OR Np) ;
+
 
 # Inf
 SELECT Inf IF (0 V) (0 Inf) (-1 Inf_a) ;
@@ -199,6 +206,7 @@ APPEND ("Îl" prn pro p3 f sg nom) ("îl" prn pro p3 f sg nom) IF (-1 BOS) ;
 REMOVE ("îl" prn pro p3 f sg nom) IF (-1 BOS) ;
 
 
+REMOVE Imp IF (0 V) ;
 REMOVE Dg IF (0 Nom) (0 Dg) ;
 REMOVE Pl IF (0 Sg) (0 Pl) ;
 
