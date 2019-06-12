@@ -10133,8 +10133,8 @@
 <pardef n="amb/ii__prn">
   <e>       <p><l>ii</l>        <r>ii<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
   <e>       <p><l>ilor</l>      <r>ii<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/><s n="dg"/></r></p></e>
-  <e>       <p><l>ele</l>       <r>ii<s n="prn"/><s n="tn"/><s n="fn"/><s n="pl"/><s n="nom"/></r></p></e>
-  <e>       <p><l>elor</l>      <r>ii<s n="prn"/><s n="tn"/><s n="fn"/><s n="pl"/><s n="dg"/></r></p></e>
+  <e>       <p><l>ele</l>       <r>ii<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>elor</l>      <r>ii<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/><s n="dg"/></r></p></e>
 </pardef>
 
 <pardef n="mai_mul/ți__det">
@@ -26828,6 +26828,7 @@
 <e lm="catedrală">       <i>catedral</i><par n="cas/ă__n"/></e>
 <e lm="categorie">       <i>categori</i><par n="coaliți/e__n"/></e>
 <e lm="categorisire" a="delnou"><i>categorisir</i><par n="fericir/e__n"/></e>
+<e lm="cățeluș">         <i>cățeluș</i><par n="coleg__n"/></e>
 <e lm="cateter" a="mioara"><i>cateter</i><par n="caiet__n"/></e>
 <e lm="catifea" a="delia"><i>catife</i><par n="cafe/a__n"/></e>
 <e lm="catod" a="delnou"><i>cato</i><par n="aci/d__n"/></e>
@@ -30745,6 +30746,7 @@
 <e lm="mobilier" a="delia"><i>mobilier</i><par n="caiet__n"/></e>
 <e lm="mobilitate" a="delia"><i>mobilit</i><par n="universit/ate__n"/></e>
 <e lm="mobilizare" a="delia"><i>mobiliz</i><par n="întreb/are__n"/></e>
+<e lm="mocasin">         <i>mocasin</i><par n="an__n"/></e>
 <e lm="mochetă" a="delia"><i>mochet</i><par n="cas/ă__n"/></e>
 <e lm="mocofan" a="delia"><i>mocofan</i><par n="coleg__n"/></e>
 <e lm="modă">            <i>mod</i><par n="cas/ă__n"/></e>
@@ -30973,6 +30975,7 @@
 <e lm="narcotizare" a="mioara"><i>narcotiz</i><par n="întreb/are__n"/></e>
 <e lm="narcotrafic" a="delia"><i>narcotrafic</i><par n="caiet__n"/></e>
 <e lm="narcoză" a="mioara"><i>narcoz</i><par n="cas/ă__n"/></e>
+<e lm="nard">            <i>nard</i><par n="gât__n"/></e>
 <e lm="nartex" a="mioara"><i>nartex</i><par n="gât__n"/></e>
 <e lm="nas">             <i>nas</i><par n="gât__n"/></e>
 <e r="LR" lm="nasture" a="delia"><i>nastur</i><par n="arbor/e__n"/></e>
@@ -32830,7 +32833,7 @@
 <e lm="rotondă" a="delia"><i>rotond</i><par n="cas/ă__n"/></e>
 <e lm="rotulă" a="delnou"><i>rotul</i><par n="cas/ă__n"/></e>
 <e lm="rotunjime" a="delia"><i>rotunjim</i><par n="fericir/e__n"/></e>
-<e lm="roxolan" a="mioara"><i>roxola</i><par n="an__n"/></e>
+<e lm="roxolan" a="mioara"><i>roxolan</i><par n="coleg__n"/></e>
 <e lm="rozariu" a="delia"><i>rozari</i><par n="exerciți/u__n"/></e>
 <e lm="roșcat" a="delia"><i>roșca</i><par n="avoca/t__n"/></e>
 <e lm="roșcovă" a="delnou"><i>roșcov</i><par n="cas/ă__n"/></e>
