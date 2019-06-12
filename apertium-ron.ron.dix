@@ -24292,7 +24292,7 @@
     <!-- Adverbe -->
 
 <e lm="nu">              <i></i><par n="/nu__adv"/></e>
-<e lm="a_doua_zi">       <i>a<b/>doua<b/>zi</i><par n="azi__adv"/></e>
+<e lm="a doua zi">       <i>a<b/>doua<b/>zi</i><par n="azi__adv"/></e>
 <e lm="a posteriori" a="mioara"><i>a<b/>posteriori</i><par n="azi__adv"/></e>
 <e lm="a priori" a="mioara"><i>a<b/>priori</i><par n="azi__adv"/></e>
 <e lm="abia" a="delia">  <i>abia</i><par n="azi__adv"/></e>
@@ -24334,7 +24334,7 @@
 <e lm="anapoda" a="delia"><i>anapoda</i><par n="azi__adv"/></e>
 <e lm="anevoie" a="delia"><i>anevoie</i><par n="azi__adv"/></e>
 <e lm="angro" a="mioara"><i>angro</i><par n="azi__adv"/></e>
-<e lm="ani_de_zile" a="delnou"><i>ani<b/>de<b/>zile</i><par n="azi__adv"/></e>
+<e lm="ani de zile" a="delnou"><i>ani<b/>de<b/>zile</i><par n="azi__adv"/></e>
 <e lm="anti" a="delia">  <i>anti</i><par n="azi__adv"/></e>
 <e lm="anticelulită">    <i>anticelulită</i><par n="azi__adv"/></e>
 <e lm="anul viitor" a="delia"><i>anul<b/>viitor</i><par n="azi__adv"/></e>
@@ -24359,7 +24359,7 @@
 <e lm="așa">             <i>așa</i><par n="azi__adv"/></e>
 <e lm="așa-zis" a="delnou"><i>așa-zis</i><par n="azi__adv"/></e>
 <e lm="așa-zisa" a="delnou"><i>așa-zisa</i><par n="azi__adv"/></e>
-<e lm="așa_cum" a="delnou"><i>așa<b/>cum</i><par n="azi__adv"/></e>
+<e lm="așa cum" a="delnou"><i>așa<b/>cum</i><par n="azi__adv"/></e>
 <e lm="așijderea" a="mioara"><i>așijderea</i><par n="azi__adv"/></e>
 <e r="LR" lm="așijderi" a="mioara"><i>așijderi</i><par n="azi__adv"/></e>
 <e r="LR" lm="ba chiar" a="mioara"><i>ba<b/>chiar</i><par n="azi__adv"/></e>
@@ -24376,10 +24376,11 @@
 <e lm="ca mărime" a="delia"><i>ca<b/>mărime</i><par n="azi__adv"/></e>
 <e lm="ca nimeni altul" a="delia"><i>ca<b/>nimeni<b/>altul</i><par n="azi__adv"/></e>
 <e r="LR" lm="ca oricând" a="mioara"><i>ca<b/>oricând</i><par n="azi__adv"/></e>
-<e lm="ca_peste_tot_în_lume"><i>ca<b/>peste<b/>tot<b/>în<b/>lume</i><par n="azi__adv"/></e>
-<e lm="ca_prin_minune">  <i>ca<b/>prin<b/>minune</i><par n="azi__adv"/></e>
-<e lm="ca_până_acum">    <i>ca<b/>până<b/>acum</i><par n="azi__adv"/></e>
-<e lm="ca_și_cum">       <i>ca<b/>și<b/>cum</i><par n="azi__adv"/></e>
+<e lm="ca peste tot în lume"><i>ca<b/>peste<b/>tot<b/>în<b/>lume</i><par n="azi__adv"/></e>
+<e lm="ca prin minune">  <i>ca<b/>prin<b/>minune</i><par n="azi__adv"/></e>
+<e lm="ca până acum">    <i>ca<b/>până<b/>acum</i><par n="azi__adv"/></e>
+<e lm="ca și cum">       <i>ca<b/>și<b/>cum</i><par n="azi__adv"/></e>
+<e lm="ca urmare">       <i>ca<b/>urmare</i><par n="azi__adv"/></e>
 <e lm="calicește" a="delia"><i>calicește</i><par n="azi__adv"/></e>
 <e lm="cam">             <i>cam</i><par n="azi__adv"/></e>
 <e lm="cam așa">         <i>cam<b/>așa</i><par n="azi__adv"/></e>
@@ -24389,12 +24390,13 @@
 <e lm="chiar">           <i>chiar</i><par n="azi__adv"/></e>
 <e lm="chiar acum" a="delia"><i>chiar<b/>acum</i><par n="azi__adv"/></e>
 <e lm="chiar mai mult" a="delnou"><i>chiar<b/>mai<b/>mult</i><par n="azi__adv"/></e>
-<e lm="chiar_și">        <i>chiar<b/>și</i><par n="azi__adv"/></e>
+<e lm="chiar și">        <i>chiar<b/>și</i><par n="azi__adv"/></e>
 <e lm="circa">           <i>circa</i><par n="azi__adv"/></e>
 <e lm="cm" a="delnou">   <i>cm</i><par n="azi__adv"/></e>
 <e lm="color" a="delia"> <i>color</i><par n="azi__adv"/></e>
-<e lm="cu_această_ocazie" a="delnou"><i>cu<b/>această<b/>ocazie</i><par n="azi__adv"/></e>
-<e lm="cu_adevărat">     <i>cu<b/>adevărat</i><par n="azi__adv"/></e>
+<e lm="cu această ocazie" a="delnou"><i>cu<b/>această<b/>ocazie</i><par n="azi__adv"/></e>
+<e lm="cu adevărat">     <i>cu<b/>adevărat</i><par n="azi__adv"/></e>
+<e lm="cu alte cuvinte"> <i>cu<b/>alte<b/>cuvinte</i><par n="azi__adv"/></e>
 <e lm="cu binișorul" a="mioara"><i>cu<b/>binișorul</i><par n="azi__adv"/></e>
 <e lm="cu bună știință" a="mioara"><i>cu<b/>bună<b/>știință</i><par n="azi__adv"/></e>
 <e lm="cu chirie" a="delnou"><i>cu<b/>chirie</i><par n="azi__adv"/></e>
@@ -24408,7 +24410,7 @@
 <e lm="cu mare grijă" a="delia"><i>cu<b/>mare<b/>grijă</i><par n="azi__adv"/></e>
 <e lm="cu menajamente" a="mioara"><i>cu<b/>menajamente</i><par n="azi__adv"/></e>
 <e lm="cu mult timp înainte" a="mioara"><i>cu<b/>mult<b/>timp<b/>înainte</i><par n="azi__adv"/></e>
-<e lm="cu_orice_preț">   <i>cu<b/>orice<b/>preț</i><par n="azi__adv"/></e>
+<e lm="cu orice preț">   <i>cu<b/>orice<b/>preț</i><par n="azi__adv"/></e>
 <e lm="cu patos">        <i>cu<b/>patos</i><par n="azi__adv"/></e>
 <e lm="cu precădere" a="delia"><i>cu<b/>precădere</i><par n="azi__adv"/></e>
 <e lm="cu pricina">      <i>cu<b/>pricina</i><par n="azi__adv"/></e>
@@ -24416,11 +24418,11 @@
 <e lm="cu puțin ajutor" a="delia"><i>cu<b/>puțin<b/>ajutor</i><par n="azi__adv"/></e>
 <e lm="cu răceală" a="mioara"><i>cu<b/>răceală</i><par n="azi__adv"/></e>
 <e lm="cu siguranță" a="mioara"><i>cu<b/>siguranță</i><par n="azi__adv"/></e>
-<e lm="cu_surle_și_trâmbițe"><i>cu<b/>surle<b/>și<b/>trâmbițe</i><par n="azi__adv"/></e>
-<e lm="cu_toatele" a="delnou"><i>cu<b/>toatele</i><par n="azi__adv"/></e>
+<e lm="cu surle și trâmbițe"><i>cu<b/>surle<b/>și<b/>trâmbițe</i><par n="azi__adv"/></e>
+<e lm="cu toatele" a="delnou"><i>cu<b/>toatele</i><par n="azi__adv"/></e>
 <e lm="cu toată tăria" a="mioara"><i>cu<b/>toată<b/>tăria</i><par n="azi__adv"/></e>
 <e lm="cu totul" a="delnou"><i>cu<b/>totul</i><par n="azi__adv"/></e>
-<e lm="cu_toții" a="delnou"><i>cu<b/>toții</i><par n="azi__adv"/></e>
+<e lm="cu toții" a="delnou"><i>cu<b/>toții</i><par n="azi__adv"/></e>
 <e lm="cu tărie" a="mioara"><i>cu<b/>tărie</i><par n="azi__adv"/></e>
 <e lm="cu ușurință" a="delia"><i>cu<b/>ușurință</i><par n="azi__adv"/></e>
 <e lm="cu îndârjire" a="mioara"><i>cu<b/>îndârjire</i><par n="azi__adv"/></e>
@@ -24430,12 +24432,12 @@
 <e lm="cvasi-" a="delia"><i>cvasi-</i><par n="azi__adv"/></e>
 <e lm="când">            <i>când</i><par n="când__adv"/></e>
 <e lm="cândva" a="delnou"><i>cândva</i><par n="azi__adv"/></e>
-<e lm="cât_se_poate_de"> <i>cât<b/>se<b/>poate<b/>de</i><par n="azi__adv"/></e>
+<e lm="cât se poate de"> <i>cât<b/>se<b/>poate<b/>de</i><par n="azi__adv"/></e>
 <e lm="câteodată">       <i>câteodată</i><par n="azi__adv"/></e>
 <e r="LR" lm="câtuși de puțin" a="mioara"><i>câtuși<b/>de<b/>puțin</i><par n="azi__adv"/></e>
 <e lm="călare" a="mioara"><i>călare</i><par n="azi__adv"/></e>
 <e lm="da">              <i>da</i><par n="azi__adv"/></e>
-<e lm="dar_nu_și">       <i>dar<b/>nu<b/>și</i><par n="azi__adv"/></e>
+<e lm="dar nu și">       <i>dar<b/>nu<b/>și</i><par n="azi__adv"/></e>
 <e lm="data viitoare" a="delia"><i>data<b/>viitoare</i><par n="azi__adv"/></e>
 <e lm="de-a berbeleacul" a="delia"><i>de-a<b/>berbeleacul</i><par n="azi__adv"/></e>
 <e lm="de-a dreptul">    <i>de-a<b/>dreptul</i><par n="azi__adv"/></e>
@@ -24449,8 +24451,8 @@
 <e lm="de acum înainte" a="delia"><i>de<b/>acum<b/>înainte</i><par n="azi__adv"/></e>
 <e lm="de aici înainte" a="mioara"><i>de<b/>aici<b/>înainte</i><par n="azi__adv"/></e>
 <e lm="de altădată" a="delia"><i>de<b/>altădată</i><par n="azi__adv"/></e>
-<e lm="de_ani_de_zile" a="delnou"><i>de<b/>ani<b/>de<b/>zile</i><par n="azi__adv"/></e>
-<e lm="de_asemenea">     <i>de<b/>asemenea</i><par n="azi__adv"/></e>
+<e lm="de ani de zile" a="delnou"><i>de<b/>ani<b/>de<b/>zile</i><par n="azi__adv"/></e>
+<e lm="de asemenea">     <i>de<b/>asemenea</i><par n="azi__adv"/></e>
 <e lm="de astă dată" a="mioara"><i>de<b/>astă<b/>dată</i><par n="azi__adv"/></e>
 <e lm="de atunci" a="delia"><i>de<b/>atunci</i><par n="azi__adv"/></e>
 <e lm="de bună seamă" a="mioara"><i>de<b/>bună<b/>seamă</i><par n="azi__adv"/></e>
@@ -24460,24 +24462,24 @@
 <e r="LR" lm="de curând"><i>de<b/>curând</i><par n="azi__adv"/></e>
 <e r="LR" lm="de când e lumea" a="mioara"><i>de<b/>când<b/>e<b/>lumea</i><par n="azi__adv"/></e>
 <e r="LR" lm="de când e lumea și pământul" a="mioara"><i>de<b/>când<b/>e<b/>lumea<b/>și<b/>pământul</i><par n="azi__adv"/></e>
-<e lm="de_căpătâi" a="delnou"><i>de<b/>căpătâi</i><par n="azi__adv"/></e>
+<e lm="de căpătâi" a="delnou"><i>de<b/>căpătâi</i><par n="azi__adv"/></e>
 <e lm="de data aceasta" a="delia"><i>de<b/>data<b/>aceasta</i><par n="azi__adv"/></e>
 <e r="LR" lm="de data asta"><i>de<b/>data<b/>asta</i><par n="azi__adv"/></e>
 <e lm="de exemplu" a="delia"><i>de<b/>exemplu</i><par n="azi__adv"/></e>
-<e lm="de_fapt">         <i>de<b/>fapt</i><par n="azi__adv"/></e>
+<e lm="de fapt">         <i>de<b/>fapt</i><par n="azi__adv"/></e>
 <e lm="de fiecare dată" a="delnou"><i>de<b/>fiecare<b/>dată</i><par n="azi__adv"/></e>
-<e lm="de_la_A_la_Z" a="delnou"><i>de<b/>la<b/>A<b/>la<b/>Z</i><par n="azi__adv"/></e>
+<e lm="de la A la Z" a="delnou"><i>de<b/>la<b/>A<b/>la<b/>Z</i><par n="azi__adv"/></e>
 <e lm="de la capăt" a="mioara"><i>de<b/>la<b/>capăt</i><par n="azi__adv"/></e>
 <e lm="de la egal la egal" a="delnou"><i>de<b/>la<b/>egal<b/>la<b/>egal</i><par n="azi__adv"/></e>
 <e lm="de la început" a="mioara"><i>de<b/>la<b/>început</i><par n="azi__adv"/></e>
-<e lm="de_moarte">       <i>de<b/>moarte</i><par n="azi__adv"/></e>
+<e lm="de moarte">       <i>de<b/>moarte</i><par n="azi__adv"/></e>
 <e lm="de mult timp" a="delnou"><i>de<b/>mult<b/>timp</i><par n="azi__adv"/></e>
-<e lm="de_multe_ori">    <i>de<b/>multe<b/>ori</i><par n="azi__adv"/></e>
+<e lm="de multe ori">    <i>de<b/>multe<b/>ori</i><par n="azi__adv"/></e>
 <e lm="de multă vreme" a="delnou"><i>de<b/>multă<b/>vreme</i><par n="azi__adv"/></e>
 <e lm="de neînchipuit" a="delia"><i>de<b/>neînchipuit</i><par n="azi__adv"/></e>
 <e lm="de obicei" a="delia"><i>de<b/>obicei</i><par n="azi__adv"/></e>
 <e lm="de odinioară" a="delia"><i>de<b/>odinioară</i><par n="azi__adv"/></e>
-<e lm="de_peste_hotare"> <i>de<b/>peste<b/>hotare</i><par n="azi__adv"/></e>
+<e lm="de peste hotare"> <i>de<b/>peste<b/>hotare</i><par n="azi__adv"/></e>
 <e lm="de pretutindeni" a="delia"><i>de<b/>pretutindeni</i><par n="azi__adv"/></e>
 <e lm="de primă calitate" a="delia"><i>de<b/>primă<b/>calitate</i><par n="azi__adv"/></e>
 <e lm="de primă clasă" a="delia"><i>de<b/>primă<b/>clasă</i><par n="azi__adv"/></e>
@@ -24513,14 +24515,14 @@
 <e lm="din auzite" a="delia"><i>din<b/>auzite</i><par n="azi__adv"/></e>
 <e r="LR" lm="din capul locului" a="mioara"><i>din<b/>capul<b/>locului</i><par n="azi__adv"/></e>
 <e lm="din ce în ce mai" a="delia"><i>din<b/>ce<b/>în<b/>ce<b/>mai</i><par n="azi__adv"/></e>
-<e lm="din_când_în_când"><i>din<b/>când<b/>în<b/>când</i><par n="azi__adv"/></e>
+<e lm="din când în când"><i>din<b/>când<b/>în<b/>când</i><par n="azi__adv"/></e>
 <e lm="din fericire" a="mioara"><i>din<b/>fericire</i><par n="azi__adv"/></e>
 <e lm="din greșeală" a="mioara"><i>din<b/>greșeală</i><par n="azi__adv"/></e>
 <e lm="din jur" a="mioara"><i>din<b/>jur</i><par n="azi__adv"/></e>
 <e lm="din nefericire" a="mioara"><i>din<b/>nefericire</i><par n="azi__adv"/></e>
 <e lm="din obișnuință" a="mioara"><i>din<b/>obișnuință</i><par n="azi__adv"/></e>
 <e lm="din păcate" a="mioara"><i>din<b/>păcate</i><par n="azi__adv"/></e>
-<e lm="din_răsputeri">   <i>din<b/>răsputeri</i><par n="azi__adv"/></e>
+<e lm="din răsputeri">   <i>din<b/>răsputeri</i><par n="azi__adv"/></e>
 <e lm="din străinătate" a="delia"><i>din<b/>străinătate</i><par n="azi__adv"/></e>
 <e lm="din toate aceste considerente" a="delia"><i>din<b/>toate<b/>aceste<b/>considerente</i><par n="azi__adv"/></e>
 <e lm="din vecinătate">  <i>din<b/>vecinătate</i><par n="azi__adv"/></e>
@@ -24537,7 +24539,7 @@
 <e lm="duminică dimineață" a="mioara"><i>duminică<b/>dimineață</i><par n="azi__adv"/></e>
 <e lm="duminică noapte" a="mioara"><i>duminică<b/>noapte</i><par n="azi__adv"/></e>
 <e lm="duminică seară" a="mioara"><i>duminică<b/>seară</i><par n="azi__adv"/></e>
-<e lm="după_aceea">      <i>după<b/>aceea</i><par n="azi__adv"/></e>
+<e lm="după aceea">      <i>după<b/>aceea</i><par n="azi__adv"/></e>
 <e r="LR" lm="după părerea ei" a="delnou"><i>după<b/>părerea<b/>ei</i><par n="azi__adv"/></e>
 <e r="LR" lm="după părerea lor" a="delnou"><i>după<b/>părerea<b/>lor</i><par n="azi__adv"/></e>
 <e r="LR" lm="după părerea lui" a="delnou"><i>după<b/>părerea<b/>lui</i><par n="azi__adv"/></e>
@@ -24561,9 +24563,11 @@
 <e lm="fără grabă" a="delia"><i>fără<b/>grabă</i><par n="azi__adv"/></e>
 <e lm="fără menajamente" a="mioara"><i>fără<b/>menajamente</i><par n="azi__adv"/></e>
 <e lm="fără nici o grabă" a="delia"><i>fără<b/>nici<b/>o<b/>grabă</i><par n="azi__adv"/></e>
-<e lm="fără_ocolișuri">  <i>fără<b/>ocolișuri</i><par n="azi__adv"/></e>
+<e lm="fără nici o îndoială"><i>fără<b/>nici<b/>o<b/>îndoială</i><par n="azi__adv"/></e>
+<e lm="fără ocolișuri">  <i>fără<b/>ocolișuri</i><par n="azi__adv"/></e>
 <e lm="fără seamăn" a="mioara"><i>fără<b/>seamăn</i><par n="azi__adv"/></e>
 <e lm="fără urmări" a="mioara"><i>fără<b/>urmări</i><par n="azi__adv"/></e>
+<e lm="fără urmă de îndoială"><i>fără<b/>urmă<b/>de<b/>îndoială</i><par n="azi__adv"/></e>
 <e lm="fără înflorituri" a="mioara"><i>fără<b/>înflorituri</i><par n="azi__adv"/></e>
 <e lm="get-beget" a="delia"><i>get-beget</i><par n="azi__adv"/></e>
 <e lm="gif" a="delnou">  <i>gif</i><par n="azi__adv"/></e>
@@ -24574,6 +24578,7 @@
 <e lm="harcea-parcea" a="delia"><i>harcea-parcea</i><par n="azi__adv"/></e>
 <e lm="iar">             <i>iar</i><par n="azi__adv"/></e>
 <e lm="în cele din urmă" a="delnou"><i>în<b/>cele<b/>din<b/>urmă</i><par n="azi__adv"/></e>
+<e lm="în modul acesta"> <i>în<b/>modul<b/>acesta</i><par n="azi__adv"/></e>
 <e lm="ieri">            <i>ieri</i><par n="azi__adv"/></e>
 <e lm="inclusiv">        <i>inclusiv</i><par n="azi__adv"/></e>
 <e lm="instant" a="delia"><i>instant</i><par n="azi__adv"/></e>
@@ -24592,33 +24597,33 @@
 <e lm="la culcare" a="delnou"><i>la<b/>culcare</i><par n="azi__adv"/></e>
 <e lm="la dracu" a="delia"><i>la<b/>dracu</i><par n="azi__adv"/></e>
 <e lm="la fața locului" a="mioara"><i>la<b/>fața<b/>locului</i><par n="azi__adv"/></e>
-<e lm="la_fel">          <i>la<b/>fel</i><par n="azi__adv"/></e>
-<e lm="la_fel_de">       <i>la<b/>fel<b/>de</i><par n="azi__adv"/></e>
-<e lm="la_maxim" a="delnou"><i>la<b/>maxim</i><par n="azi__adv"/></e>
-<e r="LR" lm="la_maximum" a="delnou"><i>la<b/>maximum</i><par n="azi__adv"/></e>
+<e lm="la fel">          <i>la<b/>fel</i><par n="azi__adv"/></e>
+<e lm="la fel de">       <i>la<b/>fel<b/>de</i><par n="azi__adv"/></e>
+<e lm="la maxim" a="delnou"><i>la<b/>maxim</i><par n="azi__adv"/></e>
+<e r="LR" lm="la maximum" a="delnou"><i>la<b/>maximum</i><par n="azi__adv"/></e>
 <e lm="la o adică" a="mioara"><i>la<b/>o<b/>adică</i><par n="azi__adv"/></e>
 <e r="LR" lm="la o aruncătură de băț" a="mioara"><i>la<b/>o<b/>aruncătură<b/>de<b/>băț</i><par n="azi__adv"/></e>
 <e lm="la o azvârlitură de băț" a="mioara"><i>la<b/>o<b/>azvârlitură<b/>de<b/>băț</i><par n="azi__adv"/></e>
 <e lm="la plimbare" a="delia"><i>la<b/>plimbare</i><par n="azi__adv"/></e>
 <e lm="la repezeală" a="delnou"><i>la<b/>repezeală</i><par n="azi__adv"/></e>
-<e r="LR" lm="la_rândul_ei"><i>la<b/>rândul<b/>ei</i><par n="azi__adv"/></e>
-<e r="LR" lm="la_rândul_lor"><i>la<b/>rândul<b/>lor</i><par n="azi__adv"/></e>
-<e r="LR" lm="la_rândul_lui"><i>la<b/>rândul<b/>lui</i><par n="azi__adv"/></e>
-<e lm="la_rândul_meu">   <i>la<b/>rândul<b/>meu</i><par n="azi__adv"/></e>
-<e lm="la_rândul_nostru"><i>la<b/>rândul<b/>nostru</i><par n="azi__adv"/></e>
-<e lm="la_rândul_său">   <i>la<b/>rândul<b/>său</i><par n="azi__adv"/></e>
-<e lm="la_rândul_tău">   <i>la<b/>rândul<b/>tău</i><par n="azi__adv"/></e>
-<e lm="la_rândul_vostru"><i>la<b/>rândul<b/>vostru</i><par n="azi__adv"/></e>
-    <!--<e lm="la_data_de">              	  <i>la<b/>data<b/>de</i><par n="azi__adv"/></e> -->
-<e lm="la_scară">        <i>la<b/>scară</i><par n="azi__adv"/></e>
-<e lm="la_scară_mare">   <i>la<b/>scară<b/>mare</i><par n="azi__adv"/></e>
-<e lm="la_scară_mică">   <i>la<b/>scară<b/>mică</i><par n="azi__adv"/></e>
+<e r="LR" lm="la rândul ei"><i>la<b/>rândul<b/>ei</i><par n="azi__adv"/></e>
+<e r="LR" lm="la rândul lor"><i>la<b/>rândul<b/>lor</i><par n="azi__adv"/></e>
+<e r="LR" lm="la rândul lui"><i>la<b/>rândul<b/>lui</i><par n="azi__adv"/></e>
+<e lm="la rândul meu">   <i>la<b/>rândul<b/>meu</i><par n="azi__adv"/></e>
+<e lm="la rândul nostru"><i>la<b/>rândul<b/>nostru</i><par n="azi__adv"/></e>
+<e lm="la rândul său">   <i>la<b/>rândul<b/>său</i><par n="azi__adv"/></e>
+<e lm="la rândul tău">   <i>la<b/>rândul<b/>tău</i><par n="azi__adv"/></e>
+<e lm="la rândul vostru"><i>la<b/>rândul<b/>vostru</i><par n="azi__adv"/></e>
+    <!--<e lm="la data de">              	  <i>la<b/>data<b/>de</i><par n="azi__adv"/></e> -->
+<e lm="la scară">        <i>la<b/>scară</i><par n="azi__adv"/></e>
+<e lm="la scară mare">   <i>la<b/>scară<b/>mare</i><par n="azi__adv"/></e>
+<e lm="la scară mică">   <i>la<b/>scară<b/>mică</i><par n="azi__adv"/></e>
 <e lm="la sută">         <i>la<b/>sută</i><par n="azi__adv"/></e>
 <e r="LR" lm="la un loc" a="delnou"><i>la<b/>un<b/>loc</i><par n="azi__adv"/></e>
 <e lm="la urma urmei" a="mioara"><i>la<b/>urma<b/>urmei</i><par n="azi__adv"/></e>
 <e r="LR" lm="la urma urmelor" a="mioara"><i>la<b/>urma<b/>urmelor</i><par n="azi__adv"/></e>
 <e lm="la urmă" a="mioara"><i>la<b/>urmă</i><par n="azi__adv"/></e>
-<e lm="la_îndemână">     <i>la<b/>îndemână</i><par n="azi__adv"/></e>
+<e lm="la îndemână">     <i>la<b/>îndemână</i><par n="azi__adv"/></e>
 <e lm="la întâmplare" a="delia"><i>la<b/>întâmplare</i><par n="azi__adv"/></e>
 <e lm="laolaltă">        <i>laolaltă</i><par n="azi__adv"/></e>
 <e lm="lb" a="delnou">   <i>lb</i><par n="azi__adv"/></e>
@@ -24632,21 +24637,22 @@
 <e lm="luni noapte" a="mioara"><i>luni<b/>noapte</i><par n="azi__adv"/></e>
 <e lm="luni seară" a="mioara"><i>luni<b/>seară</i><par n="azi__adv"/></e>
 <e lm="mai">             <i>mai</i><par n="azi__adv"/></e>
-<e lm="mai_ales">        <i>mai<b/>ales</i><par n="azi__adv"/></e>
+<e lm="mai ales">        <i>mai<b/>ales</i><par n="azi__adv"/></e>
 <e lm="mai bine" a="delia"><i>mai<b/>bine</i><par n="azi__adv"/></e>
-<e lm="mai_bine_de_un_secol" a="delnou"><i>mai<b/>bine<b/>de<b/>un<b/>secol</i><par n="azi__adv"/></e>
+<e lm="mai bine de un secol" a="delnou"><i>mai<b/>bine<b/>de<b/>un<b/>secol</i><par n="azi__adv"/></e>
 <e r="LR" lm="mai cu seamă" a="mioara"><i>mai<b/>cu<b/>seamă</i><par n="azi__adv"/></e>
 <e r="LR" lm="mai curând"><i>mai<b/>curând</i><par n="azi__adv"/></e>
-<e lm="mai_degrabă">     <i>mai<b/>degrabă</i><par n="azi__adv"/></e>
+<e lm="mai degrabă">     <i>mai<b/>degrabă</i><par n="azi__adv"/></e>
+<e lm="mai devreme sau mai târziu"><i>mai<b/>devreme<b/>sau<b/>mai<b/>târziu</i><par n="azi__adv"/></e>
 <e lm="mai exact" a="delia"><i>mai<b/>exact</i><par n="azi__adv"/></e>
-<e r="LR" lm="mai_mult"> <i>mai<b/>mult</i><par n="azi__adv"/></e>
-<e lm="mai_mult_ca_sigur"><i>mai<b/>mult<b/>ca<b/>sigur</i><par n="azi__adv"/></e>
+<e r="LR" lm="mai mult"> <i>mai<b/>mult</i><par n="azi__adv"/></e>
+<e lm="mai mult ca sigur"><i>mai<b/>mult<b/>ca<b/>sigur</i><par n="azi__adv"/></e>
 <e lm="mai mult decât atât"><i>mai<b/>mult<b/>decât<b/>atât</i><par n="azi__adv"/></e>
 <e lm="mai mult încă" a="delia"><i>mai<b/>mult<b/>încă</i><par n="azi__adv"/></e>
-<e r="LR" lm="mai_multe"><i>mai<b/>multe</i><par n="azi__adv"/></e>
+<e r="LR" lm="mai multe"><i>mai<b/>multe</i><par n="azi__adv"/></e>
 <e lm="mai multe luni" a="delia"><i>mai<b/>multe<b/>luni</i><par n="azi__adv"/></e>
-<e r="LR" lm="mai_multă"><i>mai<b/>multă</i><par n="azi__adv"/></e>
-<e r="LR" lm="mai_mulți"><i>mai<b/>mulți</i><par n="azi__adv"/></e>
+<e r="LR" lm="mai multă"><i>mai<b/>multă</i><par n="azi__adv"/></e>
+<e r="LR" lm="mai mulți"><i>mai<b/>mulți</i><par n="azi__adv"/></e>
 <e lm="mai presus de orice" a="mioara"><i>mai<b/>presus<b/>de<b/>orice</i><par n="azi__adv"/></e>
 <e lm="mai puțin">       <i>mai<b/>puțin</i><par n="azi__adv"/></e>
 <e r="LR" lm="mai întâi"><i>mai<b/>întâi</i><par n="azi__adv"/></e>
@@ -24660,13 +24666,13 @@
 <e lm="miercuri seară" a="mioara"><i>miercuri<b/>seară</i><par n="azi__adv"/></e>
 <e lm="mm" a="delnou">   <i>mm</i><par n="azi__adv"/></e>
 <e lm="momentan" a="delia"><i>momentan</i><par n="azi__adv"/></e>
-<e lm="mult_mai_bine">   <i>mult<b/>mai<b/>bine</i><par n="azi__adv"/></e>
-<e lm="mult_mai_mult">   <i>mult<b/>mai<b/>mult</i><par n="azi__adv"/></e>
-<e lm="mult_mai_puțin">  <i>mult<b/>mai<b/>puțin</i><par n="azi__adv"/></e>
-<e lm="mult_mai_rău">    <i>mult<b/>mai<b/>rău</i><par n="azi__adv"/></e>
-<e lm="mult_mai_târziu"> <i>mult<b/>mai<b/>târziu</i><par n="azi__adv"/></e>
-<e lm="mult_mai_înainte"><i>mult<b/>mai<b/>înainte</i><par n="azi__adv"/></e>
-<e r="LR" lm="mult_prea"><i>mult<b/>prea</i><par n="azi__adv"/></e>
+<e lm="mult mai bine">   <i>mult<b/>mai<b/>bine</i><par n="azi__adv"/></e>
+<e lm="mult mai mult">   <i>mult<b/>mai<b/>mult</i><par n="azi__adv"/></e>
+<e lm="mult mai puțin">  <i>mult<b/>mai<b/>puțin</i><par n="azi__adv"/></e>
+<e lm="mult mai rău">    <i>mult<b/>mai<b/>rău</i><par n="azi__adv"/></e>
+<e lm="mult mai târziu"> <i>mult<b/>mai<b/>târziu</i><par n="azi__adv"/></e>
+<e lm="mult mai înainte"><i>mult<b/>mai<b/>înainte</i><par n="azi__adv"/></e>
+<e r="LR" lm="mult prea"><i>mult<b/>prea</i><par n="azi__adv"/></e>
 <e lm="mâine">           <i>mâine</i><par n="azi__adv"/></e>
 <e lm="măcar">           <i>măcar</i><par n="azi__adv"/></e>
 <e lm="măcar în parte" a="mioara"><i>măcar<b/>în<b/>parte</i><par n="azi__adv"/></e>
@@ -24694,6 +24700,8 @@
 <e lm="nu este de mirare" a="delnou"><i>nu<b/>este<b/>de<b/>mirare</i><par n="azi__adv"/></e>
 <e lm="numai">           <i>numai</i><par n="azi__adv"/></e>
 <e lm="numaidecât" a="mioara"><i>numaidecât</i><par n="azi__adv"/></e>
+<e lm="nu și">           <i>nu<b/>și</i><par n="azi__adv"/></e>
+<e lm="nu și">           <p><l>nu<b/>și</l><r>nu<s n="adv"/><j/>și<s n="cnjcoo"/></r></p></e>
 <e lm="oare">            <i>oare</i><par n="azi__adv"/></e>
 <e lm="odată">           <i>odată</i><par n="azi__adv"/></e>
 <e r="LR" lm="odată ș-odată" a="mioara"><i>odată<b/>ș-odată</i><par n="azi__adv"/></e>
@@ -24706,14 +24714,14 @@
 <e lm="oricând">         <i>oricând</i><par n="azi__adv"/></e>
 <e lm="oriunde">         <i>oriunde</i><par n="azi__adv"/></e>
 <e lm="p." a="delnou">   <i>p.</i><par n="azi__adv"/></e>
-<e lm="pe_acolo">        <i>pe<b/>acolo</i><par n="azi__adv"/></e>
-<e lm="pe_aici">         <i>pe<b/>aici</i><par n="azi__adv"/></e>
+<e lm="pe acolo">        <i>pe<b/>acolo</i><par n="azi__adv"/></e>
+<e lm="pe aici">         <i>pe<b/>aici</i><par n="azi__adv"/></e>
 <e lm="pe an" a="delia"> <i>pe<b/>an</i><par n="azi__adv"/></e>
 <e lm="pe apa sâmbetei" a="mioara"><i>pe<b/>apa<b/>sâmbetei</i><par n="azi__adv"/></e>
 <e lm="pe atunci" a="delia"><i>pe<b/>atunci</i><par n="azi__adv"/></e>
 <e lm="pe bandă rulantă" a="mioara"><i>pe<b/>bandă<b/>rulantă</i><par n="azi__adv"/></e>
 <e lm="pe bâjbâite" a="delia"><i>pe<b/>bâjbâite</i><par n="azi__adv"/></e>
-<e lm="pe_cont_propriu"> <i>pe<b/>cont<b/>propriu</i><par n="azi__adv"/></e>
+<e lm="pe cont propriu"> <i>pe<b/>cont<b/>propriu</i><par n="azi__adv"/></e>
 <e lm="pe cruce" a="delia"><i>pe<b/>cruce</i><par n="azi__adv"/></e>
 <e r="LR" lm="pe cât a fost posibil" a="delia"><i>pe<b/>cât<b/>a<b/>fost<b/>posibil</i><par n="azi__adv"/></e>
 <e r="LR" lm="pe cât ar fi posibil" a="delia"><i>pe<b/>cât<b/>ar<b/>fi<b/>posibil</i><par n="azi__adv"/></e>
@@ -24726,11 +24734,11 @@
 <e lm="pe de o parte">   <i>pe<b/>de<b/>o<b/>parte</i><par n="azi__adv"/></e>
 <e lm="pe degeaba" a="delia"><i>pe<b/>degeaba</i><par n="azi__adv"/></e>
 <e lm="pe deplin" a="delia"><i>pe<b/>deplin</i><par n="azi__adv"/></e>
-<e r="LR" lm="pe_diagonală"><i>pe<b/>diagonală</i><par n="azi__adv"/></e>
+<e r="LR" lm="pe diagonală"><i>pe<b/>diagonală</i><par n="azi__adv"/></e>
 <e lm="pe dibuite" a="mioara"><i>pe<b/>dibuite</i><par n="azi__adv"/></e>
 <e lm="pe dinafară" a="delia"><i>pe<b/>dinafară</i><par n="azi__adv"/></e>
 <e lm="pe domenii" a="delnou"><i>pe<b/>domenii</i><par n="azi__adv"/></e>
-<e lm="pe_furiș">        <i>pe<b/>furiș</i><par n="azi__adv"/></e>
+<e lm="pe furiș">        <i>pe<b/>furiș</i><par n="azi__adv"/></e>
 <e lm="pe gratis" a="mioara"><i>pe<b/>gratis</i><par n="azi__adv"/></e>
 <e lm="pe internet" a="delia"><i>pe<b/>internet</i><par n="azi__adv"/></e>
 <e lm="pe loc" a="mioara"><i>pe<b/>loc</i><par n="azi__adv"/></e>
@@ -24749,12 +24757,13 @@
 <e lm="pe piață" a="mioara"><i>pe<b/>piață</i><par n="azi__adv"/></e>
 <e r="LR" lm="pe primul loc"><i>pe<b/>primul<b/>loc</i><par n="azi__adv"/></e>
 <e lm="pe primul plan" a="delia"><i>pe<b/>primul<b/>plan</i><par n="azi__adv"/></e>
-<e lm="pe_scara_evoluției"><i>pe<b/>scara<b/>evoluției</i><par n="azi__adv"/></e>
-<e r="LR" lm="pe_scară_largă"><i>pe<b/>scară<b/>largă</i><par n="azi__adv"/></e>
+<e lm="pe scara evoluției"><i>pe<b/>scara<b/>evoluției</i><par n="azi__adv"/></e>
+<e r="LR" lm="pe scară largă"><i>pe<b/>scară<b/>largă</i><par n="azi__adv"/></e>
 <e lm="pe secundă" a="delia"><i>pe<b/>secundă</i><par n="azi__adv"/></e>
 <e lm="pe săptămână" a="delia"><i>pe<b/>săptămână</i><par n="azi__adv"/></e>
-<e lm="pe_termen_lung">  <i>pe<b/>termen<b/>lung</i><par n="azi__adv"/></e>
-<e lm="pe_termen_scurt"> <i>pe<b/>termen<b/>scurt</i><par n="azi__adv"/></e>
+<e lm="pe termen lung">  <i>pe<b/>termen<b/>lung</i><par n="azi__adv"/></e>
+<e lm="pe termen scurt"> <i>pe<b/>termen<b/>scurt</i><par n="azi__adv"/></e>
+<e lm="pe timpul acela"><i>pe<b/>timpul<b/>acela</i><par n="azi__adv"/></e>
 <e r="LR" lm="pe timpul iernii" a="delia"><i>pe<b/>timpul<b/>iernii</i><par n="azi__adv"/></e>
 <e r="LR" lm="pe timpul primăverii" a="delia"><i>pe<b/>timpul<b/>primăverii</i><par n="azi__adv"/></e>
 <e r="LR" lm="pe timpul toamnei" a="delia"><i>pe<b/>timpul<b/>toamnei</i><par n="azi__adv"/></e>
@@ -24763,7 +24772,7 @@
 <e r="LR" lm="pe ultimul loc"><i>pe<b/>ultimul<b/>loc</i><par n="azi__adv"/></e>
 <e lm="pe uscat" a="mioara"><i>pe<b/>uscat</i><par n="azi__adv"/></e>
 <e lm="pe viață" a="mioara"><i>pe<b/>viață</i><par n="azi__adv"/></e>
-<e lm="pe_viață_și_pe_moarte"><i>pe<b/>viață<b/>și<b/>pe<b/>moarte</i><par n="azi__adv"/></e>
+<e lm="pe viață și pe moarte"><i>pe<b/>viață<b/>și<b/>pe<b/>moarte</i><par n="azi__adv"/></e>
 <e lm="pe vremea aceea" a="mioara"><i>pe<b/>vremea<b/>aceea</i><par n="azi__adv"/></e>
 <e lm="pe vremea când" a="mioara"><i>pe<b/>vremea<b/>când</i><par n="azi__adv"/></e>
 <e lm="pe vrute, pe nevrute" a="delnou"><i>pe<b/>vrute,<b/>pe<b/>nevrute</i><par n="azi__adv"/></e>
@@ -24771,8 +24780,8 @@
 <e lm="pe îndelete" a="delia"><i>pe<b/>îndelete</i><par n="azi__adv"/></e>
 <e lm="pe șleau" a="delia"><i>pe<b/>șleau</i><par n="azi__adv"/></e>
 <e lm="pentru a câta oară" a="delnou"><i>pentru<b/>a<b/>câta<b/>oară</i><par n="azi__adv"/></e>
-<e lm="pentru_prima_dată"><i>pentru<b/>prima<b/>dată</i><par n="azi__adv"/></e>
-<e r="LR" lm="pentru_prima_oară"><i>pentru<b/>prima<b/>oară</i><par n="azi__adv"/></e>
+<e lm="pentru prima dată"><i>pentru<b/>prima<b/>dată</i><par n="azi__adv"/></e>
+<e r="LR" lm="pentru prima oară"><i>pentru<b/>prima<b/>oară</i><par n="azi__adv"/></e>
 <e lm="periodic" a="delia"><i>periodic</i><par n="azi__adv"/></e>
 <e lm="peste">           <i>peste</i><par n="azi__adv"/></e>
 <e lm="peste câțiva ani" a="mioara"><i>peste<b/>câțiva<b/>ani</i><par n="azi__adv"/></e>
@@ -24785,7 +24794,7 @@
 <e lm="prea">            <i>prea</i><par n="azi__adv"/></e>
 <e lm="precum">          <i>precum</i><par n="azi__adv"/></e>
 <e lm="pretutindeni" a="delia"><i>pretutindeni</i><par n="azi__adv"/></e>
-<e lm="prima_dată">      <i>prima<b/>dată</i><par n="azi__adv"/></e>
+<e lm="prima dată">      <i>prima<b/>dată</i><par n="azi__adv"/></e>
 <e lm="prima oară">      <i>prima<b/>oară</i><par n="azi__adv"/></e>
 <e lm="prin rotație" a="delia"><i>prin<b/>rotație</i><par n="azi__adv"/></e>
 <e lm="prin străinătate" a="delia"><i>prin<b/>străinătate</i><par n="azi__adv"/></e>
@@ -24793,7 +24802,7 @@
 <e lm="prin uzură" a="delnou"><i>prin<b/>uzură</i><par n="azi__adv"/></e>
 <e lm="probabil">        <i>probabil</i><par n="azi__adv"/></e>
 <e lm="propriu zis" a="delnou"><i>propriu<b/>zis</i><par n="azi__adv"/></e>
-<e lm="pur_și_simplu">   <i>pur<b/>și<b/>simplu</i><par n="azi__adv"/></e>
+<e lm="pur și simplu">   <i>pur<b/>și<b/>simplu</i><par n="azi__adv"/></e>
 <e r="LR" lm="pururea" a="mioara"><i>pururea</i><par n="azi__adv"/></e>
 <e r="LR" lm="pururi" a="mioara"><i>pururi</i><par n="azi__adv"/></e>
 <e lm="puțin cam" a="delia"><i>puțin<b/>cam</i><par n="azi__adv"/></e>
@@ -24803,9 +24812,9 @@
 <e lm="până la capăt" a="mioara"><i>până<b/>la<b/>capăt</i><par n="azi__adv"/></e>
 <e r="LR" lm="până la finele" a="mioara"><i>până<b/>la<b/>finele</i><par n="azi__adv"/></e>
 <e lm="până la urmă" a="mioara"><i>până<b/>la<b/>urmă</i><par n="azi__adv"/></e>
-<e lm="până_în_gât">     <i>până<b/>în<b/>gât</i><par n="azi__adv"/></e>
-<e lm="până_în_prezent"> <i>până<b/>în<b/>prezent</i><par n="azi__adv"/></e>
-<e r="LR" lm="până_și">  <i>până<b/>și</i><par n="azi__adv"/></e>
+<e lm="până în gât">     <i>până<b/>în<b/>gât</i><par n="azi__adv"/></e>
+<e lm="până în prezent"> <i>până<b/>în<b/>prezent</i><par n="azi__adv"/></e>
+<e r="LR" lm="până și">  <i>până<b/>și</i><par n="azi__adv"/></e>
 <e lm="rar">             <i>rar</i><par n="azi__adv"/></e>
 <e lm="rareori">         <i>rareori</i><par n="azi__adv"/></e>
 <e r="LR" lm="realmente" a="mioara"><i>realmente</i><par n="azi__adv"/></e>
@@ -24851,14 +24860,14 @@
 <e lm="vreodată">        <i>vreodată</i><par n="azi__adv"/></e>
 <e lm="vrând-nevrând" a="delnou"><i>vrând-nevrând</i><par n="azi__adv"/></e>
 <e lm="vrând nevrând" a="delnou"><i>vrând<b/>nevrând</i><par n="azi__adv"/></e>
-<e lm="zi_de_zi">        <i>zi<b/>de<b/>zi</i><par n="azi__adv"/></e>
+<e lm="zi de zi">        <i>zi<b/>de<b/>zi</i><par n="azi__adv"/></e>
 <e lm="zor-nevoie" a="delnou"><i>zor-nevoie</i><par n="azi__adv"/></e>
 <e lm="împreună">        <i>împreună</i><par n="azi__adv"/></e>
-<e lm="în_această_privință"><i>în<b/>această<b/>privință</i><par n="azi__adv"/></e>
-<e lm="în_aceeași_perioadă"><i>în<b/>aceeași<b/>perioadă</i><par n="azi__adv"/></e>
+<e lm="în această privință"><i>în<b/>această<b/>privință</i><par n="azi__adv"/></e>
+<e lm="în aceeași perioadă"><i>în<b/>aceeași<b/>perioadă</i><par n="azi__adv"/></e>
 <e lm="în același moment" a="delnou"><i>în<b/>același<b/>moment</i><par n="azi__adv"/></e>
 <e lm="în același timp" a="delia"><i>în<b/>același<b/>timp</i><par n="azi__adv"/></e>
-<e lm="în_acest_scop">   <i>în<b/>acest<b/>scop</i><par n="azi__adv"/></e>
+<e lm="în acest scop">   <i>în<b/>acest<b/>scop</i><par n="azi__adv"/></e>
 <e lm="în al doilea rând" a="delia"><i>în<b/>al<b/>doilea<b/>rând</i><par n="azi__adv"/></e>
 <e lm="în al patrulea rând" a="delia"><i>în<b/>al<b/>patrulea<b/>rând</i><par n="azi__adv"/></e>
 <e lm="în al treilea rând" a="delia"><i>în<b/>al<b/>treilea<b/>rând</i><par n="azi__adv"/></e>
@@ -24872,38 +24881,38 @@
 <e lm="în bernă" a="mioara"><i>în<b/>bernă</i><par n="azi__adv"/></e>
 <e lm="în carouri" a="delnou"><i>în<b/>carouri</i><par n="azi__adv"/></e>
 <e r="LR" lm="în chirie" a="delnou"><i>în<b/>chirie</i><par n="azi__adv"/></e>
-<e lm="în_consecință">   <i>în<b/>consecință</i><par n="azi__adv"/></e>
+<e lm="în consecință">   <i>în<b/>consecință</i><par n="azi__adv"/></e>
 <e lm="în continuare" a="delia"><i>în<b/>continuare</i><par n="azi__adv"/></e>
 <e lm="în continuu" a="delia"><i>în<b/>continuu</i><par n="azi__adv"/></e>
 <e lm="în creierii munților" a="mioara"><i>în<b/>creierii<b/>munților</i><par n="azi__adv"/></e>
 <e lm="în culise" a="mioara"><i>în<b/>culise</i><par n="azi__adv"/></e>
 <e lm="în câțiva ani" a="mioara"><i>în<b/>câțiva<b/>ani</i><par n="azi__adv"/></e>
-<e lm="în_diagonală">    <i>în<b/>diagonală</i><par n="azi__adv"/></e>
+<e lm="în diagonală">    <i>în<b/>diagonală</i><par n="azi__adv"/></e>
 <e lm="în fiecare an" a="delia"><i>în<b/>fiecare<b/>an</i><par n="azi__adv"/></e>
-<e lm="în_fiecare_dimineață"><i>în<b/>fiecare<b/>dimineață</i><par n="azi__adv"/></e>
+<e lm="în fiecare dimineață"><i>în<b/>fiecare<b/>dimineață</i><par n="azi__adv"/></e>
 <e lm="în fiecare iarnă" a="delia"><i>în<b/>fiecare<b/>iarnă</i><par n="azi__adv"/></e>
 <e lm="în fiecare lună" a="delia"><i>în<b/>fiecare<b/>lună</i><par n="azi__adv"/></e>
-<e lm="în_fiecare_noapte"><i>în<b/>fiecare<b/>noapte</i><par n="azi__adv"/></e>
+<e lm="în fiecare noapte"><i>în<b/>fiecare<b/>noapte</i><par n="azi__adv"/></e>
 <e lm="în fiecare primăvară" a="delia"><i>în<b/>fiecare<b/>primăvară</i><par n="azi__adv"/></e>
 <e lm="în fiecare toamnă" a="delia"><i>în<b/>fiecare<b/>toamnă</i><par n="azi__adv"/></e>
 <e lm="în fiecare vară" a="delia"><i>în<b/>fiecare<b/>vară</i><par n="azi__adv"/></e>
 <e lm="în fiecare zi" a="delia"><i>în<b/>fiecare<b/>zi</i><par n="azi__adv"/></e>
 <e lm="în fine" a="mioara"><i>în<b/>fine</i><par n="azi__adv"/></e>
-<e lm="în_frunte">       <i>în<b/>frunte</i><par n="azi__adv"/></e>
-<e r="LR" lm="în_fruntea"><i>în<b/>fruntea</i><par n="azi__adv"/></e>
+<e lm="în frunte">       <i>în<b/>frunte</i><par n="azi__adv"/></e>
+<e r="LR" lm="în fruntea"><i>în<b/>fruntea</i><par n="azi__adv"/></e>
 <e lm="în general" a="delia"><i>în<b/>general</i><par n="azi__adv"/></e>
 <e lm="în genere" a="mioara"><i>în<b/>genere</i><par n="azi__adv"/></e>
-<e lm="în_glumă">        <i>în<b/>glumă</i><par n="azi__adv"/></e>
-<e lm="în_grabă">        <i>în<b/>grabă</i><par n="azi__adv"/></e>
+<e lm="în glumă">        <i>în<b/>glumă</i><par n="azi__adv"/></e>
+<e lm="în grabă">        <i>în<b/>grabă</i><par n="azi__adv"/></e>
 <e r="LR" lm="în internet"><i>în<b/>internet</i><par n="azi__adv"/></e>
 <e lm="în jur" a="delia"><i>în<b/>jur</i><par n="azi__adv"/></e>
-<e lm="în_mare_grabă">   <i>în<b/>mare<b/>grabă</i><par n="azi__adv"/></e>
+<e lm="în mare grabă">   <i>în<b/>mare<b/>grabă</i><par n="azi__adv"/></e>
 <e lm="în mare măsură" a="mioara"><i>în<b/>mare<b/>măsură</i><par n="azi__adv"/></e>
 <e lm="în materie" a="delia"><i>în<b/>materie</i><par n="azi__adv"/></e>
 <e lm="în mod clar" a="delia"><i>în<b/>mod<b/>clar</i><par n="azi__adv"/></e>
 <e lm="în mod complet" a="delia"><i>în<b/>mod<b/>complet</i><par n="azi__adv"/></e>
 <e lm="în mod constant"> <i>în<b/>mod<b/>constant</i><par n="azi__adv"/></e>
-<e lm="în_mod_curent" a="delnou"><i>în<b/>mod<b/>curent</i><par n="azi__adv"/></e>
+<e lm="în mod curent" a="delnou"><i>în<b/>mod<b/>curent</i><par n="azi__adv"/></e>
 <e r="LR" lm="în mod lent" a="delia"><i>în<b/>mod<b/>lent</i><par n="azi__adv"/></e>
 <e lm="în mod obișnuit" a="delia"><i>în<b/>mod<b/>obișnuit</i><par n="azi__adv"/></e>
 <e lm="în mod regulat" a="delnou"><i>în<b/>mod<b/>regulat</i><par n="azi__adv"/></e>
@@ -24911,40 +24920,40 @@
 <e lm="în paragină" a="mioara"><i>în<b/>paragină</i><par n="azi__adv"/></e>
 <e lm="în permanență" a="delnou"><i>în<b/>permanență</i><par n="azi__adv"/></e>
 <e lm="în plen" a="mioara"><i>în<b/>plen</i><par n="azi__adv"/></e>
-<e lm="în_plus">         <i>în<b/>plus</i><par n="azi__adv"/></e>
-<e lm="în_prealabil">    <i>în<b/>prealabil</i><par n="azi__adv"/></e>
+<e lm="în plus">         <i>în<b/>plus</i><par n="azi__adv"/></e>
+<e lm="în prealabil">    <i>în<b/>prealabil</i><par n="azi__adv"/></e>
 <e lm="în premieră" a="mioara"><i>în<b/>premieră</i><par n="azi__adv"/></e>
 <e lm="în prezent" a="delia"><i>în<b/>prezent</i><par n="azi__adv"/></e>
 <e lm="în primul rând" a="delia"><i>în<b/>primul<b/>rând</i><par n="azi__adv"/></e>
 <e lm="în rate" a="delia"><i>în<b/>rate</i><par n="azi__adv"/></e>
-<e lm="în_replică">      <i>în<b/>replică</i><par n="azi__adv"/></e>
+<e lm="în replică">      <i>în<b/>replică</i><par n="azi__adv"/></e>
 <e lm="în răspăr" a="delia"><i>în<b/>răspăr</i><par n="azi__adv"/></e>
 <e r="LR" lm="în răstimp" a="mioara"><i>în<b/>răstimp</i><par n="azi__adv"/></e>
-<e lm="în_schimb">       <i>în<b/>schimb</i><par n="azi__adv"/></e>
-<e lm="în_secret">       <i>în<b/>secret</i><par n="azi__adv"/></e>
-<e lm="în_sfârșit">      <i>în<b/>sfârșit</i><par n="azi__adv"/></e>
+<e lm="în schimb">       <i>în<b/>schimb</i><par n="azi__adv"/></e>
+<e lm="în secret">       <i>în<b/>secret</i><par n="azi__adv"/></e>
+<e lm="în sfârșit">      <i>în<b/>sfârșit</i><par n="azi__adv"/></e>
 <e lm="în sine" a="delnou"><i>în<b/>sine</i><par n="azi__adv"/></e>
 <e r="LR" lm="în sinea lor" a="delia"><i>în<b/>sinea<b/>lor</i><par n="azi__adv"/></e>
 <e lm="în sinea mea" a="delia"><i>în<b/>sinea<b/>mea</i><par n="azi__adv"/></e>
 <e lm="în sinea sa" a="delia"><i>în<b/>sinea<b/>sa</i><par n="azi__adv"/></e>
 <e lm="în sinea ta" a="delia"><i>în<b/>sinea<b/>ta</i><par n="azi__adv"/></e>
-<e lm="în_spate">        <i>în<b/>spate</i><par n="azi__adv"/></e>
+<e lm="în spate">        <i>în<b/>spate</i><par n="azi__adv"/></e>
 <e lm="în străinătate" a="mioara"><i>în<b/>străinătate</i><par n="azi__adv"/></e>
 <e r="LR" lm="în taină" a="mioara"><i>în<b/>taină</i><par n="azi__adv"/></e>
-<e r="LR" lm="în_termen_lung"><i>în<b/>termen<b/>lung</i><par n="azi__adv"/></e>
-<e lm="în_termen_scurt"> <i>în<b/>termen<b/>scurt</i><par n="azi__adv"/></e>
+<e r="LR" lm="în termen lung"><i>în<b/>termen<b/>lung</i><par n="azi__adv"/></e>
+<e lm="în termen scurt"> <i>în<b/>termen<b/>scurt</i><par n="azi__adv"/></e>
 <e lm="în timpul iernii" a="delia"><i>în<b/>timpul<b/>iernii</i><par n="azi__adv"/></e>
 <e lm="în timpul primăverii" a="delia"><i>în<b/>timpul<b/>primăverii</i><par n="azi__adv"/></e>
 <e lm="în timpul toamnei" a="delia"><i>în<b/>timpul<b/>toamnei</i><par n="azi__adv"/></e>
 <e lm="în timpul verii" a="delia"><i>în<b/>timpul<b/>verii</i><par n="azi__adv"/></e>
 <e lm="în toate părțile" a="delia"><i>în<b/>toate<b/>părțile</i><par n="azi__adv"/></e>
 <e lm="în ultimul rând" a="delia"><i>în<b/>ultimul<b/>rând</i><par n="azi__adv"/></e>
-<e lm="în_unele_cazuri"> <i>în<b/>unele<b/>cazuri</i><par n="azi__adv"/></e>
+<e lm="în unele cazuri"> <i>în<b/>unele<b/>cazuri</i><par n="azi__adv"/></e>
 <e lm="în urmă" a="delia"><i>în<b/>urmă</i><par n="azi__adv"/></e>
 <e r="LR" lm="în veci de veci" a="mioara"><i>în<b/>veci<b/>de<b/>veci</i><par n="azi__adv"/></e>
 <e lm="în vecii vecilor" a="mioara"><i>în<b/>vecii<b/>vecilor</i><par n="azi__adv"/></e>
 <e lm="în zadar" a="delia"><i>în<b/>zadar</i><par n="azi__adv"/></e>
-<e lm="în_zilele_noastre"><i>în<b/>zilele<b/>noastre</i><par n="azi__adv"/></e>
+<e lm="în zilele noastre"><i>în<b/>zilele<b/>noastre</i><par n="azi__adv"/></e>
 <e r="LR" lm="în întregime" a="mioara"><i>în<b/>întregime</i><par n="azi__adv"/></e>
 <e lm="în șoaptă" a="mioara"><i>în<b/>șoaptă</i><par n="azi__adv"/></e>
 <e lm="înadins" a="delia"><i>înadins</i><par n="azi__adv"/></e>
@@ -24952,7 +24961,7 @@
 <e lm="înainte de culcare" a="delnou"><i>înainte<b/>de<b/>culcare</i><par n="azi__adv"/></e>
 <e lm="înainte de masă" a="mioara"><i>înainte<b/>de<b/>masă</i><par n="azi__adv"/></e>
 <e r="LR" lm="înapoi" a="mioara"><i>înapoi</i><par n="azi__adv"/></e>
-<e lm="începând_cu_ora"> <i>începând<b/>cu<b/>ora</i><par n="azi__adv"/></e>
+<e lm="începând cu ora"> <i>începând<b/>cu<b/>ora</i><par n="azi__adv"/></e>
 <e lm="încet">           <i>încet</i><par n="azi__adv"/></e>
 <e r="LR" lm="încet-încet" a="mioara"><i>încet-încet</i><par n="azi__adv"/></e>
 <e lm="încetișor" a="delia"><i>încetișor</i><par n="azi__adv"/></e>
@@ -24961,7 +24970,7 @@
 <e lm="încolo">          <i>încolo</i><par n="azi__adv"/></e>
 <e lm="încotro">         <i>încotro</i><par n="când__adv"/></e>
 <e lm="încă">            <i>încă</i><par n="azi__adv"/></e>
-<e lm="încă_o_dată">     <i>încă<b/>o<b/>dată</i><par n="azi__adv"/></e>
+<e lm="încă o dată">     <i>încă<b/>o<b/>dată</i><par n="azi__adv"/></e>
 <e lm="încă și mai" a="delia"><i>încă<b/>și<b/>mai</i><par n="azi__adv"/></e>
 <e lm="îndată" a="mioara"><i>îndată</i><par n="azi__adv"/></e>
 <e lm="îndeajuns" a="delia"><i>îndeajuns</i><par n="azi__adv"/></e>
@@ -24972,16 +24981,16 @@
 <e lm="întotdeauna">     <i>întotdeauna</i><par n="azi__adv"/></e>
 <e lm="într-adevăr">     <i>într-adevăr</i><par n="azi__adv"/></e>
 <e lm="într-o anumită privință" a="mioara"><i>într-o<b/>anumită<b/>privință</i><par n="azi__adv"/></e>
-<e lm="într-o_bună_zi" a="delnou"><i>într-o<b/>bună<b/>zi</i><par n="azi__adv"/></e>
-<e lm="într-o_clipă">    <i>într-o<b/>clipă</i><par n="azi__adv"/></e>
+<e lm="într-o bună zi" a="delnou"><i>într-o<b/>bună<b/>zi</i><par n="azi__adv"/></e>
+<e lm="într-o clipă">    <i>într-o<b/>clipă</i><par n="azi__adv"/></e>
 <e lm="într-o oarecare măsură" a="mioara"><i>într-o<b/>oarecare<b/>măsură</i><par n="azi__adv"/></e>
 <e lm="într-un fel sau altul" a="delia"><i>într-un<b/>fel<b/>sau<b/>altul</i><par n="azi__adv"/></e>
-<e lm="între_ciocan_și_nicovală"><i>între<b/>ciocan<b/>și<b/>nicovală</i><par n="azi__adv"/></e>
+<e lm="între ciocan și nicovală"><i>între<b/>ciocan<b/>și<b/>nicovală</i><par n="azi__adv"/></e>
 <e lm="între timp" a="delia"><i>între<b/>timp</i><par n="azi__adv"/></e>
 <e lm="înăuntru">        <i>înăuntru</i><par n="azi__adv"/></e>
 <e lm="și">              <i>și</i><par n="azi__adv"/></e>
 <e lm="și așa" a="delia"><i>și<b/>așa</i><par n="azi__adv"/></e>
-<e lm="și_chiar">        <i>și<b/>chiar</i><par n="azi__adv"/></e>
+<e lm="și chiar">        <i>și<b/>chiar</i><par n="azi__adv"/></e>
 <e lm="moralicește">     <i>moralicește</i><par n="azi__adv"/></e>
 <e lm="dimpotrivă">      <i>dimpotrivă</i><par n="azi__adv"/></e>
 <e lm="astfel">          <i>astfel</i><par n="azi__adv"/></e>
@@ -25146,6 +25155,7 @@
 <e lm="sâc">             <i>sâc</i><par n="adio__ij"/></e>
 <e lm="vai" a="delnou">  <i>vai</i><par n="adio__ij"/></e>
 <e lm="cuțu-cuțu">       <i>cuțu-cuțu</i><par n="adio__ij"/></e>
+<e r="LR" lm="cuțu cuțu"><p><l>cuțu<b/>cuțu</l><r>cuțu-cuțu</r></p><par n="adio__ij"/></e>
 <e lm="ubi bene ibi patria" a="marcriera"><i>ubi<b/>bene<b/>ibi<b/>patria</i><par n="adio__ij"/></e>
 
     <!-- Acronime -->
@@ -35089,6 +35099,9 @@
 <e lm="rozmarin">        <i>rozmarin</i><par n="an__n"/></e>
 <e lm="fierăstrău">      <i>fierăstr</i><par n="fierăstr/ău__n"/></e>
 <e lm="parizer">         <i>parizer</i><par n="est__n"/></e>
+<e lm="trac">            <i>trac</i><par n="coleg__n"/></e>
+<e lm="romantic">        <i>romantic</i><par n="coleg__n"/></e>
+<e lm="restanțier">      <i>restanțier</i><par n="coleg__n"/></e>
 
 <e lm="Bancă Mondială">  <p><l>Banca<b/>Mondială</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="Bancă Mondială" a="delnou"><p><l>Bancă<b/>Mondială</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
