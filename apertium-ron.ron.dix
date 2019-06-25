@@ -35111,13 +35111,17 @@
 <e lm="Bancă Mondială">  <p><l>Băncii<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="Bancă Mondială">  <p><l>Băncile<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="Bancă Mondială">  <p><l>Băncilor<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="Comisie Europeană"><p><l>Comisie<b/>Europeană</l><r>Comisie<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="Comisie Europeană"><p><l>Comisia<b/>Europeană</l><r>Comisie<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="Comisie Europeană"><p><l>Comisii<b/>Europene</l><r>Comisie<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="Comisie Europeană"><p><l>Comisiei<b/>Europene</l><r>Comisie<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="Uniune Europeană"><p><l>Uniune<b/>Europeană</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="Uniune Europeană"><p><l>Uniunea<b/>Europeană</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="Uniune Europeană"><p><l>Uniuni<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-<e lm="Uniune Europeană"><p><l>Uniuni<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-<e lm="Uniune Europeană"><p><l>Uniuni<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
 <e lm="Uniune Europeană"><p><l>Uniunii<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="Uniune Europeană"><p><l>Uniuni<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="Uniune Europeană"><p><l>Uniunile<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="Uniune Europeană"><p><l>Uniuni<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
 <e lm="Uniune Europeană"><p><l>Uniunilor<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="afacere externă"> <p><l>afacere<b/>externă</l><r>afacere<b/>externă<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="afacere instituțională"><p><l>afacere<b/>instituțională</l><r>afacere<b/>instituțională<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
