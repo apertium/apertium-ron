@@ -2,14 +2,15 @@
 ## Makefile for apertium-ron
 ###############################################################################
 
-RELEASE=1.0
-VERSION=1.0.0
 LANG1=ron
 BASENAME=apertium-$(LANG1)
 
 TARGETS_COMMON = $(LANG1).automorf.bin \
-	$(LANG1).autogen.bin $(LANG1).autopgen.bin $(LANG1).autogen.bin \
-	$(LANG1).automorf.att.gz $(LANG1).autogen.att.gz \
+	$(LANG1).autogen.bin \
+	$(LANG1).autopgen.bin \
+	$(LANG1).autogen.bin \
+	$(LANG1).automorf.att.gz \
+	$(LANG1).autogen.att.gz \
 	$(LANG1).rlx.bin
 
 # Use this goal for creating .deps, otherwise make -j2 will give problems:
@@ -40,8 +41,8 @@ $(LANG1).autopgen.bin: $(BASENAME).post-$(LANG1).dix
 ## Disambiguation rules
 ###############################################################################
 
-$(LANG1).rlx.bin: $(BASENAME).$(LANG1).rlx $(CGCOMP)
-	$(CGCOMP) $< $@
+$(LANG1).rlx.bin: $(BASENAME).$(LANG1).rlx
+	cg-comp $< $@
 
 ###############################################################################
 ## Distribution
