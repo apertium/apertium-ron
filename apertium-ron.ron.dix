@@ -1833,6 +1833,25 @@
   <e>       <p><l>elor</l>      <r><s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
 
+<pardef n="proro/c__n">
+  <e>       <p><l>c</l>         <r>c<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>cul</l>       <r>c<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>c</l>         <r>c<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>cului</l>     <r>c<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ci</l>        <r>c<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>cii</l>       <r>c<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ci</l>        <r>c<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>cilor</l>     <r>c<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>acă</l>       <r>c<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>aca</l>       <r>c<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ace</l>       <r>c<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>acei</l>      <r>c<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ace</l>       <r>c<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>acele</l>     <r>c<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ace</l>       <r>c<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>acelor</l>    <r>c<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
+
 <pardef n="sf/ânt__n">
   <e>       <p><l>ânt</l>       <r>ânt<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ântul</l>     <r>ânt<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -4783,43 +4802,6 @@
   <e>       <p><l>are<b/>de<b/>lemne</l><r>r<b/>de<b/>lemne<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
 
   <e>       <p><l>arelor<b/>de<b/>lemne</l><r>r<b/>de<b/>lemne<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-
-</pardef>
-
-<pardef n="atașa/t_de_presă__n">
-
-  <e>       <p><l>t<b/>de<b/>presă</l><r>t<b/>de<b/>presă<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-
-  <e>       <p><l>tul<b/>de<b/>presă</l><r>t<b/>de<b/>presă<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-
-  <e>       <p><l>t<b/>de<b/>presă</l><r>t<b/>de<b/>presă<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-
-  <e>       <p><l>tului<b/>de<b/>presă</l><r>t<b/>de<b/>presă<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-
-  <e>       <p><l>ți<b/>de<b/>presă</l><r>t<b/>de<b/>presă<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-
-  <e>       <p><l>ții<b/>de<b/>presă</l><r>t<b/>de<b/>presă<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-
-  <e>       <p><l>ți<b/>de<b/>presă</l><r>t<b/>de<b/>presă<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ților<b/>de<b/>presă</l><r>t<b/>de<b/>presă<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-</pardef>
-
-<pardef n="atașat/ă_de_presă__n">
-  <e>       <p><l>ă<b/>de<b/>presă</l><r>ă<b/>de<b/>presă<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-
-  <e>       <p><l>a<b/>de<b/>presă</l><r>ă<b/>de<b/>presă<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-
-  <e>       <p><l>e<b/>de<b/>presă</l><r>ă<b/>de<b/>presă<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-
-  <e>       <p><l>ei<b/>de<b/>presă</l><r>ă<b/>de<b/>presă<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-
-  <e>       <p><l>e<b/>de<b/>presă</l><r>ă<b/>de<b/>presă<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-
-  <e>       <p><l>ele<b/>de<b/>presă</l><r>ă<b/>de<b/>presă<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-
-  <e>       <p><l>e<b/>de<b/>presă</l><r>ă<b/>de<b/>presă<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-
-  <e>       <p><l>elor<b/>de<b/>presă</l><r>ă<b/>de<b/>presă<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 
 </pardef>
 
@@ -25965,10 +25947,9 @@
 <e lm="atacant" a="mioara"><i>atacan</i><par n="avoca/t__n"/></e>
 <e r="LR" lm="atacator" a="mioara"><i>atacato</i><par n="directo/r__n"/></e>
 <e lm="atavism" a="mioara"><i>atavism</i><par n="caiet__n"/></e>
-<e lm="atașat de presă" a="mioara"><i>atașa</i><par n="atașa/t_de_presă__n"/></e>
 <e r="LR" lm="atașat" a="mioara"><i>atașa</i><par n="avoca/t__n"/></e>
+<e lm="atașat de presă"><i>atașa</i><par n="avoca/t__n"/><ig><b/>de<b/>presă</ig></e>
 <e lm="atașament" a="delia"><i>atașament</i><par n="caiet__n"/></e>
-<e lm="atașată de presă" a="mioara"><i>atașat</i><par n="atașat/ă_de_presă__n"/></e>
 <e lm="ateu">            <i>ate</i><par n="ate/u__n"/></e>
 <e lm="ateism">          <i>ateism</i><par n="caiet__n"/></e>
 <e r="LR" lm="atelă" a="mioara"><i>atel</i><par n="cas/ă__n"/></e>
@@ -35124,6 +35105,7 @@
 <e lm="trac">            <i>trac</i><par n="coleg__n"/></e>
 <e lm="romantic">        <i>romantic</i><par n="coleg__n"/></e>
 <e lm="restanțier">      <i>restanțier</i><par n="coleg__n"/></e>
+<e lm="proroc">          <i>proro</i><par n="proro/c__n"/></e>
 
 <e lm="Bancă Mondială">  <p><l>Banca<b/>Mondială</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="Bancă Mondială" a="delnou"><p><l>Bancă<b/>Mondială</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -35225,6 +35207,38 @@
 <e lm="asigurare completă"><p><l>asigurării<b/>complete</l><r>asigurare<b/>completă<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="asigurare completă"><p><l>asigurările<b/>complete</l><r>asigurare<b/>completă<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="asigurare completă"><p><l>asigurărilor<b/>complete</l><r>asigurare<b/>completă<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="atașat comercial"><p><l>atașat<b/>comercial</l><r>atașat<b/>comercial<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="atașat comercial"><p><l>atașat<b/>comercial</l><r>atașat<b/>comercial<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="atașat comercial"><p><l>atașatul<b/>comercial</l><r>atașat<b/>comercial<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="atașat comercial"><p><l>atașatului<b/>comercial</l><r>atașat<b/>comercial<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="atașat comercial"><p><l>atașată<b/>comercială</l><r>atașat<b/>comercial<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="atașat comercial"><p><l>atașate<b/>comerciale</l><r>atașat<b/>comercial<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="atașat comercial"><p><l>atașata<b/>comercială</l><r>atașat<b/>comercial<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="atașat comercial"><p><l>atașatei<b/>comerciale</l><r>atașat<b/>comercial<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="atașat comercial"><p><l>atașați<b/>comerciali</l><r>atașat<b/>comercial<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="atașat comercial"><p><l>atașați<b/>comerciali</l><r>atașat<b/>comercial<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="atașat comercial"><p><l>atașații<b/>comerciali</l><r>atașat<b/>comercial<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="atașat comercial"><p><l>atașaților<b/>comerciali</l><r>atașat<b/>comercial<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="atașat comercial"><p><l>atașate<b/>comerciale</l><r>atașat<b/>comercial<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="atașat comercial"><p><l>atașate<b/>comerciale</l><r>atașat<b/>comercial<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="atașat comercial"><p><l>atașatele<b/>comerciale</l><r>atașat<b/>comercial<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="atașat comercial"><p><l>atașatelor<b/>comerciale</l><r>atașat<b/>comercial<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="atașat cultural"> <p><l>atașat<b/>cultural</l><r>atașat<b/>cultural<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="atașat cultural"> <p><l>atașat<b/>cultural</l><r>atașat<b/>cultural<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="atașat cultural"> <p><l>atașatul<b/>cultural</l><r>atașat<b/>cultural<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="atașat cultural"> <p><l>atașatului<b/>cultural</l><r>atașat<b/>cultural<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="atașat cultural"> <p><l>atașată<b/>culturală</l><r>atașat<b/>cultural<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="atașat cultural"> <p><l>atașate<b/>culturale</l><r>atașat<b/>cultural<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="atașat cultural"> <p><l>atașata<b/>culturală</l><r>atașat<b/>cultural<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="atașat cultural"> <p><l>atașatei<b/>culturale</l><r>atașat<b/>cultural<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="atașat cultural"> <p><l>atașați<b/>culturali</l><r>atașat<b/>cultural<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="atașat cultural"> <p><l>atașați<b/>culturali</l><r>atașat<b/>cultural<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="atașat cultural"> <p><l>atașații<b/>culturali</l><r>atașat<b/>cultural<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="atașat cultural"> <p><l>atașaților<b/>culturali</l><r>atașat<b/>cultural<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="atașat cultural"> <p><l>atașate<b/>culturale</l><r>atașat<b/>cultural<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="atașat cultural"> <p><l>atașate<b/>culturale</l><r>atașat<b/>cultural<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="atașat cultural"> <p><l>atașatele<b/>culturale</l><r>atașat<b/>cultural<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="atașat cultural"> <p><l>atașatelor<b/>culturale</l><r>atașat<b/>cultural<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="atașat militar">  <p><l>atașat<b/>militar</l><r>atașat<b/>militar<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="atașat militar">  <p><l>atașat<b/>militar</l><r>atașat<b/>militar<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
 <e lm="atașat militar">  <p><l>atașatul<b/>militar</l><r>atașat<b/>militar<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
