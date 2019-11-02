@@ -1353,6 +1353,24 @@
   <e>       <p><l>ese</l>       <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>eselor</l>    <r>e<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 </pardef>
+<pardef n="sacerdo/t__n">
+  <e>       <p><l>t</l>         <r>t<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>tul</l>       <r>t<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>t</l>         <r>t<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>tului</l>     <r>t<s n="n"/><s n="m"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>ți</l>        <r>t<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ții</l>       <r>t<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ți</l>        <r>t<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ților</l>     <r>t<s n="n"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>tesă</l>      <r>t<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>tesa</l>      <r>t<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>tese</l>      <r>t<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>tesei</l>     <r>t<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+  <e>       <p><l>tese</l>      <r>t<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+  <e>       <p><l>tesele</l>    <r>t<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>tese</l>      <r>t<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>teselor</l>   <r>t<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+</pardef>
 <pardef n="con/te__n">
   <e>       <p><l>te</l>        <r>te<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>tele</l>      <r>te<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -24281,6 +24299,7 @@
 <e lm="clujean">         <i>cluje</i><par n="europe/an__adj"/></e>
 <e lm="ieșean">          <i>ieșe</i><par n="europe/an__adj"/></e>
 <e lm="dobrogean">       <i>dobroge</i><par n="europe/an__adj"/></e>
+<e lm="de zi cu zi">     <i>de<b/>zi<b/>cu<b/>zi</i><par n="multimedia__adj"/></e>
 
 <e lm="cealaltă" a="delnou"><p><l>cealaltă</l><r>celălalt<s n="adj"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="ceilalți" a="delnou"><p><l>ceilalți</l><r>celălalt<s n="adj"/><s n="ind"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
@@ -24601,7 +24620,6 @@
 <e lm="la dracu" a="delia"><i>la<b/>dracu</i><par n="azi__adv"/></e>
 <e lm="la fața locului" a="mioara"><i>la<b/>fața<b/>locului</i><par n="azi__adv"/></e>
 <e lm="la fel">          <i>la<b/>fel</i><par n="azi__adv"/></e>
-<e lm="la fel de">       <i>la<b/>fel<b/>de</i><par n="azi__adv"/></e>
 <e lm="la maxim" a="delnou"><i>la<b/>maxim</i><par n="azi__adv"/></e>
 <e r="LR" lm="la maximum" a="delnou"><i>la<b/>maximum</i><par n="azi__adv"/></e>
 <e lm="la o adică" a="mioara"><i>la<b/>o<b/>adică</i><par n="azi__adv"/></e>
@@ -24777,7 +24795,6 @@
 <e lm="pe viață" a="mioara"><i>pe<b/>viață</i><par n="azi__adv"/></e>
 <e lm="pe viață și pe moarte"><i>pe<b/>viață<b/>și<b/>pe<b/>moarte</i><par n="azi__adv"/></e>
 <e lm="pe vremea aceea" a="mioara"><i>pe<b/>vremea<b/>aceea</i><par n="azi__adv"/></e>
-<e lm="pe vremea când" a="mioara"><i>pe<b/>vremea<b/>când</i><par n="azi__adv"/></e>
 <e lm="pe vrute, pe nevrute" a="delnou"><i>pe<b/>vrute,<b/>pe<b/>nevrute</i><par n="azi__adv"/></e>
 <e lm="pe zi" a="delia"> <i>pe<b/>zi</i><par n="azi__adv"/></e>
 <e lm="pe îndelete" a="delia"><i>pe<b/>îndelete</i><par n="azi__adv"/></e>
@@ -25005,6 +25022,8 @@
 <e lm="într-o anumită măsură"><i>într-o<b/>anumită<b/>măsură</i><par n="azi__adv"/></e>
 <e lm="până peste cap">  <i>până<b/>peste<b/>cap</i><par n="azi__adv"/></e>
 <e lm="ba dimpotrivă">   <i>ba<b/>dimpotrivă</i><par n="azi__adv"/></e>
+<e lm="din timp">        <i>din<b/>timp</i><par n="azi__adv"/></e>
+<e lm="post-mortem">     <i>post-mortem</i><par n="azi__adv"/></e>
 
 <e lm="așa">             <i>așa</i><par n="bine__preadv"/></e>
 <e lm="bine">            <i>bine</i><par n="bine__preadv"/></e>
@@ -25012,6 +25031,7 @@
 <e r="LR" lm="nou">      <i>nou</i><par n="bine__preadv"/></e>
 <e lm="recent">          <i>recent</i><par n="bine__preadv"/></e>
 <e lm="rău">             <i>rău</i><par n="bine__preadv"/></e>
+<e lm="la fel de">       <i>la<b/>fel<b/>de</i><par n="bine__preadv"/></e>
 
     <!-- Conjunții adverbiale -->
 
@@ -25069,6 +25089,9 @@
 <e r="LR" lm="întrucât"> <i>întrucât</i><par n="de_când__cnjadv"/></e>
 <e lm="ținând cont că">  <i>ținând<b/>cont<b/>că</i><par n="de_când__cnjadv"/></e>
 <e lm="așadar" a="delia"><i>așadar</i><par n="de_când__cnjadv"/></e>
+<e lm="pe vremea când">  <i>pe<b/>vremea<b/>când</i><par n="de_când__cnjadv"/></e>
+<e lm="până la vremea când"><i>până<b/>la<b/>vremea<b/>când</i><par n="de_când__cnjadv"/></e>
+<e lm="ca să">           <i>ca<b/>să</i><par n="de_când__cnjadv"/></e>
 
     <!-- Conjuncții coordonatoare -->
 
@@ -25110,7 +25133,7 @@
 <e lm="cel">             <i>ce</i><par n="ce/l__det"/></e>
 <e lm="câțiva">          <i>câ</i><par n="câ/țiva__det"/></e>
 <e lm="fiecare">         <i>fiec</i><par n="fiec/are__det"/></e>
-<e lm="mai_mulți">       <i>mai<b/>mul<b/></i><par n="mai_mul/ți__det"/></e>
+<e lm="mai mulți">       <i>mai<b/>mul</i><par n="mai_mul/ți__det"/></e>
 <e lm="niciun">          <i>nici</i><par n="nici/_un__det"/></e>
 <e r="LR" lm="~nici un"> <i>nici<b/></i><par n="nici/_un__det"/></e>
 <e lm="oricare">         <i>oric</i><par n="oric/are__det"/></e>
@@ -25435,7 +25458,7 @@
 <e lm="ajustaj" a="delia"><i>ajustaj</i><par n="caiet__n"/></e>
 <e lm="ajutor de stat">  <i>ajuto</i><par n="ajuto/r_de_stat__n"/></e>
 <e lm="ajutor">          <i>ajuto</i><par n="popo/r__n"/></e>
-<e lm="alan" a="mioara"> <i>ala</i><par n="an__n"/></e>
+<e lm="alan" a="mioara"> <i>alan</i><par n="coleg__n"/></e>
 <e lm="alai" a="delia">  <i>alai</i><par n="gât__n"/></e>
 <e lm="alambic">         <i>alambic</i><par n="gât__n"/></e>
 <e lm="alarmă">          <i>alarm</i><par n="cas/ă__n"/></e>
@@ -28520,7 +28543,6 @@
 <e lm="euforie">         <i>eufori</i><par n="coaliți/e__n"/></e>
 <e lm="euharistie" a="delia"><i>euharisti</i><par n="coaliți/e__n"/></e>
 <e lm="euro">            <i>euro</i><par n="euro__n"/></e>
-<e lm="eurobarometru" a="delia"><i>eurobarometr</i><par n="lice/u__n"/></e>
 <e lm="europarlamentar"> <i>europarlamentar</i><par n="coleg__n"/></e>
 <e lm="european">        <i>europe</i><par n="europe/an__n"/></e>
 <e lm="eutrofiere" a="delnou"><i>eutrofier</i><par n="fericir/e__n"/></e>
@@ -31067,6 +31089,7 @@
 <e lm="neo-clasicism" a="delnou"><i>neo-clasicism</i><par n="caiet__n"/></e>
 <e lm="neo-impresionism" a="delnou"><i>neo-impresionism</i><par n="caiet__n"/></e>
 <e lm="neobaroc" a="delnou"><i>neobaroc</i><par n="gât__n"/></e>
+<e r="LR" lm="neo-baroc"><i>neo-baroc</i><par n="gât__n"/></e>
 <e lm="neoclasicism" a="delnou"><i>neoclasicism</i><par n="caiet__n"/></e>
 <e lm="neocomunist">     <i>neocomuni</i><par n="comuni/st__n"/></e>
 <e lm="neocomunism">     <i>neocomunism</i><par n="caiet__n"/></e>
@@ -35106,27 +35129,13 @@
 <e lm="romantic">        <i>romantic</i><par n="coleg__n"/></e>
 <e lm="restanțier">      <i>restanțier</i><par n="coleg__n"/></e>
 <e lm="proroc">          <i>proro</i><par n="proro/c__n"/></e>
+<e lm="acoperământ">     <i>acoperăm</i><par n="cuv/ânt__n"/></e>
+<e lm="sacerdot">        <i>sacerdo</i><par n="sacerdo/t__n"/></e>
+<e lm="exactitudine">    <i>exactitudin</i><par n="fericir/e__n"/></e>
+<e lm="nume locului">    <i>nume</i><par n="nume__n"/><ig><b/>locului</ig></e>
+<e lm="omletă cu cartofi"><i>omlet</i><par n="cas/ă__n"/><ig><b/>cu<b/>cartofi</ig></e>
+<e lm="zahăr candel">    <i>zah</i><par n="zah/ăr__n"/><ig><b/>candel</ig></e>
 
-<e lm="Bancă Mondială">  <p><l>Banca<b/>Mondială</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-<e lm="Bancă Mondială" a="delnou"><p><l>Bancă<b/>Mondială</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-<e lm="Bancă Mondială">  <p><l>Bănci<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-<e lm="Bancă Mondială">  <p><l>Bănci<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-<e lm="Bancă Mondială">  <p><l>Bănci<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-<e lm="Bancă Mondială">  <p><l>Băncii<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-<e lm="Bancă Mondială">  <p><l>Băncile<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-<e lm="Bancă Mondială">  <p><l>Băncilor<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-<e lm="Comisie Europeană"><p><l>Comisie<b/>Europeană</l><r>Comisie<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-<e lm="Comisie Europeană"><p><l>Comisia<b/>Europeană</l><r>Comisie<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-<e lm="Comisie Europeană"><p><l>Comisii<b/>Europene</l><r>Comisie<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-<e lm="Comisie Europeană"><p><l>Comisiei<b/>Europene</l><r>Comisie<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-<e lm="Uniune Europeană"><p><l>Uniune<b/>Europeană</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-<e lm="Uniune Europeană"><p><l>Uniunea<b/>Europeană</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-<e lm="Uniune Europeană"><p><l>Uniuni<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-<e lm="Uniune Europeană"><p><l>Uniunii<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-<e lm="Uniune Europeană"><p><l>Uniuni<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-<e lm="Uniune Europeană"><p><l>Uniunile<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-<e lm="Uniune Europeană"><p><l>Uniuni<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-<e lm="Uniune Europeană"><p><l>Uniunilor<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="afacere externă"> <p><l>afacere<b/>externă</l><r>afacere<b/>externă<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="afacere instituțională"><p><l>afacere<b/>instituțională</l><r>afacere<b/>instituțională<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="afacere externă"> <p><l>afacerea<b/>externă</l><r>afacere<b/>externă<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -35394,29 +35403,21 @@
 <e lm="curent artistic"> <p><l>curentul<b/>artistic</l><r>curent<b/>artistic<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="curent artistic"> <p><l>curentului<b/>artistic</l><r>curent<b/>artistic<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="curte constituțională "><p><l>curte<b/>constituțională</l><r>curte<b/>constituțională<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-<e lm="curte europeană "><p><l>curte<b/>europeană</l><r>curte<b/>europeană<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="curte supremă ">  <p><l>curte<b/>supremă</l><r>curte<b/>supremă<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="curte constituțională"><p><l>curtea<b/>constituțională</l><r>curte<b/>constituțională<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-<e lm="curte europeană"> <p><l>curtea<b/>europeană</l><r>curte<b/>europeană<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="veste proastă">   <p><l>curtea<b/>proastă</l><r>veste<b/>proastă<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="curte supremă">   <p><l>curtea<b/>supremă</l><r>curte<b/>supremă<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="curte constituțională"><p><l>curți<b/>constituționale</l><r>curte<b/>constituțională<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
 <e lm="curte constituțională"><p><l>curți<b/>constituționale</l><r>curte<b/>constituțională<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="curte constituțională"><p><l>curți<b/>constituționale</l><r>curte<b/>constituțională<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-<e lm="curte europeană"> <p><l>curți<b/>europene</l><r>curte<b/>europeană<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-<e lm="curte europeană"> <p><l>curți<b/>europene</l><r>curte<b/>europeană<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-<e lm="curte europeană"> <p><l>curți<b/>europene</l><r>curte<b/>europeană<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
 <e lm="curte supremă">   <p><l>curți<b/>supreme</l><r>curte<b/>supremă<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
 <e lm="curte supremă">   <p><l>curți<b/>supreme</l><r>curte<b/>supremă<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="curte supremă">   <p><l>curți<b/>supreme</l><r>curte<b/>supremă<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
 <e lm="curte constituțională"><p><l>curții<b/>constituționale</l><r>curte<b/>constituțională<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-<e lm="curte europeană"> <p><l>curții<b/>europene</l><r>curte<b/>europeană<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="curte supremă">   <p><l>curții<b/>supreme</l><r>curte<b/>supremă<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="curte constituțională"><p><l>curțile<b/>constituționale</l><r>curte<b/>constituțională<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-<e lm="curte europeană"> <p><l>curțile<b/>europene</l><r>curte<b/>europeană<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="curte supremă">   <p><l>curțile<b/>supreme</l><r>curte<b/>supremă<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="curte constituțională"><p><l>curților<b/>constituționale</l><r>curte<b/>constituțională<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-<e lm="curte europeană"> <p><l>curților<b/>europene</l><r>curte<b/>europeană<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="veste proastă">   <p><l>curților<b/>proaste</l><r>veste<b/>proastă<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="curte supremă">   <p><l>curților<b/>supreme</l><r>curte<b/>supremă<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="cutie poștală">   <p><l>cutia<b/>poștală</l><r>cutie<b/>poștală<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -36313,6 +36314,14 @@
 <e lm="șampanie spaniolă"><p><l>șampaniei<b/>spaniolă</l><r>șampanie<b/>spaniolă<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="șampanie spaniolă"><p><l>șampaniile<b/>spaniole</l><r>șampanie<b/>spaniolă<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="șampanie spaniolă"><p><l>șampaniilor<b/>spaniole</l><r>șampanie<b/>spaniolă<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="cămin studențesc"><p><l>cămin<b/>studențesc</l><r>cămin<b/>studențesc<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="cămin studențesc"><p><l>cămin<b/>studențesc</l><r>cămin<b/>studențesc<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="cămin studențesc"><p><l>căminul<b/>studențesc</l><r>cămin<b/>studențesc<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="cămin studențesc"><p><l>căminului<b/>studențesc</l><r>cămin<b/>studențesc<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="cămin studențesc"><p><l>cămine<b/>studențești</l><r>cămin<b/>studențesc<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="cămin studențesc"><p><l>cămine<b/>studențești</l><r>cămin<b/>studențesc<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="cămin studențesc"><p><l>căminele<b/>studențești</l><r>cămin<b/>studențesc<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="cămin studențesc"><p><l>căminelor<b/>studențești</l><r>cămin<b/>studențesc<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 
     <!-- Nume proprii -->
 
@@ -36873,6 +36882,30 @@
 <e lm="Emirate Arabe Unite"><p><l>Emiratele<b/>Arabe<b/>Unite</l><r>Emirate<b/>Arabe<b/>Unite<s n="np"/><s n="top"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="Emirate Arabe Unite"><p><l>Emiratelor<b/>Arabe<b/>Unite</l><r>Emirate<b/>Arabe<b/>Unite<s n="np"/><s n="top"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 
+<e lm="Bancă Mondială">  <p><l>Banca<b/>Mondială</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="Bancă Mondială" a="delnou"><p><l>Bancă<b/>Mondială</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="Bancă Mondială">  <p><l>Bănci<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="Bancă Mondială">  <p><l>Bănci<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="Bancă Mondială">  <p><l>Bănci<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="Bancă Mondială">  <p><l>Băncii<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="Bancă Mondială">  <p><l>Băncile<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="Bancă Mondială">  <p><l>Băncilor<b/>Mondiale</l><r>Bancă<b/>Mondială<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="Comisie Europeană"><p><l>Comisie<b/>Europeană</l><r>Comisie<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="Comisie Europeană"><p><l>Comisia<b/>Europeană</l><r>Comisie<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="Comisie Europeană"><p><l>Comisii<b/>Europene</l><r>Comisie<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="Comisie Europeană"><p><l>Comisiei<b/>Europene</l><r>Comisie<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="Curte Europeană"> <p><l>Curte<b/>Europeană</l><r>Curte<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="Curte Europeană"> <p><l>Curtea<b/>Europeană</l><r>Curte<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="Curte Europeană"> <p><l>Curți<b/>Europene</l><r>Curte<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="Curte Europeană"> <p><l>Curții<b/>Europene</l><r>Curte<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="Dumă">            <p><l>Dumă</l>      <r>Dumă<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="Dumă">            <p><l>Dume</l>      <r>Dumă<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="Dumă">            <p><l>Duma</l>      <r>Dumă<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="Dumă">            <p><l>Dumei</l>     <r>Dumă<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="Eurobarometru"><p><l>Eurobarometru</l><r>Eurobarometru<s n="np"/><s n="al"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="Eurobarometru"><p><l>Eurobarometrul</l><r>Eurobarometru<s n="np"/><s n="al"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="Eurobarometru"><p><l>Eurobarometru</l><r>Eurobarometru<s n="np"/><s n="al"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="Eurobarometru"><p><l>Eurobarometru</l><r>Eurobarometru<s n="np"/><s n="al"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="Fond Monetar Internațional"><p><l>Fond<b/>Monetar<b/>Internațional</l><r>Fond<b/>Monetar<b/>Internațional<s n="np"/><s n="al"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="Fond Monetar Internațional"><p><l>Fond<b/>Monetar<b/>Internațional</l><r>Fond<b/>Monetar<b/>Internațional<s n="np"/><s n="al"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
 <e lm="Fond Monetar Internațional"><p><l>Fondul<b/>Monetar<b/>Internațional</l><r>Fond<b/>Monetar<b/>Internațional<s n="np"/><s n="al"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
@@ -36881,10 +36914,14 @@
 <e lm="Fond Monetar Internațional"><p><l>Fonduri<b/>Monetare<b/>Internaționale</l><r>Fond<b/>Monetar<b/>Internațional<s n="np"/><s n="al"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
 <e lm="Fond Monetar Internațional"><p><l>Fondurile<b/>Monetare<b/>Internaționale</l><r>Fond<b/>Monetar<b/>Internațional<s n="np"/><s n="al"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="Fond Monetar Internațional"><p><l>Fondurilor<b/>Monetare<b/>Internaționale</l><r>Fond<b/>Monetar<b/>Internațional<s n="np"/><s n="al"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
-<e lm="Dumă">            <p><l>Dumă</l>      <r>Dumă<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-<e lm="Dumă">            <p><l>Dume</l>      <r>Dumă<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-<e lm="Dumă">            <p><l>Duma</l>      <r>Dumă<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-<e lm="Dumă">            <p><l>Dumei</l>     <r>Dumă<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="Uniune Europeană"><p><l>Uniune<b/>Europeană</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="Uniune Europeană"><p><l>Uniunea<b/>Europeană</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="Uniune Europeană"><p><l>Uniuni<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="Uniune Europeană"><p><l>Uniunii<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="Uniune Europeană"><p><l>Uniuni<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="Uniune Europeană"><p><l>Uniunile<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="Uniune Europeană"><p><l>Uniuni<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="Uniune Europeană"><p><l>Uniunilor<b/>Europene</l><r>Uniune<b/>Europeană<s n="np"/><s n="al"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 
 <e lm="Nicolae">         <i>Nicolae</i><par n="Mihai__np"/></e>
 <e lm="Alexandru">       <i>Alexandru</i><par n="Mihai__np"/></e>
@@ -39417,6 +39454,7 @@
 <e lm="Bodea">           <i>Bodea</i><par n="Popescu__np"/></e>
 <e lm="Murariu">         <i>Murariu</i><par n="Popescu__np"/></e>
 <e lm="Disney">          <i>Disney</i><par n="Popescu__np"/></e>
+<e lm="Celsius">         <i>Celsius</i><par n="Popescu__np"/></e>
 
     <!-- Numerali cardinali -->
 
