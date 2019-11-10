@@ -8,9 +8,9 @@ BASENAME=apertium-$(LANG1)
 TARGETS_COMMON = $(LANG1).automorf.bin \
 	$(LANG1).autogen.bin \
 	$(LANG1).autopgen.bin \
-	$(LANG1).autogen.bin \
 	$(LANG1).automorf.att.gz \
 	$(LANG1).autogen.att.gz \
+	$(LANG1).prob \
 	$(LANG1).rlx.bin
 
 # Use this goal for creating .deps, otherwise make -j2 will give problems:
@@ -26,7 +26,7 @@ $(LANG1).autogen.bin: $(BASENAME).$(LANG1).dix .deps/.d
 
 $(LANG1).automorf.bin: $(BASENAME).$(LANG1).dix $(BASENAME).$(LANG1).acx
 	apertium-validate-dictionary $<
-	lt-comp lr $(BASENAME).$(LANG1).dix $@ $(BASENAME).$(LANG1).acx 
+	lt-comp lr $(BASENAME).$(LANG1).dix $@ $(BASENAME).$(LANG1).acx
 
 $(LANG1).autogen.att.gz: $(LANG1).autogen.bin
 	lt-print $< | gzip -9 -c -n > $@
@@ -95,4 +95,3 @@ test: all
 	@echo "TODO test analysis results" > .test-ref
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt
-
