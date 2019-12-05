@@ -25190,7 +25190,7 @@
 <e lm="BOR">             <i>BOR</i><par n="ONU__n"/></e>
 <e lm="CSA">             <i>CSA</i><par n="UE__n"/></e>
 <e lm="FMI">             <i>FMI</i><par n="BBC__n"/></e>
-<e lm="GPS" a="delia">   <i>GPS</i><par n="mail__n"/></e>
+<e lm="GPS" a="delia">   <i>GPS</i><par n="TVA__n"/></e>
 <e lm="MAE">             <i>MAE</i><par n="ONU__n"/></e>
 <e lm="MBA">             <i>MBA</i><par n="ONU__n"/></e>
 <e lm="Minister Afacerilor Externe"><i>Minister</i><par n="Minister/_Afacerilor_Externe__n"/></e>
