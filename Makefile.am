@@ -10,7 +10,6 @@ TARGETS_COMMON = $(LANG1).automorf.bin \
 	$(LANG1).autopgen.bin \
 	$(LANG1).automorf.att.gz \
 	$(LANG1).autogen.att.gz \
-	$(LANG1).prob \
 	$(LANG1).rlx.bin
 
 # Use this goal for creating .deps, otherwise make -j2 will give problems:
@@ -51,7 +50,6 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix \
 		$(BASENAME).$(LANG1).acx \
 		$(BASENAME).$(LANG1).rlx \
 		$(BASENAME).post-$(LANG1).dix \
-		$(LANG1).prob \
 		modes.xml
 
 ###############################################################################
