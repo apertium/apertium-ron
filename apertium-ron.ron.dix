@@ -10137,11 +10137,15 @@
   <e>       <p><l>elor</l>      <r>ii<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/><s n="dg"/></r></p></e>
 </pardef>
 
-<pardef n="mai_mul/ți__det">
-  <e>       <p><l>ți</l>        <r>ți<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
-  <e>       <p><l>tor</l>       <r>ți<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/><s n="dg"/></r></p></e>
-  <e>       <p><l>te</l>        <r>ți<s n="det"/><s n="ind"/><s n="fn"/><s n="pl"/><s n="nom"/></r></p></e>
-  <e>       <p><l>tor</l>       <r>ți<s n="det"/><s n="ind"/><s n="fn"/><s n="pl"/><s n="dg"/></r></p></e>
+<pardef n="mai_mul/t__det">
+  <e>       <p><l>t</l>         <r>t<s n="det"/><s n="ind"/><s n="mn"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>t</l>         <r>t<s n="det"/><s n="ind"/><s n="mn"/><s n="sg"/><s n="dg"/></r></p></e>
+  <e>       <p><l>tă</l>        <r>t<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e>       <p><l>t</l>         <r>t<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="dg"/></r></p></e>
+  <e>       <p><l>ți</l>        <r>t<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>tor</l>       <r>t<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/><s n="dg"/></r></p></e>
+  <e>       <p><l>te</l>        <r>t<s n="det"/><s n="ind"/><s n="fn"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e>       <p><l>tor</l>       <r>t<s n="det"/><s n="ind"/><s n="fn"/><s n="pl"/><s n="dg"/></r></p></e>
 </pardef>
 
 
@@ -25133,7 +25137,7 @@
 <e lm="cel">             <i>ce</i><par n="ce/l__det"/></e>
 <e lm="câțiva">          <i>câ</i><par n="câ/țiva__det"/></e>
 <e lm="fiecare">         <i>fiec</i><par n="fiec/are__det"/></e>
-<e lm="mai mulți">       <i>mai<b/>mul</i><par n="mai_mul/ți__det"/></e>
+<e lm="mai mult">        <i>mai<b/>mul</i><par n="mai_mul/t__det"/></e>
 <e lm="niciun">          <i>nici</i><par n="nici/_un__det"/></e>
 <e r="LR" lm="~nici un"> <i>nici<b/></i><par n="nici/_un__det"/></e>
 <e lm="oricare">         <i>oric</i><par n="oric/are__det"/></e>
@@ -42453,12 +42457,12 @@
 <e r="LR" lm="să-l">     <p><l>să-l</l>      <r>să<s n="cnjsub"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/><s n="nom"/></r></p></e>
 <e r="LR" lm="să-o">     <p><l>să-o</l>      <r>să<s n="cnjsub"/><j/>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
 
-<e r="LR" lm="dintr-un"> <p><l>dintr-un</l>  <r>din<s n="pr"/><j/>un<s n="det"/><s n="ind"/><s n="mn"/><s n="sg"/><s n="nom"/></r></p></e>
-<e r="LR" lm="dintr-o">  <p><l>dintr-o</l>   <r>din<s n="pr"/><j/>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-<e r="LR" lm="printr-un"><p><l>printr-un</l> <r>prin<s n="pr"/><j/>un<s n="det"/><s n="ind"/><s n="mn"/><s n="sg"/><s n="nom"/></r></p></e>
-<e r="LR" lm="printr-o"> <p><l>printr-o</l>  <r>prin<s n="pr"/><j/>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-<e r="LR" lm="într-un">  <p><l>într-un</l>   <r>în<s n="pr"/><j/>un<s n="det"/><s n="ind"/><s n="mn"/><s n="sg"/><s n="nom"/></r></p></e>
-<e r="LR" lm="într-o">   <p><l>într-o</l>    <r>în<s n="pr"/><j/>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+<e lm="dintr-un">        <p><l>dintr-un</l>  <r>din<s n="pr"/><j/>un<s n="det"/><s n="ind"/><s n="mn"/><s n="sg"/><s n="nom"/></r></p></e>
+<e lm="dintr-o">         <p><l>dintr-o</l>   <r>din<s n="pr"/><j/>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+<e lm="printr-un">       <p><l>printr-un</l> <r>prin<s n="pr"/><j/>un<s n="det"/><s n="ind"/><s n="mn"/><s n="sg"/><s n="nom"/></r></p></e>
+<e lm="printr-o">        <p><l>printr-o</l>  <r>prin<s n="pr"/><j/>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+<e lm="într-un">         <p><l>într-un</l>   <r>în<s n="pr"/><j/>un<s n="det"/><s n="ind"/><s n="mn"/><s n="sg"/><s n="nom"/></r></p></e>
+<e lm="într-o">          <p><l>într-o</l>    <r>în<s n="pr"/><j/>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
 
 <e r="LR" lm="i-i">      <p><l>i-i</l>       <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/><s n="dg"/><j/>îi<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
 <e r="LR" lm="i-l">      <p><l>i-l</l>       <r>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/><s n="dg"/><j/>îl<s n="prn"/><s n="pro"/><s n="p3"/><s n="mn"/><s n="sg"/></r></p></e>
