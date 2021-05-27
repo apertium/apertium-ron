@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium Romanian], [1.0.0], [apertium-stuff@lists.sourceforge.net], [apertium-ron], [http://wiki.apertium.org/wiki/Apertium-ron])
+AC_INIT([Apertium Romanian], [1.0.0], [apertium-stuff@lists.sourceforge.net], [apertium-ron], [https://wiki.apertium.org/wiki/Apertium-ron])
 AM_INIT_AUTOMAKE
 
 PKG_CHECK_MODULES(APERTIUM, apertium >= 3.6.0)
