@@ -16,3 +16,10 @@
 /*.mode
 /.d
 /.deps
+/*.hfst
+/*.zhfst
+/.DS_Store
+/*-*.prob
+/config.in
+/config
+/test/*-output.txt
