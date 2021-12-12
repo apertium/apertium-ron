@@ -52,7 +52,7 @@
 ^interiorul/interior<n><nt><sg><nom><def>$
 ^său/său<adj><pos><mn><sg><dg><def>$
 ^./.<sent>$
-¶
+
 ^Stelele/stea<n><f><pl><nom><def>$
 ^„/„<lquot>$
 ^împodobesc/împodobi<vblex><pri><p3><pl>$
@@ -120,7 +120,7 @@
 ^de/de<pr>$
 ^arc/arc<n><nt><sg><nom><ind>$
 ^./.<sent>$
-¶
+
 ^Multe/mult<adj><ind><fn><pl><nom>$
 ^stele/steastea<n><f><pl><nom><ind>$
 ^se/se<prn><pro><ref><p3><mfn><sp><nom>$
@@ -185,7 +185,7 @@
 ^un/un<det><ind><mn><sg><nom>$
 ^punct/punct<n><nt><sg><nom><ind>$
 ^./.<sent>$
-¶
+
 ^Masa/masă<n><f><sg><nom><def>$
 ^totală/total<adj><f><sg><nom><ind>$
 ^a/a<pr>$
@@ -205,7 +205,7 @@
 ^ei/lui<adj><pos><f><sg><dg><ind>$
 ^finale/final<adj><fn><pl><dg><ind>/$
 ^./.<sent>$
-¶
+
 ^Stelele/stea<n><f><pl><nom><def>$
 ^sunt/fi<vbser><pri><p3><pl>$
 ^compuse/compus<adj><fn><pl><nom><ind>$

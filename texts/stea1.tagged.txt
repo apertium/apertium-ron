@@ -52,7 +52,7 @@
 ^interiorul/interior<n><nt><sg><nom><def>/interior<adj><mn><sg><nom><def>$
 ^său/său<adj><pos><mn><sg><nom><ind>/său<adj><pos><mn><sg><nom><def>/său<adj><pos><mn><sg><dg><ind>/său<adj><pos><mn><sg><dg><def>$
 ^./.<sent>$
-¶
+
 ^Stelele/stea<n><f><pl><nom><def>$
 ^„/„<lquot>$
 ^împodobesc/împodobi<vblex><pri><p3><pl>/împodobi<vblex><pri><p1><sg>/împodobi<vblex><prs><p1><sg>$
@@ -120,7 +120,7 @@
 ^de/de<pr>$
 ^arc/arc<n><nt><sg><nom><ind>/arc<n><nt><sg><dg><ind>$
 ^./.<sent>$
-¶
+
 ^Multe/mult<adj><ind><fn><pl><nom>$
 ^stele/stea<n><f><sg><dg><ind>/stea<n><f><pl><nom><ind>/stea<n><f><pl><dg><ind>$
 ^se/se<prn><pro><ref><p3><mfn><sp><nom>$
@@ -185,7 +185,7 @@
 ^un/un<det><ind><mn><sg><nom>$
 ^punct/punct<n><nt><sg><nom><ind>/punct<n><nt><sg><dg><ind>$
 ^./.<sent>$
-¶
+
 ^Masa/masă<n><f><sg><nom><def>$
 ^totală/total<adj><f><sg><nom><ind>$
 ^a/a<pr>/al<det><def><f><sg>/avea<vbavea><pri><p3><sg>$

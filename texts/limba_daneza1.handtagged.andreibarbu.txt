@@ -104,7 +104,7 @@
 ^și/și<cnjcoo>$
 ^suedeză/suedez<n><f><sg><nom><ind>$
 ^./.<sent>$
-¶
+
 ^Limba/limbă<n><f><sg><nom><def>$
 ^daneză/danez<adj><f><sg><nom><ind>$
 ^a/avea<vbavea><pri><p3><sg>$
@@ -191,7 +191,7 @@
 ^pentru/pentru<pr>$
 ^străini/străin<n><m><pl><dg><ind>$
 ^./.<sent>$
-¶
+
 ^Daneza/danez<n><f><sg><nom><def>$
 ^este/fi<vbser><pri><p3><sg>$
 ^o/un<det><ind><f><sg><nom>$
