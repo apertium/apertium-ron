@@ -9076,7 +9076,7 @@
   <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ul</l>        <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>u</l>         <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ului</l>      <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ului</l>      <r>u<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>e</l>         <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>a</l>         <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>i</l>         <r>u<s n="adj"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
@@ -9445,7 +9445,7 @@
   <e>       <p><l>ți</l>        <r>ț<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ții</l>       <r>ț<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ți</l>        <r>ț<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ților</l>     <r>ț<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>ților</l>     <r>ț<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>țe</l>        <r>ț<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>țele</l>      <r>ț<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>țe</l>        <r>ț<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
@@ -9464,7 +9464,7 @@
   <e>       <p><l>eți</l>       <r>ăț<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>eții</l>      <r>ăț<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>eți</l>       <r>ăț<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
-  <e>       <p><l>eților</l>    <r>ăț<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+  <e>       <p><l>eților</l>    <r>ăț<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ețe</l>       <r>ăț<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
   <e>       <p><l>ețele</l>     <r>ăț<s n="adj"/><s n="fn"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ețe</l>       <r>ăț<s n="adj"/><s n="fn"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
@@ -9934,7 +9934,7 @@
   <e>       <p><l>t<b/>de<b/>apărare</l><r>t<b/>de<b/>apărare<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>tului<b/>de<b/>apărare</l><r>t<b/>de<b/>apărare<s n="adj"/><s n="mn"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>ți<b/>de<b/>apărare</l><r>t<b/>de<b/>apărare<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-  <e>       <p><l>ții<b/>de<b/>scrupule</l><r>t<b/>de<b/>scrupule<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+  <e>       <p><l>ții<b/>de<b/>apărare</l><r>t<b/>de<b/>apărare<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
   <e>       <p><l>ți<b/>de<b/>apărare</l><r>t<b/>de<b/>apărare<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
   <e>       <p><l>ților<b/>de<b/>apărare</l><r>t<b/>de<b/>apărare<s n="adj"/><s n="m"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
   <e>       <p><l>tă<b/>de<b/>apărare</l><r>t<b/>de<b/>apărare<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
@@ -26482,7 +26482,6 @@
 <e lm="boxă a acuzaților" a="mioara"><i>box</i><par n="box/ă_a_acuzaților__n"/></e>
 <e lm="boxă" a="mioara"> <i>box</i><par n="cas/ă__n"/></e>
 <e lm="box" a="mioara">  <i>box</i><par n="gât__n"/></e>
-<e lm="boxer" a="mioara"><i>boxer</i><par n="an__n"/></e>
 <e lm="boxer" a="delia"> <i>boxer</i><par n="înger__n"/></e>
 <e r="LR" lm="boț" a="mioara"><i>boț</i><par n="gât__n"/></e>
 <e lm="brad" a="delia">  <i>bra</i><par n="aci/d__n"/></e>
@@ -26575,7 +26574,6 @@
 <e lm="burghiu" a="delia"><i>burghi</i><par n="lice/u__n"/></e>
 <e lm="buric" a="delia"> <i>buric</i><par n="caiet__n"/></e>
 <e lm="burlac" a="delia"><i>burlac</i><par n="gât__n"/></e>
-<e lm="burlac" a="delia"><i>burlac</i><par n="caiet__n"/></e>
 <e lm="burlan" a="delia"><i>burlan</i><par n="caiet__n"/></e>
 <e lm="burlăcie" a="delia"><i>burlăci</i><par n="coaliți/e__n"/></e>
 <e lm="burniță" a="delia"><i>burniț</i><par n="cas/ă__n"/></e>
@@ -26726,7 +26724,6 @@
 <e lm="canapea" a="delia"><i>canape</i><par n="cafe/a__n"/></e>
 <e lm="canar" a="delia"> <i>canar</i><par n="an__n"/></e>
 <e lm="canat" a="delnou"><i>canat</i><par n="gât__n"/></e>
-<e lm="cancelar" a="mioara"><i>cancelar</i><par n="an__n"/></e>
 <e lm="cancelar" a="mioara"><i>cancelar</i><par n="coleg__n"/></e>
 <e lm="cancelarie" a="delia"><i>cancelari</i><par n="coaliți/e__n"/></e>
 <e lm="cancer">          <i>cancer</i><par n="caiet__n"/></e>
@@ -31865,7 +31862,6 @@
 <e lm="plajă" a="delia"> <i>plaj</i><par n="cas/ă__n"/></e>
 <e lm="plan">            <i>plan</i><par n="gât__n"/></e>
 <e lm="plancton" a="delnou" c="adaptació doble plural neutres: planctoane/planctonuri"><i>plancto</i><par n="plancto/n__n"/></e>
-<e lm="plancton" a="delia"><i>plancton</i><par n="gât__n"/></e>
 <e lm="planetă" a="delia"><i>planet</i><par n="cas/ă__n"/></e>
 <e lm="planificare" a="delia"><i>planific</i><par n="întreb/are__n"/></e>
 <e lm="plantă" a="delia"><i>plant</i><par n="cas/ă__n"/></e>
@@ -36429,7 +36425,6 @@
 <e lm="Bragadiru">       <i>Bragadiru</i><par n="București__np"/></e>
 <e lm="Bratislava" a="mioara"><i>Bratislav</i><par n="Români/a__np"/></e>
 <e lm="Brazilia">        <i>Brazili</i><par n="Români/a__np"/></e>
-<e lm="Brașov">          <i>Brașov</i><par n="Hollywood__np"/></e>
 <e lm="Brașov">          <i>Brașov</i><par n="București__np"/></e>
 <e lm="Brezoi">          <i>Brezoi</i><par n="București__np"/></e>
 <e lm="Broșteni">        <i>Broșteni</i><par n="București__np"/></e>
