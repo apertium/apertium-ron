@@ -36412,7 +36412,7 @@
 <e lm="Berlin">          <i>Berlin</i><par n="Hollywood__np"/></e>
 <e lm="Berna" a="mioara"><i>Bern</i><par n="Români/a__np"/></e>
 <e lm="Bicaz">           <i>Bicaz</i><par n="București__np"/></e>
-<e lm="Bielarusia">      <p><l>Bielarusi</l> <r>Bielorusi</r></p><par n="Români/a__np"/></e>  <!-- forma molt infrequent -->
+<e r="LR" lm="Bielarusia"><p><l>Bielarusi</l><r>Bielorusi</r></p><par n="Români/a__np"/></e>  <!-- forma molt infrequent -->
 <e lm="Bielorusia">      <i>Bielorusi</i><par n="Români/a__np"/></e>
 <e lm="Birmania">        <i>Birmani</i><par n="Români/a__np"/></e>
 <e lm="Blaj">            <i>Blaj</i><par n="București__np"/></e>
