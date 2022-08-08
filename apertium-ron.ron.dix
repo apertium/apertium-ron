@@ -35430,10 +35430,10 @@
 <e lm="duh sfânt">       <p><l>duh<b/>sfânt</l><r>duh<b/>sfânt<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
 <e lm="duh sfânt">       <p><l>duhul<b/>sfânt</l><r>duh<b/>sfânt<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="duh sfânt">       <p><l>duhului<b/>sfânt</l><r>duh<b/>sfânt<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
-<e lm="duh sfânt">       <p><l>duhuri<b/>sfinte</l><r>duh<b/>sfânt<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-<e lm="duh sfânt">       <p><l>duhuri<b/>sfinte</l><r>duh<b/>sfânt<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
-<e lm="duh sfânt">       <p><l>duhurile<b/>sfinte</l><r>duh<b/>sfânt<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-<e lm="duh sfânt">       <p><l>duhurilor<b/>sfinte</l><r>duh<b/>sfânt<s n="n"/><s n="nt"/><s n="sg"/><s n="dg"/><s n="def"/></r></p></e>
+<e lm="duh sfânt">       <p><l>duhuri<b/>sfinte</l><r>duh<b/>sfânt<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+<e lm="duh sfânt">       <p><l>duhuri<b/>sfinte</l><r>duh<b/>sfânt<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
+<e lm="duh sfânt">       <p><l>duhurile<b/>sfinte</l><r>duh<b/>sfânt<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="duh sfânt">       <p><l>duhurilor<b/>sfinte</l><r>duh<b/>sfânt<s n="n"/><s n="nt"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="duminică trecută"><p><l>duminica<b/>trecută</l><r>duminică<b/>trecută<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="duminică viitoare"><p><l>duminica<b/>viitoare</l><r>duminică<b/>viitoare<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="duminică trecută"><p><l>duminici<b/>trecute</l><r>duminică<b/>trecută<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
@@ -35732,7 +35732,7 @@
 <e lm="muncă silnică">   <p><l>muncile<b/>silnice</l><r>muncă<b/>silnică<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="muncă silnică">   <p><l>muncilor<b/>silnice</l><r>muncă<b/>silnică<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="def"/></r></p></e>
 <e lm="muncă silnică">   <p><l>muncă<b/>silnică</l><r>muncă<b/>silnică<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-<e lm="muzică sacră">    <p><l>muzica<b/>sacră</l><r>lovitură<b/>liberă<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+<e lm="muzică sacră">    <p><l>muzica<b/>sacră</l><r>muzică<b/>sacră<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
 <e lm="muzică sacră">    <p><l>muzici<b/>sacre</l><r>muzică<b/>sacră<s n="n"/><s n="f"/><s n="sg"/><s n="dg"/><s n="ind"/></r></p></e>
 <e lm="muzică sacră">    <p><l>muzici<b/>sacre</l><r>muzică<b/>sacră<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
 <e lm="muzică sacră">    <p><l>muzici<b/>sacre</l><r>muzică<b/>sacră<s n="n"/><s n="f"/><s n="pl"/><s n="dg"/><s n="ind"/></r></p></e>
