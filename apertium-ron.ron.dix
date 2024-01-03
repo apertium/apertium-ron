@@ -39548,7 +39548,7 @@
 <e lm="în conformitate_cu"><i>în<b/>conformitate<b/>cu</i><par n="cu__pr"/></e>
 <e lm="în fața">         <i>în<b/>fața</i><par n="potrivit__pr"/></e>
 <e lm="în jurul" a="delnou"><i>în<b/>jurul</i><par n="cu__pr"/></e>
-<e r="LR" lm="în legătură cu"><i>în<b/>legătură<b/>cu</i><par n="cu__pr"/></e>
+<e lm="în legătură cu">  <i>în<b/>legătură<b/>cu</i><par n="cu__pr"/></e>
 <e lm="în marja" a="delia"><i>în<b/>marja</i><par n="cu__pr"/></e>
 <e lm="în pofida" a="mioara"><i>în<b/>pofida</i><par n="cu__pr"/></e>
 <e r="LR" lm="în preajma" a="delnou"><i>în<b/>preajma</i><par n="cu__pr"/></e>
@@ -39557,7 +39557,7 @@
 <e lm="în temeiul" a="delnou"><i>în<b/>temeiul</i><par n="cu__pr"/></e>
 <e lm="în termen_de">    <i>în<b/>termen<b/>de</i><par n="cu__pr"/></e>
 <e lm="în timpul">       <i>în<b/>timpul</i><par n="potrivit__pr"/></e>
-<e lm="în toiul" a="delnou"><i>în<b/>toiul</i><par n="cu__pr"/></e>
+<e lm="în toiul" a="delnou"><i>în<b/>toiul</i><par n="potrivit__pr"/></e>
 <e lm="în urma">         <i>în<b/>urma</i><par n="cu__pr"/></e>
 <e lm="în vederea" a="delia"><i>în<b/>vederea</i><par n="cu__pr"/></e>
 <e lm="în văzul" a="mioara"><i>în<b/>văzul</i><par n="cu__pr"/></e>
