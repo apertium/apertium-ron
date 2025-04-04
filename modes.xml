@@ -25,6 +25,9 @@
       <program name="cg-proc -w">
         <file name="ron.rlx.bin"/>
       </program>
+      <program name="apertium-tagger -g">
+        <file name="ron.prob"/>
+      </program>
     </pipeline>
   </mode>
 

@@ -1,0 +1,357 @@
+^I/I<num><mf><pl>/I<adj><ord><mf><sg><nom><ind>/I<adj><ord><mf><sg><dg><ind>$
+^II-lea/II<adj><ord><mn><sg><nom><ind>/II<adj><ord><m><pl><nom><ind>$
+^întâi/întâi<adj><ord><mn><sg><nom><ind>/întâi<adj><ord><mn><sg><dg><ind>$
+^întâiul/întâi<adj><ord><mn><sg><nom><def>$
+^întâiului/întâi<adj><ord><mn><sg><dg><def>$
+^întâie/întâi<adj><ord><fn><pl><nom><ind>/întâi<adj><ord><f><sg><dg><ind>/întâi<adj><ord><fn><pl><dg><ind>$
+^întâii/întâi<adj><ord><m><pl><nom><ind>/întâi<adj><ord><m><pl><dg><ind>$
+^întâiii/întâi<adj><ord><m><pl><nom><def>$
+^întâiilor/întâi<adj><ord><m><pl><dg><def>$
+^primă/primă<n><f><sg><nom><ind>/prim<adj><ord><f><sg><nom><ind>$
+^prime/primă<n><f><sg><dg><ind>/primă<n><f><pl><nom><ind>/primă<n><f><pl><dg><ind>/prim<adj><ord><fn><pl><nom><ind>/prim<adj><ord><f><sg><dg><ind>/prim<adj><ord><fn><pl><dg><ind>$
+^primei/primă<n><f><sg><dg><def>/prim<adj><ord><f><sg><dg><def>$
+^primi/primi<vblex><inf>/primi<vblex><ifi><p3><sg>/prim<adj><ord><m><pl><nom><ind>/prim<adj><ord><m><pl><dg><ind>$
+^primii/primi<vblex><ifi><p1><sg>/prim<adj><ord><m><pl><nom><def>$
+^primele/primă<n><f><pl><nom><def>/prim<adj><ord><fn><pl><nom><def>$
+^primelor/primă<n><f><pl><dg><def>/prim<adj><ord><fn><pl><dg><def>$
+^opta/opta<vblex><inf>/opta<vblex><pii><p3><sg>/optulea<adj><ord><f><sg><nom><ind>/optulea<adj><ord><fn><pl><nom><ind>$
+^douăzeci și una/douăzeci și unu<num><fn><pl>/douăzeci și unulea<adj><ord><f><sg><nom><ind>/douăzeci și unulea<adj><ord><fn><pl><nom><ind>$
+^lui/lui<prn><tn><p3><m><sg><dg>/lui<adj><pos><mn><sg><nom><ind>/lui<adj><pos><mn><sg><dg><ind>$
+^absentă/absenta<vblex><ifi><p3><sg>/absent<adj><f><sg><nom><ind>$
+^absenta/absenta<vblex><inf>/absenta<vblex><pii><p3><sg>/absent<adj><f><sg><nom><def>$
+^absolut/absolut<adv>/absolut<adj><mn><sg><nom><ind>/absolut<adj><mn><sg><dg><ind>$
+^absorbit/absorbi<vblex><pp><mn><sg>/absorbit<adj><mn><sg><nom><ind>/absorbit<adj><mn><sg><dg><ind>$
+^absorbită/absorbi<vblex><pp><f><sg>/absorbit<adj><f><sg><nom><ind>$
+^absorbite/absorbi<vblex><pp><fn><pl>/absorbit<adj><fn><pl><nom><ind>/absorbit<adj><f><sg><dg><ind>/absorbit<adj><fn><pl><dg><ind>$
+^absorbiți/absorbi<vblex><pp><m><pl>/absorbi<vblex><pri><p2><pl>/absorbi<vblex><prs><p2><pl>/absorbi<vblex><imp><p2><pl>/absorbit<adj><m><pl><nom><ind>/absorbit<adj><m><pl><dg><ind>$
+^abstracții/abstracție<n><f><sg><dg><ind>/abstracție<n><f><pl><nom><ind>/abstracție<n><f><pl><dg><ind>/abstract<adj><m><pl><nom><def>$
+^abătuți/abate<vblex><pp><m><pl>/abătut<adj><m><pl><nom><ind>/abătut<adj><m><pl><dg><ind>$
+^acid/acid<n><m><sg><nom><ind>/acid<n><m><sg><dg><ind>/acid<adj><mn><sg><nom><ind>/acid<adj><mn><sg><dg><ind>$
+^acizi/acid<n><m><pl><nom><ind>/acid<n><m><pl><dg><ind>/acid<adj><m><pl><nom><ind>/acid<adj><m><pl><dg><ind>$
+^acustici/acustică<n><f><sg><dg><ind>/acustică<n><f><pl><nom><ind>/acustică<n><f><pl><dg><ind>/acustic<adj><m><pl><nom><ind>/acustic<adj><m><pl><dg><ind>$
+^acusticii/acustică<n><f><sg><dg><def>/acustic<adj><m><pl><nom><def>$
+^acuzatoare/acuzator<adj><f><sg><nom><ind>/acuzator<adj><fn><pl><nom><ind>/acuzator<adj><f><sg><dg><ind>/acuzator<adj><fn><pl><dg><ind>$
+^adecvați/adecva<vblex><pp><m><pl>/adecva<vblex><pri><p2><pl>/adecva<vblex><pii><p2><pl>/adecva<vblex><prs><p2><pl>/adecva<vblex><imp><p2><pl>/adecvat<adj><m><pl><nom><ind>/adecvat<adj><m><pl><dg><ind>$
+^aduse de spate/adus de spate<adj><f><sg><dg><ind>/adus de spate<adj><fn><pl><dg><ind>$
+^adultere/adulter<n><nt><pl><nom><ind>/adulter<n><nt><pl><dg><ind>/adulter<adj><fn><pl><nom><ind>/adulter<adj><f><sg><dg><ind>/adulter<adj><fn><pl><dg><ind>$
+^adânci/adânci<vblex><inf>/adânci<vblex><ifi><p3><sg>/adânc<adj><m><pl><nom><ind>/adânc<adj><f><sg><dg><ind>/adânc<adj><m><pl><dg><ind>$
+^adâncii/adânci<vblex><ifi><p1><sg>/adânc<adj><m><pl><nom><def>/adânc<adj><f><sg><dg><def>$
+^agitați/agita<vblex><pp><m><pl>/agita<vblex><pri><p2><pl>/agita<vblex><pii><p2><pl>/agita<vblex><imp><p2><pl>/agitat<adj><m><pl><nom><ind>/agitat<adj><m><pl><dg><ind>$
+^altul/altul<prn><tn><m><sg><nom>/alt<adj><ind><mn><sg><nom><def>$
+^altui/alt<det><ind><mn><sg><dg>/alt<adj><ind><mn><sg><dg><def>$
+^altă/alt<det><ind><f><sg><nom>/alt<adj><ind><f><sg><nom><ind>$
+^alte/alt<det><ind><fn><pl><nom>/alt<adj><ind><fn><pl><nom><ind>/alt<adj><ind><f><sg><dg><ind>/alt<adj><ind><fn><pl><dg><ind>$
+^altei/alt<det><ind><f><sg><dg>/alt<adj><ind><f><sg><dg><def>$
+^alți/alt<det><ind><m><pl><nom>/alt<adj><ind><m><pl><nom><ind>/alt<adj><ind><m><pl><dg><ind>$
+^alții/altul<prn><tn><m><pl><nom>/alt<adj><ind><m><pl><nom><def>$
+^albii/albie<n><f><sg><dg><ind>/albie<n><f><pl><nom><ind>/albie<n><f><pl><dg><ind>/albi<vblex><ifi><p1><sg>/alb<adj><m><pl><nom><def>$
+^alimentare/alimentare<n><f><sg><nom><ind>/alimentar<adj><fn><pl><nom><ind>/alimentar<adj><f><sg><dg><ind>/alimentar<adj><fn><pl><dg><ind>$
+^anexă/anexă<n><f><sg><nom><ind>/anexa<vblex><ifi><p3><sg>/anex<adj><f><sg><nom><ind>$
+^anexa/anexă<n><f><sg><nom><def>/anexa<vblex><inf>/anexa<vblex><pii><p3><sg>/anex<adj><f><sg><nom><def>$
+^antiromâneștii/antiromânesc<adj><m><pl><nom><def>/antiromânesc<adj><f><sg><dg><def>$
+^aprinse/aprinde<vblex><pp><fn><pl>/aprinde<vblex><ifi><p3><sg>/aprins<adj><fn><pl><nom><ind>/aprins<adj><f><sg><dg><ind>/aprins<adj><fn><pl><dg><ind>$
+^aprinsei/aprinde<vblex><ifi><p1><sg>/aprins<adj><f><sg><dg><def>$
+^ascultătoare/ascultător<n><f><sg><nom><ind>/ascultător<n><f><sg><dg><ind>/ascultător<n><f><pl><nom><ind>/ascultător<n><f><pl><dg><ind>/ascultător<adj><f><sg><nom><ind>/ascultător<adj><fn><pl><nom><ind>/ascultător<adj><f><sg><dg><ind>/ascultător<adj><fn><pl><dg><ind>$
+^aurii/auri<vblex><ifi><p1><sg>/auriu<adj><m><pl><nom><ind>/auriu<adj><f><sg><dg><ind>/auriu<adj><m><pl><dg><ind>$
+^așa-zisa/așa-zisa<adv>/așa-zis<adj><f><sg><nom><def>$
+^beți/bea<vblex><pri><p2><pl>/bea<vblex><prs><p2><sg>/bea<vblex><imp><p2><pl>/beat<adj><m><pl><nom><ind>/beat<adj><m><pl><dg><ind>$
+^beneficii/beneficiu<n><nt><pl><nom><ind>/beneficiu<n><nt><pl><dg><ind>/benefic<adj><m><pl><nom><def>$
+^bună/bună<ij>/bun<adj><f><sg><nom><ind>$
+^cenușii/cenușă<n><f><sg><dg><def>/cenușiu<adj><m><pl><nom><ind>/cenușiu<adj><f><sg><dg><ind>/cenușiu<adj><m><pl><dg><ind>$
+^cert/certa<vblex><pri><p1><sg>/certa<vblex><prs><p1><sg>/cert<adj><mn><sg><nom><ind>/cert<adj><mn><sg><dg><ind>$
+^certe/ceartă<n><f><sg><dg><ind>/certa<vblex><prs><p3><sg>/certa<vblex><imp><p3><sg>/cert<adj><fn><pl><nom><ind>/cert<adj><f><sg><dg><ind>/cert<adj><fn><pl><dg><ind>$
+^cerți/certa<vblex><pri><p2><sg>/certa<vblex><prs><p2><sg>/cert<adj><m><pl><nom><ind>/cert<adj><m><pl><dg><ind>$
+^certăreață/certăreț<n><f><sg><nom><ind>/certăreț<adj><f><sg><nom><ind>/certăreț<adj><f><sg><dg><ind>$
+^chei/chei<n><nt><sg><nom><ind>/chei<n><nt><sg><dg><ind>/cheie<n><f><pl><nom><ind>/cheie<n><f><pl><dg><ind>/chel<adj><m><pl><nom><ind>/chel<adj><m><pl><dg><ind>$
+^chioare/chior<n><f><sg><dg><ind>/chior<n><f><pl><nom><ind>/chior<n><f><pl><dg><ind>/chior<adj><f><sg><nom><ind>/chior<adj><fn><pl><nom><ind>/chior<adj><f><sg><dg><ind>/chior<adj><fn><pl><dg><ind>$
+^codași/coda<vblex><ifi><p2><sg>/codaș<adj><m><pl><nom><ind>/codaș<adj><m><pl><dg><ind>$
+^compromis/compromis<n><nt><sg><nom><ind>/compromis<n><nt><sg><dg><ind>/compromite<vblex><pp><mn><sg>/compromis<adj><mn><sg><nom><ind>/compromis<adj><mn><sg><dg><ind>$
+^conservatoare/conservator<n><nt><pl><nom><ind>/conservator<n><nt><pl><dg><ind>/conservator<adj><f><sg><nom><ind>/conservator<adj><fn><pl><nom><ind>/conservator<adj><f><sg><dg><ind>/conservator<adj><fn><pl><dg><ind>$
+^continuă/continua<vblex><ifi><p3><sg>/continua<vblex><imp><p3><sg>/continuu<adj><f><sg><nom><ind>$
+^coordonată/coordonată<n><f><sg><nom><ind>/coordona<vblex><pp><f><sg>/coordonat<adj><f><sg><nom><ind>$
+^coordonate/coordonată<n><f><sg><dg><ind>/coordonată<n><f><pl><nom><ind>/coordonată<n><f><pl><dg><ind>/coordona<vblex><pp><fn><pl>/coordonat<adj><fn><pl><nom><ind>/coordonat<adj><f><sg><dg><ind>/coordonat<adj><fn><pl><dg><ind>$
+^critică/critică<n><f><sg><nom><ind>/critica<vblex><pri><p3><pl>/critica<vblex><ifi><p3><sg>/critica<vblex><imp><p2><sg>/critic<adj><f><sg><nom><ind>$
+^critice/critica<vblex><prs><p3><sg>/critica<vblex><imp><p3><sg>/critic<adj><fn><pl><nom><ind>/critic<adj><f><sg><dg><ind>/critic<adj><fn><pl><dg><ind>$
+^critici/critică<n><f><sg><dg><ind>/critică<n><f><pl><nom><ind>/critică<n><f><pl><dg><ind>/critica<vblex><pri><p2><sg>/critica<vblex><prs><p2><sg>/critic<adj><m><pl><nom><ind>/critic<adj><m><pl><dg><ind>$
+^cunoscuți/cunoscut<n><m><pl><nom><ind>/cunoscut<n><m><pl><dg><ind>/cunoaște<vblex><pp><m><pl>/cunoscut<adj><m><pl><nom><ind>/cunoscut<adj><m><pl><dg><ind>$
+^călugărească/călugări<vblex><prs><p3><sg>/călugări<vblex><imp><p3><sg>/călugăresc<adj><f><sg><nom><ind>$
+^călugărești/călugări<vblex><pri><p2><sg>/călugări<vblex><prs><p2><sg>/călugăresc<adj><m><pl><nom><ind>/călugăresc<adj><f><sg><dg><ind>/călugăresc<adj><m><pl><dg><ind>$
+^deși/deși<cnjadv>/des<adj><m><pl><nom><ind>/des<adj><m><pl><dg><ind>$
+^derivate/derivat<n><nt><pl><nom><ind>/derivat<n><nt><pl><dg><ind>/deriva<vblex><pp><fn><pl>/derivat<adj><fn><pl><nom><ind>/derivat<adj><f><sg><dg><ind>/derivat<adj><fn><pl><dg><ind>$
+^documentare/documentare<n><f><sg><nom><ind>/documentar<n><nt><pl><nom><ind>/documentar<n><nt><pl><dg><ind>/documentar<adj><fn><pl><nom><ind>/documentar<adj><f><sg><dg><ind>/documentar<adj><fn><pl><dg><ind>$
+^intenționat/intenționat<adv>/intenționa<vblex><pp><mn><sg>/intenționat<adj><mn><sg><nom><ind>/intenționat<adj><mn><sg><dg><ind>$
+^iute/iută<n><f><sg><dg><ind>/iută<n><f><pl><nom><ind>/iută<n><f><pl><dg><ind>/iute<adj><f><sg><nom><ind>/iute<adj><mn><sg><dg><ind>$
+^iutele/iută<n><f><pl><nom><def>/iute<adj><mn><sg><nom><def>$
+^kitsch/kitsch<n><nt><sg><nom><ind>/kitsch<n><nt><sg><dg><ind>/kitsch<adj><mfn><sg><nom><ind>/kitsch<adj><mfn><pl><nom><ind>/kitsch<adj><mfn><sg><dg><ind>/kitsch<adj><mfn><pl><dg><ind>$
+^mecanicii/mecanică<n><f><sg><dg><def>/mecanic<n><m><pl><nom><def>/mecanic<adj><m><pl><nom><def>$
+^moarte/moarte<n><f><sg><nom><ind>/mort<n><f><sg><dg><ind>/mort<n><f><pl><nom><ind>/mort<n><f><pl><dg><ind>/mort<adj><fn><pl><nom><ind>/mort<adj><f><sg><dg><ind>/mort<adj><fn><pl><dg><ind>$
+^mut/mut<n><m><sg><nom><ind>/mut<n><m><sg><dg><ind>/muta<vblex><pri><p1><sg>/muta<vblex><prs><p1><sg>/mut<adj><mn><sg><nom><ind>/mut<adj><mn><sg><dg><ind>$
+^mute/mut<n><f><sg><dg><ind>/mut<n><f><pl><nom><ind>/mut<n><f><pl><dg><ind>/muta<vblex><prs><p3><sg>/muta<vblex><imp><p3><sg>/mut<adj><fn><pl><nom><ind>/mut<adj><f><sg><dg><ind>/mut<adj><fn><pl><dg><ind>$
+^muți/mut<n><m><pl><nom><ind>/mut<n><m><pl><dg><ind>/muta<vblex><pri><p2><sg>/muta<vblex><prs><p2><sg>/mut<adj><m><pl><nom><ind>/mut<adj><m><pl><dg><ind>$
+^mulțumită/mulțumită<pr><gen>/mulțumi<vblex><pp><f><sg>/mulțumit<adj><f><sg><nom><ind>$
+^nou/nou<preadv>/nou<adj><mn><sg><nom><ind>/nou<adj><mn><sg><dg><ind>$
+^nouă/nouă<num><mf><pl>/nou<adj><f><sg><nom><ind>$
+^noi/noi<prn><tn><p1><mf><pl><nom>/nou<adj><m><pl><nom><ind>/nou<adj><f><sg><dg><ind>/nou<adj><m><pl><dg><ind>$
+^orbi/orb<n><m><pl><nom><ind>/orb<n><m><pl><dg><ind>/orbi<vblex><inf>/orbi<vblex><ifi><p3><sg>/orb<adj><m><pl><nom><ind>/orb<adj><m><pl><dg><ind>$
+^orbii/orb<n><m><pl><nom><def>/orbi<vblex><ifi><p1><sg>/orb<adj><m><pl><nom><def>$
+^operatorii/operator<n><m><pl><nom><def>/operatoriu<adj><m><pl><nom><ind>/operatoriu<adj><f><sg><dg><ind>/operatoriu<adj><m><pl><dg><ind>$
+^orbită/orbită<n><f><sg><nom><ind>/orbi<vblex><pp><f><sg>/orbita<vblex><ifi><p3><sg>/orbit<adj><f><sg><nom><ind>$
+^pacifică/pacifica<vblex><pri><p3><pl>/pacifica<vblex><ifi><p3><sg>/pacifica<vblex><imp><p2><sg>/pacific<adj><f><sg><nom><ind>$
+^potrivit/potrivit<pr><gen>/potrivi<vblex><pp><mn><sg>/potrivit<adj><mn><sg><nom><ind>/potrivit<adj><mn><sg><dg><ind>$
+^ramoliți/ramolit<n><m><pl><nom><ind>/ramolit<n><m><pl><dg><ind>/ramoli<vblex><pp><m><pl>/ramoli<vblex><pri><p2><pl>/ramoli<vblex><prs><p2><pl>/ramoli<vblex><imp><p2><pl>/ramolit<adj><m><pl><nom><ind>/ramolit<adj><m><pl><dg><ind>$
+^recent/recent<preadv>/recent<adv>/recent<adj><mn><sg><nom><ind>/recent<adj><mn><sg><dg><ind>$
+^slobozi/slobozi<vblex><inf>/slobozi<vblex><pri><p2><sg>/slobozi<vblex><ifi><p3><sg>/slobozi<vblex><prs><p2><sg>/slobod<adj><m><pl><nom><ind>/slobod<adj><m><pl><dg><ind>$
+^stângii/stângă<n><f><sg><dg><def>/stâng<adj><m><pl><nom><def>/stâng<adj><f><sg><dg><def>$
+^urâți/urâți<vblex><inf>/urî<vblex><pp><m><pl>/urî<vblex><pri><p2><pl>/urâți<vblex><ifi><p3><sg>/urî<vblex><prs><p2><pl>/urî<vblex><imp><p2><pl>/urât<adj><m><pl><nom><ind>/urât<adj><m><pl><dg><ind>$
+^vii/vie<n><f><sg><dg><ind>/vie<n><f><pl><nom><ind>/vie<n><f><pl><dg><ind>/veni<vblex><pri><p2><sg>/veni<vblex><prs><p2><sg>/viu<adj><m><pl><nom><ind>/viu<adj><f><sg><dg><ind>/viu<adj><m><pl><dg><ind>$
+^atașați/atașat<n><m><pl><nom><ind>/atașat<n><m><pl><dg><ind>/atașa<vblex><pp><m><pl>/atașa<vblex><pri><p2><pl>/atașa<vblex><pii><p2><pl>/atașa<vblex><prs><p2><pl>/atașa<vblex><imp><p2><pl>/atașat<adj><m><pl><nom><ind>/atașat<adj><m><pl><dg><ind>$
+^color/color<adv>/color<adj><mfn><sg><nom><ind>/color<adj><mfn><pl><nom><ind>/color<adj><mfn><sg><dg><ind>/color<adj><mfn><pl><dg><ind>$
+^al lui/al<det><def><m><sg>/al lui<prn><tn><pos><m><sg><nom>$
+^a lui/al<det><def><f><sg>$
+^nu/nu<adv>$
+^apropo/apropo<adv>/apropo<n><nt><sg><nom><ind>/apropo<n><nt><sg><dg><ind>$
+^așa/așa<preadv>/așa<adv>$
+^așa cum/așa cum<adv>/așa cum<cnjadv>$
+^ca/ca<adv>/ca<cnjsub>/ca<rel><adv>$
+^cum/cum<adv><itg>$
+^când/când<adv><itg>/când<rel><adv>$
+^da/da<adv>/da<vblex><inf>$
+^decât/decât<adv>/decât<cnjsub>$
+^dimineața/dimineața<adv>/dimineață<n><f><sg><nom><def>$
+^față de/față de<adv>/față de<pr>$
+^mai/mai<adv>/mai<n><m><sg><nom><ind>/mai<n><m><sg><dg><ind>$
+^mai mult/mai mult<adv>/mai mult<det><ind><mn><sg><nom>/mai mult<det><ind><f><sg><dg>$
+^mai multe/mai multe<adv>/mai mult<det><ind><fn><pl><nom>$
+^mai multă/mai multă<adv>/mai mult<det><ind><f><sg><nom>$
+^mai mulți/mai mulți<adv>/mai mult<det><ind><m><pl><nom>$
+^nimic/nimic<adv>/nimic<prn><tn><nt><sg><nom>$
+^/îl<prn><pro><p3><mn><sg><dg>/fi<vblex><pri><p3><sg>$
+^/și<cnjcoo>$
+^orbește/orbește<adv>/orbi<vblex><pri><p3><sg>/orbi<vblex><imp><p2><sg>$
+^poate/poate<adv>/putea<vblex><pri><p3><sg>/putea<vbmod><pri><p3><sg>$
+^ubi bene ibi patria/ubi bene ibi patria<adv>/ubi bene ibi patria<ij>$
+^unde/unde<adv><itg>/undă<n><f><sg><dg><ind>/undă<n><f><pl><nom><ind>/undă<n><f><pl><dg><ind>/unde<rel><adv>$
+^împreună/împreună<adv>/împreuna<vblex><ifi><p3><sg>$
+^și/și<adv>/și<cnjcoo>$
+^bine/bine<preadv>$
+^rău/rău<preadv>/rău<n><nt><sg><nom><ind>/rău<n><nt><sg><dg><ind>$
+^astfel încât/astfel încât<cnjadv>$
+^după cum/după cum<cnjadv>/după cum<pr>$
+^parcă/parcă<cnjadv>/parca<vblex><ifi><p3><sg>$
+^ca să/ca să<cnjsub>/ca să<cnjadv>$
+^să/să<cnjsub>$
+^un/un<det><ind><mn><sg><nom>$
+^o/un<det><ind><f><sg><nom>/o<ij>/îl<prn><pro><p3><f><sg><nom>$
+^unei/un<det><ind><f><sg><dg>$
+^niște/un<det><ind><m><pl><nom>/un<det><ind><fn><pl><nom>$
+^al/al<det><def><mn><sg>/alt<det><ind><mn><sg><nom>$
+^ai/al<det><def><m><pl>/avea<vblex><pri><p2><sg>/avea<vblex><prs><p2><sg>/avea<vblex><imp><p2><sg>/avea<vbavea><pri><p2><sg>$
+^a/al<det><def><f><sg>/a<pr>/avea<vbavea><pri><p3><sg>$
+^ale/al<det><def><fn><pl>$
+^acești/acest<det><dem><m><pl><nom>$
+^aceste/acest<det><dem><fn><pl><nom>$
+^acelor/acel<det><dem><m><pl><dg>/acel<det><dem><fn><pl><dg>/ac<n><nt><pl><dg><def>$
+^acele/acel<det><dem><fn><pl><nom>/ac<n><nt><pl><nom><def>$
+^cel/cel<det><def><mn><sg><nom>$
+^cei/cel<det><def><m><pl><nom>$
+^celor/cel<det><def><m><pl><dg>/cel<det><def><fn><pl><dg>$
+^fiecare/fiecare<det><ind><mn><sg><nom>/fiecare<det><ind><f><sg><nom>$
+^niciunii/niciun<det><ind><m><pl><nom>/niciunul<prn><tn><m><pl><nom>$
+^niciunele/niciun<det><ind><fn><pl><nom>/niciunul<prn><tn><f><pl><nom>$
+^oricare/oricare<det><ind><m><pl><nom>/oricare<det><ind><mn><sg><nom>/oricare<det><ind><f><sg><nom>/oricare<det><ind><fn><pl><nom>$
+^orice/orice<det><ind><mf><sg><nom>$
+^tot/tot<predet><def><mn><sg><nom>/tot<prn><tn><m><sg><nom>$
+^toată/tot<predet><def><f><sg><nom>$
+^Crăciun Fericit/Crăciun Fericit<ij>$
+^marș/marș<ij>/marș<n><nt><sg><nom><ind>/marș<n><nt><sg><dg><ind>$
+^mulțumesc/mulțumesc<ij>/mulțumi<vblex><pri><p3><pl>/mulțumi<vblex><prs><p1><sg>$
+^salut/salut<ij>/salut<n><nt><sg><nom><ind>/salut<n><nt><sg><dg><ind>/saluta<vblex><pri><p1><sg>/saluta<vblex><prs><p1><sg>$
+^BBC/BBC<n><acr><nt><sg><nom><ind>$
+^BOR/BOR<n><acr><m><sg><nom><ind>/BOR<n><nt><sg><nom><ind>/BOR<n><nt><sg><dg><ind>$
+^Minister Afacerilor Externe/Minister Afacerilor Externe<n><nt><sg><nom><ind>/Minister Afacerilor Externe<n><nt><sg><dg><ind>$
+^Ministerul Afacerilor Externe/Minister Afacerilor Externe<n><nt><sg><nom><def>$
+^Ministerului Afacerilor Externe/Minister Afacerilor Externe<n><nt><sg><dg><def>$
+^Ministere Afacerilor Externe/Minister Afacerilor Externe<n><nt><pl><nom><ind>/Minister Afacerilor Externe<n><nt><pl><dg><ind>$
+^Ministerele Afacerilor Externe/Minister Afacerilor Externe<n><nt><pl><nom><def>$
+^Ministerelor Afacerilor Externe/Minister Afacerilor Externe<n><nt><pl><dg><def>$
+^abandonări/abandonare<n><f><sg><dg><ind>/abandonare<n><f><pl><nom><ind>/abandonare<n><f><pl><dg><ind>$
+^abilitate/abilitate<n><f><sg><nom><ind>/abilita<vblex><pp><fn><pl>$
+^abonat/abonat<n><m><sg><nom><ind>/abonat<n><m><sg><dg><ind>/abona<vblex><pp><mn><sg>$
+^abonați/abonat<n><m><pl><nom><ind>/abonat<n><m><pl><dg><ind>/abona<vblex><pp><m><pl>/abona<vblex><pri><p2><pl>/abona<vblex><pii><p2><pl>/abona<vblex><prs><p2><pl>/abona<vblex><imp><p2><pl>$
+^abonate/abonat<n><f><sg><dg><ind>/abonat<n><f><pl><nom><ind>/abonat<n><f><pl><dg><ind>/abona<vblex><pp><fn><pl>$
+^aburi/abur<n><m><pl><nom><ind>/abur<n><m><pl><dg><ind>/aburi<vblex><inf>/aburi<vblex><ifi><p3><sg>$
+^aburii/abur<n><m><pl><nom><def>/aburi<vblex><ifi><p1><sg>$
+^accelerate/accelerat<n><nt><pl><nom><ind>/accelerat<n><nt><pl><dg><ind>/accelera<vblex><pp><fn><pl>$
+^acord/acord<n><nt><sg><nom><ind>/acord<n><nt><sg><dg><ind>/acorda<vblex><pri><p1><sg>/acorda<vblex><prs><p1><sg>$
+^acuză/acuză<n><f><sg><nom><ind>/acuza<vblex><pri><p3><pl>/acuza<vblex><ifi><p3><sg>/acuza<vblex><imp><p2><sg>$
+^acuza/acuză<n><f><sg><nom><def>/acuza<vblex><inf>/acuza<vblex><pii><p3><sg>$
+^acuze/acuză<n><f><sg><dg><ind>/acuză<n><f><pl><nom><ind>/acuză<n><f><pl><dg><ind>/acuza<vblex><prs><p3><sg>/acuza<vblex><imp><p3><sg>$
+^acționară/acționar<n><f><sg><nom><ind>/acționa<vblex><ifi><p3><pl>$
+^administratoare/administrator<n><f><sg><nom><ind>/administrator<n><f><sg><dg><ind>/administrator<n><f><pl><nom><ind>/administrator<n><f><pl><dg><ind>$
+^amieze/amiază<n><f><sg><dg><ind>/amiază<n><f><pl><nom><ind>$
+^apendicele/apendice<n><nt><sg><nom><def>/apendice<n><nt><pl><nom><def>$
+^blesteme/blestem<n><nt><pl><nom><ind>/blestem<n><nt><pl><dg><ind>/blestema<vblex><prs><p3><sg>/blestema<vblex><imp><p3><sg>$
+^boli/boală<n><f><sg><dg><ind>/boală<n><f><pl><nom><ind>/boală<n><f><pl><dg><ind>/boli<vblex><inf>/boli<vblex><ifi><p3><sg>$
+^bolii/boală<n><f><sg><dg><def>/boli<vblex><ifi><p1><sg>$
+^bâlbâiți/bâlbâit<n><m><pl><nom><ind>/bâlbâit<n><m><pl><dg><ind>/bâlbâi<vblex><pp><m><pl>/bâlbâi<vblex><pri><p2><pl>/bâlbâi<vblex><prs><p2><pl>/bâlbâi<vblex><imp><p2><pl>$
+^cadă/cadă<n><f><sg><nom><ind>/cădea<vblex><prs><p3><sg>/cădea<vblex><imp><p3><sg>$
+^ceartă/ceartă<n><f><sg><nom><ind>/certa<vblex><pri><p3><pl>/certa<vblex><imp><p2><sg>$
+^chelii/chelie<n><f><sg><dg><ind>/chelie<n><f><pl><nom><ind>/chelie<n><f><pl><dg><ind>/cheli<vblex><ifi><p1><sg>$
+^cine/cine<prn><itg><mf><sg><nom>/cină<n><f><sg><dg><ind>/cină<n><f><pl><nom><ind>/cină<n><f><pl><dg><ind>$
+^circul/circ<n><nt><sg><nom><def>/circula<vblex><pri><p1><sg>/circula<vblex><prs><p1><sg>$
+^crapi/crap<n><m><pl><nom><ind>/crap<n><m><pl><dg><ind>/crăpa<vblex><pri><p2><sg>/crăpa<vblex><prs><p2><sg>$
+^culoare/culoare<n><f><sg><nom><ind>/culoar<n><nt><pl><nom><ind>/culoar<n><nt><pl><dg><ind>$
+^curse/cursă<n><f><sg><dg><ind>/cursă<n><f><pl><nom><ind>/cursă<n><f><pl><dg><ind>/curge<vblex><pp><fn><pl>/curge<vblex><ifi><p3><sg>$
+^dată/dată<n><f><sg><nom><ind>/da<vblex><pp><f><sg>/data<vblex><ifi><p3><sg>$
+^decade/decadă<n><f><sg><dg><ind>/decadă<n><f><pl><nom><ind>/decadă<n><f><pl><dg><ind>/decădea<vblex><pri><p3><sg>$
+^drăcoaicelor/drac<n><f><sg><dg><def>/drac<n><f><pl><dg><def>$
+^duce/duce<n><m><sg><nom><ind>/duce<n><m><sg><dg><ind>/duce<vblex><inf>/duce<vblex><pri><p3><sg>$
+^extrase/extras<n><nt><pl><nom><ind>/extras<n><nt><pl><dg><ind>/extrage<vblex><pp><fn><pl>/extrage<vblex><ifi><p3><sg>$
+^fabrici/fabrică<n><f><sg><dg><ind>/fabrică<n><f><pl><nom><ind>/fabrică<n><f><pl><dg><ind>/fabrica<vblex><pri><p2><sg>/fabrica<vblex><prs><p2><sg>$
+^fiu/fiu<n><m><sg><nom><ind>/fiu<n><m><sg><dg><ind>/fi<vbser><prs><p1><sg>$
+^fii/fiu<n><m><pl><nom><ind>/fiu<n><m><pl><dg><ind>/fi<vbser><prs><p2><sg>/fi<vbser><imp><p2><sg>$
+^fugi/fugă<n><f><sg><dg><ind>/fugă<n><f><pl><nom><ind>/fugă<n><f><pl><dg><ind>/fugi<vblex><inf>/fugi<vblex><pri><p2><sg>/fugi<vblex><ifi><p3><sg>/fugi<vblex><prs><p2><sg>/fugi<vblex><imp><p2><sg>$
+^fundași/fundaș<n><m><pl><nom><ind>/fundaș<n><m><pl><dg><ind>/funda<vblex><ifi><p2><sg>$
+^furia/furie<n><f><sg><nom><def>/furlua<vblex><pri><p3><sg>/furlua<vblex><prs><p3><sg>/furlua<vblex><imp><p3><sg>$
+^furiei/furie<n><f><sg><dg><def>/furlua<vblex><pri><p2><sg>/furlua<vblex><prs><p2><sg>$
+^indice/indice<n><m><sg><nom><ind>/indice<n><m><sg><dg><ind>/indica<vblex><prs><p3><sg>/indica<vblex><imp><p3><sg>$
+^invitați/invitat<n><m><pl><nom><ind>/invitat<n><m><pl><dg><ind>/invita<vblex><pp><m><pl>/invita<vblex><pri><p2><pl>/invita<vblex><pii><p2><pl>/invita<vblex><imp><p2><pl>$
+^joace/joacă<n><f><sg><dg><ind>/joacă<n><f><pl><nom><ind>/joacă<n><f><pl><dg><ind>/juca<vblex><imp><p3><sg>$
+^minți/minte<n><f><sg><dg><ind>/minte<n><f><pl><nom><ind>/minte<n><f><pl><dg><ind>/minți<vblex><inf>/minți<vblex><pri><p2><sg>/minți<vblex><ifi><p3><sg>/minți<vblex><prs><p2><sg>$
+^mori/moară<n><f><sg><dg><ind>/moară<n><f><pl><nom><ind>/moară<n><f><pl><dg><ind>/muri<vblex><pri><p2><sg>/muri<vblex><prs><p2><sg>/muri<vblex><imp><p2><sg>$
+^papă/papă<n><m><sg><nom><ind>/papă<n><m><sg><dg><ind>/păpa<vblex><pri><p3><pl>/păpa<vblex><imp><p2><sg>$
+^pari/par<n><m><pl><nom><ind>/par<n><m><pl><dg><ind>/părea<vblex><pri><p2><sg>/părea<vblex><prs><p2><sg>/părea<vblex><imp><p2><sg>$
+^piei/piele<n><f><pl><nom><ind>/piele<n><f><pl><dg><ind>/pieri<vblex><imp><p2><sg>$
+^piepteni/pieptene<n><m><pl><nom><ind>/pieptene<n><m><pl><dg><ind>/pieptăna<vblex><prs><p2><sg>$
+^placă/placă<n><f><sg><nom><ind>/placa<vblex><ifi><p3><sg>/plăcea<vblex><prs><p3><sg>/plăcea<vblex><imp><p3><sg>$
+^ploaie/ploaie<n><f><sg><nom><ind>/ploua<vblex><prs><p3><sg>$
+^pradă/pradă<n><f><sg><nom><ind>/prăda<vblex><pri><p3><pl>$
+^pui/pui<n><m><sg><nom><ind>/pui<n><m><sg><dg><ind>/pui<n><m><pl><nom><ind>/pui<n><m><pl><dg><ind>/pune<vblex><pri><p2><sg>/pune<vblex><prs><p2><sg>$
+^purtătoare de cuvânt/purtător de cuvânt<n><f><sg><nom><ind>/purtător de cuvânt<n><f><sg><dg><ind>/purtător de cuvânt<n><f><pl><dg><ind>$
+^sări/sare<n><f><sg><dg><ind>/sări<vblex><inf>$
+^tată/tată<n><m><sg><nom><ind>/tată<n><m><sg><dg><ind>/tot<prn><tn><f><sg><nom>$
+^teme/temă<n><f><sg><dg><ind>/temă<n><f><pl><nom><ind>/temă<n><f><pl><dg><ind>/teme<vblex><inf>/teme<vblex><pri><p3><sg>/teme<vblex><imp><p2><sg>$
+^voi/voie<n><f><sg><dg><ind>/voie<n><f><pl><nom><ind>/voie<n><f><pl><dg><ind>/voi<prn><tn><p2><mf><pl><nom>/vrea<vaux><pri><p1><sg>$
+^zero/zero<n><nt><sg><nom><ind>/zero<n><nt><sg><dg><ind>/zero<num><mf><pl>$
+^zi/zi<n><f><sg><nom><ind>/zice<vblex><imp><p2><sg>$
+^conții/conte<n><m><pl><nom><def>/conține<vblex><pri><p2><sg>/conține<vblex><prs><p2><sg>$
+^Alina/Alina<np><ant><f><sg><nom><def>/Alina<vblex><inf>/Alina<vblex><pii><p3><sg>$
+^Alinei/Alina<np><ant><f><sg><dg><def>$
+^Anca/Anca<np><ant><f><sg><nom><def>/Anca<np><cog><mf><sg><nom><def>$
+^Adelaidei/Adelaida<np><ant><f><sg><dg><def>/Adelaide<np><top><f><sg><dg><def>$
+^Antarctici/Antarctica<np><top><f><sg><dg><ind>/Antarctic<adj><m><pl><nom><ind>/Antarctic<adj><m><pl><dg><ind>$
+^Nil/Nil<np><ant><m><sg><nom><def>/Nil<np><top><nt><sg><nom><ind>/Nil<np><top><nt><sg><dg><ind>$
+^Slobozii/Slobozia<np><top><f><sg><dg><ind>/Slobozi<vblex><ifi><p1><sg>/Slobod<adj><m><pl><nom><def>$
+^Amin/Amin<ij>/Amin<np><ant><m><sg><nom><def>$
+^Reda/Reda<np><ant><m><sg><nom><def>/Reda<vblex><inf>$
+^Roman/Roman<np><ant><m><sg><nom><def>/Roman<n><nt><sg><nom><ind>/Roman<n><nt><sg><dg><ind>/Roman<adj><mn><sg><nom><ind>/Roman<adj><mn><sg><dg><ind>$
+^Gregorian/Gregorian<np><ant><m><sg><nom><def>/Gregorian<adj><mn><sg><nom><ind>/Gregorian<adj><mn><sg><dg><ind>$
+^Matei/Matei<np><ant><m><sg><nom><def>/Matei<np><cog><mf><sg><nom><def>/Mat<adj><f><sg><dg><def>$
+^Marin/Marin<np><ant><m><sg><nom><def>/Marin<np><cog><mf><sg><nom><def>/Marin<adj><mn><sg><nom><ind>/Marin<adj><mn><sg><dg><ind>$
+^Ariana/Ariana<np><ant><f><sg><nom><def>/Arian<adj><f><sg><nom><def>$
+^Clarei/Clara<np><ant><f><sg><dg><def>/Clar<adj><f><sg><dg><def>$
+^Georgiana/Georgiana<np><ant><f><sg><nom><def>/Georgian<n><f><sg><nom><def>/Georgian<adj><f><sg><nom><def>$
+^Marinei/Marina<np><ant><f><sg><dg><def>/Marină<n><f><sg><dg><def>/Marin<adj><f><sg><dg><def>$
+^Alice/Alice<np><ant><f><sg><nom><def>/Alică<n><f><sg><dg><ind>/Alică<n><f><pl><nom><ind>/Alică<n><f><pl><dg><ind>$
+^Știrbei/Știrbei<np><cog><mf><sg><nom><def>/Știrb<adj><f><sg><dg><def>$
+^Mauri/Mauri<np><cog><mf><sg><nom><def>/Maur<n><m><pl><nom><ind>/Maur<n><m><pl><dg><ind>/Maur<adj><m><pl><nom><ind>/Maur<adj><m><pl><dg><ind>$
+^Patru/Patru<np><cog><mf><sg><nom><def>/Patru<num><mf><pl>$
+^C/C<num><mf><pl>$
+^VII/VIE<n><f><sg><dg><ind>/VIE<n><f><pl><nom><ind>/VIE<n><f><pl><dg><ind>/VII<num><mf><pl>/VENI<vblex><pri><p2><sg>/VENI<vblex><prs><p2><sg>/VIU<adj><m><pl><nom><ind>/VIU<adj><f><sg><dg><ind>/VIU<adj><m><pl><dg><ind>$
+^VIII/VIII<num><mf><pl>/VIU<adj><m><pl><nom><def>$
+^una/unu<num><f><sg>/unul<prn><tn><f><sg><nom>$
+^de/de<pr>$
+^asupra/asupra<pr><gen>$
+^privind/privind<pr>/privi<vblex><ger>$
+^mă/mă<prn><pro><p1><mf><sg><nom>$
+^se/se<prn><pro><ref><p3><mfn><sp><nom>$
+^altuia/altul<prn><tn><m><sg><dg>$
+^ce/ce<prn><itg><mf><sg><nom>$
+^cât/cât<prn><itg><m><sg><nom>/cât<rel><nn><mn><sg><nom>$
+^unii/unul<prn><tn><m><pl><nom>/uni<vblex><ifi><p1><sg>$
+^care/căra<vblex><prs><p3><sg>/căra<vblex><imp><p3><sg>/care<rel><an><mfn><sp><nom>/care<rel><adv>$
+^cel care/cel care<rel><an><mn><sg><nom>$
+^celui care/cel care<rel><an><mn><sg><dg>$
+^căruia/căruia<rel><nn><mn><sg><dg>$
+^fi stăpân pe situație/fi<vblex><inf># stăpân pe situație$
+^sunt stăpân pe situație/fi<vblex><pri><p3><pl># stăpân pe situație$
+^eram stăpân pe situație/fi<vblex><pii><p1><sg># stăpân pe situație$
+^fiu stăpân pe situație/fi<vblex><prs><p1><sg># stăpân pe situație$
+^fii stăpân pe situație/fi<vblex><prs><p2><sg># stăpân pe situație/fi<vblex><imp><p2><sg># stăpân pe situație$
+^fost stăpân pe situație/fi<vblex><pp><mn><sg># stăpân pe situație$
+^fiindu-mă stăpân pe situație/fi<vblex><ger>+mă<prn><enc><p1><mf><sg><nom># stăpân pe situație$
+^fiind stăpân pe situație/fi<vblex><ger># stăpân pe situație$
+^fii-mă stăpân pe situație/fi<vblex><imp><p2><sg>+mă<prn><enc><p1><mf><sg><nom># stăpân pe situație$
+^ne în pericol/ne<vblex><inf># în pericol/ne<vblex><pri><p3><sg># în pericol/ne<vblex><imp><p2><sg># în pericol$
+^n în pericol/ne<vblex><pri><p3><pl># în pericol/ne<vblex><prs><p1><sg># în pericol$
+^nem în pericol/ne<vblex><pri><p1><pl># în pericol/ne<vblex><prs><p1><pl># în pericol/ne<vblex><imp><p1><pl># în pericol$
+^s-o în pericol/ne<vblex><pp><mn><sg>+îl<prn><enc><p3><f><sg><nom># în pericol$
+^se în pericol/ne<vblex><pp><fn><pl># în pericol/ne<vblex><ifi><p3><sg># în pericol$
+^lua adio/lua<vblex><inf># adio/lua<vblex><pii><p3><sg># adio$
+^luați adio/lua<vblex><pp><m><pl># adio/lua<vblex><pri><p2><pl># adio/lua<vblex><pii><p2><pl># adio/lua<vblex><prs><p2><pl># adio/lua<vblex><imp><p2><pl># adio$
+^avea/avea<vbavea><inf>/avea<vblex><inf>/avea<vblex><pii><p3><sg>$
+^am/avea<vblex><pri><p1><sg>/avea<vblex><prs><p1><sg>/avea<vbavea><pri><p1><sg>$
+^au/avea<vblex><pri><p3><pl>/avea<vbavea><pri><p3><pl>$
+^abandonează/abandona<vblex><pri><p3><pl>/abandona<vblex><imp><p2><sg>$
+^abdică/abdica<vblex><pri><p3><pl>/abdica<vblex><ifi><p3><sg>/abdica<vblex><imp><p2><sg>$
+^aboliți/aboli<vblex><pp><m><pl>/aboli<vblex><pri><p2><pl>/aboli<vblex><prs><p2><pl>/aboli<vblex><imp><p2><pl>$
+^absorbi/absorbi<vblex><inf>/absorbi<vblex><pri><p2><sg>/absorbi<vblex><ifi><p3><sg>/absorbi<vblex><prs><p2><sg>/absorbi<vblex><imp><p2><sg>$
+^accede/accede<vblex><inf>/accede<vblex><pri><p3><sg>$
+^achitați/achita<vblex><pp><m><pl>/achita<vblex><pri><p2><pl>/achita<vblex><pii><p2><pl>/achita<vblex><imp><p2><pl>$
+^acoperi/acoperi<vblex><inf>/acoperi<vblex><pri><p2><sg>/acoperi<vblex><ifi><p3><sg>/acoperi<vblex><prs><p2><sg>$
+^adu/aduce<vblex><imp><p2><sg>$
+^alege/alege<vblex><inf>/alege<vblex><pri><p3><sg>/alega<vblex><prs><p3><sg>/alege<vblex><imp><p2><sg>$
+^apropie/apropia<vblex><pri><p3><pl>/apropia<vblex><ifi><p3><sg>/apropia<vblex><prs><p3><sg>/apropia<vblex><imp><p3><sg>$
+^arată/ara<vblex><pp><f><sg>/arăta<vblex><pri><p3><pl>/arăta<vblex><imp><p2><sg>$
+^arate/ara<vblex><pp><fn><pl>/arăta<vblex><prs><p3><sg>/arăta<vblex><imp><p3><sg>$
+^arat-o/ara<vblex><pp><mn><sg>+îl<prn><enc><p3><f><sg><nom>/arăta<vblex><imp><p2><sg>+îl<prn><enc><p3><f><sg><nom>$
+^beau/bea<vblex><pri><p3><pl>/bea<vblex><pii><p3><pl>/bea<vblex><prs><p1><sg>$
+^constat/consta<vblex><pp><mn><sg>/constata<vblex><pri><p1><sg>/constata<vblex><prs><p1><sg>$
+^enumerați/enumera<vblex><pp><m><pl>/enumera<vblex><pri><p2><pl>/enumera<vblex><pii><p2><pl>$
+^fi/fi<vblex><inf>/fi<vbser><inf>$
+^fiind/fi<vblex><ger>/fi<vbser><ger>$
+^este/fi<vblex><pri><p3><sg>/fi<vbser><pri><p3><sg>$
+^era/fi<vblex><pii><p3><sg>/fi<vbser><pii><p3><sg>$
+^fie/fi<vblex><prs><p3><sg>/fi<vbser><prs><p3><sg>/fi<vbser><imp><p3><sg>$
+^fost/fi<vblex><pp><mn><sg>/fi<vbser><pp><mn><sg>$
+^fură/fura<vblex><pri><p3><pl>/fi<vblex><ifi><p3><pl>/fura<vblex><imp><p2><sg>/fi<vbser><ifi><p3><pl>$
+^furăm/fura<vblex><pri><p1><pl>/fura<vblex><prs><p1><pl>/fura<vblex><imp><p1><pl>/fi<vbser><ifi><p1><pl>$
+^putea/putea<vblex><inf>/putea<vblex><pii><p3><sg>/putea<vbmod><inf>/putea<vbmod><pii><p3><sg>$
+^pot/putea<vblex><pri><p3><pl>/putea<vblex><prs><p1><sg>/putea<vbmod><pri><p3><pl>/putea<vbmod><prs><p1><sg>$
+^poți/putea<vblex><pri><p2><sg>/putea<vblex><prs><p2><sg>/putea<vblex><imp><p2><sg>/putea<vbmod><pri><p2><sg>/putea<vbmod><prs><p2><sg>/putea<vbmod><imp><p2><sg>$
+^puteam/putea<vblex><pii><p1><sg>/putea<vbmod><pii><p1><sg>$
+^poată/putea<vblex><prs><p3><sg>/putea<vblex><imp><p3><sg>/putea<vbmod><prs><p3><sg>/putea<vbmod><imp><p3><sg>$
+^putut/putea<vblex><pp><mn><sg>/putea<vbmod><pp><mn><sg>$
+^putut-o/putea<vbmod><pp><mn><sg>/putea<vblex><pp><mn><sg>+îl<prn><enc><p3><f><sg><nom>$
+^/îl<prn><enc><p3><f><sg><nom>$
+^putându-mă/putea<vblex><ger>+mă<prn><enc><p1><mf><sg><nom>/putea<vbmod><ger>+mă<prn><enc><p1><mf><sg><nom>$
+^putând/putea<vblex><ger>/putea<vbmod><ger>$
+^poți-mă/putea<vbmod><imp><p2><sg>/putea<vblex><imp><p2><sg>+mă<prn><enc><p1><mf><sg><nom>$
+^/mă<prn><enc><p1><mf><sg><dg>+îl<prn><enc><p3><mn><sg><nom>$
+^puții/putea<vbmod><ifi><p1><sg>/puți<vblex><ifi><p1><sg>$
+^puți/putea<vbmod><ifi><p3><sg>/puți<vblex><inf>/puți<vblex><pri><p2><sg>/puți<vblex><ifi><p3><sg>/puți<vblex><prs><p2><sg>$
+^plouă/ploua<vblex><pri><p3><sg>/ploua<vblex><ifi><p3><sg>$
+^vor/vrea<vblex><pri><p3><pl>/vrea<vaux><pri><p3><pl>$
+^prădă/prăda<vblex><ifi><p3><sg>/prăda<vblex><imp><p2><sg>$
+^trebui/trebui<vbmod><ifi><p3><sg>/trebui<vbmod><inf>$
+^trebuie/trebui<vbmod><pri><p3><sg>$
+^trebuia/trebui<vbmod><pii><p3><sg>$
+^trebuiască/trebui<vbmod><prs><p3><sg>$
+^trebuit/trebui<vbmod><pp><mn><sg>$
+^trebuindu-mă/trebui<vbmod><ger>+mă<prn><enc><p1><mf><sg><nom>$
+^trebuind/trebui<vbmod><ger>$
+^vei/vrea<vaux><pri><p2><sg>$
+^aș/avea<vbavea><cni><p1><sg>$
+^ești/fi<vbser><pri><p2><sg>$
+^eram/fi<vbser><pii><p1><sg>$
+^fim/fi<vbser><prs><p1><pl>/fi<vbser><imp><p1><pl>$
+^fiindu-mă/fi<vbser><ger>$
+^/se<prn><enc><ref><p3><mfn><sp><nom>$
+^fii-mă/fi<vbser><imp><p2><sg>$
+^și-/și<cnjcoo>/se<prn><pro><ref><p3><mfn><sp><dg>$
+^-/<guio>$
+^./.<sent>$
+^,/,<cm>$
+^(/(<lpar>$
+^)/)<rpar>$
+^¿/¿<lquest>$

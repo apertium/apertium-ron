@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tagger name="romanes">
+<tagger name="romanian">
 <tagset>
   <def-label name="INTNOM" closed="true">
     <tags-item tags="prn.itg.*"/>
@@ -93,51 +93,32 @@
 
  <def-label name="NOMNOMSG">
     <tags-item tags="n.*.sg.nom.*"/>
-    <tags-item tags="n.*.sg.nom"/>
-    <tags-item tags="np.*.sg"/>
     <tags-item tags="np.*.sg.nom.*"/>
-    <tags-item tags="np.loc.*.sg"/>
-    <tags-item tags="n.*.nom.*.sg"/>
   </def-label>
 
  <def-label name="NOMDGSG">
     <tags-item tags="n.*.sg.dg.*"/>
-    <tags-item tags="n.*.sg.dg"/>
-    <tags-item tags="np.*.sg"/>
     <tags-item tags="np.*.sg.dg.*"/>
-    <tags-item tags="n.*.dg.*.sg"/>
   </def-label>
 
 <def-label name="NOMNOMPL">
     <tags-item tags="n.*.pl.nom.*"/>
-    <tags-item tags="n.*.pl.nom"/>
-    <tags-item tags="np.*.pl"/>
     <tags-item tags="np.*.pl.nom.*"/>
-    <tags-item tags="np.loc.*.pl"/>
-    <tags-item tags="n.*.nom.*.pl"/>
   </def-label>
 
  <def-label name="NOMDGPL">
     <tags-item tags="n.*.pl.dg.*"/>
-    <tags-item tags="n.*.pl.dg"/>
-    <tags-item tags="np.*.pl"/>
     <tags-item tags="np.*.pl.dg.*"/>
-    <tags-item tags="n.*.dg.*.pl"/>
   </def-label>
 
 <def-label name="NOMNOMSP">
     <tags-item tags="n.*.sp.nom.*"/>
-    <tags-item tags="n.*.sp.nom"/>
     <tags-item tags="np.*.sp.nom.*"/>
-    <tags-item tags="np.loc.*.sp"/>
-    <tags-item tags="n.*.nom.*.sp"/>
   </def-label>
 
  <def-label name="NOMDGSP">
     <tags-item tags="n.*.sp.dg.*"/>
-    <tags-item tags="n.*.sp.dg"/>
     <tags-item tags="np.*.sp.dg.*"/>
-    <tags-item tags="n.*.dg.*.sp"/>
   </def-label>
 
 <!--  <def-label name="TOPONIM">
@@ -163,6 +144,9 @@
 
   <def-label name="PREP" closed="true">
     <tags-item tags="pr"/>
+  </def-label>
+  <def-label name="PREPGEN" closed="true">
+    <tags-item tags="pr.gen"/>
   </def-label>
 
 <!--  <def-label name="PRNTNNT" closed="true">
@@ -200,10 +184,11 @@
   <def-label name="VLEXPFCI">
     <tags-item tags="vblex.pri.*"/>
     <tags-item tags="vblex.cni.*"/>
-     <tags-item tags="vblex.fti.*"/>
+    <tags-item tags="vblex.fti.*"/>
   </def-label>
   <def-label name="VLEXIPI">
     <tags-item tags="vblex.pii.*"/>
+    <tags-item tags="vblex.ifi.*"/>
     <tags-item tags="vblex.pper.*"/>
   </def-label>
   <def-label name="VLEXSUBJ">
@@ -231,6 +216,7 @@
   </def-label>
   <def-label name="VSERIPI">
     <tags-item tags="vbser.pii.*"/>
+    <tags-item tags="vbser.ifi.*"/>
     <tags-item tags="vbser.pper.*"/>
   </def-label>
   <def-label name="VSERSUBJ">
@@ -1555,6 +1541,13 @@
         <label-item label="VLEXPARTPI"/>
         <label-item label="VMODALPARTPI"/>
         <label-item label="VSERPARTPI"/>
+      </label-set>
+    </enforce-after>
+    <enforce-after label="PREPGEN">
+      <label-set>
+        <label-item label="NOMDGSG"/>
+        <label-item label="NOMDGPL"/>
+        <label-item label="NOMDGSP"/>
       </label-set>
     </enforce-after>
  </enforce-rules>

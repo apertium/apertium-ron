@@ -54,12 +54,13 @@
 ^./.<sent>$
 
 ^Stelele/stea<n><f><pl><nom><def>$
-^„/„<lquot>$
+„
 ^împodobesc/împodobi<vblex><pri><p3><pl>$
-^”/”<rquot>$
+”
 ^cerul/cer<n><nt><sg><nom><def>$
 ^nocturn/nocturn<adj><mn><sg><nom><ind>$
-^./.<sent>$ 
+^./.<sent>$
+
 ^Pentru/pentru<pr>$
 ^un/un<det><ind><mn><sg><nom>$
 ^observator/observator<n><m><sg><nom><ind>$
@@ -82,7 +83,8 @@
 ^fluctuații/fluctuație<n><f><pl><nom><ind>$
 ^de/de<pr>$
 ^luminozitate/luminozitate<n><f><sg><nom><ind>$
-^./.<sent>$ 
+^./.<sent>$
+
 ^Ochiul/ochi<n><m><sg><nom><def>$
 ^uman/uman<adj><mn><sg><nom><ind>$
 ^distinge/distinge<vblex><inf>$
@@ -94,7 +96,8 @@
 ^6.000/6.000<num>$
 ^de/de<pr>$
 ^stele/stea<n><f><pl><nom><ind>$
-^./.<sent>$ 
+^./.<sent>$
+
 ^Distanța/distanța<n><f><sg><nom><def>$
 ^până la/până la<pr>$
 ^stele/stea<n><f><pl><nom><ind>$
@@ -114,8 +117,7 @@
 ^sutelor/*sutelor$
 ^de/de<pr>$
 ^miimi/*miimi$
-^dintr-/dintre<pr>$
-^o/un<det><ind><f><sg><nom>$
+^dintr-o/din<pr>+un<det><ind><f><sg><nom>$
 ^secundă/secundă<n><f><sg><nom><ind>$
 ^de/de<pr>$
 ^arc/arc<n><nt><sg><nom><ind>$
@@ -132,7 +134,8 @@
 ^pe/pe<pr>$
 ^cerul/cer<n><nt><sg><nom><def>$
 ^nopții/noapte<n><f><sg><dg><def>$
-^./.<sent>$ 
+^./.<sent>$
+
 ^Ele/ei<prn><tn><p3><f><pl><nom>$
 ^tremură/tremura<vblex><pri><p3><pl>$
 ^sau/sau<cnjcoo>$
@@ -148,7 +151,8 @@
 ^din/din<pr>$
 ^atmosfera/atmosferă<n><f><sg><nom><def>$
 ^terestră/terestru<adj><f><sg><nom><ind>$
-^./.<sent>$ 
+^./.<sent>$
+
 ^Cea/cel<det><def><f><sg><nom>$
 ^mai/mai<adv>$
 ^cunoscută/cunoscut<adj><f><sg><nom><ind>$
@@ -156,7 +160,8 @@
 ^este/fi<vbser><pri><p3><sg>$
 ^desigur/desigur<adv>$
 ^Soarele/soare<n><m><sg><nom><def>$
-^./.<sent>$ 
+^./.<sent>$
+
 ^El/el<prn><tn><p3><m><sg><nom>$
 ^este/fi<vbser><pri><p3><sg>$
 ^o/un<det><ind><f><sg><nom>$
@@ -203,7 +208,7 @@
 ^și/și<cnjcoo>$
 ^sorții/soartă<n><f><sg><dg><def>$
 ^ei/lui<adj><pos><f><sg><dg><ind>$
-^finale/final<adj><fn><pl><dg><ind>/$
+^finale/final<adj><fn><pl><dg><ind>$
 ^./.<sent>$
 
 ^Stelele/stea<n><f><pl><nom><def>$
@@ -222,10 +227,11 @@
 ^din/din<pr>$
 ^nuclee/nucleu<n><nt><pl><nom><ind>$
 ^de/de<pr>$
-^hidrogen/hidrogen<n><nt><sg><nom><ind>>$
+^hidrogen/hidrogen<n><nt><sg><nom><ind>$
 ^și/și<adv>/și<cnjcoo>$
 ^heliu/heliu<n><nt><sg><nom><ind>$
-^./.<sent>$ 
+^./.<sent>$
+
 ^În/în<pr>$
 ^plasma/plasmă<n><f><sg><nom><def>$
 ^stelară/stelar<adj><f><sg><nom><ind>$
@@ -243,7 +249,8 @@
 ^neon/neon<n><nt><sg><nom><ind>$
 ^și/și<cnjcoo>$
 ^azot/azot<n><nt><sg><nom><ind>$
-^./.<sent>$ 
+^./.<sent>$
+
 ^Stelele/stea<n><f><pl><nom><def>$
 ^emană/emana<vblex><pri><p3><pl>$
 ^și/și<cnjcoo>$
