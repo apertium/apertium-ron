@@ -24,3 +24,10 @@
 /config
 /test/*-output.txt
 /dev/testvoc/duplicates.*.txt
+/tagger-data/ron.tagged
+/tagger-data/ron.tagged.txt
+/tagger-data/ron.untagged
+/tagger-data/ron.dic
+/tagger-data/ron.dic.expanded
+/tagger-data/ron.crp
+/tagger-data/ron.crp.txt
